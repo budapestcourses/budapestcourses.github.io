@@ -4,3 +4,4 @@
 
 layout: home
 ---
+This site provides language-learning resources that may be useful to Witnesses.
