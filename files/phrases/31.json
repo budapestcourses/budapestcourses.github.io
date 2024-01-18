@@ -1,0 +1,3394 @@
+{
+  "5": {
+    "id": "5",
+    "text": "UNIVERSAL SPRÅKGUIDE"
+  },
+  "7": {
+    "id": "7",
+    "text": "Svensk"
+  },
+  "8": {
+    "id": "8",
+    "text": "Swedish | .se"
+  },
+  "11": {
+    "id": "11",
+    "text": "Det här dokumentet är en guide för språkinlärning framtagen för användning endast bland Jehovas vittnen."
+  },
+  "12": {
+    "id": "12",
+    "text": "Innehållet i form av anteckningar, definitioner och annan information kan lätt översättas till de flesta språk. Nya upplagor av den här guiden kan enkelt framställas genom att kombinera två översättningar. Förhoppningen är att materialet ska minska arbetsbördan för de som undervisar i olika språk samt bidra till effektiviteten för vännerna som tjänar på utländska distrikt över hela världen."
+  },
+  "13": {
+    "id": "13",
+    "text": "Den här språkguiden kan cirkulera utan kostnad bland verksamma vittnen. Den kan inte överlåtas eller lånas till andra personer i något som helst format."
+  },
+  "14": {
+    "id": "14",
+    "text": null
+  },
+  "15": {
+    "id": "15",
+    "text": null
+  },
+  "16": {
+    "id": "16",
+    "text": null
+  },
+  "18": {
+    "id": "18",
+    "text": "Notation "
+  },
+  "19": {
+    "id": "19",
+    "text": "Den \"algebraiska\" notationen används för att markera var ytterligare eller förklarande ord kan placeras i den mening som behandlas."
+  },
+  "20": {
+    "id": "20",
+    "text": "Ord som i vissa fall kan vara nödvändiga att lägga till av språkliga skäl. "
+  },
+  "21": {
+    "id": "21",
+    "text": "Ord eller uttryck i en mening som i vissa fall kan vara nödvändiga att ersättas av språkliga skäl."
+  },
+  "22": {
+    "id": "22",
+    "text": "Alternativt ord eller fras som man brukar lägga till det här uttrycket utan att ändra dess betydelse. "
+  },
+  "23": {
+    "id": "23",
+    "text": "Alternativt ord eller fras med vilket man brukar ersätta delar av det här uttrycket utan att ändra dess betydelse. "
+  },
+  "24": {
+    "id": "24",
+    "text": "Semikolon används mellan olika uttryck som har liknande betydelse."
+  },
+  "25": {
+    "id": "25",
+    "text": "Här kan en kompletterande mening läggas till."
+  },
+  "26": {
+    "id": "26",
+    "text": "Förklaring eller exempel som läggs till för att hjälpa läsaren att förstå betydelsen av uttrycket. Den här informationen förekommer endast i ursprungspråket och kan variera från ett språk till ett annat."
+  },
+  "27": {
+    "id": "27",
+    "text": "Klammerparenteser används för att lämna särskild information om målspråket. Några av de symbolerna som förklaras här nedan kan följa med."
+  },
+  "28": {
+    "id": "28",
+    "text": "Det här ordet eller frasen måste användas med försiktighet med tanke på kulturskillnader eller av andra orsaker."
+  },
+  "29": {
+    "id": "29",
+    "text": "Det här är en ungefärlig översättning av ordet eller begreppet."
+  },
+  "30": {
+    "id": "30",
+    "text": "Det här ordet eller meningen används sällan i målspråket."
+  },
+  "31": {
+    "id": "31",
+    "text": "Vi saknar en översättning av det här ordet. "
+  },
+  "32": {
+    "id": "32",
+    "text": "Den här ord- eller frasformen används ofta i en viss region till skillnad från huvuddelen av landet eller territoriet där språket talas (internetbeteckning används för att indikera var, tex. .hk = Hong Kong)"
+  },
+  "33": {
+    "id": "33",
+    "text": "Det här teokratiska uttrycket har för tillfället inte en exakt motsvarighet i sällskapets litteratur på det här språket. (Denna symbol kan bli använd i kombination med andra symboler)."
+  },
+  "34": {
+    "id": "34",
+    "text": "Det här är en noga men preliminär översättning av termen. (Den används endast i teokratiska sammanhang och har fortfarande inte en motsvarighet på målspråket)."
+  },
+  "35": {
+    "id": "35",
+    "text": "Det här ordet används vanligen av vännerna på mötena. (Det används endast i teokratiska sammanhang och har fortfarande inte en motsvarighet i målspråket)."
+  },
+  "37": {
+    "id": "37",
+    "text": "Vokabulär och uttryck"
+  },
+  "38": {
+    "id": "38",
+    "text": "Organisationens struktur"
+  },
+  "39": {
+    "id": "39",
+    "text": "Jehovas vittnen"
+  },
+  "40": {
+    "id": "40",
+    "text": "Jehovas vittnen"
+  },
+  "41": {
+    "id": "41",
+    "text": "ett Jehovas vittne"
+  },
+  "42": {
+    "id": "42",
+    "text": "Bibelforskarna",
+    "annotation": "(: namnet under vilket Jehovas vittnen tidigare var kända)"
+  },
+  "43": {
+    "id": "43",
+    "text": "en broder",
+    "annotation": "(: en andlig broder)"
+  },
+  "44": {
+    "id": "44",
+    "text": "en mogen broder"
+  },
+  "45": {
+    "id": "45",
+    "text": "våra bröder",
+    "annotation": "(: våra andliga bröder)"
+  },
+  "46": {
+    "id": "46",
+    "text": "bland våra andliga bröder"
+  },
+  "47": {
+    "id": "47",
+    "text": "en syster",
+    "annotation": "(: en andlig syster)"
+  },
+  "48": {
+    "id": "48",
+    "text": "kvalificerad syster; mogen syster",
+    "annotation": "(: som kan träda in om det inte finns någon broder)"
+  },
+  "49": {
+    "id": "49",
+    "text": "våra kristna systrar"
+  },
+  "50": {
+    "id": "50",
+    "text": "våra systrar"
+  },
+  "51": {
+    "id": "51",
+    "text": "dina andliga bröder och systrar"
+  },
+  "52": {
+    "id": "52",
+    "text": "De smorda"
+  },
+  "53": {
+    "id": "53",
+    "text": "de som har ett jordiskt hopp"
+  },
+  "54": {
+    "id": "54",
+    "text": "andra får"
+  },
+  "55": {
+    "id": "55",
+    "text": "de som har ett himmelskt hopp"
+  },
+  "56": {
+    "id": "56",
+    "text": "smord"
+  },
+  "57": {
+    "id": "57",
+    "text": "smorda kristna"
+  },
+  "58": {
+    "id": "58",
+    "text": "församlingen av smorda efterföljare på jorden"
+  },
+  "59": {
+    "id": "59",
+    "text": "den trogne och omdömesgille slaven"
+  },
+  "60": {
+    "id": "60",
+    "text": "styrande kretsen"
+  },
+  "61": {
+    "id": "61",
+    "text": "en medlem av den styrande kretsen"
+  },
+  "62": {
+    "id": "62",
+    "text": "Dop"
+  },
+  "63": {
+    "id": "63",
+    "text": "att bli döpt"
+  },
+  "64": {
+    "id": "64",
+    "text": "Jag döptes 2006."
+  },
+  "65": {
+    "id": "65",
+    "text": "att döpa XXX"
+  },
+  "66": {
+    "id": "66",
+    "text": "Johannes döpte Jesus."
+  },
+  "67": {
+    "id": "67",
+    "text": "dop",
+    "annotation": "(: tillfället för dopet)"
+  },
+  "68": {
+    "id": "68",
+    "text": "Han var med när hans studium döptes."
+  },
+  "69": {
+    "id": "69",
+    "text": "förkunnare"
+  },
+  "70": {
+    "id": "70",
+    "text": "odöpt förkunnare"
+  },
+  "71": {
+    "id": "71",
+    "text": "När blev han godkänd som odöpt förkunnare?"
+  },
+  "72": {
+    "id": "72",
+    "text": "döpt förkunnare"
+  },
+  "73": {
+    "id": "73",
+    "text": "oregelbunden förkunnare"
+  },
+  "74": {
+    "id": "74",
+    "text": "overksam förkunnare"
+  },
+  "75": {
+    "id": "75",
+    "text": "Jehovas tjänst"
+  },
+  "76": {
+    "id": "76",
+    "text": "tjänst"
+  },
+  "77": {
+    "id": "77",
+    "text": "vår tjänst för Jehova"
+  },
+  "78": {
+    "id": "78",
+    "text": "heltidstjänst"
+  },
+  "79": {
+    "id": "79",
+    "text": "att tjäna"
+  },
+  "80": {
+    "id": "80",
+    "text": "att tjäna som XXX"
+  },
+  "81": {
+    "id": "81",
+    "text": "att tjäna som äldste"
+  },
+  "82": {
+    "id": "82",
+    "text": "att tjäna som pionjär"
+  },
+  "83": {
+    "id": "83",
+    "text": "Han tjänar som äldste i vår församling."
+  },
+  "84": {
+    "id": "84",
+    "text": "XXX tjänar inte längre som äldste."
+  },
+  "85": {
+    "id": "85",
+    "text": "att tjäna Jehova"
+  },
+  "86": {
+    "id": "86",
+    "text": "tjänare"
+  },
+  "87": {
+    "id": "87",
+    "text": "heltidstjänare"
+  },
+  "88": {
+    "id": "88",
+    "text": "Guds tjänare"
+  },
+  "89": {
+    "id": "89",
+    "text": "frivillig",
+    "annotation": "(: någon som utför frivilligt arbete)"
+  },
+  "90": {
+    "id": "90",
+    "text": "frivillig som arbetar ideellt"
+  },
+  "91": {
+    "id": "91",
+    "text": "Riketssalbygge"
+  },
+  "92": {
+    "id": "92",
+    "text": "katastrofhjälp"
+  },
+  "93": {
+    "id": "93",
+    "text": "behov"
+  },
+  "94": {
+    "id": "94",
+    "text": "att tjäna där behovet är stort"
+  },
+  "95": {
+    "id": "95",
+    "text": "att flytta dit behovet är stort"
+  },
+  "96": {
+    "id": "96",
+    "text": "pionjär"
+  },
+  "97": {
+    "id": "97",
+    "text": "att gå igenom pionjärskolan"
+  },
+  "98": {
+    "id": "98",
+    "text": "reguljär pionjär"
+  },
+  "99": {
+    "id": "99",
+    "text": "hjälppionjär"
+  },
+  "100": {
+    "id": "100",
+    "text": "kontinuerlig hjälppionjär",
+    "annotation": "(: någon som tjänar som hjälppionjär varje månad)"
+  },
+  "101": {
+    "id": "101",
+    "text": "pionjär med särskilt uppdrag"
+  },
+  "102": {
+    "id": "102",
+    "text": "missionär"
+  },
+  "103": {
+    "id": "103",
+    "text": "Ansökan och förordnande"
+  },
+  "104": {
+    "id": "104",
+    "text": "att ansöka om XXX"
+  },
+  "105": {
+    "id": "105",
+    "text": "att ansöka om särskilt tjänst"
+  },
+  "106": {
+    "id": "106",
+    "text": "att ansöka till Gileadskolan"
+  },
+  "107": {
+    "id": "107",
+    "text": "ansökningsblankett"
+  },
+  "108": {
+    "id": "108",
+    "text": "att fylla i en ansökningsblankett"
+  },
+  "109": {
+    "id": "109",
+    "text": "att fylla i en ansökningsblankett om reguljär pionjärtjänst"
+  },
+  "110": {
+    "id": "110",
+    "text": "att lämna in en ansökningsblankett"
+  },
+  "111": {
+    "id": "111",
+    "text": "rekommendation",
+    "annotation": "(: när någon blir rekommenderad)"
+  },
+  "112": {
+    "id": "112",
+    "text": "att bli rekommenderad som äldste"
+  },
+  "113": {
+    "id": "113",
+    "text": "att rekommendera  XXX som äldste"
+  },
+  "114": {
+    "id": "114",
+    "text": "förordnande",
+    "annotation": "(: när någon blir förordnad)"
+  },
+  "115": {
+    "id": "115",
+    "text": "att bli förordnad som XXX"
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX har blivit förordnad som äldste."
+  },
+  "117": {
+    "id": "117",
+    "text": "att förordna XXX som biträdande tjänare"
+  },
+  "118": {
+    "id": "118",
+    "text": "kvalifikation"
+  },
+  "119": {
+    "id": "119",
+    "text": "att överväga [hans] kvalifikationer för att bli odöpt förkunnare"
+  },
+  "120": {
+    "id": "120",
+    "text": "att kvalificera sig för dopet"
+  },
+  "121": {
+    "id": "121",
+    "text": "att kvalificera sig för att bli odöpt förkunnare"
+  },
+  "122": {
+    "id": "122",
+    "text": "Förordnade män"
+  },
+  "123": {
+    "id": "123",
+    "text": "äldste"
+  },
+  "124": {
+    "id": "124",
+    "text": "tillsyningsman"
+  },
+  "125": {
+    "id": "125",
+    "text": "\"gåvor i form av människor\"",
+    "annotation": "(: Ef. 4:8)"
+  },
+  "126": {
+    "id": "126",
+    "text": "biträdande tjänare"
+  },
+  "127": {
+    "id": "127",
+    "text": "äldstekrets"
+  },
+  "128": {
+    "id": "128",
+    "text": "att ha ett möte med äldstekretsen"
+  },
+  "129": {
+    "id": "129",
+    "text": "församlingens tjänstekommité"
+  },
+  "130": {
+    "id": "130",
+    "text": "Den här frågan måste bli godkänd av församlingens tjänstekommité."
+  },
+  "131": {
+    "id": "131",
+    "text": "samordnare för äldstekretsen"
+  },
+  "132": {
+    "id": "132",
+    "text": "församlingens sekreterare"
+  },
+  "133": {
+    "id": "133",
+    "text": "tillsyningsman för tjänsten"
+  },
+  "134": {
+    "id": "134",
+    "text": "Vakttornsstudieledare"
+  },
+  "135": {
+    "id": "135",
+    "text": "tillsyningsman för den teokratiska skolan"
+  },
+  "136": {
+    "id": "136",
+    "text": "biträdande rådgivare"
+  },
+  "137": {
+    "id": "137",
+    "text": "grupptillsyningsman"
+  },
+  "138": {
+    "id": "138",
+    "text": "dömande kommité"
+  },
+  "139": {
+    "id": "139",
+    "text": "att bilda en dömande kommité"
+  },
+  "140": {
+    "id": "140",
+    "text": "andliga herdar"
+  },
+  "141": {
+    "id": "141",
+    "text": "andliga får"
+  },
+  "142": {
+    "id": "142",
+    "text": "herdebesök"
+  },
+  "143": {
+    "id": "143",
+    "text": "att göra ett herdebesök hos XXX"
+  },
+  "144": {
+    "id": "144",
+    "text": "Resande tillsyningsmän"
+  },
+  "145": {
+    "id": "145",
+    "text": "resande tillsyningsman"
+  },
+  "146": {
+    "id": "146",
+    "text": "kretstillsyningsman"
+  },
+  "147": {
+    "id": "147",
+    "text": "krets"
+  },
+  "148": {
+    "id": "148",
+    "text": "vikarierande kretstillsyningsman"
+  },
+  "149": {
+    "id": "149",
+    "text": "att besöka församlingarna"
+  },
+  "150": {
+    "id": "150",
+    "text": "kretstillsyningsmannens besök"
+  },
+  "151": {
+    "id": "151",
+    "text": "områdestillsyningsman"
+  },
+  "152": {
+    "id": "152",
+    "text": "område"
+  },
+  "153": {
+    "id": "153",
+    "text": "zontillsyningsman"
+  },
+  "154": {
+    "id": "154",
+    "text": "Grupper och församlingar"
+  },
+  "155": {
+    "id": "155",
+    "text": "församling",
+    "annotation": "(: den lokala församlingen)"
+  },
+  "156": {
+    "id": "156",
+    "text": "att dela forsamlingen"
+  },
+  "157": {
+    "id": "157",
+    "text": "att bilda en ny församling"
+  },
+  "158": {
+    "id": "158",
+    "text": "den kristna församlingen",
+    "annotation": "(: den världsvida kristna församlingen)"
+  },
+  "159": {
+    "id": "159",
+    "text": "grupp"
+  },
+  "160": {
+    "id": "160",
+    "text": "isolerad grupp"
+  },
+  "161": {
+    "id": "161",
+    "text": "utländsk språkgrupp"
+  },
+  "162": {
+    "id": "162",
+    "text": "Avdelningskontoren"
+  },
+  "163": {
+    "id": "163",
+    "text": "avdelningskontoret"
+  },
+  "164": {
+    "id": "164",
+    "text": "Jehovas vittnens avdelningskontor"
+  },
+  "165": {
+    "id": "165",
+    "text": "samordnaren för avdelningskontoret"
+  },
+  "166": {
+    "id": "166",
+    "text": "avdelningskontorets kommitté"
+  },
+  "167": {
+    "id": "167",
+    "text": "landskommitté"
+  },
+  "168": {
+    "id": "168",
+    "text": "Betel"
+  },
+  "169": {
+    "id": "169",
+    "text": "betelit",
+    "annotation": "(: en person som tjänar vid Betel)"
+  },
+  "170": {
+    "id": "170",
+    "text": "Skulle du vilja besöka Betel?"
+  },
+  "171": {
+    "id": "171",
+    "text": "guidad tur; rundtur"
+  },
+  "172": {
+    "id": "172",
+    "text": "Vår församling ska besöka Betel nästa vecka."
+  },
+  "173": {
+    "id": "173",
+    "text": "Jag ska vara din/er guide."
+  },
+  "174": {
+    "id": "174",
+    "text": "Jag ska visa dig/er runt på avdelningskontoret."
+  },
+  "175": {
+    "id": "175",
+    "text": "tjänsteavdelningen",
+    "annotation": "(: på Betel)"
+  },
+  "176": {
+    "id": "176",
+    "text": "Skriv till tjänsteavdelningen."
+  },
+  "177": {
+    "id": "177",
+    "text": "världshögkvarteret"
+  },
+  "178": {
+    "id": "178",
+    "text": "Uppgifter inom församlingen"
+  },
+  "179": {
+    "id": "179",
+    "text": "mötesvärd"
+  },
+  "180": {
+    "id": "180",
+    "text": "närvarande",
+    "annotation": "(: de som är med på ett möte)"
+  },
+  "181": {
+    "id": "181",
+    "text": "åhörarna",
+    "annotation": "(: de som är närvarande under ett möte)"
+  },
+  "182": {
+    "id": "182",
+    "text": "att räkna närvaroantalet"
+  },
+  "183": {
+    "id": "183",
+    "text": "närvaroantalet",
+    "annotation": "(: antal personer som är närvarande på ett mötet)"
+  },
+  "184": {
+    "id": "184",
+    "text": "Medeltalet närvarande på tjänstemötet var 85 förra året."
+  },
+  "185": {
+    "id": "185",
+    "text": "den som hanterar mikrofonerna"
+  },
+  "186": {
+    "id": "186",
+    "text": "mikrofon"
+  },
+  "187": {
+    "id": "187",
+    "text": "att hantera en mikrofon"
+  },
+  "188": {
+    "id": "188",
+    "text": "att justera mikrofonen"
+  },
+  "189": {
+    "id": "189",
+    "text": "att sätta på mikrofonen"
+  },
+  "190": {
+    "id": "190",
+    "text": "att stänga av mikrofonen"
+  },
+  "191": {
+    "id": "191",
+    "text": "brodern som ansvarar för ljudet"
+  },
+  "192": {
+    "id": "192",
+    "text": "ljudsystem"
+  },
+  "193": {
+    "id": "193",
+    "text": "att sköta ljudet/ljudsystemet"
+  },
+  "194": {
+    "id": "194",
+    "text": "att höja volymen"
+  },
+  "195": {
+    "id": "195",
+    "text": "att sänka volymen"
+  },
+  "196": {
+    "id": "196",
+    "text": "brodern som ansvarar för podiet"
+  },
+  "197": {
+    "id": "197",
+    "text": "podiet"
+  },
+  "198": {
+    "id": "198",
+    "text": "talarstol"
+  },
+  "199": {
+    "id": "199",
+    "text": "att justera talarstolen"
+  },
+  "200": {
+    "id": "200",
+    "text": "brodern som ansvarar för litteraturen"
+  },
+  "201": {
+    "id": "201",
+    "text": "litteraturstånd"
+  },
+  "202": {
+    "id": "202",
+    "text": "att skicka en litteraturbeställning"
+  },
+  "203": {
+    "id": "203",
+    "text": "brodern som ansvarar för tidskrifterna"
+  },
+  "204": {
+    "id": "204",
+    "text": "tidskriftstånd"
+  },
+  "205": {
+    "id": "205",
+    "text": "att hämta ut [sina] tidskrifter"
+  },
+  "206": {
+    "id": "206",
+    "text": "brodern som ansvarar för distrikten"
+  },
+  "207": {
+    "id": "207",
+    "text": "distrikt (för tjänsten på fältet)"
+  },
+  "208": {
+    "id": "208",
+    "text": "distriktskarta"
+  },
+  "209": {
+    "id": "209",
+    "text": "distriktskort"
+  },
+  "210": {
+    "id": "210",
+    "text": "räkenskapstjänare"
+  },
+  "211": {
+    "id": "211",
+    "text": "räkenskaperna"
+  },
+  "212": {
+    "id": "212",
+    "text": "församlingens räkenskaper"
+  },
+  "213": {
+    "id": "213",
+    "text": "att göra i ordning församlingens räkenskaper"
+  },
+  "214": {
+    "id": "214",
+    "text": "att revidera församlingens räkenskaper"
+  },
+  "215": {
+    "id": "215",
+    "text": "bidrag"
+  },
+  "216": {
+    "id": "216",
+    "text": "bidrag till det världsvida verket",
+    "annotation": "(: Matt. 24:14)"
+  },
+  "217": {
+    "id": "217",
+    "text": "bidrag till församlingen"
+  },
+  "218": {
+    "id": "218",
+    "text": "att räkna bidragen"
+  },
+  "219": {
+    "id": "219",
+    "text": "att ge ett bidrag"
+  },
+  "220": {
+    "id": "220",
+    "text": "att bidra till det världsvida verket"
+  },
+  "221": {
+    "id": "221",
+    "text": "bidragsbössa"
+  },
+  "222": {
+    "id": "222",
+    "text": "att lägga ett bidrag i bidragsbössan"
+  },
+  "223": {
+    "id": "223",
+    "text": "Bidragsbössorna är placerade intill dörren."
+  },
+  "225": {
+    "id": "225",
+    "text": "Möten"
+  },
+  "226": {
+    "id": "226",
+    "text": "Mötesplatser (för tillbedjan)"
+  },
+  "227": {
+    "id": "227",
+    "text": "sal"
+  },
+  "228": {
+    "id": "228",
+    "text": "vår mötesplats (för tillbedjan)"
+  },
+  "229": {
+    "id": "229",
+    "text": "byggt av frivilliga arbetare"
+  },
+  "230": {
+    "id": "230",
+    "text": "Rikets sal"
+  },
+  "231": {
+    "id": "231",
+    "text": "snabbyggd Rikets sal"
+  },
+  "232": {
+    "id": "232",
+    "text": "att underhålla Riketssalen"
+  },
+  "233": {
+    "id": "233",
+    "text": "att reparera Riketssalen"
+  },
+  "234": {
+    "id": "234",
+    "text": "att städa Riketssalen"
+  },
+  "235": {
+    "id": "235",
+    "text": "Det är vår tur att städa Riketssalen."
+  },
+  "236": {
+    "id": "236",
+    "text": "sammankomsthall"
+  },
+  "237": {
+    "id": "237",
+    "text": "Mötesnärvaro"
+  },
+  "238": {
+    "id": "238",
+    "text": "möte"
+  },
+  "239": {
+    "id": "239",
+    "text": "att gå på ett möte"
+  },
+  "240": {
+    "id": "240",
+    "text": "att hålla ett möte"
+  },
+  "241": {
+    "id": "241",
+    "text": "att förbereda sig"
+  },
+  "242": {
+    "id": "242",
+    "text": "att förbereda mötet"
+  },
+  "243": {
+    "id": "243",
+    "text": "att förbereda XXX"
+  },
+  "244": {
+    "id": "244",
+    "text": "att förbereda en kommentar"
+  },
+  "245": {
+    "id": "245",
+    "text": "att förbereda ett tal"
+  },
+  "246": {
+    "id": "246",
+    "text": "att umgås med XXX"
+  },
+  "247": {
+    "id": "247",
+    "text": "Vi kan umgås med våra bröder och systrar efter mötet."
+  },
+  "248": {
+    "id": "248",
+    "text": "att uppmuntra XXX"
+  },
+  "249": {
+    "id": "249",
+    "text": "Din kommentar uppmuntrade mig mycket."
+  },
+  "250": {
+    "id": "250",
+    "text": "en uppmuntrande kommentar"
+  },
+  "251": {
+    "id": "251",
+    "text": "församlingens bibelstudium"
+  },
+  "252": {
+    "id": "252",
+    "text": "skolan i teokratisk tjänst; teokratiska skolan"
+  },
+  "253": {
+    "id": "253",
+    "text": "tjänstemötet"
+  },
+  "254": {
+    "id": "254",
+    "text": "möte för tjänst (på fältet)"
+  },
+  "255": {
+    "id": "255",
+    "text": "sammankomst"
+  },
+  "256": {
+    "id": "256",
+    "text": "årliga sammankomster"
+  },
+  "257": {
+    "id": "257",
+    "text": "kretsdag"
+  },
+  "258": {
+    "id": "258",
+    "text": "kretssammankomst"
+  },
+  "259": {
+    "id": "259",
+    "text": "konvent"
+  },
+  "260": {
+    "id": "260",
+    "text": "områdessammankomst"
+  },
+  "261": {
+    "id": "261",
+    "text": "3-dagars områdessammankomst"
+  },
+  "262": {
+    "id": "262",
+    "text": "Mötesprogram"
+  },
+  "263": {
+    "id": "263",
+    "text": "programpunkt",
+    "annotation": "(: en del i ett möte tex. ett tal, ett samtal, osv.)"
+  },
+  "264": {
+    "id": "264",
+    "text": "Jag ska vara med på en programpunkt på mötet nästa vecka."
+  },
+  "265": {
+    "id": "265",
+    "text": "uppgift",
+    "annotation": "(: tex. i den teokratiska skolan)"
+  },
+  "266": {
+    "id": "266",
+    "text": "uppgift nummer 1"
+  },
+  "267": {
+    "id": "267",
+    "text": "att få en uppgift"
+  },
+  "268": {
+    "id": "268",
+    "text": "att genomföra en uppgift"
+  },
+  "269": {
+    "id": "269",
+    "text": "punkt att arbeta på",
+    "annotation": "(: från rådschema i skolboken)"
+  },
+  "270": {
+    "id": "270",
+    "text": "Syster XXX arbetar på punkt nummer 23."
+  },
+  "271": {
+    "id": "271",
+    "text": "tal"
+  },
+  "272": {
+    "id": "272",
+    "text": "ett välutvecklat tal"
+  },
+  "273": {
+    "id": "273",
+    "text": "ett offentligt tal"
+  },
+  "274": {
+    "id": "274",
+    "text": "ett fem-minuters tal"
+  },
+  "275": {
+    "id": "275",
+    "text": "att hålla ett tal"
+  },
+  "276": {
+    "id": "276",
+    "text": "talare"
+  },
+  "277": {
+    "id": "277",
+    "text": "demonstration"
+  },
+  "278": {
+    "id": "278",
+    "text": "Vi ska se en demonstration."
+  },
+  "279": {
+    "id": "279",
+    "text": "att demonstrera XXX",
+    "annotation": "(: att visa  vad som händer eller hur man gör en viss sak)"
+  },
+  "280": {
+    "id": "280",
+    "text": "Syster XXX ska demonstrera/visa hur man kan presentera månadens tidskrifter."
+  },
+  "281": {
+    "id": "281",
+    "text": "Viktiga detaljer (från bibelläsningen)",
+    "annotation": "(: ett tal på 10 minuter i den teokratiska skolan)"
+  },
+  "282": {
+    "id": "282",
+    "text": "Bibelläsning"
+  },
+  "283": {
+    "id": "283",
+    "text": "Församligens behov",
+    "annotation": "(: ett tal om lokala behov)"
+  },
+  "284": {
+    "id": "284",
+    "text": "Frågelådan",
+    "annotation": "(: i Tjänsten för Guds kungarike)"
+  },
+  "285": {
+    "id": "285",
+    "text": "Sång och bön"
+  },
+  "286": {
+    "id": "286",
+    "text": "sång"
+  },
+  "287": {
+    "id": "287",
+    "text": "inledande sång"
+  },
+  "288": {
+    "id": "288",
+    "text": "avslutande sång"
+  },
+  "289": {
+    "id": "289",
+    "text": "Den här sångens titel är…"
+  },
+  "290": {
+    "id": "290",
+    "text": "Sången är baserad på …"
+  },
+  "291": {
+    "id": "291",
+    "text": "Vårt möte börjar med en lovprisningssång till Jehova."
+  },
+  "292": {
+    "id": "292",
+    "text": "Vi ska börja mötet med sång och bön."
+  },
+  "293": {
+    "id": "293",
+    "text": "Den här sången har valts av talaren. Den stämmer överens med talets tema."
+  },
+  "294": {
+    "id": "294",
+    "text": "Den här sången stämmer överens med talets tema."
+  },
+  "295": {
+    "id": "295",
+    "text": "Vi ska avsluta mötet med en sång."
+  },
+  "296": {
+    "id": "296",
+    "text": "sång nummer 20"
+  },
+  "297": {
+    "id": "297",
+    "text": "Vi lyssnar till sång nummer 20."
+  },
+  "298": {
+    "id": "298",
+    "text": "sångbok"
+  },
+  "299": {
+    "id": "299",
+    "text": "Vi öppnar sångboken för att sjunga sång nummer 10."
+  },
+  "300": {
+    "id": "300",
+    "text": "att sjunga en sång"
+  },
+  "301": {
+    "id": "301",
+    "text": "Vi sjunger sång nummer 30."
+  },
+  "302": {
+    "id": "302",
+    "text": "Medan vi sjunger kan vi fundera över sångens budskap."
+  },
+  "303": {
+    "id": "303",
+    "text": "bön"
+  },
+  "304": {
+    "id": "304",
+    "text": "inledande bön"
+  },
+  "305": {
+    "id": "305",
+    "text": "avslutande bön"
+  },
+  "306": {
+    "id": "306",
+    "text": "att be en bön"
+  },
+  "307": {
+    "id": "307",
+    "text": "Broder XXX, skulle du vilja leda i bön?"
+  },
+  "308": {
+    "id": "308",
+    "text": "att be"
+  },
+  "309": {
+    "id": "309",
+    "text": "att be till Jehova"
+  },
+  "310": {
+    "id": "310",
+    "text": "Efter sången ska vi be till Jehova."
+  },
+  "311": {
+    "id": "311",
+    "text": "Pålysningar"
+  },
+  "312": {
+    "id": "312",
+    "text": "pålysningar",
+    "annotation": "(: tex. om möten för tjänst)"
+  },
+  "313": {
+    "id": "313",
+    "text": "Vi har några pålysningar."
+  },
+  "314": {
+    "id": "314",
+    "text": "att pålysa XXX"
+  },
+  "315": {
+    "id": "315",
+    "text": "att pålysa möten för tjänst"
+  },
+  "316": {
+    "id": "316",
+    "text": "Det är glädjande att pålysa att…"
+  },
+  "317": {
+    "id": "317",
+    "text": "Tyvärr måste vi pålysa att …"
+  },
+  "318": {
+    "id": "318",
+    "text": "brev",
+    "annotation": "(: tex. från avdelningskontoret)"
+  },
+  "319": {
+    "id": "319",
+    "text": "Vi har fått ett brev från avdelningskontoret."
+  },
+  "320": {
+    "id": "320",
+    "text": "Vi ska be broder XXX att komma upp på podiet för att läsa ett brev från Sällskapet."
+  },
+  "321": {
+    "id": "321",
+    "text": "resolution"
+  },
+  "322": {
+    "id": "322",
+    "text": "att presentera en resolution"
+  },
+  "323": {
+    "id": "323",
+    "text": "Vi vill presentera följande resolution till församlingen."
+  },
+  "324": {
+    "id": "324",
+    "text": "att rösta"
+  },
+  "325": {
+    "id": "325",
+    "text": "att räcka upp handen",
+    "annotation": "(: när man röstar)"
+  },
+  "326": {
+    "id": "326",
+    "text": "Räck upp handen om du stödjer den här resolutionen."
+  },
+  "327": {
+    "id": "327",
+    "text": "Räck upp handen om du är emot den här resolutionen."
+  },
+  "328": {
+    "id": "328",
+    "text": "Räck upp handen om du lägger ner din röst."
+  },
+  "329": {
+    "id": "329",
+    "text": "Nu kan ni ta ner era händer."
+  },
+  "330": {
+    "id": "330",
+    "text": "Ni kanske vill göra några anteckningar."
+  },
+  "331": {
+    "id": "331",
+    "text": "Ni kan lämna era rapporter till er grupptillsyningsman."
+  },
+  "332": {
+    "id": "332",
+    "text": "Grupp 2  har städningen av Riketssalen denna vecka."
+  },
+  "333": {
+    "id": "333",
+    "text": "Vi har möte för tjänst på lördag kl. 11 hos syster XXX."
+  },
+  "334": {
+    "id": "334",
+    "text": "Vi kommer att ha anordningar för tjänst 5 minuter efter mötets slut."
+  },
+  "335": {
+    "id": "335",
+    "text": "Mötet för tjänst ska hållas i sal två."
+  },
+  "336": {
+    "id": "336",
+    "text": "Broder XXX ska leda mötet för tjänst."
+  },
+  "337": {
+    "id": "337",
+    "text": "Vi ska göra några pålysningar angående vår kommande områdessammankomst."
+  },
+  "338": {
+    "id": "338",
+    "text": "Vår områdessamankomst ska hållas i …"
+  },
+  "339": {
+    "id": "339",
+    "text": "Platsen för områdessammankomsten är…"
+  },
+  "340": {
+    "id": "340",
+    "text": "Sammankomstprogrammet börjar 9:50."
+  },
+  "341": {
+    "id": "341",
+    "text": "Sammankomstprogrammet slutar 15:45."
+  },
+  "342": {
+    "id": "342",
+    "text": "Om du vill boka en plats i bussen kontakta broder XXX."
+  },
+  "343": {
+    "id": "343",
+    "text": "Syster XXX dog den 12 mars."
+  },
+  "344": {
+    "id": "344",
+    "text": "Begravningstalet ska hållas i Riketssalen nästa tisdag."
+  },
+  "345": {
+    "id": "345",
+    "text": "XXX är inte längre ett Jehovas vittne."
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX är inte längre ett Jehovas vittne."
+  },
+  "347": {
+    "id": "347",
+    "text": "Välkomnande och introduktion"
+  },
+  "348": {
+    "id": "348",
+    "text": "ordförande",
+    "annotation": "(: en broder som introducerar talaren vid offentliga möten och sammankomster)"
+  },
+  "349": {
+    "id": "349",
+    "text": "att introducera nästa tal"
+  },
+  "350": {
+    "id": "350",
+    "text": "att applådera",
+    "annotation": "(: att klappa händerna efter ett tal, etc.)"
+  },
+  "351": {
+    "id": "351",
+    "text": "applåd"
+  },
+  "352": {
+    "id": "352",
+    "text": "Applåden visar att åhörarna uppskattade talet."
+  },
+  "353": {
+    "id": "353",
+    "text": "Vårt möte ska börja om två minuter."
+  },
+  "354": {
+    "id": "354",
+    "text": "Välkomna!"
+  },
+  "355": {
+    "id": "355",
+    "text": "Vi välkomnar er till det här kvällsmötet."
+  },
+  "356": {
+    "id": "356",
+    "text": "Välkomna vänner."
+  },
+  "357": {
+    "id": "357",
+    "text": "Välkomna till det här kvällsmötet."
+  },
+  "358": {
+    "id": "358",
+    "text": "Var så goda och sök era platser."
+  },
+  "359": {
+    "id": "359",
+    "text": "Var så goda och sitt."
+  },
+  "360": {
+    "id": "360",
+    "text": "Var så goda och sitt ner."
+  },
+  "361": {
+    "id": "361",
+    "text": "Var så goda och stå upp, de som kan."
+  },
+  "362": {
+    "id": "362",
+    "text": "Nu ska vi ha 10 minuters paus. Var vänliga att vara tillbaka på era platser 15:15."
+  },
+  "363": {
+    "id": "363",
+    "text": "Kvällens möte består av två delar."
+  },
+  "364": {
+    "id": "364",
+    "text": "Nästa del av vårt möte är ett bibelstudium med ledning av Vakttornet."
+  },
+  "365": {
+    "id": "365",
+    "text": "Jag skulle vilja be broder XXX att komma upp på podiet."
+  },
+  "366": {
+    "id": "366",
+    "text": "Vi lyssnar med intresse på honom."
+  },
+  "367": {
+    "id": "367",
+    "text": "Broder XXX ska leda den här punkten."
+  },
+  "368": {
+    "id": "368",
+    "text": "Nu ska broder XXX leda församlingens bibelsstudium."
+  },
+  "369": {
+    "id": "369",
+    "text": "Broder XXX ska läsa kapitel 5 vers 12 till 25."
+  },
+  "370": {
+    "id": "370",
+    "text": "Systern XXX ska visa hur man använder det andra förslaget  i \"Tjänsten för Guds kungarike\"."
+  },
+  "371": {
+    "id": "371",
+    "text": "Nu ska vi lyssna på när två systrar behandlar följande ämne: \"…\""
+  },
+  "372": {
+    "id": "372",
+    "text": "Syster XXX ska leda samtalet."
+  },
+  "373": {
+    "id": "373",
+    "text": "Hennes medhjälpare är syster YYY"
+  },
+  "374": {
+    "id": "374",
+    "text": "Syster YYY ska vara den besökte."
+  },
+  "375": {
+    "id": "375",
+    "text": "Samtalssituationen för den här uppgiften är …"
+  },
+  "376": {
+    "id": "376",
+    "text": "Vi är glada att ha en gästande talare som kommer att föreläsa för oss."
+  },
+  "377": {
+    "id": "377",
+    "text": "Broder XXX från YYY församling kommer att hålla ett tal för oss."
+  },
+  "378": {
+    "id": "378",
+    "text": "Ämnet för hans tal är …"
+  },
+  "379": {
+    "id": "379",
+    "text": "Broder XXX, tack för din presentation av det här ämnet."
+  },
+  "380": {
+    "id": "380",
+    "text": "De 75 närvarande lyssnade med intresse på ditt tal."
+  },
+  "381": {
+    "id": "381",
+    "text": "Vi är mycket glada att ha vår kretstillsyningsman och hans hustru på besök denna vecka."
+  },
+  "382": {
+    "id": "382",
+    "text": "Temat för kretstillsyningsmannens första tjänstetal är …"
+  },
+  "383": {
+    "id": "383",
+    "text": "Jag har hälsningar från Betelfamiljen i XXX."
+  },
+  "384": {
+    "id": "384",
+    "text": "Kan jag ta med mig hälsningar till XXX församling?"
+  },
+  "386": {
+    "id": "386",
+    "text": "Undervisningsformer"
+  },
+  "387": {
+    "id": "387",
+    "text": "Bibelns böcker"
+  },
+  "388": {
+    "id": "388",
+    "text": "De hebreiska skrifterna"
+  },
+  "389": {
+    "id": "389",
+    "text": "Första Moseboken"
+  },
+  "390": {
+    "id": "390",
+    "text": "Andra Moseboken"
+  },
+  "391": {
+    "id": "391",
+    "text": "Tredje Moseboken"
+  },
+  "392": {
+    "id": "392",
+    "text": "Fjärde Moseboken"
+  },
+  "393": {
+    "id": "393",
+    "text": "Femte Moseboken"
+  },
+  "394": {
+    "id": "394",
+    "text": "Josua"
+  },
+  "395": {
+    "id": "395",
+    "text": "Domarboken"
+  },
+  "396": {
+    "id": "396",
+    "text": "Rut"
+  },
+  "397": {
+    "id": "397",
+    "text": "Första Samuelsboken"
+  },
+  "398": {
+    "id": "398",
+    "text": "Andra Samuelsboken"
+  },
+  "399": {
+    "id": "399",
+    "text": "Första Kungaboken"
+  },
+  "400": {
+    "id": "400",
+    "text": "Andra Kungaboken"
+  },
+  "401": {
+    "id": "401",
+    "text": "Första Krönikeboken"
+  },
+  "402": {
+    "id": "402",
+    "text": "Andra Krönikeboken"
+  },
+  "403": {
+    "id": "403",
+    "text": "Esra"
+  },
+  "404": {
+    "id": "404",
+    "text": "Nehemja"
+  },
+  "405": {
+    "id": "405",
+    "text": "Ester"
+  },
+  "406": {
+    "id": "406",
+    "text": "Job"
+  },
+  "407": {
+    "id": "407",
+    "text": "Psalmerna"
+  },
+  "408": {
+    "id": "408",
+    "text": "Ordspråksboken"
+  },
+  "409": {
+    "id": "409",
+    "text": "Predikaren"
+  },
+  "410": {
+    "id": "410",
+    "text": "Höga visan"
+  },
+  "411": {
+    "id": "411",
+    "text": "Jesaja"
+  },
+  "412": {
+    "id": "412",
+    "text": "Jeremia"
+  },
+  "413": {
+    "id": "413",
+    "text": "Klagovisorna"
+  },
+  "414": {
+    "id": "414",
+    "text": "Hesekiel"
+  },
+  "415": {
+    "id": "415",
+    "text": "Daniel"
+  },
+  "416": {
+    "id": "416",
+    "text": "Hosea"
+  },
+  "417": {
+    "id": "417",
+    "text": "Joel"
+  },
+  "418": {
+    "id": "418",
+    "text": "Amos"
+  },
+  "419": {
+    "id": "419",
+    "text": "Obadja"
+  },
+  "420": {
+    "id": "420",
+    "text": "Jona"
+  },
+  "421": {
+    "id": "421",
+    "text": "Mika"
+  },
+  "422": {
+    "id": "422",
+    "text": "Nahum"
+  },
+  "423": {
+    "id": "423",
+    "text": "Habackuk"
+  },
+  "424": {
+    "id": "424",
+    "text": "Sefanja"
+  },
+  "425": {
+    "id": "425",
+    "text": "Haggaj"
+  },
+  "426": {
+    "id": "426",
+    "text": "Sakarja"
+  },
+  "427": {
+    "id": "427",
+    "text": "Malaki"
+  },
+  "428": {
+    "id": "428",
+    "text": "De (kristna) grekiska skrifterna"
+  },
+  "429": {
+    "id": "429",
+    "text": "Matteus"
+  },
+  "430": {
+    "id": "430",
+    "text": "Markus"
+  },
+  "431": {
+    "id": "431",
+    "text": "Lukas"
+  },
+  "432": {
+    "id": "432",
+    "text": "Johannes"
+  },
+  "433": {
+    "id": "433",
+    "text": "Apostlagärningarna"
+  },
+  "434": {
+    "id": "434",
+    "text": "Romarna"
+  },
+  "435": {
+    "id": "435",
+    "text": "Första Korinthierna"
+  },
+  "436": {
+    "id": "436",
+    "text": "Andra Korinthierna"
+  },
+  "437": {
+    "id": "437",
+    "text": "Galaterna"
+  },
+  "438": {
+    "id": "438",
+    "text": "Efesierna"
+  },
+  "439": {
+    "id": "439",
+    "text": "Filipperna"
+  },
+  "440": {
+    "id": "440",
+    "text": "Kolosserna"
+  },
+  "441": {
+    "id": "441",
+    "text": "Första Thessalonikerna"
+  },
+  "442": {
+    "id": "442",
+    "text": "Andra Thessalonikerna"
+  },
+  "443": {
+    "id": "443",
+    "text": "Första Timoteus"
+  },
+  "444": {
+    "id": "444",
+    "text": "Andra Timoteus"
+  },
+  "445": {
+    "id": "445",
+    "text": "Titus"
+  },
+  "446": {
+    "id": "446",
+    "text": "Filemon"
+  },
+  "447": {
+    "id": "447",
+    "text": "Hebréerna"
+  },
+  "448": {
+    "id": "448",
+    "text": "Jakob"
+  },
+  "449": {
+    "id": "449",
+    "text": "Första Petrus"
+  },
+  "450": {
+    "id": "450",
+    "text": "Andra Petrus"
+  },
+  "451": {
+    "id": "451",
+    "text": "Första Johannes"
+  },
+  "452": {
+    "id": "452",
+    "text": "Andra Johannes"
+  },
+  "453": {
+    "id": "453",
+    "text": "Tredje Johannes"
+  },
+  "454": {
+    "id": "454",
+    "text": "Judas"
+  },
+  "455": {
+    "id": "455",
+    "text": "Uppenbarelseboken"
+  },
+  "456": {
+    "id": "456",
+    "text": "Användning av Bibeln"
+  },
+  "457": {
+    "id": "457",
+    "text": "Bibeln"
+  },
+  "458": {
+    "id": "458",
+    "text": "Låt oss slå upp i våra  Biblar."
+  },
+  "459": {
+    "id": "459",
+    "text": "Låt oss slå upp i våra Biblar Jeremia 10:23."
+  },
+  "460": {
+    "id": "460",
+    "text": "berättelse"
+  },
+  "461": {
+    "id": "461",
+    "text": "Låt oss slå upp den här berättelsen i Bibeln."
+  },
+  "462": {
+    "id": "462",
+    "text": "text; vers"
+  },
+  "463": {
+    "id": "463",
+    "text": "Vad säger oss den här versen om…?"
+  },
+  "464": {
+    "id": "464",
+    "text": "Vad avslöjar den här versen om…?"
+  },
+  "465": {
+    "id": "465",
+    "text": "Vilket samband har den här texten med … ?"
+  },
+  "466": {
+    "id": "466",
+    "text": "Vad betyder den här texten?"
+  },
+  "467": {
+    "id": "467",
+    "text": "Skulle ni vilja kommentera den här texten?"
+  },
+  "468": {
+    "id": "468",
+    "text": "Skulle ni vilja förklara den här texten?"
+  },
+  "469": {
+    "id": "469",
+    "text": "Vilken lärdom hämtar vi från den här texten?"
+  },
+  "470": {
+    "id": "470",
+    "text": "Matteus kapitel sju, vers tolv."
+  },
+  "471": {
+    "id": "471",
+    "text": "Matteus kapitel fem, vers tjugotre och tjugofyra."
+  },
+  "472": {
+    "id": "472",
+    "text": "Första Johannes kapitel två, vers femton till sjutton"
+  },
+  "473": {
+    "id": "473",
+    "text": "Den trettiosjunde Psalmen vers elva; vers elva i den tretiosjunde Psalmen"
+  },
+  "474": {
+    "id": "474",
+    "text": "Studiematerial"
+  },
+  "475": {
+    "id": "475",
+    "text": "sida"
+  },
+  "476": {
+    "id": "476",
+    "text": "Kan ni slå upp era tidskrifter (vid artikeln) på sidan 20?"
+  },
+  "477": {
+    "id": "477",
+    "text": "Kan ni gå till sidan 45 i det här studiematerialet?"
+  },
+  "478": {
+    "id": "478",
+    "text": "Vi ska gå till sidan 10."
+  },
+  "479": {
+    "id": "479",
+    "text": "artikel"
+  },
+  "480": {
+    "id": "480",
+    "text": "en artikelserie",
+    "annotation": "(: tex. i Vakttornet)"
+  },
+  "481": {
+    "id": "481",
+    "text": "Denna vecka ska vi se på den första artikeln i en serie av tre."
+  },
+  "482": {
+    "id": "482",
+    "text": "tema"
+  },
+  "483": {
+    "id": "483",
+    "text": "temavers"
+  },
+  "484": {
+    "id": "484",
+    "text": "rubrik"
+  },
+  "485": {
+    "id": "485",
+    "text": "underrubrik"
+  },
+  "486": {
+    "id": "486",
+    "text": "paragraf"
+  },
+  "487": {
+    "id": "487",
+    "text": "förra paragrafen; föregående paragrafen"
+  },
+  "488": {
+    "id": "488",
+    "text": "nästa paragrafen; följande paragrafen"
+  },
+  "489": {
+    "id": "489",
+    "text": "de två följande paragraferna"
+  },
+  "490": {
+    "id": "490",
+    "text": "Vi ska läsa de två följande paragraferna."
+  },
+  "491": {
+    "id": "491",
+    "text": "ord"
+  },
+  "492": {
+    "id": "492",
+    "text": "ord i fetstil"
+  },
+  "493": {
+    "id": "493",
+    "text": "kursiverade ord"
+  },
+  "494": {
+    "id": "494",
+    "text": "fotnot"
+  },
+  "495": {
+    "id": "495",
+    "text": "appendix; tillägg"
+  },
+  "496": {
+    "id": "496",
+    "text": "ruta"
+  },
+  "497": {
+    "id": "497",
+    "text": "bild"
+  },
+  "498": {
+    "id": "498",
+    "text": "Barn, vad heter mannen som vi ser på bilden?"
+  },
+  "499": {
+    "id": "499",
+    "text": "bildtext"
+  },
+  "500": {
+    "id": "500",
+    "text": "Genomgång"
+  },
+  "501": {
+    "id": "501",
+    "text": "svar"
+  },
+  "502": {
+    "id": "502",
+    "text": "att ge en kommentar; att svara på en fråga"
+  },
+  "503": {
+    "id": "503",
+    "text": "fråga",
+    "annotation": "(: sustantiv)"
+  },
+  "504": {
+    "id": "504",
+    "text": "inledande frågor (: tex. i boken \"Vad lär Bibeln?\""
+  },
+  "505": {
+    "id": "505",
+    "text": "repetitionsfrågor",
+    "annotation": "(: tex. i Vakttornstudiet)"
+  },
+  "506": {
+    "id": "506",
+    "text": "att ställa en fråga"
+  },
+  "507": {
+    "id": "507",
+    "text": "att svara på en fråga; att besvara en fråga"
+  },
+  "508": {
+    "id": "508",
+    "text": "kommentar"
+  },
+  "509": {
+    "id": "509",
+    "text": "att ge en kommentar"
+  },
+  "510": {
+    "id": "510",
+    "text": "Kan du översätta hans kommentar?"
+  },
+  "511": {
+    "id": "511",
+    "text": "Några fler kommentarer?"
+  },
+  "512": {
+    "id": "512",
+    "text": "Begränsa (längden av) era kommentarer till 30 sekunder."
+  },
+  "513": {
+    "id": "513",
+    "text": "att kommentera"
+  },
+  "514": {
+    "id": "514",
+    "text": "Har ni några kommentarer till den här veckans bibelläsning?"
+  },
+  "515": {
+    "id": "515",
+    "text": "att kommentera bilden"
+  },
+  "516": {
+    "id": "516",
+    "text": "genomgång; resonemang"
+  },
+  "517": {
+    "id": "517",
+    "text": "genomgång med hjälp av frågor och svar"
+  },
+  "518": {
+    "id": "518",
+    "text": "att gå igenom; att resonera; att analysera"
+  },
+  "519": {
+    "id": "519",
+    "text": "att gå igenom dagens text"
+  },
+  "520": {
+    "id": "520",
+    "text": "Nu ska vi gå igenom den här artikeln tillsammans."
+  },
+  "521": {
+    "id": "521",
+    "text": "att leda (en punkt med frågor och svar)"
+  },
+  "522": {
+    "id": "522",
+    "text": "Tack ska du ha broder XXX för att du ledde den här punkten."
+  },
+  "523": {
+    "id": "523",
+    "text": "ledare"
+  },
+  "524": {
+    "id": "524",
+    "text": "Vakttornstudieledare"
+  },
+  "525": {
+    "id": "525",
+    "text": "att gå igenom",
+    "annotation": "(: i syfte att granska något)"
+  },
+  "526": {
+    "id": "526",
+    "text": "Nu ska vi gå igenom en viktig fråga."
+  },
+  "527": {
+    "id": "527",
+    "text": "att läsa",
+    "annotation": "(: med hög röst, tex. under ett möte)"
+  },
+  "528": {
+    "id": "528",
+    "text": "Vem vill läsa paragraf 2?"
+  },
+  "529": {
+    "id": "529",
+    "text": "Vill du läsa paragraf 2?"
+  },
+  "530": {
+    "id": "530",
+    "text": "Tack broder XXX för din läsning."
+  },
+  "531": {
+    "id": "531",
+    "text": "att repetera"
+  },
+  "532": {
+    "id": "532",
+    "text": "Nu ska vi repetera huvudpunkterna i den här artikeln."
+  },
+  "533": {
+    "id": "533",
+    "text": "huvudpunkt"
+  },
+  "534": {
+    "id": "534",
+    "text": "Vilka är huvudpunkterna som vi har lärt oss från veckans material?"
+  },
+  "535": {
+    "id": "535",
+    "text": "att tillämpa XXX på YYY"
+  },
+  "536": {
+    "id": "536",
+    "text": "Hur kan vi tillämpa detta på…?"
+  },
+  "537": {
+    "id": "537",
+    "text": "Hur kan vi tillämpa detta i vår tjänst?"
+  },
+  "538": {
+    "id": "538",
+    "text": "att sammanfatta XXX"
+  },
+  "539": {
+    "id": "539",
+    "text": "Hur kan vi sammanfatta de här paragraferna?"
+  },
+  "540": {
+    "id": "540",
+    "text": "Vänner",
+    "annotation": "(: när man kallar på uppmärksamhet, eller när man börjar prata till åhörarna)"
+  },
+  "541": {
+    "id": "541",
+    "text": "Broder XXX",
+    "annotation": "(: för att lämna ordet till någon som ska kommentera under mötet)"
+  },
+  "542": {
+    "id": "542",
+    "text": "Syster XXX",
+    "annotation": "(: för att lämna ordet till någon som ska kommentera under mötet)"
+  },
+  "543": {
+    "id": "543",
+    "text": "Räck upp handen."
+  },
+  "544": {
+    "id": "544",
+    "text": "Vänta på mikrofonen."
+  },
+  "545": {
+    "id": "545",
+    "text": "Sätt på mikrofonen."
+  },
+  "546": {
+    "id": "546",
+    "text": "Var snäll och håll mikrofonen rätt."
+  },
+  "547": {
+    "id": "547",
+    "text": "Mycket bra!",
+    "annotation": "(: Det kan du säga när någon har haft ett bra tal eller gjort en bra kommentar, m.m.)"
+  },
+  "548": {
+    "id": "548",
+    "text": "Ord som betecknar sekvens"
+  },
+  "549": {
+    "id": "549",
+    "text": "Nu; Nästa … (/ Följande …)"
+  },
+  "550": {
+    "id": "550",
+    "text": "Nu ska vi läsa paragraf 3."
+  },
+  "551": {
+    "id": "551",
+    "text": "Nu ska vi gå igenom …"
+  },
+  "552": {
+    "id": "552",
+    "text": "Nu ska vi ta upp följande fråga."
+  },
+  "553": {
+    "id": "553",
+    "text": "Nu ska vi gå igenom följande situation."
+  },
+  "554": {
+    "id": "554",
+    "text": "Nu ska vi gå igenom följande ämne."
+  },
+  "555": {
+    "id": "555",
+    "text": "Först …"
+  },
+  "556": {
+    "id": "556",
+    "text": "Senare …"
+  },
+  "557": {
+    "id": "557",
+    "text": "Slutligen …"
+  },
+  "558": {
+    "id": "558",
+    "text": "förra veckan"
+  },
+  "559": {
+    "id": "559",
+    "text": "den här veckan"
+  },
+  "560": {
+    "id": "560",
+    "text": "Den här veckan ska vi gå igenom paragraferna 10 till 18."
+  },
+  "561": {
+    "id": "561",
+    "text": "Läsaren den här veckan är broder XXX."
+  },
+  "562": {
+    "id": "562",
+    "text": "nästa vecka"
+  },
+  "563": {
+    "id": "563",
+    "text": "Vad ska vi gå igenom nästa vecka?"
+  },
+  "564": {
+    "id": "564",
+    "text": "sista gången"
+  },
+  "565": {
+    "id": "565",
+    "text": "nästa gång"
+  },
+  "566": {
+    "id": "566",
+    "text": "Vi får fortsätta."
+  },
+  "567": {
+    "id": "567",
+    "text": "Jag tror att vi går över tiden."
+  },
+  "568": {
+    "id": "568",
+    "text": "Tiden rinner ut, så vi ska gå vidare."
+  },
+  "569": {
+    "id": "569",
+    "text": "Detta är allt vi hinner med."
+  },
+  "570": {
+    "id": "570",
+    "text": "Vi måste sluta här."
+  },
+  "572": {
+    "id": "572",
+    "text": "Vittnande"
+  },
+  "573": {
+    "id": "573",
+    "text": "Tjänst på fältet"
+  },
+  "574": {
+    "id": "574",
+    "text": "tjänst på fältet"
+  },
+  "575": {
+    "id": "575",
+    "text": "att gå (ut) i tjänsten med XXX"
+  },
+  "576": {
+    "id": "576",
+    "text": "När kan vi gå ut i tjänsten tillsammans?"
+  },
+  "577": {
+    "id": "577",
+    "text": "predikande"
+  },
+  "578": {
+    "id": "578",
+    "text": "predikoverket"
+  },
+  "579": {
+    "id": "579",
+    "text": "att predika; att förkunna"
+  },
+  "580": {
+    "id": "580",
+    "text": "att predika för XXX; att förkunna för XXX"
+  },
+  "581": {
+    "id": "581",
+    "text": "att vittna för XXX"
+  },
+  "582": {
+    "id": "582",
+    "text": "att ge ett vittnesbörd för XXX"
+  },
+  "583": {
+    "id": "583",
+    "text": "vittnande"
+  },
+  "584": {
+    "id": "584",
+    "text": "tjänsten från hus till hus"
+  },
+  "585": {
+    "id": "585",
+    "text": "gatutjänst"
+  },
+  "586": {
+    "id": "586",
+    "text": "informellt vittnande"
+  },
+  "587": {
+    "id": "587",
+    "text": "tjänst på affärsdistrikt"
+  },
+  "588": {
+    "id": "588",
+    "text": "återbesök"
+  },
+  "589": {
+    "id": "589",
+    "text": "Vill du följa med till ett återbesök imorgon?"
+  },
+  "590": {
+    "id": "590",
+    "text": "att göra ett återbesök"
+  },
+  "591": {
+    "id": "591",
+    "text": "bibelstudium"
+  },
+  "592": {
+    "id": "592",
+    "text": "att starta ett bibelstudium"
+  },
+  "593": {
+    "id": "593",
+    "text": "att leda ett bibelstudium"
+  },
+  "594": {
+    "id": "594",
+    "text": "Nästa vecka har jag ett bibelstudium. Vill du följa med?"
+  },
+  "595": {
+    "id": "595",
+    "text": "någon som undervisar i Bibeln"
+  },
+  "596": {
+    "id": "596",
+    "text": "någon som studerar Bibeln"
+  },
+  "597": {
+    "id": "597",
+    "text": "person som är intresserad",
+    "annotation": "(: av sanningen)"
+  },
+  "598": {
+    "id": "598",
+    "text": "att följa upp intresse",
+    "annotation": "(: att gå tillbaka till människor som har visat intresse)"
+  },
+  "599": {
+    "id": "599",
+    "text": "tid i tjänsten"
+  },
+  "600": {
+    "id": "600",
+    "text": "Han rapporterade 14 timmar i tjänsten förra månaden."
+  },
+  "601": {
+    "id": "601",
+    "text": "Han rapporterade 14 timmar och 1 bibelstudium förra månaden."
+  },
+  "602": {
+    "id": "602",
+    "text": "presentation; inledning"
+  },
+  "603": {
+    "id": "603",
+    "text": "Har du en bra presentation för tjänsten (på fältet)?"
+  },
+  "604": {
+    "id": "604",
+    "text": "erfarenhet",
+    "annotation": "(: tex. något som har hänt i tjänsten)"
+  },
+  "605": {
+    "id": "605",
+    "text": "Hade ni några intressanta erfarenheter i tjänsten förra månaden?"
+  },
+  "606": {
+    "id": "606",
+    "text": "Broder XXX ska nu berätta en intressant erfarenhet för oss."
+  },
+  "607": {
+    "id": "607",
+    "text": "Tjänsten för Guds kungarike"
+  },
+  "608": {
+    "id": "608",
+    "text": "bilaga"
+  },
+  "609": {
+    "id": "609",
+    "text": "Ta med er bilagan för Tjänsten för Guds kungarike för december 2006 till nästa möte för tjänst."
+  },
+  "610": {
+    "id": "610",
+    "text": "erbjudande",
+    "annotation": "(: en publikation som erbjuds i tjänsten under en viss period)"
+  },
+  "611": {
+    "id": "611",
+    "text": "Vilket är månadens erbjudande?"
+  },
+  "612": {
+    "id": "612",
+    "text": "Vilket litteraturerbjudande har vi denna månad?"
+  },
+  "613": {
+    "id": "613",
+    "text": "kampanj",
+    "annotation": "(: en verksamhets period under vilken en särskild traktat erbjuds allmänt)"
+  },
+  "614": {
+    "id": "614",
+    "text": "När börjar kampanjen?"
+  },
+  "615": {
+    "id": "615",
+    "text": "samarbetspartner",
+    "annotation": "(: tex. i tjänsten)"
+  },
+  "616": {
+    "id": "616",
+    "text": "Är det någon som inte har samarbete?"
+  },
+  "617": {
+    "id": "617",
+    "text": "Broder XXX, du kan arbeta med broder YYY."
+  },
+  "618": {
+    "id": "618",
+    "text": "Är det någon som behöver skjuts?",
+    "annotation": "(: Är det någon som behöver hjälp för att ta sig till distriktet?)"
+  },
+  "619": {
+    "id": "619",
+    "text": "distrikt (för tjänsten på fältet)"
+  },
+  "620": {
+    "id": "620",
+    "text": "Är det någon som behöver distrikt?"
+  },
+  "621": {
+    "id": "621",
+    "text": "Är det några problem?"
+  },
+  "622": {
+    "id": "622",
+    "text": "Några frågor?"
+  },
+  "623": {
+    "id": "623",
+    "text": "Nu ska vi gå!",
+    "annotation": "(: Nu ska vi gå ut i tjänsten tillsammans.)"
+  },
+  "624": {
+    "id": "624",
+    "text": "Inledningar"
+  },
+  "625": {
+    "id": "625",
+    "text": "Hej. Jag heter XXX."
+  },
+  "626": {
+    "id": "626",
+    "text": "Ursäkta mig.",
+    "annotation": "(: ett artigt sätt att påkalla någons uppmärksamhet)"
+  },
+  "627": {
+    "id": "627",
+    "text": "Jag håller på att lära mig XXX. (XXX är ett språk)"
+  },
+  "628": {
+    "id": "628",
+    "text": "Pratar du XXX?",
+    "annotation": "(: XXX är ett språk)"
+  },
+  "629": {
+    "id": "629",
+    "text": "Jag söker människor som talar XXX.",
+    "annotation": "(: XXX är ett språk)"
+  },
+  "630": {
+    "id": "630",
+    "text": "Trevligt att träffa dig hemma."
+  },
+  "631": {
+    "id": "631",
+    "text": "Trevligt att se dig igen."
+  },
+  "632": {
+    "id": "632",
+    "text": "Vad bra att jag kan prata med dig igen."
+  },
+  "633": {
+    "id": "633",
+    "text": "Ursäkta om jag har ringt på vid ett olämpligt tillfälle."
+  },
+  "634": {
+    "id": "634",
+    "text": "Jag ser att du är mycket upptagen just nu."
+  },
+  "635": {
+    "id": "635",
+    "text": "Jag ska fatta mig kort."
+  },
+  "636": {
+    "id": "636",
+    "text": "Vi besöker alla hushåll i området."
+  },
+  "637": {
+    "id": "637",
+    "text": "Vi gör korta besök i grannskapet idag."
+  },
+  "638": {
+    "id": "638",
+    "text": "När vi pratar med människor ser vi att …"
+  },
+  "639": {
+    "id": "639",
+    "text": "När vi pratar med människor finner vi att …"
+  },
+  "640": {
+    "id": "640",
+    "text": "Vi pratar med grannarna om var vi kan finna praktisk hjälp för att ta itu med livets problem."
+  },
+  "641": {
+    "id": "641",
+    "text": "Vi pratar med våra grannar om…"
+  },
+  "642": {
+    "id": "642",
+    "text": "Vi pratar med människorna om…"
+  },
+  "643": {
+    "id": "643",
+    "text": "Vi har pratat med alla (människor) om…"
+  },
+  "644": {
+    "id": "644",
+    "text": "Jag pratar med mina grannar om något som angår oss alla."
+  },
+  "645": {
+    "id": "645",
+    "text": "Vi har ställt en fråga till alla idag."
+  },
+  "646": {
+    "id": "646",
+    "text": "Idag frågar vi grannarna  om…"
+  },
+  "647": {
+    "id": "647",
+    "text": "Jag skulle vilja ställa en fråga till dig."
+  },
+  "648": {
+    "id": "648",
+    "text": "Har du någonsin undrat:…?"
+  },
+  "649": {
+    "id": "649",
+    "text": "Har du någonsin undrat: Bryr sig Gud verkligen om alla orättvisor och lidande som människor går igenom?"
+  },
+  "650": {
+    "id": "650",
+    "text": "Etablera kontakt"
+  },
+  "651": {
+    "id": "651",
+    "text": "Kan jag kontakta dig på något sätt?"
+  },
+  "652": {
+    "id": "652",
+    "text": "Kan jag få ditt telefonnummer?"
+  },
+  "653": {
+    "id": "653",
+    "text": "Numret till min mobil är…"
+  },
+  "654": {
+    "id": "654",
+    "text": "Jag ringer dig innan jag kommer."
+  },
+  "655": {
+    "id": "655",
+    "text": "Jag skickar dig ett sms."
+  },
+  "656": {
+    "id": "656",
+    "text": "Fick du mitt sms?"
+  },
+  "657": {
+    "id": "657",
+    "text": "Vi kan ses en annan gång."
+  },
+  "658": {
+    "id": "658",
+    "text": "Vi får bestämma en tid."
+  },
+  "659": {
+    "id": "659",
+    "text": "När skulle det passa dig?"
+  },
+  "660": {
+    "id": "660",
+    "text": "När skulle det passa att träffas?"
+  },
+  "661": {
+    "id": "661",
+    "text": "Jag kan inte imorgon, tyvärr."
+  },
+  "662": {
+    "id": "662",
+    "text": "När passar det bäst att ringa dig?"
+  },
+  "663": {
+    "id": "663",
+    "text": "När är det säkrast att träffa dig hemma?"
+  },
+  "664": {
+    "id": "664",
+    "text": "Skulle det kunna passa nästa vecka?"
+  },
+  "665": {
+    "id": "665",
+    "text": "Passar det dig nästa tisdag på eftermiddagen?"
+  },
+  "666": {
+    "id": "666",
+    "text": "Kommer du att vara i affären?"
+  },
+  "667": {
+    "id": "667",
+    "text": "Kommer du att vara hemma?"
+  },
+  "668": {
+    "id": "668",
+    "text": "Vi kan träffas över en kopp te (/kaffe)."
+  },
+  "669": {
+    "id": "669",
+    "text": "Vi kan träffas och prata en stund."
+  },
+  "670": {
+    "id": "670",
+    "text": "Har du tid nästa vecka?"
+  },
+  "671": {
+    "id": "671",
+    "text": "Kan du disponera 10 minuter imorgon?"
+  },
+  "672": {
+    "id": "672",
+    "text": "Kan vi träffas lite tidigare?"
+  },
+  "673": {
+    "id": "673",
+    "text": "Kan vi träffas lite senare?"
+  },
+  "674": {
+    "id": "674",
+    "text": "Jag måste tyvärr ställa in vår avtalade tid."
+  },
+  "675": {
+    "id": "675",
+    "text": "Kan vi bestämma en annan tid?"
+  },
+  "676": {
+    "id": "676",
+    "text": "Användning av Bibeln"
+  },
+  "677": {
+    "id": "677",
+    "text": "Jag kommer för att visa dig en viktig tanke från Bibeln."
+  },
+  "678": {
+    "id": "678",
+    "text": "Jag skulle vilja visa dig en uppmuntrande tanke från Bibeln."
+  },
+  "679": {
+    "id": "679",
+    "text": "Jag visar mina grannar en uppmuntrande tanke från Bibeln."
+  },
+  "680": {
+    "id": "680",
+    "text": "Vi uppmuntrar människor att läsa sin egen Bibeln."
+  },
+  "681": {
+    "id": "681",
+    "text": "Många människor blir förvånade när de ser svaret som Bibeln ger på viktiga frågor. Till exempel…"
+  },
+  "682": {
+    "id": "682",
+    "text": "Du kan se själv vad som står här i Bibeln."
+  },
+  "683": {
+    "id": "683",
+    "text": "Skulle du vilja studera Bibeln med mig?"
+  },
+  "684": {
+    "id": "684",
+    "text": "Vi erbjuder ett kostnadsfritt bibelstudium."
+  },
+  "685": {
+    "id": "685",
+    "text": "Presentation av litteratur"
+  },
+  "686": {
+    "id": "686",
+    "text": "Jag skulle vilja ge dig den här traktaten."
+  },
+  "687": {
+    "id": "687",
+    "text": "Den här traktaten tar upp …"
+  },
+  "688": {
+    "id": "688",
+    "text": "Att läsa den här traktaten kommer inte att ta så mycket av din tid."
+  },
+  "689": {
+    "id": "689",
+    "text": "Det är mycket intressant."
+  },
+  "690": {
+    "id": "690",
+    "text": "Skulle du vilja läsa den här broschyren?"
+  },
+  "691": {
+    "id": "691",
+    "text": "Kan jag få lämna dig de här tidskrifterna?"
+  },
+  "692": {
+    "id": "692",
+    "text": "Titta på den här bilden."
+  },
+  "693": {
+    "id": "693",
+    "text": "Jag ville visa dig den här boken."
+  },
+  "694": {
+    "id": "694",
+    "text": "Skulle du vilja se vad det står i den här boken?"
+  },
+  "695": {
+    "id": "695",
+    "text": "Den är gratis; Det är gratis."
+  },
+  "696": {
+    "id": "696",
+    "text": "Vår verksamhet stöds av frivilliga bidrag."
+  },
+  "697": {
+    "id": "697",
+    "text": "Du kan låna den här boken."
+  },
+  "698": {
+    "id": "698",
+    "text": "Jag kan låna dig min bok."
+  },
+  "699": {
+    "id": "699",
+    "text": "Jag skulle vilja lämna dig någon information på ditt eget språk."
+  },
+  "700": {
+    "id": "700",
+    "text": "Synpunksfrågor"
+  },
+  "701": {
+    "id": "701",
+    "text": "Vad tänker du om det?",
+    "annotation": "(: Du kan säga det efter att ha sagt eller visat något)"
+  },
+  "702": {
+    "id": "702",
+    "text": "Låter det bra för dig?"
+  },
+  "703": {
+    "id": "703",
+    "text": "Håller du med om …?"
+  },
+  "704": {
+    "id": "704",
+    "text": "Vad tycker du om …?"
+  },
+  "705": {
+    "id": "705",
+    "text": "Vad tänker du om …?"
+  },
+  "706": {
+    "id": "706",
+    "text": "Återbesök"
+  },
+  "707": {
+    "id": "707",
+    "text": "Nästa gång skulle jag vilja prata om…"
+  },
+  "708": {
+    "id": "708",
+    "text": "Nästa gång skulle jag vilja svara på en viktig fråga…"
+  },
+  "709": {
+    "id": "709",
+    "text": "Nästa gång jag kommer skulle jag vilja gå igenom den här frågan med dig."
+  },
+  "710": {
+    "id": "710",
+    "text": "Nästa gång kan vi gå igenom kapitel 2 i den här boken."
+  },
+  "711": {
+    "id": "711",
+    "text": "Kommer du ihåg, …?"
+  },
+  "712": {
+    "id": "712",
+    "text": "Förra gången ställde jag en fråga till dig."
+  },
+  "713": {
+    "id": "713",
+    "text": "Idag vill jag svara på den frågan."
+  },
+  "714": {
+    "id": "714",
+    "text": "Att söka efter en person"
+  },
+  "715": {
+    "id": "715",
+    "text": "Är XXX hemma?"
+  },
+  "716": {
+    "id": "716",
+    "text": "Är XXX här?"
+  },
+  "717": {
+    "id": "717",
+    "text": "Han har gått ut."
+  },
+  "718": {
+    "id": "718",
+    "text": "När kommer han tillbaka?"
+  },
+  "719": {
+    "id": "719",
+    "text": "Jag väntar (på honom)."
+  },
+  "720": {
+    "id": "720",
+    "text": "Jag kommer tillbaka imorgon."
+  },
+  "721": {
+    "id": "721",
+    "text": "Det gör inget."
+  },
+  "722": {
+    "id": "722",
+    "text": "Inga problem."
+  },
+  "724": {
+    "id": "724",
+    "text": "Bön"
+  },
+  "725": {
+    "id": "725",
+    "text": "Mönsterbönen (Matt. 6)"
+  },
+  "726": {
+    "id": "726",
+    "text": "Vår Fader i himlarna, låt ditt namn bli helgat."
+  },
+  "727": {
+    "id": "727",
+    "text": "Låt ditt kungarike komma."
+  },
+  "728": {
+    "id": "728",
+    "text": "Låt din vilja ske, så som i himlen så också på jorden."
+  },
+  "729": {
+    "id": "729",
+    "text": "Ge oss i dag vårt bröd för denna dag;"
+  },
+  "730": {
+    "id": "730",
+    "text": "och förlåt oss våra skulder, liksom vi också har förlåtit de som står i skuld till oss."
+  },
+  "731": {
+    "id": "731",
+    "text": "Och för oss inte i frestelse, utan befria oss från den onde."
+  },
+  "732": {
+    "id": "732",
+    "text": "Att vända sig till Jehova"
+  },
+  "733": {
+    "id": "733",
+    "text": "du",
+    "annotation": "(: personligt pronomen som används när man vänder sig till Jehova på målspråket)"
+  },
+  "734": {
+    "id": "734",
+    "text": "Jehova"
+  },
+  "735": {
+    "id": "735",
+    "text": "Gud"
+  },
+  "736": {
+    "id": "736",
+    "text": "Vår Gud"
+  },
+  "737": {
+    "id": "737",
+    "text": "Vår Gud Jehova"
+  },
+  "738": {
+    "id": "738",
+    "text": "Skapare"
+  },
+  "739": {
+    "id": "739",
+    "text": "Vår Skapare"
+  },
+  "740": {
+    "id": "740",
+    "text": "Himmelens och jordens Skapare"
+  },
+  "741": {
+    "id": "741",
+    "text": "fader"
+  },
+  "742": {
+    "id": "742",
+    "text": "vår Fader"
+  },
+  "743": {
+    "id": "743",
+    "text": "käre"
+  },
+  "744": {
+    "id": "744",
+    "text": "god"
+  },
+  "745": {
+    "id": "745",
+    "text": "barmhärtig"
+  },
+  "746": {
+    "id": "746",
+    "text": "älskade"
+  },
+  "747": {
+    "id": "747",
+    "text": "kärleksfull"
+  },
+  "748": {
+    "id": "748",
+    "text": "mäktig"
+  },
+  "749": {
+    "id": "749",
+    "text": "allsmäktig"
+  },
+  "750": {
+    "id": "750",
+    "text": "i himlen; himmelske"
+  },
+  "751": {
+    "id": "751",
+    "text": "Vår Fader i himlen"
+  },
+  "752": {
+    "id": "752",
+    "text": "Jesus Kristus"
+  },
+  "753": {
+    "id": "753",
+    "text": "Jesus Kristus; Jesukristi"
+  },
+  "754": {
+    "id": "754",
+    "text": "Vi ber i Jesukristi namn."
+  },
+  "755": {
+    "id": "755",
+    "text": "Vi ber genom Jesus."
+  },
+  "756": {
+    "id": "756",
+    "text": "Vi ber att du ska ta emot vår bön i Jesukristi namn."
+  },
+  "757": {
+    "id": "757",
+    "text": "vår frälsare"
+  },
+  "758": {
+    "id": "758",
+    "text": "din son"
+  },
+  "759": {
+    "id": "759",
+    "text": "vår kung"
+  },
+  "760": {
+    "id": "760",
+    "text": "vår regerande kung"
+  },
+  "761": {
+    "id": "761",
+    "text": "Amen"
+  },
+  "762": {
+    "id": "762",
+    "text": "Lovprisning"
+  },
+  "763": {
+    "id": "763",
+    "text": "Vi älskar dig."
+  },
+  "764": {
+    "id": "764",
+    "text": "Vi prisar dig."
+  },
+  "765": {
+    "id": "765",
+    "text": "Vi lovprisar dig."
+  },
+  "766": {
+    "id": "766",
+    "text": "Vi ser fram emot välsignelserna som ditt kungarike ska medföra."
+  },
+  "767": {
+    "id": "767",
+    "text": "Vi vill göra din vilja."
+  },
+  "768": {
+    "id": "768",
+    "text": "Vi vill prisa ditt namn."
+  },
+  "769": {
+    "id": "769",
+    "text": "Tacksamhet"
+  },
+  "770": {
+    "id": "770",
+    "text": "Vi är glada (/lyckliga) för att…"
+  },
+  "771": {
+    "id": "771",
+    "text": "Vi är glada (/lyckliga) för att vi kan vara samlade."
+  },
+  "772": {
+    "id": "772",
+    "text": "Vi är glada (/lyckliga) för att vi kan vara samlade idag."
+  },
+  "773": {
+    "id": "773",
+    "text": "Vi är tacksamma för att…"
+  },
+  "774": {
+    "id": "774",
+    "text": "Vi är tacksamma för att vi har denna mötesplats."
+  },
+  "775": {
+    "id": "775",
+    "text": "Vi är tacksamma för den här möjligheten."
+  },
+  "776": {
+    "id": "776",
+    "text": "Vi är tacksamma för undervisningen som du ger oss genom mötena."
+  },
+  "777": {
+    "id": "777",
+    "text": "Tack för…"
+  },
+  "778": {
+    "id": "778",
+    "text": "Tack för det här underbara privilegiet."
+  },
+  "779": {
+    "id": "779",
+    "text": "Tack för att du har gett oss livet."
+  },
+  "780": {
+    "id": "780",
+    "text": "Tack för att du har avskilt oss från denna världen."
+  },
+  "781": {
+    "id": "781",
+    "text": "Tack för att du har gett oss ditt ord Bibeln."
+  },
+  "782": {
+    "id": "782",
+    "text": "Tack för att vi har fått möjlighet att lära känna dig."
+  },
+  "783": {
+    "id": "783",
+    "text": "Tack för Jesukristi lösenoffer."
+  },
+  "784": {
+    "id": "784",
+    "text": "Tack för våra bröder och systrar."
+  },
+  "785": {
+    "id": "785",
+    "text": "Tack för det här mötet."
+  },
+  "786": {
+    "id": "786",
+    "text": "Tack för hoppet som du ger oss för framtiden."
+  },
+  "787": {
+    "id": "787",
+    "text": "Tack för att Du sände din son till jorden."
+  },
+  "788": {
+    "id": "788",
+    "text": "Tack för alla påminnelser som vi har fått under det här mötet."
+  },
+  "789": {
+    "id": "789",
+    "text": "Begäran"
+  },
+  "790": {
+    "id": "790",
+    "text": "att vägleda XXX"
+  },
+  "791": {
+    "id": "791",
+    "text": "Vägled oss."
+  },
+  "792": {
+    "id": "792",
+    "text": "Vägled din organisation."
+  },
+  "793": {
+    "id": "793",
+    "text": "Vägled den styrande kretsen."
+  },
+  "794": {
+    "id": "794",
+    "text": "att hjälpa XXX"
+  },
+  "795": {
+    "id": "795",
+    "text": "Hjälp oss att tjäna dig."
+  },
+  "796": {
+    "id": "796",
+    "text": "Hjälp oss att göra det som är rätt."
+  },
+  "797": {
+    "id": "797",
+    "text": "Hjälp oss att stå emot frestelser."
+  },
+  "798": {
+    "id": "798",
+    "text": "Hjälp oss att uthärda."
+  },
+  "799": {
+    "id": "799",
+    "text": "Hjälp oss att fortsätta komma tillsammans."
+  },
+  "800": {
+    "id": "800",
+    "text": "Hjälp oss att hitta uppriktiga människor i tjänsten."
+  },
+  "801": {
+    "id": "801",
+    "text": "Hjälp oss att berätta för andra det som vi har lärt oss."
+  },
+  "802": {
+    "id": "802",
+    "text": "Hjälp oss så vi kan koncentrera oss under mötet."
+  },
+  "803": {
+    "id": "803",
+    "text": "Hjälp oss att meditera över ditt ord."
+  },
+  "804": {
+    "id": "804",
+    "text": "Hjälp oss att tillämpa det som vi har lärt oss."
+  },
+  "805": {
+    "id": "805",
+    "text": "Hjälp våra broder som har svårigheter nu."
+  },
+  "806": {
+    "id": "806",
+    "text": "Hjälp oss att uppmärksamma våra broders behov."
+  },
+  "807": {
+    "id": "807",
+    "text": "Hjälp XXX att fortsätta studera ditt ord."
+  },
+  "808": {
+    "id": "808",
+    "text": "Hjälp XXX att vara modig."
+  },
+  "809": {
+    "id": "809",
+    "text": "Hjälp XXX att fortsätta göra andliga framsteg."
+  },
+  "810": {
+    "id": "810",
+    "text": "att ge XXX till YYY"
+  },
+  "811": {
+    "id": "811",
+    "text": "Ge oss …"
+  },
+  "812": {
+    "id": "812",
+    "text": "Ge oss din heliga ande."
+  },
+  "813": {
+    "id": "813",
+    "text": "Ge oss vishet."
+  },
+  "814": {
+    "id": "814",
+    "text": "Ge oss kraft för att göra allt som krävs av oss."
+  },
+  "815": {
+    "id": "815",
+    "text": "att be om XXX"
+  },
+  "816": {
+    "id": "816",
+    "text": "Vi ber om …"
+  },
+  "817": {
+    "id": "817",
+    "text": "Vi ber om din vägledning i denna svåra stund."
+  },
+  "818": {
+    "id": "818",
+    "text": "att välsigna XXX"
+  },
+  "819": {
+    "id": "819",
+    "text": "Välsigna …"
+  },
+  "820": {
+    "id": "820",
+    "text": "Välsigna oss."
+  },
+  "821": {
+    "id": "821",
+    "text": "Välsigna vår tjänst."
+  },
+  "822": {
+    "id": "822",
+    "text": "Välsigna det här mötet."
+  },
+  "823": {
+    "id": "823",
+    "text": "Välsigna vår församling."
+  },
+  "824": {
+    "id": "824",
+    "text": "att skydda XXX"
+  },
+  "825": {
+    "id": "825",
+    "text": "Skydda oss."
+  },
+  "826": {
+    "id": "826",
+    "text": "Skydda våra bröder som inte kunde vara här ikväll."
+  },
+  "827": {
+    "id": "827",
+    "text": "Beskydda våra bröder som uthärdar  förföljelse i andra länder."
+  },
+  "828": {
+    "id": "828",
+    "text": "Skydda oss under resan tillbaka till våra hem ikväll."
+  },
+  "829": {
+    "id": "829",
+    "text": "Vi ber …",
+    "annotation": "(: artighetsord eller fras som används för att framföra en begäran)"
+  },
+  "830": {
+    "id": "830",
+    "text": "Välsigna det här mötet."
+  },
+  "831": {
+    "id": "831",
+    "text": "Vi ber dig välsigna det här mötet."
+  },
+  "832": {
+    "id": "832",
+    "text": "Synder och problem"
+  },
+  "833": {
+    "id": "833",
+    "text": "Vi är ofullkomliga"
+  },
+  "834": {
+    "id": "834",
+    "text": "att synda; att fela"
+  },
+  "835": {
+    "id": "835",
+    "text": "Vi felar många gånger."
+  },
+  "836": {
+    "id": "836",
+    "text": "Förlåt."
+  },
+  "837": {
+    "id": "837",
+    "text": "Förlåt våra tillkortakommande."
+  },
+  "838": {
+    "id": "838",
+    "text": "Förlåt oss för att vi är ofullkomliga."
+  },
+  "839": {
+    "id": "839",
+    "text": "förlåtelse"
+  },
+  "840": {
+    "id": "840",
+    "text": "Vi ber ödmjukt om din förlåtelse."
+  },
+  "841": {
+    "id": "841",
+    "text": "att förlåta XXX",
+    "annotation": "(: XXX är en person)"
+  },
+  "842": {
+    "id": "842",
+    "text": "Vi ber dig förlåta oss."
+  },
+  "843": {
+    "id": "843",
+    "text": "Vi ber dig förlåta oss på grundval av din sons lösenoffer."
+  },
+  "844": {
+    "id": "844",
+    "text": "att förlåta XXX",
+    "annotation": "(: XXX är en synd)"
+  },
+  "845": {
+    "id": "845",
+    "text": "Vi ber dig förlåta våra fel och brister."
+  },
+  "846": {
+    "id": "846",
+    "text": "Vi lever i en ond värld."
+  },
+  "847": {
+    "id": "847",
+    "text": "Vi upplever många problem."
+  }
+}

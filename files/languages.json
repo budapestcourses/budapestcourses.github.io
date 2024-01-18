@@ -1,0 +1,230 @@
+[
+  {
+    "id": "0",
+    "name": "Arabic_MSA",
+    "code": "ara",
+    "script": "ARABIC"
+  },
+  {
+    "id": "1",
+    "name": "Chinese (Simplified)",
+    "code": "cmn",
+    "script": "CHINESE",
+    "children":[25]
+  },
+  {
+    "id": "2",
+    "name": "Chinese (Traditional)",
+    "code": "cmn",
+    "script": "CHINESE",
+    "children":[25]
+  },
+  {
+    "id": "3",
+    "name": "Czech",
+    "code": "ces",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "4",
+    "name": "Dutch",
+    "code": "nld",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "5",
+    "name": "English",
+    "code": "eng",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "6",
+    "name": "French",
+    "code": "fra",
+    "script": "DEFAULT_LONG"
+  },
+  {
+    "id": "7",
+    "name": "German",
+    "code": "deu",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "8",
+    "name": "Greek",
+    "code": "ell",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "9",
+    "name": "Guarani",
+    "code": "grn",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "10",
+    "name": "Haitian Creole",
+    "code": "hat",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "11",
+    "name": "Hebrew",
+    "code": "heb",
+    "script": "HEBREW"
+  },
+  {
+    "id": "12",
+    "name": "Hindi",
+    "code": "hin",
+    "script": "DEVANAGARI",
+    "children":[13]
+  },
+  {
+    "id": "13",
+    "name": "Hindi (Latin)",
+    "code": "hin",
+    "targetOnly": true,
+    "script": "DEFAULT"
+  },
+  {
+    "id": "14",
+    "name": "Hungarian",
+    "code": "hun",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "15",
+    "name": "Indonesian",
+    "code": "ind",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "16",
+    "name": "Italian",
+    "code": "ita",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "17",
+    "name": "Japanese",
+    "code": "jpn",
+    "script": "JAPANESE"
+  },
+  {
+    "id": "18",
+    "name": "Kazakh",
+    "code": "kaz",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "19",
+    "name": "Kazakh (Latin)",
+    "code": "kaz",
+    "targetOnly": true,
+    "script": "DEFAULT",
+    "children":[19]
+  },
+  {
+    "id": "20",
+    "name": "Korean",
+    "code": "kor",
+    "script": "KOREAN",
+    "children":[20]
+  },
+  {
+    "id": "21",
+    "name": "Korean (Latin)",
+    "code": "kor",
+    "targetOnly": true,
+    "script": "PINYIN"
+  },
+  {
+    "id": "22",
+    "name": "Kurdish",
+    "code": "kur",
+    "targetOnly": true,
+    "script": "DEFAULT"
+  },
+  {
+    "id": "23",
+    "name": "Nepali",
+    "code": "nep",
+    "script": "DEVANAGARI",
+    "children":[24]
+  },
+  {
+    "id": "24",
+    "name": "Nepali (Latin)",
+    "code": "nep",
+    "targetOnly": true,
+    "script": "PINYIN_LONG"
+  },
+  {
+    "id": "25",
+    "name": "Pinyin",
+    "code": "cmn",
+    "targetOnly": true,
+    "script": "PINYIN"
+  },
+  {
+    "id": "26",
+    "name": "Portuguese",
+    "code": "por",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "27",
+    "name": "Russian",
+    "code": "rus",
+    "script": "DEFAULT",
+    "children":[28, 29]
+  },
+  {
+    "id": "28",
+    "name": "Russian (Cyrillic)",
+    "code": "rus",
+    "targetOnly": true,
+    "script": "DEFAULT"
+  },
+  {
+    "id": "29",
+    "name": "Russian (Latin)",
+    "code": "rus",
+    "targetOnly": true,
+    "script": "DEFAULT"
+  },
+  {
+    "id": "30",
+    "name": "Spanish",
+    "code": "spa",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "31",
+    "name": "Swedish",
+    "code": "swe",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "32",
+    "name": "Uighur (Latin)",
+    "code": "uig",
+    "script": "DEFAULT"
+  },
+  {
+    "id": "33",
+    "name": "Uighur (Arabic)",
+    "code": "uig",
+    "targetOnly": true,
+    "script": "UIGHUR_ARABIC",
+    "children":[32,34]
+  },
+  {
+    "id": "34",
+    "name": "Уиғур",
+    "code": "uig",
+    "script": "DEFAULT",
+    "children":[32]
+  }
+]

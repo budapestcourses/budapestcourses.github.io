@@ -1,0 +1,3397 @@
+{
+  "5": {
+    "id": "5",
+    "text": "UNIVERZÁLNÍ JAZYKOVÉ MATERIÁLY"
+  },
+  "7": {
+    "id": "7",
+    "text": "Čeština"
+  },
+  "8": {
+    "id": "8",
+    "text": "Czech | .cz"
+  },
+  "11": {
+    "id": "11",
+    "text": "Tento dokument je soubor jazykových vzdělávacích materiálů, které byly vytvořeny výhradně pro potřeby svědků Jehovových."
+  },
+  "12": {
+    "id": "12",
+    "text": "Úvody, definice a další informace obsažené v tomto dokumentu mohou být snadno přeloženy do téměř jakéhokoliv jazyku. Nová vydání tohoto materiálu  mohou být snadno vytvořena kombinací jakýchkoli dvou překladů. Věříme, že tento materiál zmenší náklad práce instruktorů cizích jazyků a přispěje k efektivitě svědků, kteří slouží v cizojazyčném poli kdekoliv na světě."
+  },
+  "13": {
+    "id": "13",
+    "text": "Tyto jazykové materiály mohou být bezplatně šířeny mezi aktivními svědky Jehovovými. Dát nebo zapůjčit je v jakémkoliv formátu těm, kteří nejsou svědky, je zakázáno."
+  },
+  "14": {
+    "id": "14",
+    "text": null
+  },
+  "15": {
+    "id": "15",
+    "text": null
+  },
+  "16": {
+    "id": "16",
+    "text": null
+  },
+  "18": {
+    "id": "18",
+    "text": "Poznámka"
+  },
+  "19": {
+    "id": "19",
+    "text": "\"Algebraické\" označení ukazovalo, kde mohou být umístěna doplňující slova, která se vztahují k výrazu, který je vysvětlován."
+  },
+  "20": {
+    "id": "20",
+    "text": "Slova, která je možná potřeba doplnit k výrazu v určitých situacích, protože to jazyk vyžaduje."
+  },
+  "21": {
+    "id": "21",
+    "text": "Alternativní slovo, které je možná potřeba zaměnit částí výrazu v určitých situacích, protože to jazyk vyžaduje."
+  },
+  "22": {
+    "id": "22",
+    "text": "Doplňující slovo nebo fráze, které se obvykle přidává k tomuto výrazu a které podstatně nemění jeho smysl."
+  },
+  "23": {
+    "id": "23",
+    "text": "Alternativní slovo nebo fráze, kterou se obvykle zaměňuje část výrazu a která podstatně nemění jeho smysl."
+  },
+  "24": {
+    "id": "24",
+    "text": "Středník odděluje složené výrazy, které mají podobný význam."
+  },
+  "25": {
+    "id": "25",
+    "text": "Složená věta ( například která obsahuje sloveso a další slova ) může být vložena na toto místo."
+  },
+  "26": {
+    "id": "26",
+    "text": "Doplňující popis nebo příklady, které pomohou čtenáři pochopit význam slova.  Tato informace se vyskytuje pouze v definicích a může se lišit jazyk od jazyku."
+  },
+  "27": {
+    "id": "27",
+    "text": "Ve složených závorkách je další jazyková informace k cílovému výrazu. Ta může obsahovat gramatickou informaci nebo symboly, které jsou uvedené níže."
+  },
+  "28": {
+    "id": "28",
+    "text": "Toto slovo nebo fráze by se měly použít s ohledem na kulturní nebo jiné aspekty."
+  },
+  "29": {
+    "id": "29",
+    "text": "Toto je pouze přibližný překlad definice."
+  },
+  "30": {
+    "id": "30",
+    "text": "Toto slovo nebo fráze se v cílovém jazyce užívá vyjímečně."
+  },
+  "31": {
+    "id": "31",
+    "text": "Pro toto slovo naši překladatelé neposkytli žádný překlad."
+  },
+  "32": {
+    "id": "32",
+    "text": "Toto je forma slova nebo fráze, která se obvykle používá v jiných oblastech, než v zemi, kde se mluví tímto jazykem."
+  },
+  "33": {
+    "id": "33",
+    "text": "Teokratický termín, který je zde uvedený, nemá ještě jasně daný ekvivalent v publikacích Společnosti Strážné věže v jazyce, do kterého se dělá tento překlad. (Tento symbol se bude obvykle používat ve spojení s dalšími symboly)"
+  },
+  "34": {
+    "id": "34",
+    "text": "Toto je pokus našeho překladatele o přesný překlad termínu. (Tento symbol se obvykle používá pouze u teokratických termínů, které v současné době nemají jasně daný ekvivalent v cílovém jazyce)"
+  },
+  "35": {
+    "id": "35",
+    "text": "Toto je odpovídající termín, který bratři obvykle používají na shromáždění. (Tento symbol se obvykle používá pouze u teokratických termínů, které v současné době nemají jasně daný ekvivalet v cílovém jazyce)"
+  },
+  "37": {
+    "id": "37",
+    "text": "Terminologie a fráze"
+  },
+  "38": {
+    "id": "38",
+    "text": "Orgaizační struktura"
+  },
+  "39": {
+    "id": "39",
+    "text": "svědkové Jehovovi"
+  },
+  "40": {
+    "id": "40",
+    "text": "svědkové Jehovovi"
+  },
+  "41": {
+    "id": "41",
+    "text": "svědek Jehovův"
+  },
+  "42": {
+    "id": "42",
+    "text": "Badatelé Bible",
+    "annotation": "(: jméno, pod kterým byli svědkové Jehovovi známi dříve)"
+  },
+  "43": {
+    "id": "43",
+    "text": "bratr",
+    "annotation": "(: spoluvěřící mužského pohlaví)"
+  },
+  "44": {
+    "id": "44",
+    "text": "zralý bratr"
+  },
+  "45": {
+    "id": "45",
+    "text": "naši bratři",
+    "annotation": "(: ve víře)"
+  },
+  "46": {
+    "id": "46",
+    "text": "mezi našimi duchovními bratry"
+  },
+  "47": {
+    "id": "47",
+    "text": "sestra",
+    "annotation": "(: spoluvěřící ženského pohlaví)"
+  },
+  "48": {
+    "id": "48",
+    "text": "způsobilá křesťanská sestra",
+    "annotation": "(: způsobilá zastoupit nepřítomného bratra)"
+  },
+  "49": {
+    "id": "49",
+    "text": "naše křesťanské sestry"
+  },
+  "50": {
+    "id": "50",
+    "text": "naše sestry"
+  },
+  "51": {
+    "id": "51",
+    "text": "tvoji duchovní bratři a sestry"
+  },
+  "52": {
+    "id": "52",
+    "text": "Pomazaní"
+  },
+  "53": {
+    "id": "53",
+    "text": "ti, kteří mají pozemskou naději"
+  },
+  "54": {
+    "id": "54",
+    "text": "jiné ovce"
+  },
+  "55": {
+    "id": "55",
+    "text": "ti, kteří mají nebeskou naději"
+  },
+  "56": {
+    "id": "56",
+    "text": "pomazaní",
+    "annotation": "(: přídavé jméo)"
+  },
+  "57": {
+    "id": "57",
+    "text": "pomazaní křesťané"
+  },
+  "58": {
+    "id": "58",
+    "text": "sbor pomazaných následovníků na zemi"
+  },
+  "59": {
+    "id": "59",
+    "text": "věrný a rozvážný otrok"
+  },
+  "60": {
+    "id": "60",
+    "text": "vedoucí sbor"
+  },
+  "61": {
+    "id": "61",
+    "text": "člen vedoucího sboru"
+  },
+  "62": {
+    "id": "62",
+    "text": "Křest"
+  },
+  "63": {
+    "id": "63",
+    "text": "být pokřtěn (/nechat se pokřtít)"
+  },
+  "64": {
+    "id": "64",
+    "text": "Byl jsem pokřtěn v roce 2006."
+  },
+  "65": {
+    "id": "65",
+    "text": "pokřtít XXX"
+  },
+  "66": {
+    "id": "66",
+    "text": "Jan pokřtil Ježíše."
+  },
+  "67": {
+    "id": "67",
+    "text": "křest",
+    "annotation": "(: událost)"
+  },
+  "68": {
+    "id": "68",
+    "text": "Zúčastnil se křtu svého zájemce."
+  },
+  "69": {
+    "id": "69",
+    "text": "zvěstovatel"
+  },
+  "70": {
+    "id": "70",
+    "text": "nepokřtěný zvěstovatel"
+  },
+  "71": {
+    "id": "71",
+    "text": "Kdy se stal nepokřtěným zvěstovatelem?"
+  },
+  "72": {
+    "id": "72",
+    "text": "pokřtěný zvěstovatel"
+  },
+  "73": {
+    "id": "73",
+    "text": "nepravidelný zvěstovatel"
+  },
+  "74": {
+    "id": "74",
+    "text": "nečinný zvěstovatel"
+  },
+  "75": {
+    "id": "75",
+    "text": "Služba Jehovovi"
+  },
+  "76": {
+    "id": "76",
+    "text": "služba"
+  },
+  "77": {
+    "id": "77",
+    "text": "naše služba Jehovovi"
+  },
+  "78": {
+    "id": "78",
+    "text": "služba plným časem"
+  },
+  "79": {
+    "id": "79",
+    "text": "sloužit"
+  },
+  "80": {
+    "id": "80",
+    "text": "sloužit jako XXX"
+  },
+  "81": {
+    "id": "81",
+    "text": "sloužit jako starší"
+  },
+  "82": {
+    "id": "82",
+    "text": "sloužit jako průkopník"
+  },
+  "83": {
+    "id": "83",
+    "text": "slouží jako starší v našem sboru"
+  },
+  "84": {
+    "id": "84",
+    "text": "XXX již neslouží jako starší"
+  },
+  "85": {
+    "id": "85",
+    "text": "sloužit Jehovovi"
+  },
+  "86": {
+    "id": "86",
+    "text": "služebník"
+  },
+  "87": {
+    "id": "87",
+    "text": "služebník plným časem"
+  },
+  "88": {
+    "id": "88",
+    "text": "Boží služebníci"
+  },
+  "89": {
+    "id": "89",
+    "text": "dobrovolný pracovník",
+    "annotation": "(: někdo, kdo dělá práci bezplatně)"
+  },
+  "90": {
+    "id": "90",
+    "text": "neplacený dobrovolný pracovník"
+  },
+  "91": {
+    "id": "91",
+    "text": "práce na stavbě sálu Království"
+  },
+  "92": {
+    "id": "92",
+    "text": "humanitární pomoc po katastrofách"
+  },
+  "93": {
+    "id": "93",
+    "text": "potřeba"
+  },
+  "94": {
+    "id": "94",
+    "text": "sloužit tam, kde je to více zapotřebí"
+  },
+  "95": {
+    "id": "95",
+    "text": "přestěhovat se tam, kde je to více zapotřebí"
+  },
+  "96": {
+    "id": "96",
+    "text": "průkopník"
+  },
+  "97": {
+    "id": "97",
+    "text": "zúčastnit se průkopnické školy"
+  },
+  "98": {
+    "id": "98",
+    "text": "pravidelný průkopník"
+  },
+  "99": {
+    "id": "99",
+    "text": "pomocný průkopník"
+  },
+  "100": {
+    "id": "100",
+    "text": "pravidelný pomocný průkopník",
+    "annotation": "(: ten, kdo slouží jako pomocný průkopník každý měsíc)"
+  },
+  "101": {
+    "id": "101",
+    "text": "zvláštní průkopník"
+  },
+  "102": {
+    "id": "102",
+    "text": "misionář"
+  },
+  "103": {
+    "id": "103",
+    "text": "Přihlášky a jmenování"
+  },
+  "104": {
+    "id": "104",
+    "text": "dát si přihlášku do XXX"
+  },
+  "105": {
+    "id": "105",
+    "text": "dát si přihlášku do zvláštní služby"
+  },
+  "106": {
+    "id": "106",
+    "text": "dát si přihlášku do školy Gilead"
+  },
+  "107": {
+    "id": "107",
+    "text": "přihláška"
+  },
+  "108": {
+    "id": "108",
+    "text": "vyplnit přihlášku"
+  },
+  "109": {
+    "id": "109",
+    "text": "vyplnit přihlášku do pravidelé průkopnické služby"
+  },
+  "110": {
+    "id": "110",
+    "text": "podat přihlášku"
+  },
+  "111": {
+    "id": "111",
+    "text": "doporučení (: situace, kdy je někdo doporučen"
+  },
+  "112": {
+    "id": "112",
+    "text": "být doporučen jako starší"
+  },
+  "113": {
+    "id": "113",
+    "text": "doporučit XXX jako staršího"
+  },
+  "114": {
+    "id": "114",
+    "text": "jmenování",
+    "annotation": "(: situace, kdy je někdo jmenován)"
+  },
+  "115": {
+    "id": "115",
+    "text": "být jmenován XXX"
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX byl jmenován starším"
+  },
+  "117": {
+    "id": "117",
+    "text": "jmenovat XXX služebním pomocníkem"
+  },
+  "118": {
+    "id": "118",
+    "text": "způsobilost"
+  },
+  "119": {
+    "id": "119",
+    "text": "projednat [jeho] způsobilost stát se nepokřtěným zvěstovatelem"
+  },
+  "120": {
+    "id": "120",
+    "text": "splňovat požadavky pro křest"
+  },
+  "121": {
+    "id": "121",
+    "text": "splňovat požadavky na nepokřtěného zvěstovatele"
+  },
+  "122": {
+    "id": "122",
+    "text": "Jmenovaní muži"
+  },
+  "123": {
+    "id": "123",
+    "text": "starší"
+  },
+  "124": {
+    "id": "124",
+    "text": "dozorce"
+  },
+  "125": {
+    "id": "125",
+    "text": "\"dary v podobě lidí\"",
+    "annotation": "(: Ef. 4:8)"
+  },
+  "126": {
+    "id": "126",
+    "text": "služební pomocník"
+  },
+  "127": {
+    "id": "127",
+    "text": "rada starších"
+  },
+  "128": {
+    "id": "128",
+    "text": "mít schůzku rady starších"
+  },
+  "129": {
+    "id": "129",
+    "text": "služební výbor sboru"
+  },
+  "130": {
+    "id": "130",
+    "text": "Tuto záležitost musí schválit služební výbor sboru."
+  },
+  "131": {
+    "id": "131",
+    "text": "koordinátor rady starších"
+  },
+  "132": {
+    "id": "132",
+    "text": "tajemník sboru"
+  },
+  "133": {
+    "id": "133",
+    "text": "dozorce služby"
+  },
+  "134": {
+    "id": "134",
+    "text": "vedoucí (studia) Strážné věže"
+  },
+  "135": {
+    "id": "135",
+    "text": "dozorce školy teokratické služby"
+  },
+  "136": {
+    "id": "136",
+    "text": "poradce"
+  },
+  "137": {
+    "id": "137",
+    "text": "dozorce skupiny"
+  },
+  "138": {
+    "id": "138",
+    "text": "právní výbor"
+  },
+  "139": {
+    "id": "139",
+    "text": "svolat právní výbor"
+  },
+  "140": {
+    "id": "140",
+    "text": "duchovní pastýři"
+  },
+  "141": {
+    "id": "141",
+    "text": "duchovní ovce"
+  },
+  "142": {
+    "id": "142",
+    "text": "pastýřská návštěva"
+  },
+  "143": {
+    "id": "143",
+    "text": "udělat pastýřskou návštěvu u XXX"
+  },
+  "144": {
+    "id": "144",
+    "text": "Cestující dozorci"
+  },
+  "145": {
+    "id": "145",
+    "text": "cestující dozorce"
+  },
+  "146": {
+    "id": "146",
+    "text": "krajský dozorce"
+  },
+  "147": {
+    "id": "147",
+    "text": "kraj"
+  },
+  "148": {
+    "id": "148",
+    "text": "zástupce cestujícího dozorce"
+  },
+  "149": {
+    "id": "149",
+    "text": "navštívit sbory"
+  },
+  "150": {
+    "id": "150",
+    "text": "návštěva krajského dozorce"
+  },
+  "151": {
+    "id": "151",
+    "text": "oblastní dozorce"
+  },
+  "152": {
+    "id": "152",
+    "text": "oblast"
+  },
+  "153": {
+    "id": "153",
+    "text": "zónový dozorce"
+  },
+  "154": {
+    "id": "154",
+    "text": "Skupiny a sbory"
+  },
+  "155": {
+    "id": "155",
+    "text": "sbor",
+    "annotation": "(: skupina spoluvěřících v jednom místě)"
+  },
+  "156": {
+    "id": "156",
+    "text": "rozdělit sbor"
+  },
+  "157": {
+    "id": "157",
+    "text": "založit nový sbor"
+  },
+  "158": {
+    "id": "158",
+    "text": "křesťanský sbor",
+    "annotation": "(: jeden \"velký\" sbor, který zahrnuje všechny spoluvěřící)"
+  },
+  "159": {
+    "id": "159",
+    "text": "skupina"
+  },
+  "160": {
+    "id": "160",
+    "text": "oddělená skupina"
+  },
+  "161": {
+    "id": "161",
+    "text": "cizojazyčná skupina"
+  },
+  "162": {
+    "id": "162",
+    "text": "Kanceláře odboček"
+  },
+  "163": {
+    "id": "163",
+    "text": "odbočka"
+  },
+  "164": {
+    "id": "164",
+    "text": "kancelář odbočky svědků Jehovových"
+  },
+  "165": {
+    "id": "165",
+    "text": "koordinátor odbočky"
+  },
+  "166": {
+    "id": "166",
+    "text": "výbor odbočky"
+  },
+  "167": {
+    "id": "167",
+    "text": "výbor země"
+  },
+  "168": {
+    "id": "168",
+    "text": "betel"
+  },
+  "169": {
+    "id": "169",
+    "text": "betelita",
+    "annotation": "(: člověk, který slouží v betelu)"
+  },
+  "170": {
+    "id": "170",
+    "text": "Chtěl byste navštívit betel?"
+  },
+  "171": {
+    "id": "171",
+    "text": "prohlídka"
+  },
+  "172": {
+    "id": "172",
+    "text": "Náš sbor pojede příští týden na prohlídku betelu."
+  },
+  "173": {
+    "id": "173",
+    "text": "Budu vaším průvodcem."
+  },
+  "174": {
+    "id": "174",
+    "text": "Provedu vás po odbočce."
+  },
+  "175": {
+    "id": "175",
+    "text": "služební oddělení",
+    "annotation": "(: v betelu)"
+  },
+  "176": {
+    "id": "176",
+    "text": "Napište prosím do služebního oddělení."
+  },
+  "177": {
+    "id": "177",
+    "text": "světové ústředí"
+  },
+  "178": {
+    "id": "178",
+    "text": "Sborové povinnosti"
+  },
+  "179": {
+    "id": "179",
+    "text": "pořadatel"
+  },
+  "180": {
+    "id": "180",
+    "text": "přítomní",
+    "annotation": "(: lidé, kteří se účastní shromáždění)"
+  },
+  "181": {
+    "id": "181",
+    "text": "posluchači",
+    "annotation": "(: ti, kteří naslouchají během shromáždění)"
+  },
+  "182": {
+    "id": "182",
+    "text": "spočítat přítomné"
+  },
+  "183": {
+    "id": "183",
+    "text": "návštěvnost",
+    "annotation": "(: počet lidí, kteří navštívili shromáždění atd.)"
+  },
+  "184": {
+    "id": "184",
+    "text": "V minulém roce byla průměrná návštěvnost služebního shromáždění 85 přítomných."
+  },
+  "185": {
+    "id": "185",
+    "text": "bratr, který nosí mikrofon"
+  },
+  "186": {
+    "id": "186",
+    "text": "mikrofon"
+  },
+  "187": {
+    "id": "187",
+    "text": "služba s mikrofonem"
+  },
+  "188": {
+    "id": "188",
+    "text": "upravit mikrofon"
+  },
+  "189": {
+    "id": "189",
+    "text": "zapnout mikrofon"
+  },
+  "190": {
+    "id": "190",
+    "text": "vypnout mikrofon"
+  },
+  "191": {
+    "id": "191",
+    "text": "bratr, odpovědný za ozvučení"
+  },
+  "192": {
+    "id": "192",
+    "text": "ozvučení (/aparatura)"
+  },
+  "193": {
+    "id": "193",
+    "text": "obsluhovat aparaturu"
+  },
+  "194": {
+    "id": "194",
+    "text": "zesílit zvuk"
+  },
+  "195": {
+    "id": "195",
+    "text": "zeslabit zvuk"
+  },
+  "196": {
+    "id": "196",
+    "text": "dozorce pódia"
+  },
+  "197": {
+    "id": "197",
+    "text": "pódium"
+  },
+  "198": {
+    "id": "198",
+    "text": "řečnický pult"
+  },
+  "199": {
+    "id": "199",
+    "text": "upravit řečnický pult"
+  },
+  "200": {
+    "id": "200",
+    "text": "bratr, odpovědný za literaturu"
+  },
+  "201": {
+    "id": "201",
+    "text": "pult s literaturou"
+  },
+  "202": {
+    "id": "202",
+    "text": "objednat literaturu"
+  },
+  "203": {
+    "id": "203",
+    "text": "bratr, odpovědný za časopisy"
+  },
+  "204": {
+    "id": "204",
+    "text": "pult s časopisy"
+  },
+  "205": {
+    "id": "205",
+    "text": "vyzvednout si časopisy"
+  },
+  "206": {
+    "id": "206",
+    "text": "bratr, odpovědný za obvody"
+  },
+  "207": {
+    "id": "207",
+    "text": "obvod (pro kazatelskou službu)"
+  },
+  "208": {
+    "id": "208",
+    "text": "mapa obvodu pro kazatelskou službu"
+  },
+  "209": {
+    "id": "209",
+    "text": "karta s obvodem"
+  },
+  "210": {
+    "id": "210",
+    "text": "bratr, odpovědný za účetnictví"
+  },
+  "211": {
+    "id": "211",
+    "text": "účetnictví"
+  },
+  "212": {
+    "id": "212",
+    "text": "sborové účetnictví"
+  },
+  "213": {
+    "id": "213",
+    "text": "připravit sborové účetnictví"
+  },
+  "214": {
+    "id": "214",
+    "text": "udělat audit sborového účetnictví (/prověřit sborové účetnictví)"
+  },
+  "215": {
+    "id": "215",
+    "text": "dar"
+  },
+  "216": {
+    "id": "216",
+    "text": "dary na celosvětové dílo",
+    "annotation": "(: Mat. 24:14)"
+  },
+  "217": {
+    "id": "217",
+    "text": "dary na potřeby sboru"
+  },
+  "218": {
+    "id": "218",
+    "text": "spočítat dary"
+  },
+  "219": {
+    "id": "219",
+    "text": "dát dar (/přispět)"
+  },
+  "220": {
+    "id": "220",
+    "text": "přispět na celosvětové dílo"
+  },
+  "221": {
+    "id": "221",
+    "text": "schránka na dobrovolné dary"
+  },
+  "222": {
+    "id": "222",
+    "text": "přispět do schránky na dobrovolné dary"
+  },
+  "223": {
+    "id": "223",
+    "text": "Schránky na dobrovolné dary jsou umístěny vedle dveří."
+  },
+  "225": {
+    "id": "225",
+    "text": "Shromáždění"
+  },
+  "226": {
+    "id": "226",
+    "text": "Místa uctívání"
+  },
+  "227": {
+    "id": "227",
+    "text": "sál"
+  },
+  "228": {
+    "id": "228",
+    "text": "naše místo uctívání"
+  },
+  "229": {
+    "id": "229",
+    "text": "postavený dobrovolnými pracovníky"
+  },
+  "230": {
+    "id": "230",
+    "text": "sál Království"
+  },
+  "231": {
+    "id": "231",
+    "text": "rychlostavba sálu Království"
+  },
+  "232": {
+    "id": "232",
+    "text": "zajistit údržbu sálu Království"
+  },
+  "233": {
+    "id": "233",
+    "text": "opravit sál Království"
+  },
+  "234": {
+    "id": "234",
+    "text": "uklidit sál Království"
+  },
+  "235": {
+    "id": "235",
+    "text": "Tentokrát je řada na nás uklidit sál Království."
+  },
+  "236": {
+    "id": "236",
+    "text": "sjezdový sál"
+  },
+  "237": {
+    "id": "237",
+    "text": "Návštěva shromáždění"
+  },
+  "238": {
+    "id": "238",
+    "text": "shromáždění"
+  },
+  "239": {
+    "id": "239",
+    "text": "navštívit shromáždění / přijít na shromáždění"
+  },
+  "240": {
+    "id": "240",
+    "text": "uspořádat shromáždění"
+  },
+  "241": {
+    "id": "241",
+    "text": "připravit se"
+  },
+  "242": {
+    "id": "242",
+    "text": "připravit se na shromáždění"
+  },
+  "243": {
+    "id": "243",
+    "text": "připravit si XXX"
+  },
+  "244": {
+    "id": "244",
+    "text": "připravit si komentář"
+  },
+  "245": {
+    "id": "245",
+    "text": "připravit si přednášku"
+  },
+  "246": {
+    "id": "246",
+    "text": "scházet se s XXX"
+  },
+  "247": {
+    "id": "247",
+    "text": "Po shromážděni si můžeme povídat s našimi bratry a sestrami."
+  },
+  "248": {
+    "id": "248",
+    "text": "povzbudit XXX"
+  },
+  "249": {
+    "id": "249",
+    "text": "Tvůj komentář mě opravdu povzbudil."
+  },
+  "250": {
+    "id": "250",
+    "text": "povzbuzující komentář"
+  },
+  "251": {
+    "id": "251",
+    "text": "sborové studium knihy"
+  },
+  "252": {
+    "id": "252",
+    "text": "teokratická škola"
+  },
+  "253": {
+    "id": "253",
+    "text": "služební shromáždění"
+  },
+  "254": {
+    "id": "254",
+    "text": "schůzka před kazatelskou službou"
+  },
+  "255": {
+    "id": "255",
+    "text": "sjezd"
+  },
+  "256": {
+    "id": "256",
+    "text": "každoroční sjezdy"
+  },
+  "257": {
+    "id": "257",
+    "text": "zvláštní sjezdový den"
+  },
+  "258": {
+    "id": "258",
+    "text": "krajský sjezd"
+  },
+  "259": {
+    "id": "259",
+    "text": "sjezd"
+  },
+  "260": {
+    "id": "260",
+    "text": "oblastní sjezd"
+  },
+  "261": {
+    "id": "261",
+    "text": "třídenní oblastní sjezd"
+  },
+  "262": {
+    "id": "262",
+    "text": "Obsah shromáždění"
+  },
+  "263": {
+    "id": "263",
+    "text": "bod programu",
+    "annotation": "(: část programu, tj. přednáška, rozhovor, atd.)"
+  },
+  "264": {
+    "id": "264",
+    "text": "Příští týden budu mít na shromáždění bod programu."
+  },
+  "265": {
+    "id": "265",
+    "text": "úkol",
+    "annotation": "(: například v teokratické škole)"
+  },
+  "266": {
+    "id": "266",
+    "text": "úkol číslo 1"
+  },
+  "267": {
+    "id": "267",
+    "text": "dostat úkol"
+  },
+  "268": {
+    "id": "268",
+    "text": "mít úkol"
+  },
+  "269": {
+    "id": "269",
+    "text": "řečnický znak",
+    "annotation": "(: z knihy Využívej vzdělávání v teokratické škole)"
+  },
+  "270": {
+    "id": "270",
+    "text": "Sestra XXX pracovala na řečnickém znaku číslo 23."
+  },
+  "271": {
+    "id": "271",
+    "text": "proslov",
+    "annotation": "(: přednáška)"
+  },
+  "272": {
+    "id": "272",
+    "text": "dobře připravený proslov"
+  },
+  "273": {
+    "id": "273",
+    "text": "veřejná přednáška"
+  },
+  "274": {
+    "id": "274",
+    "text": "pětiminutový proslov"
+  },
+  "275": {
+    "id": "275",
+    "text": "mít přednášku"
+  },
+  "276": {
+    "id": "276",
+    "text": "řečník"
+  },
+  "277": {
+    "id": "277",
+    "text": "demonstrace"
+  },
+  "278": {
+    "id": "278",
+    "text": "Podívejme se na tuto demonstraci."
+  },
+  "279": {
+    "id": "279",
+    "text": "předvést XXX",
+    "annotation": "(: ukázat, jak se něco dělá nebo děje)"
+  },
+  "280": {
+    "id": "280",
+    "text": "Sestra XXX předvede, jak nabídnout časopisy na tento měsíc."
+  },
+  "281": {
+    "id": "281",
+    "text": "Důležité myšlenky ze čtení Bible",
+    "annotation": "(: 10minutový bod programu v teokratické škole)"
+  },
+  "282": {
+    "id": "282",
+    "text": "Čtení Bible"
+  },
+  "283": {
+    "id": "283",
+    "text": "Místní potřeby",
+    "annotation": "(: proslov o místních potřebách )"
+  },
+  "284": {
+    "id": "284",
+    "text": "Schránka otázek",
+    "annotation": "(: v Naší službě Království)"
+  },
+  "285": {
+    "id": "285",
+    "text": "Písně a  modlitby"
+  },
+  "286": {
+    "id": "286",
+    "text": "píseň"
+  },
+  "287": {
+    "id": "287",
+    "text": "úvodní píseň"
+  },
+  "288": {
+    "id": "288",
+    "text": "závěrečná píseň"
+  },
+  "289": {
+    "id": "289",
+    "text": "Název této písně je…"
+  },
+  "290": {
+    "id": "290",
+    "text": "Píseň je založena na…"
+  },
+  "291": {
+    "id": "291",
+    "text": "Naše shromáždění začneme písní ke chvále Jehovy."
+  },
+  "292": {
+    "id": "292",
+    "text": "Shromáždění začneme písní, po které bude následovat modlitba."
+  },
+  "293": {
+    "id": "293",
+    "text": "Tato píseň byla vybrána naším řečníkem a je v souladu s námětem jeho přednášky."
+  },
+  "294": {
+    "id": "294",
+    "text": "Tato píseň je v souladu s námětem přednášky."
+  },
+  "295": {
+    "id": "295",
+    "text": "Na závěr shromáždění zazpíváme píseň."
+  },
+  "296": {
+    "id": "296",
+    "text": "píseň číslo 20"
+  },
+  "297": {
+    "id": "297",
+    "text": "Poslechněme si píseň číslo 20."
+  },
+  "298": {
+    "id": "298",
+    "text": "zpěvník"
+  },
+  "299": {
+    "id": "299",
+    "text": "Otevřme náš zpěvník na písni číslo 10."
+  },
+  "300": {
+    "id": "300",
+    "text": "zpívat píseň"
+  },
+  "301": {
+    "id": "301",
+    "text": "Zazpívejme píseň číslo 30."
+  },
+  "302": {
+    "id": "302",
+    "text": "Během zpěvu písně můžeme přemýšlet o jejích slovech."
+  },
+  "303": {
+    "id": "303",
+    "text": "modlitba"
+  },
+  "304": {
+    "id": "304",
+    "text": "úvodní modlitba"
+  },
+  "305": {
+    "id": "305",
+    "text": "závěrečná modlitba"
+  },
+  "306": {
+    "id": "306",
+    "text": "pomodlit se"
+  },
+  "307": {
+    "id": "307",
+    "text": "Bratře XXX, pomodlil by ses prosím?"
+  },
+  "308": {
+    "id": "308",
+    "text": "modlit se"
+  },
+  "309": {
+    "id": "309",
+    "text": "modlit se k Jehovovi"
+  },
+  "310": {
+    "id": "310",
+    "text": "Po písni se pomodlíme k Jehovovi."
+  },
+  "311": {
+    "id": "311",
+    "text": "Oznámení"
+  },
+  "312": {
+    "id": "312",
+    "text": "oznámení",
+    "annotation": "(: např. na služebním shromáždění)"
+  },
+  "313": {
+    "id": "313",
+    "text": "Mám nějaká oznámení."
+  },
+  "314": {
+    "id": "314",
+    "text": "oznámit XXX"
+  },
+  "315": {
+    "id": "315",
+    "text": "oznámit schůzky před službou"
+  },
+  "316": {
+    "id": "316",
+    "text": "Jsme rádi, že můžeme oznámit…"
+  },
+  "317": {
+    "id": "317",
+    "text": "S lítostí oznamujeme, že…"
+  },
+  "318": {
+    "id": "318",
+    "text": "dopis",
+    "annotation": "(: např. z odbočky)"
+  },
+  "319": {
+    "id": "319",
+    "text": "Obdrželi jsme dopis z odbočky."
+  },
+  "320": {
+    "id": "320",
+    "text": "Chtěl bych pozvat na scénu bratra XXX, aby přečetl dopis od Společnosti."
+  },
+  "321": {
+    "id": "321",
+    "text": "rezoluce"
+  },
+  "322": {
+    "id": "322",
+    "text": "přednést rezoluci"
+  },
+  "323": {
+    "id": "323",
+    "text": "Rádi bychom sboru přednesli následující rezoluci."
+  },
+  "324": {
+    "id": "324",
+    "text": "hlasovat"
+  },
+  "325": {
+    "id": "325",
+    "text": "zvednout ruku",
+    "annotation": "(: při hlasování)"
+  },
+  "326": {
+    "id": "326",
+    "text": "Zvedněte prosím ruku, pokud souhlasíte s rezolucí."
+  },
+  "327": {
+    "id": "327",
+    "text": "Zvedněte prosím ruku, pokud nesouhlasíte s rezolucí."
+  },
+  "328": {
+    "id": "328",
+    "text": "Zvedněte prosím ruku, pokud se zdržujete hlasování."
+  },
+  "329": {
+    "id": "329",
+    "text": "Nyní můžete dát ruce dolů."
+  },
+  "330": {
+    "id": "330",
+    "text": "Možná si budete chtít udělat poznámky."
+  },
+  "331": {
+    "id": "331",
+    "text": "Odevzdejte prosím vaši zprávu o kazatelské službě dozorci skupiny."
+  },
+  "332": {
+    "id": "332",
+    "text": "Tento týden odpovídá za úklid sálu Království Skupina 2."
+  },
+  "333": {
+    "id": "333",
+    "text": "Tuto sobotu bude schůzka před službou v 11:00h v domě sestry XXX."
+  },
+  "334": {
+    "id": "334",
+    "text": "Schůzka před službou se bude konat pět minut po skončení dnešního shromáždění."
+  },
+  "335": {
+    "id": "335",
+    "text": "Schůzka před službou proběhne v sále druhé třídy školy."
+  },
+  "336": {
+    "id": "336",
+    "text": "Schůzku před službou povede bratr XXX."
+  },
+  "337": {
+    "id": "337",
+    "text": "Máme oznámení, která se týkají blížícího se oblastního sjezdu."
+  },
+  "338": {
+    "id": "338",
+    "text": "Náš oblastní sjezd se bude konat …"
+  },
+  "339": {
+    "id": "339",
+    "text": "Místem konání oblastního sjezdu je …"
+  },
+  "340": {
+    "id": "340",
+    "text": "Program sjezdu začíná dopoledne v 9:50h."
+  },
+  "341": {
+    "id": "341",
+    "text": "Program sjezdu končí v 15:45h."
+  },
+  "342": {
+    "id": "342",
+    "text": "Pokud si chcete zarezervovat místo v autobuse, obraťte se prosím na bratra XXX."
+  },
+  "343": {
+    "id": "343",
+    "text": "12. března zesnula sestra XXX."
+  },
+  "344": {
+    "id": "344",
+    "text": "Její pohřeb se bude konat příští úterý v sále Království."
+  },
+  "345": {
+    "id": "345",
+    "text": "XXX opustil společenství."
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX byl vyloučen z křesťanského sboru."
+  },
+  "347": {
+    "id": "347",
+    "text": "Přivítání a úvod"
+  },
+  "348": {
+    "id": "348",
+    "text": "předsedající",
+    "annotation": "(: bratr, který uvádí řečníky na shromážděních a sjezdech)"
+  },
+  "349": {
+    "id": "349",
+    "text": "uvést příští přednášku"
+  },
+  "350": {
+    "id": "350",
+    "text": "tleskat"
+  },
+  "351": {
+    "id": "351",
+    "text": "potlesk"
+  },
+  "352": {
+    "id": "352",
+    "text": "Potlesk ukazuje, že se posluchačům přednáška líbila."
+  },
+  "353": {
+    "id": "353",
+    "text": "Naše shromáždění začne za dvě minuty."
+  },
+  "354": {
+    "id": "354",
+    "text": "Vítejte!"
+  },
+  "355": {
+    "id": "355",
+    "text": "Vítáme vás na tomto večerním shromáždění."
+  },
+  "356": {
+    "id": "356",
+    "text": "Vítejte bratři a sestry."
+  },
+  "357": {
+    "id": "357",
+    "text": "Vítejte na tomto večerním shromáždění."
+  },
+  "358": {
+    "id": "358",
+    "text": "Zaujměte prosím svá místa."
+  },
+  "359": {
+    "id": "359",
+    "text": "Posaďte se prosím."
+  },
+  "360": {
+    "id": "360",
+    "text": "Posaďte se prosím na svá místa."
+  },
+  "361": {
+    "id": "361",
+    "text": "Pokud je to možné, zůstaňte stát."
+  },
+  "362": {
+    "id": "362",
+    "text": "Uděláme si nyní 10minutovou přestávku. Buďte prosím zpět na svých místech ve 3:15."
+  },
+  "363": {
+    "id": "363",
+    "text": "Dnes večer se naše shromáždění skládá ze dvou částí."
+  },
+  "364": {
+    "id": "364",
+    "text": "Další část našeho shromáždění je studium Strážné věže."
+  },
+  "365": {
+    "id": "365",
+    "text": "Chtěl bych na scénu pozvat bratra XXX."
+  },
+  "366": {
+    "id": "366",
+    "text": "Věnujme mu bedlivou pozornost."
+  },
+  "367": {
+    "id": "367",
+    "text": "Tento rozhovor povede bratr XXX."
+  },
+  "368": {
+    "id": "368",
+    "text": "Nyní bratr XXX povede sborové studium knihy."
+  },
+  "369": {
+    "id": "369",
+    "text": "Bratr XXX přečte z 5. kapitoly verše 12 až 25."
+  },
+  "370": {
+    "id": "370",
+    "text": "Sestra XXX předvede druhou demonstraci z kazatelské služby z \"Naší služby Království\"."
+  },
+  "371": {
+    "id": "371",
+    "text": "Nyní si vyslechněme dvě sestry, jak hovoří o následujícím námětu: \"…\""
+  },
+  "372": {
+    "id": "372",
+    "text": "Rozhovor povede sestra XXX."
+  },
+  "373": {
+    "id": "373",
+    "text": "Její partnerkou bude sestra YYY."
+  },
+  "374": {
+    "id": "374",
+    "text": "Sestra YYY bude v roli majitelky domu."
+  },
+  "375": {
+    "id": "375",
+    "text": "Rámec tohoto úkolu je …"
+  },
+  "376": {
+    "id": "376",
+    "text": "Jsme velmi rádi, že dnes můžeme přivítat hostujícího řečníka, který přednese přednášku."
+  },
+  "377": {
+    "id": "377",
+    "text": "S přednáškou vystoupí bratr XXX ze sboru YYY."
+  },
+  "378": {
+    "id": "378",
+    "text": "Námět jeho přednášky je …"
+  },
+  "379": {
+    "id": "379",
+    "text": "Bratře XXX, děkujeme Ti, že jsi s námi pohovořil o tomto námětu."
+  },
+  "380": {
+    "id": "380",
+    "text": "Všech 75 přítomných si se zájmem vyslechlo tvoji přednášku."
+  },
+  "381": {
+    "id": "381",
+    "text": "Jsme velmi rádi, že tento týden nás navštívil cestující dozorce s manželkou."
+  },
+  "382": {
+    "id": "382",
+    "text": "Název první přednášky na služebním shormáždění, kterou přednese cestujícího dozorce, je …"
+  },
+  "383": {
+    "id": "383",
+    "text": "Přivezl jsem pozdravy od rodiny betel v XXX."
+  },
+  "384": {
+    "id": "384",
+    "text": "Mohu od vás předat pozdravy sboru XXX?"
+  },
+  "386": {
+    "id": "386",
+    "text": "Výuka a rozhovory"
+  },
+  "387": {
+    "id": "387",
+    "text": "Biblické knihy"
+  },
+  "388": {
+    "id": "388",
+    "text": "Hebrejská písma"
+  },
+  "389": {
+    "id": "389",
+    "text": "1. Mojžíšova; Genesis"
+  },
+  "390": {
+    "id": "390",
+    "text": "2. Mojžíšova; Exodus"
+  },
+  "391": {
+    "id": "391",
+    "text": "3. Mojžíšova; Levitikus"
+  },
+  "392": {
+    "id": "392",
+    "text": "4. Mojžíšova; Numeri"
+  },
+  "393": {
+    "id": "393",
+    "text": "5. Mojžíšova; Deuteronomium"
+  },
+  "394": {
+    "id": "394",
+    "text": "Jozue"
+  },
+  "395": {
+    "id": "395",
+    "text": "Soudci"
+  },
+  "396": {
+    "id": "396",
+    "text": "Rut"
+  },
+  "397": {
+    "id": "397",
+    "text": "1. Samuelova"
+  },
+  "398": {
+    "id": "398",
+    "text": "2. Samuelova"
+  },
+  "399": {
+    "id": "399",
+    "text": "1. Královská"
+  },
+  "400": {
+    "id": "400",
+    "text": "2. Královská"
+  },
+  "401": {
+    "id": "401",
+    "text": "1. Paralipomenon"
+  },
+  "402": {
+    "id": "402",
+    "text": "2. Paralipomenon"
+  },
+  "403": {
+    "id": "403",
+    "text": "Ezra"
+  },
+  "404": {
+    "id": "404",
+    "text": "Nehemjáš"
+  },
+  "405": {
+    "id": "405",
+    "text": "Ester"
+  },
+  "406": {
+    "id": "406",
+    "text": "Job"
+  },
+  "407": {
+    "id": "407",
+    "text": "Žalmy"
+  },
+  "408": {
+    "id": "408",
+    "text": "Přísloví"
+  },
+  "409": {
+    "id": "409",
+    "text": "Kazatel"
+  },
+  "410": {
+    "id": "410",
+    "text": "Šalomounova píseň"
+  },
+  "411": {
+    "id": "411",
+    "text": "Izajáš"
+  },
+  "412": {
+    "id": "412",
+    "text": "Jeremjáš"
+  },
+  "413": {
+    "id": "413",
+    "text": "Nářky"
+  },
+  "414": {
+    "id": "414",
+    "text": "Ezekiel"
+  },
+  "415": {
+    "id": "415",
+    "text": "Daniel"
+  },
+  "416": {
+    "id": "416",
+    "text": "Ozeáš"
+  },
+  "417": {
+    "id": "417",
+    "text": "Joel"
+  },
+  "418": {
+    "id": "418",
+    "text": "Amos"
+  },
+  "419": {
+    "id": "419",
+    "text": "Obadjáš"
+  },
+  "420": {
+    "id": "420",
+    "text": "Jonáš"
+  },
+  "421": {
+    "id": "421",
+    "text": "Micheáš"
+  },
+  "422": {
+    "id": "422",
+    "text": "Nahum"
+  },
+  "423": {
+    "id": "423",
+    "text": "Habakuk"
+  },
+  "424": {
+    "id": "424",
+    "text": "Sefanjáš"
+  },
+  "425": {
+    "id": "425",
+    "text": "Ageus"
+  },
+  "426": {
+    "id": "426",
+    "text": "Zecharjáš"
+  },
+  "427": {
+    "id": "427",
+    "text": "Malachiáš"
+  },
+  "428": {
+    "id": "428",
+    "text": "Řecká písma"
+  },
+  "429": {
+    "id": "429",
+    "text": "Matouš"
+  },
+  "430": {
+    "id": "430",
+    "text": "Marek"
+  },
+  "431": {
+    "id": "431",
+    "text": "Lukáš"
+  },
+  "432": {
+    "id": "432",
+    "text": "Jan"
+  },
+  "433": {
+    "id": "433",
+    "text": "Skutky apoštolů"
+  },
+  "434": {
+    "id": "434",
+    "text": "Římanům"
+  },
+  "435": {
+    "id": "435",
+    "text": "1. Korinťanům"
+  },
+  "436": {
+    "id": "436",
+    "text": "2. Korinťanům"
+  },
+  "437": {
+    "id": "437",
+    "text": "Galaťanům"
+  },
+  "438": {
+    "id": "438",
+    "text": "Efezanům"
+  },
+  "439": {
+    "id": "439",
+    "text": "Filipanům"
+  },
+  "440": {
+    "id": "440",
+    "text": "Kolosanům"
+  },
+  "441": {
+    "id": "441",
+    "text": "1. Tesaloničanům"
+  },
+  "442": {
+    "id": "442",
+    "text": "2. Tesaloničanům"
+  },
+  "443": {
+    "id": "443",
+    "text": "1. Timoteovi"
+  },
+  "444": {
+    "id": "444",
+    "text": "2. Timoteovi"
+  },
+  "445": {
+    "id": "445",
+    "text": "Titovi"
+  },
+  "446": {
+    "id": "446",
+    "text": "Filemonovi"
+  },
+  "447": {
+    "id": "447",
+    "text": "Hebrejcům"
+  },
+  "448": {
+    "id": "448",
+    "text": "Jakub"
+  },
+  "449": {
+    "id": "449",
+    "text": "1. Petra"
+  },
+  "450": {
+    "id": "450",
+    "text": "2. Petra"
+  },
+  "451": {
+    "id": "451",
+    "text": "1. Jana"
+  },
+  "452": {
+    "id": "452",
+    "text": "2. Jana"
+  },
+  "453": {
+    "id": "453",
+    "text": "3. Jana"
+  },
+  "454": {
+    "id": "454",
+    "text": "Juda"
+  },
+  "455": {
+    "id": "455",
+    "text": "Zjevení"
+  },
+  "456": {
+    "id": "456",
+    "text": "Používání Bible"
+  },
+  "457": {
+    "id": "457",
+    "text": "Bible"
+  },
+  "458": {
+    "id": "458",
+    "text": "Otevřme naše Bible."
+  },
+  "459": {
+    "id": "459",
+    "text": "Otevřme naše Bible na Jeremjášovi 10:23."
+  },
+  "460": {
+    "id": "460",
+    "text": "zpráva (/příběh)"
+  },
+  "461": {
+    "id": "461",
+    "text": "Podívejme se na tuto biblickou zprávu."
+  },
+  "462": {
+    "id": "462",
+    "text": "text"
+  },
+  "463": {
+    "id": "463",
+    "text": "Co nám tento text říká o…?"
+  },
+  "464": {
+    "id": "464",
+    "text": "Co tento verš odhaluje o…?"
+  },
+  "465": {
+    "id": "465",
+    "text": "Jak je tento text propojen s…?"
+  },
+  "466": {
+    "id": "466",
+    "text": "Co tento text znamená?"
+  },
+  "467": {
+    "id": "467",
+    "text": "Okomentujte prosím tento text."
+  },
+  "468": {
+    "id": "468",
+    "text": "Vysvětlete prosím tento text."
+  },
+  "469": {
+    "id": "469",
+    "text": "Jaké poučení si můžeme vzít z tohoto textu?"
+  },
+  "470": {
+    "id": "470",
+    "text": "Matouš, sedmá kapitola, dvanáctý verš"
+  },
+  "471": {
+    "id": "471",
+    "text": "Matouš, pátá kapitola, dvacátý třetí a dvacátý čtvrtý verš"
+  },
+  "472": {
+    "id": "472",
+    "text": "První Jana, druhá kapitola, patnáctý až sedmnáctý verš"
+  },
+  "473": {
+    "id": "473",
+    "text": "třicátý sedmý Žalm, jedenáctý verš; jedenáctý verš třicátého sedmého Žalmu"
+  },
+  "474": {
+    "id": "474",
+    "text": "Studijní materiály"
+  },
+  "475": {
+    "id": "475",
+    "text": "strana"
+  },
+  "476": {
+    "id": "476",
+    "text": "Otevřete si prosím vaše časopisy na článku na straně 20."
+  },
+  "477": {
+    "id": "477",
+    "text": "Přejděte prosím na stranu 45 studijního materiálu."
+  },
+  "478": {
+    "id": "478",
+    "text": "Přejděme na stranu 10."
+  },
+  "479": {
+    "id": "479",
+    "text": "článek"
+  },
+  "480": {
+    "id": "480",
+    "text": "série článků",
+    "annotation": "(: např. ve Strážné věži)"
+  },
+  "481": {
+    "id": "481",
+    "text": "Tento týden se podíváme na první ze série tří článků."
+  },
+  "482": {
+    "id": "482",
+    "text": "námět"
+  },
+  "483": {
+    "id": "483",
+    "text": "verš, uvedený v záhlaví článku"
+  },
+  "484": {
+    "id": "484",
+    "text": "titulek"
+  },
+  "485": {
+    "id": "485",
+    "text": "podtitulek"
+  },
+  "486": {
+    "id": "486",
+    "text": "odstavec"
+  },
+  "487": {
+    "id": "487",
+    "text": "předcházející odstavec"
+  },
+  "488": {
+    "id": "488",
+    "text": "následující odstavec"
+  },
+  "489": {
+    "id": "489",
+    "text": "následující dva odstavce"
+  },
+  "490": {
+    "id": "490",
+    "text": "Přečtěme si následující dva odstavce."
+  },
+  "491": {
+    "id": "491",
+    "text": "slovo"
+  },
+  "492": {
+    "id": "492",
+    "text": "slova napsaná tučným písmem"
+  },
+  "493": {
+    "id": "493",
+    "text": "slova napsaná kurzívou"
+  },
+  "494": {
+    "id": "494",
+    "text": "poznámka pod čarou"
+  },
+  "495": {
+    "id": "495",
+    "text": "dodatek"
+  },
+  "496": {
+    "id": "496",
+    "text": "rámeček"
+  },
+  "497": {
+    "id": "497",
+    "text": "obrázek"
+  },
+  "498": {
+    "id": "498",
+    "text": "Děti, jak se jmenuje ten člověk na obrázku?"
+  },
+  "499": {
+    "id": "499",
+    "text": "popisek",
+    "annotation": "(: u obrázku)"
+  },
+  "500": {
+    "id": "500",
+    "text": "Otázky a odpovědi"
+  },
+  "501": {
+    "id": "501",
+    "text": "odpověď"
+  },
+  "502": {
+    "id": "502",
+    "text": "odpovědět"
+  },
+  "503": {
+    "id": "503",
+    "text": "otázka"
+  },
+  "504": {
+    "id": "504",
+    "text": "projít otázky",
+    "annotation": "(: např. v knize Co Bible doopravdy říká)"
+  },
+  "505": {
+    "id": "505",
+    "text": "zopakovat otázky",
+    "annotation": "(: např. při studiu Strážné věže)"
+  },
+  "506": {
+    "id": "506",
+    "text": "položit otázku"
+  },
+  "507": {
+    "id": "507",
+    "text": "odpovědět"
+  },
+  "508": {
+    "id": "508",
+    "text": "komentář"
+  },
+  "509": {
+    "id": "509",
+    "text": "dát komentář"
+  },
+  "510": {
+    "id": "510",
+    "text": "Přelož prosím jeho komentář."
+  },
+  "511": {
+    "id": "511",
+    "text": "Nějaké další komentáře?"
+  },
+  "512": {
+    "id": "512",
+    "text": "Omezte prosím délku svých komentářů na 30 sekund."
+  },
+  "513": {
+    "id": "513",
+    "text": "komentovat"
+  },
+  "514": {
+    "id": "514",
+    "text": "Kdo by chtěl okomentovat čtení Bible na tento týden?"
+  },
+  "515": {
+    "id": "515",
+    "text": "okomentovat obrázek"
+  },
+  "516": {
+    "id": "516",
+    "text": "rozhovor"
+  },
+  "517": {
+    "id": "517",
+    "text": "rozhovor s otázky a odpověďmi"
+  },
+  "518": {
+    "id": "518",
+    "text": "hovořit o"
+  },
+  "519": {
+    "id": "519",
+    "text": "hovořit o denním textu"
+  },
+  "520": {
+    "id": "520",
+    "text": "Nyní společně pohovoříme o tomto článku."
+  },
+  "521": {
+    "id": "521",
+    "text": "vést (rozhovor)"
+  },
+  "522": {
+    "id": "522",
+    "text": "Bratře XXX děkujeme Ti za vedení toho rozhovoru."
+  },
+  "523": {
+    "id": "523",
+    "text": "vedoucí"
+  },
+  "524": {
+    "id": "524",
+    "text": "vedoucí studia Strážné věže"
+  },
+  "525": {
+    "id": "525",
+    "text": "uvažovat",
+    "annotation": "(: zaměřit se na něco v rozhovoru)"
+  },
+  "526": {
+    "id": "526",
+    "text": "Nyní budeme uvažovat nad jednou důležitou otázkou."
+  },
+  "527": {
+    "id": "527",
+    "text": "číst",
+    "annotation": "(: nahlas, např. na shromáždění)"
+  },
+  "528": {
+    "id": "528",
+    "text": "Kdo může přečíst odstavec 2?"
+  },
+  "529": {
+    "id": "529",
+    "text": "Přečti prosím odstavec 2."
+  },
+  "530": {
+    "id": "530",
+    "text": "Děkueme Ti bratře XXX za čtení."
+  },
+  "531": {
+    "id": "531",
+    "text": "zopakovat"
+  },
+  "532": {
+    "id": "532",
+    "text": "Zopakujme si hlavní body tohoto článku."
+  },
+  "533": {
+    "id": "533",
+    "text": "hlavní bod"
+  },
+  "534": {
+    "id": "534",
+    "text": "Jaké jsou hlavní body, které jsme si odnesli z materiálu pro tento týden?"
+  },
+  "535": {
+    "id": "535",
+    "text": "uplatnit něco někde"
+  },
+  "536": {
+    "id": "536",
+    "text": "Jak to můžeme uplatnit v …?"
+  },
+  "537": {
+    "id": "537",
+    "text": "Jak to můžeme uplatnit ve službě?"
+  },
+  "538": {
+    "id": "538",
+    "text": "shrnout"
+  },
+  "539": {
+    "id": "539",
+    "text": "Jak můžeme shrnout tyto odstavce?"
+  },
+  "540": {
+    "id": "540",
+    "text": "Bratři a sestry",
+    "annotation": "(: abychom upoutali pozornost, nebo když se poprvé obracíme k posluchačům)"
+  },
+  "541": {
+    "id": "541",
+    "text": "Bratře XXX",
+    "annotation": "(: když oslovujeme někoho, aby podal  na shromáždění komentář)"
+  },
+  "542": {
+    "id": "542",
+    "text": "Sestro XXX",
+    "annotation": "(: když oslovujeme někoho, aby podal na shromáždění komentář)"
+  },
+  "543": {
+    "id": "543",
+    "text": "Zvedni prosím ruku."
+  },
+  "544": {
+    "id": "544",
+    "text": "Počkej prosím na mikrofon."
+  },
+  "545": {
+    "id": "545",
+    "text": "Zapni si prosím mikrofon."
+  },
+  "546": {
+    "id": "546",
+    "text": "Drž prosím správně mikrofon."
+  },
+  "547": {
+    "id": "547",
+    "text": "Velmi dobře.",
+    "annotation": "(: toto řekni po dobrém úkolu nebo komentáři, atd.)"
+  },
+  "548": {
+    "id": "548",
+    "text": "Slova vyjadřující následnost"
+  },
+  "549": {
+    "id": "549",
+    "text": "Nyní; příští …"
+  },
+  "550": {
+    "id": "550",
+    "text": "Nyní si přečtěme odstavec 3."
+  },
+  "551": {
+    "id": "551",
+    "text": "Nyní budeme uvažovat nad …"
+  },
+  "552": {
+    "id": "552",
+    "text": "Nyní budeme uvažovat nad následující otázkou."
+  },
+  "553": {
+    "id": "553",
+    "text": "Nyní budeme uvažovat nad následujícím problémem."
+  },
+  "554": {
+    "id": "554",
+    "text": "Nyní budeme uvažovat nad následujícím námětem."
+  },
+  "555": {
+    "id": "555",
+    "text": "Nejdříve …"
+  },
+  "556": {
+    "id": "556",
+    "text": "Později …"
+  },
+  "557": {
+    "id": "557",
+    "text": "Nakonec …"
+  },
+  "558": {
+    "id": "558",
+    "text": "minulý týden"
+  },
+  "559": {
+    "id": "559",
+    "text": "tento týden"
+  },
+  "560": {
+    "id": "560",
+    "text": "Tento týden budeme uvažovat nad odstavci 10 až 18."
+  },
+  "561": {
+    "id": "561",
+    "text": "Tento týden nám bude číst bratr XXX."
+  },
+  "562": {
+    "id": "562",
+    "text": "příští týden"
+  },
+  "563": {
+    "id": "563",
+    "text": "O čem budeme mluvit příští týden?"
+  },
+  "564": {
+    "id": "564",
+    "text": "minule"
+  },
+  "565": {
+    "id": "565",
+    "text": "příště"
+  },
+  "566": {
+    "id": "566",
+    "text": "Pokračujme."
+  },
+  "567": {
+    "id": "567",
+    "text": "Obávám se, že jsme již vyčerpali čas."
+  },
+  "568": {
+    "id": "568",
+    "text": "Zbývá nám málo času, proto budeme pokračovat."
+  },
+  "569": {
+    "id": "569",
+    "text": "To je vše, na co jsme měli čas."
+  },
+  "570": {
+    "id": "570",
+    "text": "Zde musíme skončit."
+  },
+  "572": {
+    "id": "572",
+    "text": "Kázání"
+  },
+  "573": {
+    "id": "573",
+    "text": "Kazatelská služba"
+  },
+  "574": {
+    "id": "574",
+    "text": "kazatelská služba"
+  },
+  "575": {
+    "id": "575",
+    "text": "jít do služby s XXX"
+  },
+  "576": {
+    "id": "576",
+    "text": "Kdy spolu můžeme jít do kazatelské služby?"
+  },
+  "577": {
+    "id": "577",
+    "text": "kázání"
+  },
+  "578": {
+    "id": "578",
+    "text": "kazatelská služba"
+  },
+  "579": {
+    "id": "579",
+    "text": "kázat"
+  },
+  "580": {
+    "id": "580",
+    "text": "kázat XXX",
+    "annotation": "(: komu)"
+  },
+  "581": {
+    "id": "581",
+    "text": "vydávat svěděctví XXX",
+    "annotation": "(: komu)"
+  },
+  "582": {
+    "id": "582",
+    "text": "vydat svěděctví XXX",
+    "annotation": "(: komu)"
+  },
+  "583": {
+    "id": "583",
+    "text": "vydávání svěděctví"
+  },
+  "584": {
+    "id": "584",
+    "text": "vydávání svědectví dům od domu"
+  },
+  "585": {
+    "id": "585",
+    "text": "vydávání svěděctví na ulici"
+  },
+  "586": {
+    "id": "586",
+    "text": "neformální vydávání svědectví"
+  },
+  "587": {
+    "id": "587",
+    "text": "vydávání svědectví v obchodech a firmách"
+  },
+  "588": {
+    "id": "588",
+    "text": "opětovná návštěva"
+  },
+  "589": {
+    "id": "589",
+    "text": "Šel bys se mnou zítra na opětovnou návštěvu?"
+  },
+  "590": {
+    "id": "590",
+    "text": "jít na opětovnou návštěvu"
+  },
+  "591": {
+    "id": "591",
+    "text": "biblické studium"
+  },
+  "592": {
+    "id": "592",
+    "text": "zahájit biblické studium"
+  },
+  "593": {
+    "id": "593",
+    "text": "vést biblické studium"
+  },
+  "594": {
+    "id": "594",
+    "text": "Příští týden budu mít biblické studium. Chtěl bys jít se mnou?"
+  },
+  "595": {
+    "id": "595",
+    "text": "učitel"
+  },
+  "596": {
+    "id": "596",
+    "text": "zájemce"
+  },
+  "597": {
+    "id": "597",
+    "text": "zájemce"
+  },
+  "598": {
+    "id": "598",
+    "text": "rozvíjet projevený zájem",
+    "annotation": "(: opětovně navštívit lidi, kteří projevili zájem)"
+  },
+  "599": {
+    "id": "599",
+    "text": "čas strávený ve službě"
+  },
+  "600": {
+    "id": "600",
+    "text": "Minulý měsíc sloužil 14 hodin v kazatelské službě."
+  },
+  "601": {
+    "id": "601",
+    "text": "Minulý měsíc odevzdal zprávu 14 hodin a jedno studium."
+  },
+  "602": {
+    "id": "602",
+    "text": "demonstrace; úvod"
+  },
+  "603": {
+    "id": "603",
+    "text": "Znáš nějaký dobrý úvod do kazatelské služby?"
+  },
+  "604": {
+    "id": "604",
+    "text": "zkušenost",
+    "annotation": "(: např. něco, co se stalo ve službě)"
+  },
+  "605": {
+    "id": "605",
+    "text": "Máš nějaké zajímavé zkušenosti ze služby v minulém měsíci?"
+  },
+  "606": {
+    "id": "606",
+    "text": "Bratr XXX nám nyní řekne zajímavou zkušenost."
+  },
+  "607": {
+    "id": "607",
+    "text": "Naše služba Království"
+  },
+  "608": {
+    "id": "608",
+    "text": "příloha"
+  },
+  "609": {
+    "id": "609",
+    "text": "Přineste si prosím na schůzku před službou přílohu Naší služby Království z prosince 2006."
+  },
+  "610": {
+    "id": "610",
+    "text": "nabídka",
+    "annotation": "(: publikace, která se nabízí ve službě v určitém období)"
+  },
+  "611": {
+    "id": "611",
+    "text": "Co nabízíme tento měsíc?"
+  },
+  "612": {
+    "id": "612",
+    "text": "Jakou literaturu nabízíme tento měsíc?"
+  },
+  "613": {
+    "id": "613",
+    "text": "kampaň",
+    "annotation": "(: období zvýšené aktivity, během kterého je rozšiřován zvláštní traktát)"
+  },
+  "614": {
+    "id": "614",
+    "text": "Kdy začíná kampaň?"
+  },
+  "615": {
+    "id": "615",
+    "text": "partner",
+    "annotation": "(: např. ve službě)"
+  },
+  "616": {
+    "id": "616",
+    "text": "Kdo nemá partnera do služby?"
+  },
+  "617": {
+    "id": "617",
+    "text": "Bratře XXX, ty můžeš spolupracovat s bratrem YYY."
+  },
+  "618": {
+    "id": "618",
+    "text": "Kdo potřebuje odvoz?",
+    "annotation": "(: Kdo potřebuje pomoc, aby se dostal do obvodu?)"
+  },
+  "619": {
+    "id": "619",
+    "text": "obvod (pro kazatelskou službu)"
+  },
+  "620": {
+    "id": "620",
+    "text": "Kdo potřebuje obvod?"
+  },
+  "621": {
+    "id": "621",
+    "text": "Nějaké problémy?"
+  },
+  "622": {
+    "id": "622",
+    "text": "Nějaké otázky?"
+  },
+  "623": {
+    "id": "623",
+    "text": "Pojďme!",
+    "annotation": "(: Pojďme nyní společně do kazatelské služby.)"
+  },
+  "624": {
+    "id": "624",
+    "text": "Úvody"
+  },
+  "625": {
+    "id": "625",
+    "text": "Dobrý den. Jmenuji se XXX"
+  },
+  "626": {
+    "id": "626",
+    "text": "Promiňte.",
+    "annotation": "(: výraz, který se používá, abychom ve službě taktně upoutali něčí pozornost)"
+  },
+  "627": {
+    "id": "627",
+    "text": "Učím se XXX.",
+    "annotation": "(: XXX je jazyk.)"
+  },
+  "628": {
+    "id": "628",
+    "text": "Mluvíte XXX?",
+    "annotation": "(: XXX je jazyk)"
+  },
+  "629": {
+    "id": "629",
+    "text": "Hledám lidi, kteří mluví XXX.",
+    "annotation": "(: XXX je jazyk)"
+  },
+  "630": {
+    "id": "630",
+    "text": "Jsem rád(-a), že jsem Vás zastihl(-a) doma."
+  },
+  "631": {
+    "id": "631",
+    "text": "Jsem rád(-a), že Vás zase vidím."
+  },
+  "632": {
+    "id": "632",
+    "text": "Jsem rád(-a), že s Vámi mohu zase mluvit."
+  },
+  "633": {
+    "id": "633",
+    "text": "Je mi líto, že jsem přišel (přišla) v nevhodnou dobu."
+  },
+  "634": {
+    "id": "634",
+    "text": "Vidím, že teď nemáte čas."
+  },
+  "635": {
+    "id": "635",
+    "text": "Budu stručný (stručná)."
+  },
+  "636": {
+    "id": "636",
+    "text": "Navštěvujeme všechny domácnosti v tomto místě."
+  },
+  "637": {
+    "id": "637",
+    "text": "Dnes krátce navštěvujeme naše sousedy."
+  },
+  "638": {
+    "id": "638",
+    "text": "Při rozhovorech s lidmi jsem si povšiml(-a), že …"
+  },
+  "639": {
+    "id": "639",
+    "text": "Při rozhovorech s lidmi jsme zjistili, že …"
+  },
+  "640": {
+    "id": "640",
+    "text": "Mluvíme s našimi sousedy o tom, kde najít praktickou pomoc při řešení našich životních problémů."
+  },
+  "641": {
+    "id": "641",
+    "text": "Mluvím s našimi sousedy o …"
+  },
+  "642": {
+    "id": "642",
+    "text": "Mluvíme s lidmi o …"
+  },
+  "643": {
+    "id": "643",
+    "text": "Mluvíme se všemi o …"
+  },
+  "644": {
+    "id": "644",
+    "text": "Mluvím se svými sousedy o jednom problému, se kterým se všichni potýkáme."
+  },
+  "645": {
+    "id": "645",
+    "text": "Dnes se všech ptáme na jednu otázku."
+  },
+  "646": {
+    "id": "646",
+    "text": "Dnes se ptáme svých sousedů …"
+  },
+  "647": {
+    "id": "647",
+    "text": "Rád bych se Vás zeptal na jednu otázku."
+  },
+  "648": {
+    "id": "648",
+    "text": "Přemýšlel jste někdy, jestli …?"
+  },
+  "649": {
+    "id": "649",
+    "text": "Přemýšlel jste někdy, jestli se Bůh opravdu zajímá o nespravedlnost a utrpení, které lidé zažívají?"
+  },
+  "650": {
+    "id": "650",
+    "text": "Získání kontaktu"
+  },
+  "651": {
+    "id": "651",
+    "text": "Jak bych Vás mohl kontaktovat?"
+  },
+  "652": {
+    "id": "652",
+    "text": "Mohl byste mi dát Vaše telefonní číslo?"
+  },
+  "653": {
+    "id": "653",
+    "text": "Číslo mého mobilu je …"
+  },
+  "654": {
+    "id": "654",
+    "text": "Zavolám Vám před tím, než přijdu …"
+  },
+  "655": {
+    "id": "655",
+    "text": "Pošlu Vám textovou zprávu (SMS)."
+  },
+  "656": {
+    "id": "656",
+    "text": "Dostal jste moji textovou zprávu?"
+  },
+  "657": {
+    "id": "657",
+    "text": "Můžeme se sejít jindy."
+  },
+  "658": {
+    "id": "658",
+    "text": "Pojďme se domluvit."
+  },
+  "659": {
+    "id": "659",
+    "text": "Kdy by Vám to vyhovovalo?"
+  },
+  "660": {
+    "id": "660",
+    "text": "Kdy by Vám vyhovovalo se setkat?"
+  },
+  "661": {
+    "id": "661",
+    "text": "Omlouvám se, ale zítra mi to nevyhovuje."
+  },
+  "662": {
+    "id": "662",
+    "text": "Kdy je pro Vás nejlepší, abych zavolal(-a)?"
+  },
+  "663": {
+    "id": "663",
+    "text": "Kdy je pro Vás nejlepší, abych Vás navštívil(-a)?"
+  },
+  "664": {
+    "id": "664",
+    "text": "Co třeba příští týden?"
+  },
+  "665": {
+    "id": "665",
+    "text": "Vyhovuje Vám příští úterý odpoledne?"
+  },
+  "666": {
+    "id": "666",
+    "text": "Budete v obchodě?"
+  },
+  "667": {
+    "id": "667",
+    "text": "Budete doma?"
+  },
+  "668": {
+    "id": "668",
+    "text": "Můžeme se sejít na čaj (/kafe)."
+  },
+  "669": {
+    "id": "669",
+    "text": "Můžeme se sejít, abychom si popovídali."
+  },
+  "670": {
+    "id": "670",
+    "text": "Budete mít čas příští týden?"
+  },
+  "671": {
+    "id": "671",
+    "text": "Měl byste zítra 10 minut?"
+  },
+  "672": {
+    "id": "672",
+    "text": "Můžeme se sejít trochu dříve?"
+  },
+  "673": {
+    "id": "673",
+    "text": "Můžeme se sejít trochu později?"
+  },
+  "674": {
+    "id": "674",
+    "text": "Omlouvám se, musím zrušit naše setkání."
+  },
+  "675": {
+    "id": "675",
+    "text": "Můžeme se domluvit na jindy?"
+  },
+  "676": {
+    "id": "676",
+    "text": "Představení Bible"
+  },
+  "677": {
+    "id": "677",
+    "text": "Přišel jsem se s Vámi podělit o důležitou myšlenku z Bible."
+  },
+  "678": {
+    "id": "678",
+    "text": "Rád bych se s Vámi podělil o povzbuzující myšlenku z Bible."
+  },
+  "679": {
+    "id": "679",
+    "text": "Dělím se se svými sousedy o povzbuzující myšlenku z Bible."
+  },
+  "680": {
+    "id": "680",
+    "text": "Povzbuzujeme lidi, aby četli Bibli."
+  },
+  "681": {
+    "id": "681",
+    "text": "Lidi často překvapí odpovědi, které dává Bible na důležité otázky. Například: …"
+  },
+  "682": {
+    "id": "682",
+    "text": "Povšimněte si prosím, co se říká zde v Bibli."
+  },
+  "683": {
+    "id": "683",
+    "text": "Chtěl byste se mnou studovat Bibli?"
+  },
+  "684": {
+    "id": "684",
+    "text": "Nabízíme lidem domácí bezplatný kurz studia Bible."
+  },
+  "685": {
+    "id": "685",
+    "text": "Nabízení literatury"
+  },
+  "686": {
+    "id": "686",
+    "text": "Rád bych Vám dal tento traktát."
+  },
+  "687": {
+    "id": "687",
+    "text": "Tento traktát mluví o …"
+  },
+  "688": {
+    "id": "688",
+    "text": "Čtení tohoto traktátu Vám nezabere moc času."
+  },
+  "689": {
+    "id": "689",
+    "text": "Je to velmi zajímavé."
+  },
+  "690": {
+    "id": "690",
+    "text": "Chtěl byste si přečíst tuto brožuru?"
+  },
+  "691": {
+    "id": "691",
+    "text": "Mohu Vám zanechat tyto časopisy?"
+  },
+  "692": {
+    "id": "692",
+    "text": "Podívejte se na tento obrázek."
+  },
+  "693": {
+    "id": "693",
+    "text": "Chtěl jsem Vám ukázat tuto knihu."
+  },
+  "694": {
+    "id": "694",
+    "text": "Podívejte se prosím, co se říká v této knize."
+  },
+  "695": {
+    "id": "695",
+    "text": "Je to bezplatné."
+  },
+  "696": {
+    "id": "696",
+    "text": "Naše dílo je podporováno dobrovolnými dary."
+  },
+  "697": {
+    "id": "697",
+    "text": "Můžete si půjčit tuto knihu."
+  },
+  "698": {
+    "id": "698",
+    "text": "Mohu Vám zapůjčit mou knihu."
+  },
+  "699": {
+    "id": "699",
+    "text": "Rád(-a) bych Vám předal(-a) informaci ve Vašem vlastním jazyce."
+  },
+  "700": {
+    "id": "700",
+    "text": "Ptát se na názor"
+  },
+  "701": {
+    "id": "701",
+    "text": "Co si o tom myslíte?",
+    "annotation": "(: Toto řekni potom, co jsi něco řekl nebo ukázal)"
+  },
+  "702": {
+    "id": "702",
+    "text": "Líbí se Vám to?"
+  },
+  "703": {
+    "id": "703",
+    "text": "Souhlasíte s …?"
+  },
+  "704": {
+    "id": "704",
+    "text": "Jak se stavíte k …?"
+  },
+  "705": {
+    "id": "705",
+    "text": "Co si myslíte o …?"
+  },
+  "706": {
+    "id": "706",
+    "text": "Příští návštěva"
+  },
+  "707": {
+    "id": "707",
+    "text": "Příště bych rád mluvil o …"
+  },
+  "708": {
+    "id": "708",
+    "text": "Příště bych rád odpověděl na důležitou otázku …"
+  },
+  "709": {
+    "id": "709",
+    "text": "Až přijdu příště, chtěl bych s Vámi mluvit o této otázce."
+  },
+  "710": {
+    "id": "710",
+    "text": "Příště můžeme mluvit o informaci z druhé kapitoly této knihy."
+  },
+  "711": {
+    "id": "711",
+    "text": "Pamatujete si, …"
+  },
+  "712": {
+    "id": "712",
+    "text": "Minule jsem nadhodil jednu otázku."
+  },
+  "713": {
+    "id": "713",
+    "text": "Tentokrát bych rád tuto otázku zodpověděl."
+  },
+  "714": {
+    "id": "714",
+    "text": "Hledat někoho"
+  },
+  "715": {
+    "id": "715",
+    "text": "Je XXX doma?"
+  },
+  "716": {
+    "id": "716",
+    "text": "Je XXX tady?"
+  },
+  "717": {
+    "id": "717",
+    "text": "Odešel."
+  },
+  "718": {
+    "id": "718",
+    "text": "Kdy se vrátí?"
+  },
+  "719": {
+    "id": "719",
+    "text": "Počkám (na něj)"
+  },
+  "720": {
+    "id": "720",
+    "text": "Přijdu znovu zítra."
+  },
+  "721": {
+    "id": "721",
+    "text": "Nevadí."
+  },
+  "722": {
+    "id": "722",
+    "text": "To je v pořádku."
+  },
+  "724": {
+    "id": "724",
+    "text": "Modlit se"
+  },
+  "725": {
+    "id": "725",
+    "text": "Vzorová modlitba (Matouš 6. kapitola)"
+  },
+  "726": {
+    "id": "726",
+    "text": "Náš Otče v nebesích, ať je posvěceno tvé jméno."
+  },
+  "727": {
+    "id": "727",
+    "text": "Ať přijde tvé království."
+  },
+  "728": {
+    "id": "728",
+    "text": "Ať se stane tvá vůle, jako v nebi, tak i na zemi."
+  },
+  "729": {
+    "id": "729",
+    "text": "Dej nám dnes náš chléb na tento den;"
+  },
+  "730": {
+    "id": "730",
+    "text": "a odpusť nám naše dluhy, jako i my jsme odpustili svým dlužníkům."
+  },
+  "731": {
+    "id": "731",
+    "text": "A neuveď nás do pokušení, ale osvoboď nás od toho ničemného."
+  },
+  "732": {
+    "id": "732",
+    "text": "Obracet se k Jehovovi"
+  },
+  "733": {
+    "id": "733",
+    "text": "ty",
+    "annotation": "(:  běžně užívané osobní zájmeno, které se v cílovém jazyce používá k oslovení Jehovy)"
+  },
+  "734": {
+    "id": "734",
+    "text": "Jehovo"
+  },
+  "735": {
+    "id": "735",
+    "text": "Bože"
+  },
+  "736": {
+    "id": "736",
+    "text": "Náš Bože"
+  },
+  "737": {
+    "id": "737",
+    "text": "Jehovo, náš Bože"
+  },
+  "738": {
+    "id": "738",
+    "text": "Stvořiteli"
+  },
+  "739": {
+    "id": "739",
+    "text": "Náš Stvořiteli"
+  },
+  "740": {
+    "id": "740",
+    "text": "Stvořiteli nebe a země"
+  },
+  "741": {
+    "id": "741",
+    "text": "Otče"
+  },
+  "742": {
+    "id": "742",
+    "text": "náš Otče"
+  },
+  "743": {
+    "id": "743",
+    "text": "drahý"
+  },
+  "744": {
+    "id": "744",
+    "text": "laskavý"
+  },
+  "745": {
+    "id": "745",
+    "text": "milosrdný"
+  },
+  "746": {
+    "id": "746",
+    "text": "milovaný"
+  },
+  "747": {
+    "id": "747",
+    "text": "milující"
+  },
+  "748": {
+    "id": "748",
+    "text": "mocný"
+  },
+  "749": {
+    "id": "749",
+    "text": "všemohoucí"
+  },
+  "750": {
+    "id": "750",
+    "text": "v nebesích; nebeský"
+  },
+  "751": {
+    "id": "751",
+    "text": "Náš Otče v nebesích"
+  },
+  "752": {
+    "id": "752",
+    "text": "Ježíš Kristus"
+  },
+  "753": {
+    "id": "753",
+    "text": "Ježíš Kristus"
+  },
+  "754": {
+    "id": "754",
+    "text": "Modlíme se k tobě ve jménu Ježíše Krista."
+  },
+  "755": {
+    "id": "755",
+    "text": "Modlíme se k tobě skrze Ježíše Krista."
+  },
+  "756": {
+    "id": "756",
+    "text": "Přijmi prosím naši modlitbu ve jménu Ježíše Krista."
+  },
+  "757": {
+    "id": "757",
+    "text": "našeho zachránce"
+  },
+  "758": {
+    "id": "758",
+    "text": "tvého syna"
+  },
+  "759": {
+    "id": "759",
+    "text": "našeho krále"
+  },
+  "760": {
+    "id": "760",
+    "text": "našeho vládnoucího krále"
+  },
+  "761": {
+    "id": "761",
+    "text": "Amen."
+  },
+  "762": {
+    "id": "762",
+    "text": "Chvála"
+  },
+  "763": {
+    "id": "763",
+    "text": "Milujeme tě."
+  },
+  "764": {
+    "id": "764",
+    "text": "Chválíme tě."
+  },
+  "765": {
+    "id": "765",
+    "text": "Oslavujeme tě."
+  },
+  "766": {
+    "id": "766",
+    "text": "Těšíme se na požehnání, které přinese tvé Království."
+  },
+  "767": {
+    "id": "767",
+    "text": "Chceme činit tvou vůli."
+  },
+  "768": {
+    "id": "768",
+    "text": "Chceme chválit tvé jméno."
+  },
+  "769": {
+    "id": "769",
+    "text": "Vděk"
+  },
+  "770": {
+    "id": "770",
+    "text": "Jsme šťastní, že …"
+  },
+  "771": {
+    "id": "771",
+    "text": "Jsme šťastní, že se můžeme scházet."
+  },
+  "772": {
+    "id": "772",
+    "text": "Jsme šťastní, že jsme se mohli dnes sejít."
+  },
+  "773": {
+    "id": "773",
+    "text": "Jsme vděční, že …"
+  },
+  "774": {
+    "id": "774",
+    "text": "Jsme vděční za toto místo, kde se můžeme shromažďovat."
+  },
+  "775": {
+    "id": "775",
+    "text": "Jsme vděční za tuto příležitost."
+  },
+  "776": {
+    "id": "776",
+    "text": "Jsme vděční za poznání, které nám dáváš prostřednictvím shromáždění."
+  },
+  "777": {
+    "id": "777",
+    "text": "Děkujeme ti za…"
+  },
+  "778": {
+    "id": "778",
+    "text": "Děkujeme ti za tuto nádhernou výsadu …"
+  },
+  "779": {
+    "id": "779",
+    "text": "Děkujeme ti za život."
+  },
+  "780": {
+    "id": "780",
+    "text": "Děkujeme ti, že nás vedeš z tohoto světa."
+  },
+  "781": {
+    "id": "781",
+    "text": "Děkujeme ti za tvé slovo, Bibli."
+  },
+  "782": {
+    "id": "782",
+    "text": "Děkujeme ti, že jsme tě mohli poznat."
+  },
+  "783": {
+    "id": "783",
+    "text": "Děkujeme ti za výkupní oběť Ježíše Krista."
+  },
+  "784": {
+    "id": "784",
+    "text": "Děkujeme ti za naše bratry a sestry."
+  },
+  "785": {
+    "id": "785",
+    "text": "Děkujeme ti za toto shromáždění."
+  },
+  "786": {
+    "id": "786",
+    "text": "Děkujeme ti za naději do budoucna, kterou jsi nám dal."
+  },
+  "787": {
+    "id": "787",
+    "text": "Děkujeme ti, že jsi poslal svého Syna na zem."
+  },
+  "788": {
+    "id": "788",
+    "text": "Děkujeme ti za připomínky, které jsme slyšeli během tohoto shromáždění."
+  },
+  "789": {
+    "id": "789",
+    "text": "Žádosti"
+  },
+  "790": {
+    "id": "790",
+    "text": "vést XXX"
+  },
+  "791": {
+    "id": "791",
+    "text": "Veď nás."
+  },
+  "792": {
+    "id": "792",
+    "text": "Veď svou organizaci."
+  },
+  "793": {
+    "id": "793",
+    "text": "Veď vedoucí sbor."
+  },
+  "794": {
+    "id": "794",
+    "text": "pomáhat XXX"
+  },
+  "795": {
+    "id": "795",
+    "text": "Pomoz nám, abychom ti sloužili."
+  },
+  "796": {
+    "id": "796",
+    "text": "Pomoz nám, abychom dělali, co je správné."
+  },
+  "797": {
+    "id": "797",
+    "text": "Pomoz nám, abychom odolávali pokušení."
+  },
+  "798": {
+    "id": "798",
+    "text": "Pomoz nám, abychom vytrvali."
+  },
+  "799": {
+    "id": "799",
+    "text": "Pomoz nám, abychom dále navštěvovali shromáždění."
+  },
+  "800": {
+    "id": "800",
+    "text": "Pomoz nám, abychom ve službě našli upřímné lidi."
+  },
+  "801": {
+    "id": "801",
+    "text": "Pomáhej nám, abychom se dělili s druhým o to, co jsme se dozvěděli."
+  },
+  "802": {
+    "id": "802",
+    "text": "Pomoz nám, abychom během shromáždění byli pozorní."
+  },
+  "803": {
+    "id": "803",
+    "text": "Pomoz nám, abychom přemýšleli o tvém Slově."
+  },
+  "804": {
+    "id": "804",
+    "text": "Pomoz nám, abychom uplatnili věci, které jsme se naučili."
+  },
+  "805": {
+    "id": "805",
+    "text": "Pomoz našim bratrům, kteří jsou nyní v nesnázích."
+  },
+  "806": {
+    "id": "806",
+    "text": "Pomoz nám, abychom byli vnímaví k potřebám našich bratrů."
+  },
+  "807": {
+    "id": "807",
+    "text": "Pomoz XXX, aby pokračoval ve studiu tvého slova."
+  },
+  "808": {
+    "id": "808",
+    "text": "Pomoz XXX, aby byl smělý."
+  },
+  "809": {
+    "id": "809",
+    "text": "Pomoz XXX, aby dále dělal duchovní pokrok."
+  },
+  "810": {
+    "id": "810",
+    "text": "dávat XXX YYY"
+  },
+  "811": {
+    "id": "811",
+    "text": "Dej nám …"
+  },
+  "812": {
+    "id": "812",
+    "text": "Dej nám svého svatého ducha."
+  },
+  "813": {
+    "id": "813",
+    "text": "Dej nám moudrost."
+  },
+  "814": {
+    "id": "814",
+    "text": "Dej nám sílu, abychom dělali vše, co se od nás žádá."
+  },
+  "815": {
+    "id": "815",
+    "text": "prosit o XXX"
+  },
+  "816": {
+    "id": "816",
+    "text": "Prosíme o …"
+  },
+  "817": {
+    "id": "817",
+    "text": "Prosíme o vedení v této těžké době."
+  },
+  "818": {
+    "id": "818",
+    "text": "Požehnat XXX"
+  },
+  "819": {
+    "id": "819",
+    "text": "Požehnej …"
+  },
+  "820": {
+    "id": "820",
+    "text": "Požehnej nám."
+  },
+  "821": {
+    "id": "821",
+    "text": "Požehnej naší službě."
+  },
+  "822": {
+    "id": "822",
+    "text": "Požehnej tomuto shromáždění."
+  },
+  "823": {
+    "id": "823",
+    "text": "Požehnej našemu sboru."
+  },
+  "824": {
+    "id": "824",
+    "text": "ochraňovat XXX"
+  },
+  "825": {
+    "id": "825",
+    "text": "Ochraňuj nás."
+  },
+  "826": {
+    "id": "826",
+    "text": "Ochraňuj bratry, kteří zde dnes večer nemohli být."
+  },
+  "827": {
+    "id": "827",
+    "text": "Ochraňuj bratry, kteří jsou v jiných zemích pronásledováni."
+  },
+  "828": {
+    "id": "828",
+    "text": "Ochraňuj nás, až se budeme vracet dnes večer domů."
+  },
+  "829": {
+    "id": "829",
+    "text": "Prosím … (slovo nebo fráze, která se může použít v modlitbě jako vyjádření slušnosti nebo naléhavosti)"
+  },
+  "830": {
+    "id": "830",
+    "text": "Požehnej tomuto shromáždění."
+  },
+  "831": {
+    "id": "831",
+    "text": "Požehnej prosím tomuto shromáždění."
+  },
+  "832": {
+    "id": "832",
+    "text": "Hříchy & problémy"
+  },
+  "833": {
+    "id": "833",
+    "text": "Jsme hříšní."
+  },
+  "834": {
+    "id": "834",
+    "text": "hřešit"
+  },
+  "835": {
+    "id": "835",
+    "text": "Mnohokrát hřešíme."
+  },
+  "836": {
+    "id": "836",
+    "text": "Je nám líto. / Litujeme."
+  },
+  "837": {
+    "id": "837",
+    "text": "Velmi litujeme, že jsme zhřešili."
+  },
+  "838": {
+    "id": "838",
+    "text": "Litujeme, že jsme hříšní."
+  },
+  "839": {
+    "id": "839",
+    "text": "odpuštění"
+  },
+  "840": {
+    "id": "840",
+    "text": "Pokorně tě prosíme o odpuštění."
+  },
+  "841": {
+    "id": "841",
+    "text": "odpustit XXX",
+    "annotation": "(: XXX je člověk)"
+  },
+  "842": {
+    "id": "842",
+    "text": "Prosím, odpusť nám."
+  },
+  "843": {
+    "id": "843",
+    "text": "Prosím, odusť nám na základě výkupní oběti tvého Syna."
+  },
+  "844": {
+    "id": "844",
+    "text": "odpustit XXX",
+    "annotation": "(: XXX je hřích)"
+  },
+  "845": {
+    "id": "845",
+    "text": "Prosím, odpusť nám naše hříchy."
+  },
+  "846": {
+    "id": "846",
+    "text": "Žijeme ve zlém světě."
+  },
+  "847": {
+    "id": "847",
+    "text": "Zažíváme mnoho problémů."
+  }
+}

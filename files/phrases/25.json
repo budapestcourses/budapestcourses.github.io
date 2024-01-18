@@ -1,0 +1,3382 @@
+{
+  "5": {
+    "id": "5",
+    "text": null
+  },
+  "7": {
+    "id": "7",
+    "text": "Hànyǔ Pīnyīn"
+  },
+  "8": {
+    "id": "8",
+    "text": "Pinyin (Chinese) | .cn"
+  },
+  "11": {
+    "id": "11",
+    "text": null
+  },
+  "12": {
+    "id": "12",
+    "text": null
+  },
+  "13": {
+    "id": "13",
+    "text": null
+  },
+  "14": {
+    "id": "14",
+    "text": null
+  },
+  "15": {
+    "id": "15",
+    "text": null
+  },
+  "16": {
+    "id": "16",
+    "text": null
+  },
+  "18": {
+    "id": "18",
+    "text": null
+  },
+  "19": {
+    "id": "19",
+    "text": null
+  },
+  "20": {
+    "id": "20",
+    "text": null
+  },
+  "21": {
+    "id": "21",
+    "text": null
+  },
+  "22": {
+    "id": "22",
+    "text": null
+  },
+  "23": {
+    "id": "23",
+    "text": null
+  },
+  "24": {
+    "id": "24",
+    "text": null
+  },
+  "25": {
+    "id": "25",
+    "text": null
+  },
+  "26": {
+    "id": "26",
+    "text": null
+  },
+  "27": {
+    "id": "27",
+    "text": null
+  },
+  "28": {
+    "id": "28",
+    "text": null
+  },
+  "29": {
+    "id": "29",
+    "text": null
+  },
+  "30": {
+    "id": "30",
+    "text": null
+  },
+  "31": {
+    "id": "31",
+    "text": null
+  },
+  "32": {
+    "id": "32",
+    "text": null
+  },
+  "33": {
+    "id": "33",
+    "text": null
+  },
+  "34": {
+    "id": "34",
+    "text": null
+  },
+  "35": {
+    "id": "35",
+    "text": null
+  },
+  "37": {
+    "id": "37",
+    "text": "cíhuì hé chángyòng yǔ"
+  },
+  "38": {
+    "id": "38",
+    "text": "zǔzhī jiégòu ānpái"
+  },
+  "39": {
+    "id": "39",
+    "text": "yēhéhuá jiànzhèngrén"
+  },
+  "40": {
+    "id": "40",
+    "text": "yēhéhuá jiànzhèngrén"
+  },
+  "41": {
+    "id": "41",
+    "text": "yīgè yēhéhuá jiànzhèngrén"
+  },
+  "42": {
+    "id": "42",
+    "text": "shèngjīng yánjiūzhě",
+    "annotation": "(:yēhéhuá jiànzhèngrén yǐqián cǎiyòng de míngchēng)"
+  },
+  "43": {
+    "id": "43",
+    "text": "dìxiōng",
+    "annotation": "(:nánxìng xìntú tónggōng)"
+  },
+  "44": {
+    "id": "44",
+    "text": "yīgè chéngshú de dìxiōng"
+  },
+  "45": {
+    "id": "45",
+    "text": "wǒmen de dìxiōng",
+    "annotation": "(:shǔlíng de dìxiōng)"
+  },
+  "46": {
+    "id": "46",
+    "text": "zài shǔlíng de dìxiōng dāngzhōng"
+  },
+  "47": {
+    "id": "47",
+    "text": "jiěmèi",
+    "annotation": "(:nǚxìng xìntú tónggōng)"
+  },
+  "48": {
+    "id": "48",
+    "text": "fúhé zīgé de jīdūtú jiěmèi",
+    "annotation": "(:méiyǒu dìxiōng shí fúhé zīgé de jiěmèi)"
+  },
+  "49": {
+    "id": "49",
+    "text": "wǒmen de jīdūtú jiěmèi"
+  },
+  "50": {
+    "id": "50",
+    "text": "wǒmen de jiěmèi"
+  },
+  "51": {
+    "id": "51",
+    "text": "nǐ de shǔlíng de dìxiōng jiěmèi"
+  },
+  "52": {
+    "id": "52",
+    "text": "shòugāozhě"
+  },
+  "53": {
+    "id": "53",
+    "text": "yǒu xīwàng zài dìshang shēnghuó de rén"
+  },
+  "54": {
+    "id": "54",
+    "text": "lìngwài de miányáng"
+  },
+  "55": {
+    "id": "55",
+    "text": "yǒu xīwàng qù tiānshàng de rén"
+  },
+  "56": {
+    "id": "56",
+    "text": "shòugāo de"
+  },
+  "57": {
+    "id": "57",
+    "text": "shòugāo jīdūtú"
+  },
+  "58": {
+    "id": "58",
+    "text": "tā de shòugāo dìxiōng zài dìshang de huìzhòng"
+  },
+  "59": {
+    "id": "59",
+    "text": "zhōngxìn ruìzhì de núlì"
+  },
+  "60": {
+    "id": "60",
+    "text": "zhōngyāng zhǎnglǎotuán"
+  },
+  "61": {
+    "id": "61",
+    "text": "zhōngyāng zhǎnglǎotuán chéngyuán"
+  },
+  "62": {
+    "id": "62",
+    "text": "jìnlǐ"
+  },
+  "63": {
+    "id": "63",
+    "text": "shòujìn"
+  },
+  "64": {
+    "id": "64",
+    "text": "wǒ zài 2006 nián shòujìn."
+  },
+  "65": {
+    "id": "65",
+    "text": "gěi (/wèi) XXX shījìn"
+  },
+  "66": {
+    "id": "66",
+    "text": "yuēhàn wèi yēsū shījìn."
+  },
+  "67": {
+    "id": "67",
+    "text": "jìnlǐ"
+  },
+  "68": {
+    "id": "68",
+    "text": "tā chūxí le tā de xuésheng de jìnlǐ."
+  },
+  "69": {
+    "id": "69",
+    "text": "chuándàoyuán"
+  },
+  "70": {
+    "id": "70",
+    "text": "wèishòujìn chuándàoyuán"
+  },
+  "71": {
+    "id": "71",
+    "text": "tā shénme shíhou chéngwéi wèishòujìn chuándàoyuán ?"
+  },
+  "72": {
+    "id": "72",
+    "text": "shòulejìn de chuándàoyuán"
+  },
+  "73": {
+    "id": "73",
+    "text": "bù jīngcháng chuándào de chuándàoyuán"
+  },
+  "74": {
+    "id": "74",
+    "text": "bù huóyuè de chuándàoyuán"
+  },
+  "75": {
+    "id": "75",
+    "text": "shìfèng yēhéhuá"
+  },
+  "76": {
+    "id": "76",
+    "text": "fúwù ; gōngzuò"
+  },
+  "77": {
+    "id": "77",
+    "text": "wǒmen wèi yēhéhuá suǒ zuò de gōngzuò (/fúwù)"
+  },
+  "78": {
+    "id": "78",
+    "text": "quánshí fúwù"
+  },
+  "79": {
+    "id": "79",
+    "text": "fúwù"
+  },
+  "80": {
+    "id": "80",
+    "text": "yǐ XXX de shēnfèn fúwù"
+  },
+  "81": {
+    "id": "81",
+    "text": "yǐ zhǎnglǎo de shēnfèn fúwù"
+  },
+  "82": {
+    "id": "82",
+    "text": "yǐ xiānqū de shēnfèn fúwù"
+  },
+  "83": {
+    "id": "83",
+    "text": "tā shì wǒmen huìzhòng de zhǎnglǎo.; tā zài wǒmen huìzhòng yǐ zhǎnglǎo de shēnfèn fúwù."
+  },
+  "84": {
+    "id": "84",
+    "text": "XXX búzài shì zhǎnglǎo."
+  },
+  "85": {
+    "id": "85",
+    "text": "shìfèng yēhéhuá"
+  },
+  "86": {
+    "id": "86",
+    "text": "púrén"
+  },
+  "87": {
+    "id": "87",
+    "text": "quánshí púrén"
+  },
+  "88": {
+    "id": "88",
+    "text": "shàngdì de púrén"
+  },
+  "89": {
+    "id": "89",
+    "text": "zhìyuàn rényuán",
+    "annotation": "(:cóngshì zhìyuàn fúwù de rén)"
+  },
+  "90": {
+    "id": "90",
+    "text": "bú shòuxīn de zhìyuàn rényuán"
+  },
+  "91": {
+    "id": "91",
+    "text": "wángguó jùhuìsuǒ jiànzhù gōngchéng"
+  },
+  "92": {
+    "id": "92",
+    "text": "zhènzāi jiùyuán gōngzuò"
+  },
+  "93": {
+    "id": "93",
+    "text": "xūyào",
+    "annotation": "(:míngcí)"
+  },
+  "94": {
+    "id": "94",
+    "text": "zài xūyào gèng dà de dìfang fúwù"
+  },
+  "95": {
+    "id": "95",
+    "text": "bānqù xūyào gèng dà de dìfang"
+  },
+  "96": {
+    "id": "96",
+    "text": "xiānqū"
+  },
+  "97": {
+    "id": "97",
+    "text": "cānjiā xiānqū xùnliànbān"
+  },
+  "98": {
+    "id": "98",
+    "text": "zhèngguī xiānqū"
+  },
+  "99": {
+    "id": "99",
+    "text": "fǔzhù xiānqū"
+  },
+  "100": {
+    "id": "100",
+    "text": "jīngcháng fǔzhù xiānqū",
+    "annotation": "(:měi gè yuè dōu zuò fǔzhù xiānqū de)"
+  },
+  "101": {
+    "id": "101",
+    "text": "tèbié xiānqū"
+  },
+  "102": {
+    "id": "102",
+    "text": "hǎiwài chuándàoyuán"
+  },
+  "103": {
+    "id": "103",
+    "text": "shēnqǐng hé rènmìng"
+  },
+  "104": {
+    "id": "104",
+    "text": "shēnqǐng XXX"
+  },
+  "105": {
+    "id": "105",
+    "text": "shēnqǐng tèbié fúwù jīhuì"
+  },
+  "106": {
+    "id": "106",
+    "text": "shēnqǐng cānjiā jīliè shèngjīng xuéxiào"
+  },
+  "107": {
+    "id": "107",
+    "text": "shēnqǐngbiǎo"
+  },
+  "108": {
+    "id": "108",
+    "text": "tiánxiě shēnqǐngbiǎo"
+  },
+  "109": {
+    "id": "109",
+    "text": "tiánxiě zhèngguī xiānqū shēnqǐngbiǎo"
+  },
+  "110": {
+    "id": "110",
+    "text": "tíjiāo shēnqǐngbiǎo"
+  },
+  "111": {
+    "id": "111",
+    "text": "tuījiàn",
+    "annotation": "(:dāng mǒurén bèi tuījiàn shí de qíngkuàng)"
+  },
+  "112": {
+    "id": "112",
+    "text": "bèi tuījiàn zuò zhǎnglǎo"
+  },
+  "113": {
+    "id": "113",
+    "text": "tuījiàn XXX chéngwéi zhǎnglǎo"
+  },
+  "114": {
+    "id": "114",
+    "text": "rènmìng",
+    "annotation": "(:mǒurén bèi rènmìng shí de qíngkuàng)"
+  },
+  "115": {
+    "id": "115",
+    "text": "bèi rènmìng wéi XXX"
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX yǐ bèi rènmìng wéi zhǎnglǎo"
+  },
+  "117": {
+    "id": "117",
+    "text": "rènmìng XXX wéi zhùlǐ púrén"
+  },
+  "118": {
+    "id": "118",
+    "text": "zīgé"
+  },
+  "119": {
+    "id": "119",
+    "text": "tǎolùn XXX shìfǒu fúhé zīgé zuò wèi shòujìn chuándàoyuán"
+  },
+  "120": {
+    "id": "120",
+    "text": "fúhé zīgé shòujìn"
+  },
+  "121": {
+    "id": "121",
+    "text": "fúhé zīgé chéngwéi zuò wèishòujìn chuándàoyuán"
+  },
+  "122": {
+    "id": "122",
+    "text": "shòu wěirèn de dìxiōng"
+  },
+  "123": {
+    "id": "123",
+    "text": "zhǎnglǎo"
+  },
+  "124": {
+    "id": "124",
+    "text": "jiāndū"
+  },
+  "125": {
+    "id": "125",
+    "text": "《zuòwéi ēncì de rén 》",
+    "annotation": "(:fú 4:8)"
+  },
+  "126": {
+    "id": "126",
+    "text": "zhùlǐ púrén"
+  },
+  "127": {
+    "id": "127",
+    "text": "zhǎnglǎotuán"
+  },
+  "128": {
+    "id": "128",
+    "text": "jǔxíng zhǎnglǎotuán huìyì"
+  },
+  "129": {
+    "id": "129",
+    "text": "huìzhòng fúwù wěiyuánhuì"
+  },
+  "130": {
+    "id": "130",
+    "text": "zhè jiàn shì xūyào dédào huìzhòng fúwù wěiyuánhuì de pīzhǔn."
+  },
+  "131": {
+    "id": "131",
+    "text": "zhǎnglǎotuán tǒngchóuzhě"
+  },
+  "132": {
+    "id": "132",
+    "text": "huìzhòng mìshū"
+  },
+  "133": {
+    "id": "133",
+    "text": "chuándào jiāndū"
+  },
+  "134": {
+    "id": "134",
+    "text": "shǒuwàngtái yánjiūbān zhǔchírén"
+  },
+  "135": {
+    "id": "135",
+    "text": "chuándào xùnliànbān jiāndū"
+  },
+  "136": {
+    "id": "136",
+    "text": "tèbié dǎoshī"
+  },
+  "137": {
+    "id": "137",
+    "text": "xiǎozǔ jiāndū"
+  },
+  "138": {
+    "id": "138",
+    "text": "sīfǎ wěiyuánhuì"
+  },
+  "139": {
+    "id": "139",
+    "text": "chénglì sīfǎ wěiyuánhuì"
+  },
+  "140": {
+    "id": "140",
+    "text": "shǔlíng de mùrén"
+  },
+  "141": {
+    "id": "141",
+    "text": "shǔlíng de yáng"
+  },
+  "142": {
+    "id": "142",
+    "text": "mùyǎng tànfǎng"
+  },
+  "143": {
+    "id": "143",
+    "text": "mùyǎng tànfǎng XXX"
+  },
+  "144": {
+    "id": "144",
+    "text": "zhōuyóu jiāndū"
+  },
+  "145": {
+    "id": "145",
+    "text": "zhōuyóu jiāndū"
+  },
+  "146": {
+    "id": "146",
+    "text": "fēnqū jiāndū"
+  },
+  "147": {
+    "id": "147",
+    "text": "fēnqū"
+  },
+  "148": {
+    "id": "148",
+    "text": "dàilǐ fēnqū jiāndū"
+  },
+  "149": {
+    "id": "149",
+    "text": "tànfǎng huìzhòng"
+  },
+  "150": {
+    "id": "150",
+    "text": "fēnqū jiāndū de tànfǎng"
+  },
+  "151": {
+    "id": "151",
+    "text": "qūyù jiāndū"
+  },
+  "152": {
+    "id": "152",
+    "text": "qūyù"
+  },
+  "153": {
+    "id": "153",
+    "text": "hǎiwài tèfǎng jiāndū"
+  },
+  "154": {
+    "id": "154",
+    "text": "xiǎozǔ hé huìzhòng"
+  },
+  "155": {
+    "id": "155",
+    "text": "huìzhòng",
+    "annotation": "(:yīgè dìqū lǐ de xìntú tuántǐ)"
+  },
+  "156": {
+    "id": "156",
+    "text": "fēn huìzhòng"
+  },
+  "157": {
+    "id": "157",
+    "text": "chénglì (yīgè) xīn de huìzhòng"
+  },
+  "158": {
+    "id": "158",
+    "text": "jīdūtú huìzhòng",
+    "annotation": "(:bāohán suǒyǒu xìntú de guǎngyì de huìzhòng)"
+  },
+  "159": {
+    "id": "159",
+    "text": "xiǎozǔ"
+  },
+  "160": {
+    "id": "160",
+    "text": "piānyuǎn xiǎozǔ"
+  },
+  "161": {
+    "id": "161",
+    "text": "wàiyǔ xiǎozǔ"
+  },
+  "162": {
+    "id": "162",
+    "text": "fēnbù bànshìchù"
+  },
+  "163": {
+    "id": "163",
+    "text": "fēnbù"
+  },
+  "164": {
+    "id": "164",
+    "text": "yēhéhuá jiànzhèngrén de fēnbù bànshìchù"
+  },
+  "165": {
+    "id": "165",
+    "text": "fēnbù tǒngchóuzhě"
+  },
+  "166": {
+    "id": "166",
+    "text": "fēnbù wěiyuánhuì"
+  },
+  "167": {
+    "id": "167",
+    "text": "guójiā wěiyuánhuì"
+  },
+  "168": {
+    "id": "168",
+    "text": "bótèlì"
+  },
+  "169": {
+    "id": "169",
+    "text": "bótèlì chéngyuán"
+  },
+  "170": {
+    "id": "170",
+    "text": "nǐ xiǎng cānguān bótèlì ma ?"
+  },
+  "171": {
+    "id": "171",
+    "text": "cānguān"
+  },
+  "172": {
+    "id": "172",
+    "text": "xiàgge xīngqī wǒmen huìzhòng huì qù cānguān bótèlì."
+  },
+  "173": {
+    "id": "173",
+    "text": "wǒ huì zuò nǐ (/nǐmen) de xiàngdǎo."
+  },
+  "174": {
+    "id": "174",
+    "text": "wǒ huì dài nǐ (/nǐmen) kànkan fēnbù."
+  },
+  "175": {
+    "id": "175",
+    "text": "chuándàobù",
+    "annotation": "(:bótèlì)"
+  },
+  "176": {
+    "id": "176",
+    "text": "qǐng xiěxìn gěi chuándàobù."
+  },
+  "177": {
+    "id": "177",
+    "text": "shìjiè zǒngbù"
+  },
+  "178": {
+    "id": "178",
+    "text": "huìzhòng zhízé"
+  },
+  "179": {
+    "id": "179",
+    "text": "zhāodàiyuán"
+  },
+  "180": {
+    "id": "180",
+    "text": "chūxí (jùhuì) de rén"
+  },
+  "181": {
+    "id": "181",
+    "text": "tīngzhòng",
+    "annotation": "(:jùhuì lǐ de tīngzhòng)"
+  },
+  "182": {
+    "id": "182",
+    "text": "jìsuàn chūxí jùhuì rénshù"
+  },
+  "183": {
+    "id": "183",
+    "text": "chūxí jùhuì rénshù",
+    "annotation": "(:chūxí yīgè jùhuì de rén de shùmù)"
+  },
+  "184": {
+    "id": "184",
+    "text": "qùnián chūxí chuándào jùhuì de píngjūn rénshù wéi 85."
+  },
+  "185": {
+    "id": "185",
+    "text": "chuándì màikèfēng de rén"
+  },
+  "186": {
+    "id": "186",
+    "text": "màikèfēng"
+  },
+  "187": {
+    "id": "187",
+    "text": "chuándì (/fùzé) màikèfēng"
+  },
+  "188": {
+    "id": "188",
+    "text": "tiáozhěng màikèfēng"
+  },
+  "189": {
+    "id": "189",
+    "text": "dǎkāi màikèfēng"
+  },
+  "190": {
+    "id": "190",
+    "text": "guānbì màikèfēng"
+  },
+  "191": {
+    "id": "191",
+    "text": "fùzé yīnxiǎng de dìxiōng"
+  },
+  "192": {
+    "id": "192",
+    "text": "yīnxiǎng xìtǒng"
+  },
+  "193": {
+    "id": "193",
+    "text": "cāozuò yīnxiǎng xìtǒng"
+  },
+  "194": {
+    "id": "194",
+    "text": "tiáodà yīnliàng"
+  },
+  "195": {
+    "id": "195",
+    "text": "tiáoxiǎo yīnliàng"
+  },
+  "196": {
+    "id": "196",
+    "text": "fùzé jiǎngtái de dìxiōng"
+  },
+  "197": {
+    "id": "197",
+    "text": "jiǎngtái"
+  },
+  "198": {
+    "id": "198",
+    "text": "jiǎngzhuō"
+  },
+  "199": {
+    "id": "199",
+    "text": "tiáozhěng jiǎngzhuō"
+  },
+  "200": {
+    "id": "200",
+    "text": "fùzé shūkān de dìxiōng"
+  },
+  "201": {
+    "id": "201",
+    "text": "shūjí bù"
+  },
+  "202": {
+    "id": "202",
+    "text": "yùdìng shūkān"
+  },
+  "203": {
+    "id": "203",
+    "text": "fùzé zázhì de dìxiōng"
+  },
+  "204": {
+    "id": "204",
+    "text": "zázhì bù"
+  },
+  "205": {
+    "id": "205",
+    "text": "lǐngqǔ [nǐ de ] zázhì"
+  },
+  "206": {
+    "id": "206",
+    "text": "fùzé dìqū de dìxiōng"
+  },
+  "207": {
+    "id": "207",
+    "text": "(chuándào) dìqū"
+  },
+  "208": {
+    "id": "208",
+    "text": "wàiqín fúwù dìqū dìtú"
+  },
+  "209": {
+    "id": "209",
+    "text": "dìqū kǎ"
+  },
+  "210": {
+    "id": "210",
+    "text": "fùzé zhàngmù de dìxiōng"
+  },
+  "211": {
+    "id": "211",
+    "text": "zhàngmù"
+  },
+  "212": {
+    "id": "212",
+    "text": "huìzhòng zhàngmù"
+  },
+  "213": {
+    "id": "213",
+    "text": "zhěnglǐ huìzhòng zhàngmù"
+  },
+  "214": {
+    "id": "214",
+    "text": "shěnjì huìzhòng zhàngmù"
+  },
+  "215": {
+    "id": "215",
+    "text": "juānkuǎn"
+  },
+  "216": {
+    "id": "216",
+    "text": "zhīchí quánqiú gōngzuò de juānkuǎn",
+    "annotation": "(:tài 24:14)"
+  },
+  "217": {
+    "id": "217",
+    "text": "běndì juānkuǎn"
+  },
+  "218": {
+    "id": "218",
+    "text": "jìsuàn juānkuǎn"
+  },
+  "219": {
+    "id": "219",
+    "text": "juānkuǎn ; zuòchū juānxiàn"
+  },
+  "220": {
+    "id": "220",
+    "text": "wèi quánqiú gōngzuò juānkuǎn"
+  },
+  "221": {
+    "id": "221",
+    "text": "juānkuǎnxiāng"
+  },
+  "222": {
+    "id": "222",
+    "text": "bǎ juānkuǎn fàng rù juānkuǎnxiāng nèi"
+  },
+  "223": {
+    "id": "223",
+    "text": "juānkuǎnxiāng zài mén pángbiān."
+  },
+  "225": {
+    "id": "225",
+    "text": "jùhuì"
+  },
+  "226": {
+    "id": "226",
+    "text": "chóngbài chǎngsuǒ"
+  },
+  "227": {
+    "id": "227",
+    "text": "jùhuìsuǒ"
+  },
+  "228": {
+    "id": "228",
+    "text": "wǒmen de chóngbài chǎngsuǒ"
+  },
+  "229": {
+    "id": "229",
+    "text": "zhìyuàn jiànzào"
+  },
+  "230": {
+    "id": "230",
+    "text": "wángguó jùhuìsuǒ"
+  },
+  "231": {
+    "id": "231",
+    "text": "sùjiàn wángguó jùhuìsuǒ"
+  },
+  "232": {
+    "id": "232",
+    "text": "wéihù wángguó jùhuìsuǒ"
+  },
+  "233": {
+    "id": "233",
+    "text": "wéixiū wángguó jùhuìsuǒ"
+  },
+  "234": {
+    "id": "234",
+    "text": "dǎsǎo wángguó jùhuìsuǒ"
+  },
+  "235": {
+    "id": "235",
+    "text": "gāi wǒmen dǎsǎo wángguó jùhuìsuǒ le."
+  },
+  "236": {
+    "id": "236",
+    "text": "dàhuìtáng"
+  },
+  "237": {
+    "id": "237",
+    "text": "chūxí jùhuì"
+  },
+  "238": {
+    "id": "238",
+    "text": "jùhuì"
+  },
+  "239": {
+    "id": "239",
+    "text": "chūxí jùhuì ; cānjiā jùhuì"
+  },
+  "240": {
+    "id": "240",
+    "text": "jǔxíng jùhuì"
+  },
+  "241": {
+    "id": "241",
+    "text": "(zuò) zhǔnbèi",
+    "annotation": "(:zhǔnbèi zìjǐ)"
+  },
+  "242": {
+    "id": "242",
+    "text": "wèi jùhuì zuò zhǔnbèi; yùxí jùhuì zīliào"
+  },
+  "243": {
+    "id": "243",
+    "text": "zhǔnbèi XXX"
+  },
+  "244": {
+    "id": "244",
+    "text": "zhǔnbèi (yīgè) pínglùn"
+  },
+  "245": {
+    "id": "245",
+    "text": "zhǔnbèi (yīgè) yǎnjiǎng"
+  },
+  "246": {
+    "id": "246",
+    "text": "yǔ XXX jiāowǎng"
+  },
+  "247": {
+    "id": "247",
+    "text": "jùhuì yǐhòu wǒmen kěyǐ yǔ wǒmen de dìxiōng jiěmèi jiāowǎng."
+  },
+  "248": {
+    "id": "248",
+    "text": "gǔlì XXX"
+  },
+  "249": {
+    "id": "249",
+    "text": "nǐ de pínglùn zhēn de gǔlìle wǒ."
+  },
+  "250": {
+    "id": "250",
+    "text": "yīgè gǔlì rén de pínglùn ; yīgè lìngrén gǔwǔ de pínglùn"
+  },
+  "251": {
+    "id": "251",
+    "text": "huìzhòng yánjīngbān"
+  },
+  "252": {
+    "id": "252",
+    "text": "chuándào xùnliànbān"
+  },
+  "253": {
+    "id": "253",
+    "text": "chuándào gōngzuò jùhuì"
+  },
+  "254": {
+    "id": "254",
+    "text": "chuándàoqián tǎolùn"
+  },
+  "255": {
+    "id": "255",
+    "text": "dàhuì"
+  },
+  "256": {
+    "id": "256",
+    "text": "yīniányīdù de dàhuì"
+  },
+  "257": {
+    "id": "257",
+    "text": "fēnqū tèbié dàhuì"
+  },
+  "258": {
+    "id": "258",
+    "text": "fēnqū dàhuì"
+  },
+  "259": {
+    "id": "259",
+    "text": "dàhuì"
+  },
+  "260": {
+    "id": "260",
+    "text": "qūyù dàhuì"
+  },
+  "261": {
+    "id": "261",
+    "text": "sāntiān de qūyù dàhuì"
+  },
+  "262": {
+    "id": "262",
+    "text": "jùhuì nèiróng"
+  },
+  "263": {
+    "id": "263",
+    "text": "jiémù",
+    "annotation": "(:jùhuì lǐ de yīgè jiémù, bǐrú yǎnjiǎng, tǎolùn děngděng)"
+  },
+  "264": {
+    "id": "264",
+    "text": "xiàgge xīngqī de jùhuì wǒ yǒu yīgè jiémù."
+  },
+  "265": {
+    "id": "265",
+    "text": "wěipài",
+    "annotation": "(:bǐrú zài chuándào xùnliàn bān lǐ)"
+  },
+  "266": {
+    "id": "266",
+    "text": "biānhào yī wěipài"
+  },
+  "267": {
+    "id": "267",
+    "text": "shōudào (yīgè) wěipài"
+  },
+  "268": {
+    "id": "268",
+    "text": "zhíxíng (yīgè) wěipài"
+  },
+  "269": {
+    "id": "269",
+    "text": "shòuxùn xiàngmù",
+    "annotation": "(:chuándào xùnliànbān zhǐnán zhōng de)"
+  },
+  "270": {
+    "id": "270",
+    "text": "XXX jiěmèi de shòu xùn xiàngmù shì biānhào 23."
+  },
+  "271": {
+    "id": "271",
+    "text": "yǎnjiǎng"
+  },
+  "272": {
+    "id": "272",
+    "text": "tiáolǐ fēnmíng de yǎnjiǎng"
+  },
+  "273": {
+    "id": "273",
+    "text": "gōngzhòng yǎnjiǎng"
+  },
+  "274": {
+    "id": "274",
+    "text": "wǔ fēnzhōng de yǎnjiǎng"
+  },
+  "275": {
+    "id": "275",
+    "text": "fābiǎo (yīgè) yǎnjiǎng"
+  },
+  "276": {
+    "id": "276",
+    "text": "jiǎngzhě"
+  },
+  "277": {
+    "id": "277",
+    "text": "shìfàn"
+  },
+  "278": {
+    "id": "278",
+    "text": "ràng wǒmen láikàn zhègè shìfàn."
+  },
+  "279": {
+    "id": "279",
+    "text": "shìfàn XXX",
+    "annotation": "(:yǎnshì zěnme zuò yī jiàn shìqing huòzhě shìqing fāshēng de guòchéng)"
+  },
+  "280": {
+    "id": "280",
+    "text": "XXX jiěmèi huì shìfàn rúhé jièshào zhègè yuè de zázhì."
+  },
+  "281": {
+    "id": "281",
+    "text": "jīngwén xuǎnjiǎng",
+    "annotation": "(:zài chuándào xùnliàn bān zhōng de 10 fēnzhōng de jiémù)"
+  },
+  "282": {
+    "id": "282",
+    "text": "jīngwén yuèdú"
+  },
+  "283": {
+    "id": "283",
+    "text": "běndì xūyào",
+    "annotation": "(:yīgè guānyú běndì xūyào de yǎnjiǎng)"
+  },
+  "284": {
+    "id": "284",
+    "text": "wèndálán",
+    "annotation": "(:zài wángguó chuándào yuè bào zhōng)"
+  },
+  "285": {
+    "id": "285",
+    "text": "shīgē hé dǎogào"
+  },
+  "286": {
+    "id": "286",
+    "text": "shīgē"
+  },
+  "287": {
+    "id": "287",
+    "text": "kāishǐ chàngshī"
+  },
+  "288": {
+    "id": "288",
+    "text": "jiéshù chàngshī"
+  },
+  "289": {
+    "id": "289",
+    "text": "zhè shǒu gē de tímù shì …"
+  },
+  "290": {
+    "id": "290",
+    "text": "zhè shǒu gē shì gēnjù …"
+  },
+  "291": {
+    "id": "291",
+    "text": "wǒmen de jùhuì jiānghuì yǐ yī shǒu zànměi yēhéhuá de gē kāishǐ."
+  },
+  "292": {
+    "id": "292",
+    "text": "wǒmen chàng shīgē, dǎogào, ránhòu kāishǐ wǒmen de jùhuì."
+  },
+  "293": {
+    "id": "293",
+    "text": "wǒmen de jiǎngzhě xuǎnzéle zhè shǒu gē, zhè shǒu gē yǔ tā de yǎnjiǎng de tí shì yīzhì de."
+  },
+  "294": {
+    "id": "294",
+    "text": "zhè shǒu gē yǔ yǎnjiǎng de zhǔtí shì yīzhì de."
+  },
+  "295": {
+    "id": "295",
+    "text": "wǒmen huì yǐ yī shǒu shīgē jiéshù jùhuì."
+  },
+  "296": {
+    "id": "296",
+    "text": "dì èrshí shǒu gē"
+  },
+  "297": {
+    "id": "297",
+    "text": "ràng wǒmen yìqǐ tīng dì èrshí shǒu gē."
+  },
+  "298": {
+    "id": "298",
+    "text": "gēběn"
+  },
+  "299": {
+    "id": "299",
+    "text": "ràng wǒmen yìqǐ dǎkāi gēběn dì shí shǒu gē."
+  },
+  "300": {
+    "id": "300",
+    "text": "chàng (yī shǒu) gē"
+  },
+  "301": {
+    "id": "301",
+    "text": "ràng wǒmen yìqǐ chàng dì sānshí shǒu gē."
+  },
+  "302": {
+    "id": "302",
+    "text": "wǒmen chàng zhè shǒu gē deshíhòu, wǒmen kěyǐ xiǎng xiǎng gēcí."
+  },
+  "303": {
+    "id": "303",
+    "text": "dǎogào"
+  },
+  "304": {
+    "id": "304",
+    "text": "kāishǐ dǎogào"
+  },
+  "305": {
+    "id": "305",
+    "text": "jiéshù dǎogào"
+  },
+  "306": {
+    "id": "306",
+    "text": "zuò yīgè dǎogào"
+  },
+  "307": {
+    "id": "307",
+    "text": "XXX dìxiōng, nǐ kěyǐ dǎogào ma ?"
+  },
+  "308": {
+    "id": "308",
+    "text": "dǎogào"
+  },
+  "309": {
+    "id": "309",
+    "text": "xiàng yēhéhuá dǎogào"
+  },
+  "310": {
+    "id": "310",
+    "text": "chàngshī zhīhòu, wǒmen huì xiàng yēhéhuá dǎogào."
+  },
+  "311": {
+    "id": "311",
+    "text": "xuānbù"
+  },
+  "312": {
+    "id": "312",
+    "text": "xuānbù",
+    "annotation": "(:bǐrú zài chuándào gōngzuò jùhuì zhōng de xuānbù)"
+  },
+  "313": {
+    "id": "313",
+    "text": "wǒ yǒu yīxiē xuānbù."
+  },
+  "314": {
+    "id": "314",
+    "text": "xuānbù XXX"
+  },
+  "315": {
+    "id": "315",
+    "text": "xuānbù chuándàoqián tǎolùn"
+  },
+  "316": {
+    "id": "316",
+    "text": "wǒmen hěn gāoxìng de xuānbù …"
+  },
+  "317": {
+    "id": "317",
+    "text": "wǒmen hěn yíhàn de xuānbù …"
+  },
+  "318": {
+    "id": "318",
+    "text": "xìn",
+    "annotation": "(:láizì fēnbù)"
+  },
+  "319": {
+    "id": "319",
+    "text": "wǒmen shōudào yī fēng láizì fēnbù de xìn."
+  },
+  "320": {
+    "id": "320",
+    "text": "wǒmen xiǎng yāoqǐng XXX dìxiōng lái lǎngdú láizì shèfāng de yī fēng xìn."
+  },
+  "321": {
+    "id": "321",
+    "text": "juéyì"
+  },
+  "322": {
+    "id": "322",
+    "text": "tíchū yíxiàng juéyì"
+  },
+  "323": {
+    "id": "323",
+    "text": "wǒmen huì xiàng huìzhòng tíchū yíxiàng juéyì."
+  },
+  "324": {
+    "id": "324",
+    "text": "tóupiào"
+  },
+  "325": {
+    "id": "325",
+    "text": "jǔ [nǐ de ] shǒu",
+    "annotation": "(:tóupiào de shíhòu)"
+  },
+  "326": {
+    "id": "326",
+    "text": "rúguǒ nǐ tóngyì zhè xiàng juéyì, qǐng jǔ shǒu."
+  },
+  "327": {
+    "id": "327",
+    "text": "rúguǒ nǐ fǎnduì zhè xiàng juéyì, qǐng jǔ shǒu."
+  },
+  "328": {
+    "id": "328",
+    "text": "rúguǒ nǐ qìquán, qǐng jǔ shǒu."
+  },
+  "329": {
+    "id": "329",
+    "text": "xiànzài qǐng nǐ fàngxia nǐ de shǒu."
+  },
+  "330": {
+    "id": "330",
+    "text": "nǐ kěnéng xiǎng zuò yīxiē bǐjì."
+  },
+  "331": {
+    "id": "331",
+    "text": "qǐng jiāng nǐ de chuándào bàogào jiāogěi nǐ de xiǎozǔ jiāndū."
+  },
+  "332": {
+    "id": "332",
+    "text": "zhègè xīngqī 2 hào xiǎozǔ huì dǎsǎo wángguó jùhuì suǒ."
+  },
+  "333": {
+    "id": "333",
+    "text": "zhègè xīngqīliù shàngwǔ 11 diǎn wǒmen huì zài XXX jiěmèi jiā jǔxíng chuándàoqián tǎolùn."
+  },
+  "334": {
+    "id": "334",
+    "text": "jīntiān jùhuì jiéshù hòu 5 fēnzhōng, huì yǒu yīgè wàiqín (/chuándào qián) ānpái."
+  },
+  "335": {
+    "id": "335",
+    "text": "chuándàoqián tǎolùnhuì zài dì èr bānlǐ (/hòumian de jiàoshìlǐ) jǔxíng."
+  },
+  "336": {
+    "id": "336",
+    "text": "XXX dìxiōng huì zhǔchí chuándàoqián tǎolùn."
+  },
+  "337": {
+    "id": "337",
+    "text": "guānyú wǒmen jiānglín de qūyù dàhuì, wǒmen yǒu yīxiē xuānbù."
+  },
+  "338": {
+    "id": "338",
+    "text": "wǒmen de qūyù dàhuì huì zài … jǔxíng."
+  },
+  "339": {
+    "id": "339",
+    "text": "qūyù dàhuì de chǎngdì jiānghuì shì …"
+  },
+  "340": {
+    "id": "340",
+    "text": "dàhuì jiémù zài 9:50 kāishǐ."
+  },
+  "341": {
+    "id": "341",
+    "text": "dàhuì jiémù zài 3:45 jiéshù."
+  },
+  "342": {
+    "id": "342",
+    "text": "rúguǒ nǐ xiǎng yùdìng bāshìshàng de zuòwèi, qǐng yǔ XXX dìxiōng liánxì."
+  },
+  "343": {
+    "id": "343",
+    "text": "XXX jiěmèi yú 3yuè 12 rì qùshì."
+  },
+  "344": {
+    "id": "344",
+    "text": "tā de zànglǐ huì yú xiàgge xīngqīèr zài wángguó jùhuìsuǒ jǔxíng."
+  },
+  "345": {
+    "id": "345",
+    "text": "XXX yǐjīng tuōlí jīdūtú huìzhòng."
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX yǐjīng bèi huìzhòng kāichú."
+  },
+  "347": {
+    "id": "347",
+    "text": "huānyíng hé jièshào"
+  },
+  "348": {
+    "id": "348",
+    "text": "zhǔxí",
+    "annotation": "(:zài gōngzhòng jùhuì hé dàhuì shí jièshào jiǎng zhě de dìxiōng)"
+  },
+  "349": {
+    "id": "349",
+    "text": "jièshào xià yīgè yǎnjiǎng"
+  },
+  "350": {
+    "id": "350",
+    "text": "gǔzhǎng",
+    "annotation": "(:pāishǒu gǎnxiè yīgè yǎnjiǎng děng)"
+  },
+  "351": {
+    "id": "351",
+    "text": "zhǎngshēng"
+  },
+  "352": {
+    "id": "352",
+    "text": "zhǎngshēng biǎomíng tīngzhòng hěn xǐhuan tīng zhègè yǎnjiǎng."
+  },
+  "353": {
+    "id": "353",
+    "text": "wǒmen de jùhuì huì zài liǎng fēnzhōng hòu kāishǐ."
+  },
+  "354": {
+    "id": "354",
+    "text": "huānyíng ！"
+  },
+  "355": {
+    "id": "355",
+    "text": "wǒmen huānyíng nǐmen lái jīntiān wǎnshang de jùhuì."
+  },
+  "356": {
+    "id": "356",
+    "text": "huānyíng dìxiōng hé jiěmèi men."
+  },
+  "357": {
+    "id": "357",
+    "text": "huānyíng láidào jīntiān wǎnshang de jùhuì."
+  },
+  "358": {
+    "id": "358",
+    "text": "qǐng zhǎodào nǐmen de zuòwèi."
+  },
+  "359": {
+    "id": "359",
+    "text": "qǐng zuò."
+  },
+  "360": {
+    "id": "360",
+    "text": "qǐng zuò.",
+    "annotation": "{~}"
+  },
+  "361": {
+    "id": "361",
+    "text": "rúguǒ kěyǐ, qǐng zhànqǐlai."
+  },
+  "362": {
+    "id": "362",
+    "text": "xiànzài wǒmen yǒu 10 fēnzhōng de xiūxi. qīng zài 3:15 zhīqián fǎnhuí nǐ de zuòwèi."
+  },
+  "363": {
+    "id": "363",
+    "text": "wǒmen jīntiān wǎnshang de jùhuì bāokuò liǎng gè bùfen."
+  },
+  "364": {
+    "id": "364",
+    "text": "wǒmen jùhuì de xià yīgè bùfen shì shǒuwàngtái yánjiūbān."
+  },
+  "365": {
+    "id": "365",
+    "text": "wǒ xiǎng yāoqǐng XXX dìxiōng shàngtái."
+  },
+  "366": {
+    "id": "366",
+    "text": "qǐng zǐxì liúyì tīng tā (de jiémù)."
+  },
+  "367": {
+    "id": "367",
+    "text": "XXX dìxiōng huì zhǔchí zhègè tǎolùn."
+  },
+  "368": {
+    "id": "368",
+    "text": "xiànzài, XXX dìxiōng huì zhǔchí zhègè huìzhòng yánjīngbān."
+  },
+  "369": {
+    "id": "369",
+    "text": "XXX dìxiōng huì dú dì wǔ zhāng de dì 12 jié dào dì 25 jié."
+  },
+  "370": {
+    "id": "370",
+    "text": "XXX jiěmèi huì shìfàn yuèbào zhōng de dì èr gè jièshàocí."
+  },
+  "371": {
+    "id": "371",
+    "text": "xiànzài ràng wǒmen tīng liǎng gè jiěmèi guānyú yǐxià tímù de tǎolùn : “ … ”."
+  },
+  "372": {
+    "id": "372",
+    "text": "XXX jiěmèi huì zhǔchí zhègè tǎolùn."
+  },
+  "373": {
+    "id": "373",
+    "text": "tā de zhùshǒu shì YYY jiěmèi."
+  },
+  "374": {
+    "id": "374",
+    "text": "YYY jiěmèi huì biǎoyǎn zhùhù."
+  },
+  "375": {
+    "id": "375",
+    "text": "zhègè wěipài de chǎnghé shì …"
+  },
+  "376": {
+    "id": "376",
+    "text": "jīntiān wǒmen hěn gāoxìng qǐngdào yī wèi wàilái jiǎngzhě wèi wǒmen fābiǎo yīgè yǎnjiǎng."
+  },
+  "377": {
+    "id": "377",
+    "text": "láizì YYY huìzhòng de XXX dìxiōng wèi wǒmen fābiǎo yīgè yǎnjiǎng."
+  },
+  "378": {
+    "id": "378",
+    "text": "tā de yǎnjiǎng de tímù shì …"
+  },
+  "379": {
+    "id": "379",
+    "text": "XXX dìxiōng, xièxie nǐ guānyú zhègè tímù wèi wǒmen fābiǎo de yǎnjiǎng."
+  },
+  "380": {
+    "id": "380",
+    "text": "wǒmen zàizuò de 75 wèi dōu hěn gāoxìng tīngdào nǐ de yǎnjiǎng."
+  },
+  "381": {
+    "id": "381",
+    "text": "wǒmen hěn gāoxìng zhègè xīngqī yǒu fēnqū jiāndū hé tā de qīzi tànfǎng wǒmen."
+  },
+  "382": {
+    "id": "382",
+    "text": "wǒmen de fēnqū jiāndū de dì yī gè yǎnjiǎng de tímù shì …"
+  },
+  "383": {
+    "id": "383",
+    "text": "wǒ dàilái zài XXX de bótèlì jiātíng de ài xīn."
+  },
+  "384": {
+    "id": "384",
+    "text": "wǒ kěyǐ jiāng nǐ de ài xīn dài gěi XXX huìzhòng ma ?"
+  },
+  "386": {
+    "id": "386",
+    "text": "jiàodǎo hé tǎolùn"
+  },
+  "387": {
+    "id": "387",
+    "text": "shèngjīng jīngjuàn"
+  },
+  "388": {
+    "id": "388",
+    "text": "xībóláiyǔ jīngjuàn"
+  },
+  "389": {
+    "id": "389",
+    "text": "chuàng shìjì"
+  },
+  "390": {
+    "id": "390",
+    "text": "chūāijíjì"
+  },
+  "391": {
+    "id": "391",
+    "text": "lìwèijì"
+  },
+  "392": {
+    "id": "392",
+    "text": "mínshùjì"
+  },
+  "393": {
+    "id": "393",
+    "text": "shēnmìngjì"
+  },
+  "394": {
+    "id": "394",
+    "text": "yuēshūyǎjì"
+  },
+  "395": {
+    "id": "395",
+    "text": "shìshījì"
+  },
+  "396": {
+    "id": "396",
+    "text": "lùdéjì"
+  },
+  "397": {
+    "id": "397",
+    "text": "sāmǔěrjìshàng"
+  },
+  "398": {
+    "id": "398",
+    "text": "sāmǔěrjìxià"
+  },
+  "399": {
+    "id": "399",
+    "text": "lièwángjìshàng"
+  },
+  "400": {
+    "id": "400",
+    "text": "lièwángjìxià"
+  },
+  "401": {
+    "id": "401",
+    "text": "lìdàizhìshàng"
+  },
+  "402": {
+    "id": "402",
+    "text": "lìdàizhìxià"
+  },
+  "403": {
+    "id": "403",
+    "text": "yǐsīlājì"
+  },
+  "404": {
+    "id": "404",
+    "text": "níxīmǐjì"
+  },
+  "405": {
+    "id": "405",
+    "text": "yǐsītiějì"
+  },
+  "406": {
+    "id": "406",
+    "text": "yuēbójì"
+  },
+  "407": {
+    "id": "407",
+    "text": "shīpiān"
+  },
+  "408": {
+    "id": "408",
+    "text": "zhēnyán"
+  },
+  "409": {
+    "id": "409",
+    "text": "chuándàoshū"
+  },
+  "410": {
+    "id": "410",
+    "text": "yǎgē"
+  },
+  "411": {
+    "id": "411",
+    "text": "yǐsàiyǎshū"
+  },
+  "412": {
+    "id": "412",
+    "text": "yēlìmǐshū"
+  },
+  "413": {
+    "id": "413",
+    "text": "yēlìmǐāigē"
+  },
+  "414": {
+    "id": "414",
+    "text": "yǐxījiéshū"
+  },
+  "415": {
+    "id": "415",
+    "text": "dànyǐlǐshū"
+  },
+  "416": {
+    "id": "416",
+    "text": "héxīāshū"
+  },
+  "417": {
+    "id": "417",
+    "text": "yuēěrshū"
+  },
+  "418": {
+    "id": "418",
+    "text": "āmósīshū"
+  },
+  "419": {
+    "id": "419",
+    "text": "ébādǐyǎshū"
+  },
+  "420": {
+    "id": "420",
+    "text": "yuēnáshū"
+  },
+  "421": {
+    "id": "421",
+    "text": "míjiāshū"
+  },
+  "422": {
+    "id": "422",
+    "text": "nàhóngshū"
+  },
+  "423": {
+    "id": "423",
+    "text": "hābāgǔshū"
+  },
+  "424": {
+    "id": "424",
+    "text": "xīfānyǎshū"
+  },
+  "425": {
+    "id": "425",
+    "text": "hāgāishū"
+  },
+  "426": {
+    "id": "426",
+    "text": "sājiālìyǎshū"
+  },
+  "427": {
+    "id": "427",
+    "text": "mǎlājīshū"
+  },
+  "428": {
+    "id": "428",
+    "text": "xīlàyǔ jīngjuàn"
+  },
+  "429": {
+    "id": "429",
+    "text": "mǎtàifúyīn"
+  },
+  "430": {
+    "id": "430",
+    "text": "mǎkěfúyīn"
+  },
+  "431": {
+    "id": "431",
+    "text": "lùjiāfúyīn"
+  },
+  "432": {
+    "id": "432",
+    "text": "yuēhànfúyīn"
+  },
+  "433": {
+    "id": "433",
+    "text": "shǐtúxíngzhuàn"
+  },
+  "434": {
+    "id": "434",
+    "text": "luómǎshū"
+  },
+  "435": {
+    "id": "435",
+    "text": "gēlínduōqiánshū"
+  },
+  "436": {
+    "id": "436",
+    "text": "gēlínduōhòushū"
+  },
+  "437": {
+    "id": "437",
+    "text": "jiālātàishū"
+  },
+  "438": {
+    "id": "438",
+    "text": "yǐfúsuǒshū"
+  },
+  "439": {
+    "id": "439",
+    "text": "féilìbǐshū"
+  },
+  "440": {
+    "id": "440",
+    "text": "gēluóxīshū"
+  },
+  "441": {
+    "id": "441",
+    "text": "tiěsāluóníjiāqiánshū"
+  },
+  "442": {
+    "id": "442",
+    "text": "tiěsāluóníjiāhòushū"
+  },
+  "443": {
+    "id": "443",
+    "text": "tímótàiqiánshū"
+  },
+  "444": {
+    "id": "444",
+    "text": "tímótàihòushū"
+  },
+  "445": {
+    "id": "445",
+    "text": "tíduōshū"
+  },
+  "446": {
+    "id": "446",
+    "text": "féilìménshū"
+  },
+  "447": {
+    "id": "447",
+    "text": "xībóláishū"
+  },
+  "448": {
+    "id": "448",
+    "text": "yǎgèshū"
+  },
+  "449": {
+    "id": "449",
+    "text": "bǐdéqiánshū"
+  },
+  "450": {
+    "id": "450",
+    "text": "bǐdéhòushū"
+  },
+  "451": {
+    "id": "451",
+    "text": "yuēhànyīshū"
+  },
+  "452": {
+    "id": "452",
+    "text": "yuēhànèrshū"
+  },
+  "453": {
+    "id": "453",
+    "text": "yuēhànsānshū"
+  },
+  "454": {
+    "id": "454",
+    "text": "yóudàshū"
+  },
+  "455": {
+    "id": "455",
+    "text": "qǐshìlù"
+  },
+  "456": {
+    "id": "456",
+    "text": "shǐyòng shèngjīng"
+  },
+  "457": {
+    "id": "457",
+    "text": "shèngjīng"
+  },
+  "458": {
+    "id": "458",
+    "text": "ràng wǒmen dǎkāi shèngjīng."
+  },
+  "459": {
+    "id": "459",
+    "text": "ràng wǒmen dǎkāi shèngjīng dào yēlìmǐshū 10:23."
+  },
+  "460": {
+    "id": "460",
+    "text": "jìzǎi (/gùshì)"
+  },
+  "461": {
+    "id": "461",
+    "text": "ràng wǒmen fān kàn yīxià zhègè shèngjīng jìzǎi."
+  },
+  "462": {
+    "id": "462",
+    "text": "jīngwén"
+  },
+  "463": {
+    "id": "463",
+    "text": "zhè jié jīngwén gàosu wǒmen shénme ne?"
+  },
+  "464": {
+    "id": "464",
+    "text": "zhè jié jīngwén xiàng wǒmen jiēshì le, … ?"
+  },
+  "465": {
+    "id": "465",
+    "text": "zhè jié jīngwén zěnyàng yǔ … liánxì qǐlai ne?"
+  },
+  "466": {
+    "id": "466",
+    "text": "zhè jié jīngwén shì shénme yìsī?"
+  },
+  "467": {
+    "id": "467",
+    "text": "qǐng jiù zhè jié jīngwén gěiyǔ pínglùn."
+  },
+  "468": {
+    "id": "468",
+    "text": "qǐng jiěshì zhè jié jīngwén."
+  },
+  "469": {
+    "id": "469",
+    "text": "wǒmen kěyǐ cóng zhè jié jīngwén zhōng xuédào shénme ne ?"
+  },
+  "470": {
+    "id": "470",
+    "text": "mǎtàifúyīn dìqī zhāng, dìshíèr jié"
+  },
+  "471": {
+    "id": "471",
+    "text": "mǎtàifúyīn dìwǔ zhāng, dì èrshísān, èrshísì jié"
+  },
+  "472": {
+    "id": "472",
+    "text": "yuēhànyīshū dì èr zhāng, dì shíwǔ dào shíqī jié"
+  },
+  "473": {
+    "id": "473",
+    "text": "shīpiān dì sānshíqī piān, dì shíyī jié"
+  },
+  "474": {
+    "id": "474",
+    "text": "xuéxí zīliào"
+  },
+  "475": {
+    "id": "475",
+    "text": "yè"
+  },
+  "476": {
+    "id": "476",
+    "text": "qǐng dǎkāi zázhì dào dì èrshí yè de wénzhāng."
+  },
+  "477": {
+    "id": "477",
+    "text": "qǐng fānkāi xuéxí (/yánjiū) zīliào dào dìsì shíwǔ yè."
+  },
+  "478": {
+    "id": "478",
+    "text": "ràng wǒmen fānkāi dào dì shí yè."
+  },
+  "479": {
+    "id": "479",
+    "text": "wénzhāng"
+  },
+  "480": {
+    "id": "480",
+    "text": "xìliè wénzhāng"
+  },
+  "481": {
+    "id": "481",
+    "text": "zhègè xīngqī, wǒmen huì chákàn zhègè xìliè wénzhāng, sān piān wénzhāng zhōng de dì yī piān."
+  },
+  "482": {
+    "id": "482",
+    "text": "zhǔtí"
+  },
+  "483": {
+    "id": "483",
+    "text": "zhǔtí jīngwén"
+  },
+  "484": {
+    "id": "484",
+    "text": "biāotí"
+  },
+  "485": {
+    "id": "485",
+    "text": "xiǎobiāotí"
+  },
+  "486": {
+    "id": "486",
+    "text": "duàn; duànluò"
+  },
+  "487": {
+    "id": "487",
+    "text": "shàng yī duàn"
+  },
+  "488": {
+    "id": "488",
+    "text": "xià yī duàn"
+  },
+  "489": {
+    "id": "489",
+    "text": "xià liǎng duàn"
+  },
+  "490": {
+    "id": "490",
+    "text": "ràng wǒmen lái dú xià liǎng duàn."
+  },
+  "491": {
+    "id": "491",
+    "text": "zì ; cí"
+  },
+  "492": {
+    "id": "492",
+    "text": "cūtǐzì"
+  },
+  "493": {
+    "id": "493",
+    "text": "xiétǐzì"
+  },
+  "494": {
+    "id": "494",
+    "text": "jiǎozhù"
+  },
+  "495": {
+    "id": "495",
+    "text": "fùlù"
+  },
+  "496": {
+    "id": "496",
+    "text": "fùlán"
+  },
+  "497": {
+    "id": "497",
+    "text": "túhuà"
+  },
+  "498": {
+    "id": "498",
+    "text": "háizimen, zhè fú túhuà zhōng de rén jiào shénme míngzi ne (/shì shuí ne) ?"
+  },
+  "499": {
+    "id": "499",
+    "text": "(chātú de) biāotí ; (chātú de) wénzì shuōmíng"
+  },
+  "500": {
+    "id": "500",
+    "text": "tǎolùn"
+  },
+  "501": {
+    "id": "501",
+    "text": "dáàn"
+  },
+  "502": {
+    "id": "502",
+    "text": "huídá"
+  },
+  "503": {
+    "id": "503",
+    "text": "wèntí; tíwèn"
+  },
+  "504": {
+    "id": "504",
+    "text": "zhǔtí wèntí"
+  },
+  "505": {
+    "id": "505",
+    "text": "fùxítí ; wēnxítí"
+  },
+  "506": {
+    "id": "506",
+    "text": "tíchū wèntí ; tíwèn"
+  },
+  "507": {
+    "id": "507",
+    "text": "huídá wèntí"
+  },
+  "508": {
+    "id": "508",
+    "text": "pínglùn"
+  },
+  "509": {
+    "id": "509",
+    "text": "fābiǎo pínglùn"
+  },
+  "510": {
+    "id": "510",
+    "text": "qǐng fānyì tā de pínglùn."
+  },
+  "511": {
+    "id": "511",
+    "text": "háiyǒu pínglùn ma ?"
+  },
+  "512": {
+    "id": "512",
+    "text": "qǐng bǎochí nǐ de pínglùn zài sānshí miǎozhōng nèi."
+  },
+  "513": {
+    "id": "513",
+    "text": "pínglùn; fābiǎo pínglùn"
+  },
+  "514": {
+    "id": "514",
+    "text": "shuí xiǎng zài zhègè xīngqī de yuèdú jīngwén zhōng gěi yǔ pínglùn ?"
+  },
+  "515": {
+    "id": "515",
+    "text": "jiù túhuà gěiyǔ pínglùn"
+  },
+  "516": {
+    "id": "516",
+    "text": "tǎolùn"
+  },
+  "517": {
+    "id": "517",
+    "text": "wèndá tǎolùn"
+  },
+  "518": {
+    "id": "518",
+    "text": "tǎolùn"
+  },
+  "519": {
+    "id": "519",
+    "text": "tǎolùn “tiāntiān kǎochá shèngjīng\""
+  },
+  "520": {
+    "id": "520",
+    "text": "xiànzài wǒmen yìqǐ tǎolùn zhè piān wénzhāng."
+  },
+  "521": {
+    "id": "521",
+    "text": "zhǔchí (tǎolùn)"
+  },
+  "522": {
+    "id": "522",
+    "text": "xièxie XXX dìxiōng suǒ zhǔchí de tǎolùn."
+  },
+  "523": {
+    "id": "523",
+    "text": "zhǔchírén"
+  },
+  "524": {
+    "id": "524",
+    "text": "shǒuwàngtái yánjiūbān zhǔchírén"
+  },
+  "525": {
+    "id": "525",
+    "text": "kǎolǜ"
+  },
+  "526": {
+    "id": "526",
+    "text": "xiànzài wǒmen huì yìqǐ tǎolùn yīgè hěn zhòngyào de wèntí."
+  },
+  "527": {
+    "id": "527",
+    "text": "dú(chū) ; niàn(chū) ; lǎngdú"
+  },
+  "528": {
+    "id": "528",
+    "text": "shuí kěyǐ dú dì èr duàn ?"
+  },
+  "529": {
+    "id": "529",
+    "text": "qǐng dú dì èr duàn."
+  },
+  "530": {
+    "id": "530",
+    "text": "xièxie XXX dìxiōng bāng wǒmen yuèdú."
+  },
+  "531": {
+    "id": "531",
+    "text": "wēnxí ; fùxí ; huígù"
+  },
+  "532": {
+    "id": "532",
+    "text": "ràng wǒmen huígù (/wēnxí) yīxià zhè piān wénzhāng de zhòngdiǎn"
+  },
+  "533": {
+    "id": "533",
+    "text": "zhòngdiǎn ; zhòngyào de xìnxī"
+  },
+  "534": {
+    "id": "534",
+    "text": "wǒmen cóng zhègè xīngqī de zīliào zhōng xuédàole shénme zhòngdiǎn (/zhòngyào xìnxī) ne ?"
+  },
+  "535": {
+    "id": "535",
+    "text": "bǎ XXX yùnyòng zài YYY shàng"
+  },
+  "536": {
+    "id": "536",
+    "text": "wǒmen kěyǐ zěnyàng bǎ zhègè yùnyòng zài … shàng ne?"
+  },
+  "537": {
+    "id": "537",
+    "text": "wǒmen kěyǐ zěnyàng bǎ zhègè yùnyòng zài wǒmen de chuándào shàng ne?"
+  },
+  "538": {
+    "id": "538",
+    "text": "zǒngjié"
+  },
+  "539": {
+    "id": "539",
+    "text": "wǒmen kěyǐ zěnyàng zǒngjié zhè jǐ duàn ne?"
+  },
+  "540": {
+    "id": "540",
+    "text": "dìxiōng jiěmèi men",
+    "annotation": "(:yǐnqǐ zhùyì, huòzhě kāishǐ xiàng tīngzhòng shuō huà shí)"
+  },
+  "541": {
+    "id": "541",
+    "text": "XXX dìxiōng",
+    "annotation": "(:zài jùhuì zhōng jiào mǒurén gěiyǔ pínglùn shí)"
+  },
+  "542": {
+    "id": "542",
+    "text": "XXX jiěmèi",
+    "annotation": "(:zài jùhuì zhōng jiào mǒurén gěiyǔ pínglùn shí)"
+  },
+  "543": {
+    "id": "543",
+    "text": "qǐng jǔshǒu."
+  },
+  "544": {
+    "id": "544",
+    "text": "qǐng děng màikèfēng sòngguòlái."
+  },
+  "545": {
+    "id": "545",
+    "text": "qǐng dǎkāi màikèfēng."
+  },
+  "546": {
+    "id": "546",
+    "text": "qǐng náqǐ màikèfēng."
+  },
+  "547": {
+    "id": "547",
+    "text": "hěnhǎo！tàihǎole！"
+  },
+  "548": {
+    "id": "548",
+    "text": "xùliècí"
+  },
+  "549": {
+    "id": "549",
+    "text": "xiànzài …; jiēxialai …"
+  },
+  "550": {
+    "id": "550",
+    "text": "xiànzài ràng wǒmen lái dú dì sān duàn."
+  },
+  "551": {
+    "id": "551",
+    "text": "wǒmen xiànzài huì kǎolǜ …"
+  },
+  "552": {
+    "id": "552",
+    "text": "wǒmen xiànzài huì kǎolǜ zhèxie wèntí."
+  },
+  "553": {
+    "id": "553",
+    "text": "wǒmen xiànzài huì kǎolǜ zhè ge wèntí (/nántí)."
+  },
+  "554": {
+    "id": "554",
+    "text": "wǒmen xiànzài huì kǎolǜ zhè ge tímù."
+  },
+  "555": {
+    "id": "555",
+    "text": "shǒuxiān …"
+  },
+  "556": {
+    "id": "556",
+    "text": "ránhòu …"
+  },
+  "557": {
+    "id": "557",
+    "text": "zuìhòu …"
+  },
+  "558": {
+    "id": "558",
+    "text": "shànggè xīngqī ; shàng zhōu"
+  },
+  "559": {
+    "id": "559",
+    "text": "zhègè xīngqī ; zhè zhōu"
+  },
+  "560": {
+    "id": "560",
+    "text": "zhègè xīngqī wǒmen huì kǎolǜ dì 10 dào 18 duàn."
+  },
+  "561": {
+    "id": "561",
+    "text": "zhègè xīngqī shì yóu XXX dìxiōng lái yuèdú."
+  },
+  "562": {
+    "id": "562",
+    "text": "xiàgge xīngqī ; xià zhōu"
+  },
+  "563": {
+    "id": "563",
+    "text": "wǒmen xiàgge xīngqī huì kǎolǜ shénme ?"
+  },
+  "564": {
+    "id": "564",
+    "text": "shàngcì"
+  },
+  "565": {
+    "id": "565",
+    "text": "xiàcì"
+  },
+  "566": {
+    "id": "566",
+    "text": "ràng wǒmen jìxù."
+  },
+  "567": {
+    "id": "567",
+    "text": "bùhǎoyìsi, wǒmen shíjiān yǒuxiàn.; bùhǎoyìsi, kuài méiyǒu shíjiān le."
+  },
+  "568": {
+    "id": "568",
+    "text": "kuài méiyǒu shíjiān le, suǒyǐ wǒmen yào jìxù xiàqu."
+  },
+  "569": {
+    "id": "569",
+    "text": "wǒmen de shíjiān dàole.; wǒmen dào shíjiān le."
+  },
+  "570": {
+    "id": "570",
+    "text": "wǒmen yào zài zhèlǐ jiéshù."
+  },
+  "572": {
+    "id": "572",
+    "text": "zuò jiànzhèng"
+  },
+  "573": {
+    "id": "573",
+    "text": "chuándào gōngzuò"
+  },
+  "574": {
+    "id": "574",
+    "text": "chuándào gōngzuò"
+  },
+  "575": {
+    "id": "575",
+    "text": "hé XXX yìqǐ chuándào"
+  },
+  "576": {
+    "id": "576",
+    "text": "wǒmen kěyǐ shénme shíhou yìqǐ chuándào ne ?"
+  },
+  "577": {
+    "id": "577",
+    "text": "chuándào"
+  },
+  "578": {
+    "id": "578",
+    "text": "chuándào gōngzuò"
+  },
+  "579": {
+    "id": "579",
+    "text": "(qù) chuándào"
+  },
+  "580": {
+    "id": "580",
+    "text": "(qù) xiàng XXX chuándào"
+  },
+  "581": {
+    "id": "581",
+    "text": "(qù) xiàng XXX zuò jiànzhèng"
+  },
+  "582": {
+    "id": "582",
+    "text": "(qù) xiàng XXX zuò jiànzhèng"
+  },
+  "583": {
+    "id": "583",
+    "text": "zuò jiànzhèng"
+  },
+  "584": {
+    "id": "584",
+    "text": "āijiāzhúhù zuò jiànzhèng"
+  },
+  "585": {
+    "id": "585",
+    "text": "jiētóu jiànzhèng"
+  },
+  "586": {
+    "id": "586",
+    "text": "fēizhèngshì jiànzhèng"
+  },
+  "587": {
+    "id": "587",
+    "text": "shāngyè dìqū zuò jiànzhèng"
+  },
+  "588": {
+    "id": "588",
+    "text": "xùfǎng"
+  },
+  "589": {
+    "id": "589",
+    "text": "nǐ míngtiān kěyǐ hé wǒ yìqǐ qù tànwàng yīgè xùfǎng ma ?"
+  },
+  "590": {
+    "id": "590",
+    "text": "qù tànfǎng yīgè xùfǎng"
+  },
+  "591": {
+    "id": "591",
+    "text": "shèngjīng yánjiū"
+  },
+  "592": {
+    "id": "592",
+    "text": "jiànlì shèngjīng yánjiū"
+  },
+  "593": {
+    "id": "593",
+    "text": "zhǔchí shèngjīng yánjiū"
+  },
+  "594": {
+    "id": "594",
+    "text": "wǒ xiàgge xīngqī yǒu yīgè shèngjīng yánjiū. nǐ yuànyì hé wǒ yìqǐ qù ma ?"
+  },
+  "595": {
+    "id": "595",
+    "text": "shèngjīng lǎoshī"
+  },
+  "596": {
+    "id": "596",
+    "text": "shèngjīng xuésheng"
+  },
+  "597": {
+    "id": "597",
+    "text": "gǎnxìngqù de rén"
+  },
+  "598": {
+    "id": "598",
+    "text": "jìnyībù jīfā duìfāng de xìngqu; bāngzhù péiyǎng xìngqu"
+  },
+  "599": {
+    "id": "599",
+    "text": "chuándào shíjiān"
+  },
+  "600": {
+    "id": "600",
+    "text": "tā shànggè yuè de chuándào shíjiān shì 14 xiǎoshí."
+  },
+  "601": {
+    "id": "601",
+    "text": "tā shànggè yuè de chuándào bàogào shì 14 xiǎoshí hé yīgè shèngjīng yánjiū."
+  },
+  "602": {
+    "id": "602",
+    "text": "jièshàocí"
+  },
+  "603": {
+    "id": "603",
+    "text": "nǐ zhīdao hǎode chuándào jièshàocí ma ?"
+  },
+  "604": {
+    "id": "604",
+    "text": "jīnglì ; jīngyàn",
+    "annotation": "(:bǐrú, chuándào jīngyàn)"
+  },
+  "605": {
+    "id": "605",
+    "text": "nǐ shànggè yuè yǒu shénme yǒuyìsi de chuándào jīnglì ma ?"
+  },
+  "606": {
+    "id": "606",
+    "text": "XXX dìxiōng xiànzài huì xiàng wǒmen jiǎngshù yīgè yǒuyìsi de (chuándào) jīngyàn."
+  },
+  "607": {
+    "id": "607",
+    "text": "wángguó chuándào yuèbào"
+  },
+  "608": {
+    "id": "608",
+    "text": "fùkān"
+  },
+  "609": {
+    "id": "609",
+    "text": "zài chuándào ānpái shí, qǐng bǎ 2006 nián 12 yuè wángguó chuándào yuèbào de fùkān."
+  },
+  "610": {
+    "id": "610",
+    "text": "fēnfā de kānwù; fēnfā de shūkān"
+  },
+  "611": {
+    "id": "611",
+    "text": "zhègè yuè fēnfā de shūkān shì shénme ?"
+  },
+  "612": {
+    "id": "612",
+    "text": "wǒmen zhègè yuè zhǔyào xiàng rén jièshào shénme shūkān ?"
+  },
+  "613": {
+    "id": "613",
+    "text": "tèbié de chuándào yùndòng"
+  },
+  "614": {
+    "id": "614",
+    "text": "zhègè tèbié chuándào yùndòng shénme shíhou kāishǐ ?"
+  },
+  "615": {
+    "id": "615",
+    "text": "chuándào huǒbàn"
+  },
+  "616": {
+    "id": "616",
+    "text": "shuí hái méiyǒu chuándào huǒbàn ?"
+  },
+  "617": {
+    "id": "617",
+    "text": "XXX dìxiōng, nǐ kěyǐ hé YYY dìxiōng yìqǐ gōngzuò."
+  },
+  "618": {
+    "id": "618",
+    "text": "shuí xūyào jiāotōng gōngjù ?"
+  },
+  "619": {
+    "id": "619",
+    "text": "(chuándào) dìqū"
+  },
+  "620": {
+    "id": "620",
+    "text": "shuí xūyào (chuándào) dìqū ?"
+  },
+  "621": {
+    "id": "621",
+    "text": "yǒu kùnnan ma ?"
+  },
+  "622": {
+    "id": "622",
+    "text": "yǒu wèntí ma ?"
+  },
+  "623": {
+    "id": "623",
+    "text": "ràng wǒmen chūfā ！"
+  },
+  "624": {
+    "id": "624",
+    "text": "jièshàocí"
+  },
+  "625": {
+    "id": "625",
+    "text": "nǐ (/nín) hǎo. wǒ jiào XXX.; nǐ (/nín) hǎo. wǒde míngzi shì XXX."
+  },
+  "626": {
+    "id": "626",
+    "text": "qǐngwèn ；（bùhǎoyìsi ）dǎrǎo yīxià ；láojià"
+  },
+  "627": {
+    "id": "627",
+    "text": "wǒ zài xuéxí XXX",
+    "annotation": "(:XXX shì yī zhòng yǔyán)"
+  },
+  "628": {
+    "id": "628",
+    "text": "nǐ shuō XXX ma?",
+    "annotation": "(:XXX shì yī zhòng yǔyán)"
+  },
+  "629": {
+    "id": "629",
+    "text": "wǒ zhèngzài xúnzhǎo shuō XXX de rén.",
+    "annotation": "(:XXX shì yī zhòng yǔyán)"
+  },
+  "630": {
+    "id": "630",
+    "text": "wǒ hěn gāoxìng nǐ zài jiā."
+  },
+  "631": {
+    "id": "631",
+    "text": "hěn gāoxìng zàicì jiàndào nǐ."
+  },
+  "632": {
+    "id": "632",
+    "text": "hěn gāoxìng zàicì gēn nǐ jiāotán.",
+    "annotation": "{x}"
+  },
+  "633": {
+    "id": "633",
+    "text": "bùhǎoyìsi, zài nǐ bùfāngbiàn de shíjiān dǎjiǎo le."
+  },
+  "634": {
+    "id": "634",
+    "text": "wǒ kànchū nǐ xiànzài hěn máng."
+  },
+  "635": {
+    "id": "635",
+    "text": "wǒ huì jiǎnduǎn de shuō."
+  },
+  "636": {
+    "id": "636",
+    "text": "wǒmen zài tànfǎng zhègè qū de suǒyǒu jiātíng."
+  },
+  "637": {
+    "id": "637",
+    "text": "wǒmen jīntiān zhǐshì xiàng wǒmen de línjū zuò gè jiǎnduǎn de tànfǎng."
+  },
+  "638": {
+    "id": "638",
+    "text": "zài yǔ dàjiā jiāotán de guòchéng zhōng, wǒ kànchū (/fājué) …"
+  },
+  "639": {
+    "id": "639",
+    "text": "zài yǔ dàjiā jiāotán de guòchéng zhōng, wǒ fāxiàn …"
+  },
+  "640": {
+    "id": "640",
+    "text": "wǒmen zhèngzài gēn línjū men tǎolùn kěyǐ zài nǎli zhǎodào jiějué xiànjīn shēnghuó shàng wèntí de shíyòng bāngzhù."
+  },
+  "641": {
+    "id": "641",
+    "text": "wǒmen zài hé línjūmen tǎolùn …"
+  },
+  "642": {
+    "id": "642",
+    "text": "wǒmen hé rénmen tándào (/tǎolùn) …"
+  },
+  "643": {
+    "id": "643",
+    "text": "wǒmen zài hé měigerén tán qǐ …"
+  },
+  "644": {
+    "id": "644",
+    "text": "wǒ zài hé wǒde línjū tǎolùn yīgè wǒmen dōu yào miànduì de wèntí."
+  },
+  "645": {
+    "id": "645",
+    "text": "jīntiān, wǒmen zài xúnwèn suǒyǒu rén zhèyàng yīgè wèntí."
+  },
+  "646": {
+    "id": "646",
+    "text": "jīntiān, wǒmen zài wèn wǒmen de línjū …"
+  },
+  "647": {
+    "id": "647",
+    "text": "wǒ xiǎng wèn nín yīgè wèntí …"
+  },
+  "648": {
+    "id": "648",
+    "text": "nín yǒu méiyǒu xiǎngguò …"
+  },
+  "649": {
+    "id": "649",
+    "text": "nín yǒu méiyǒu xiǎngguò: shàngdì zhēn de guānxīn rénlèi suǒ jīngshòu de bùgōng hé tòngkǔ ma ?"
+  },
+  "650": {
+    "id": "650",
+    "text": "jìnyībù jiēchù"
+  },
+  "651": {
+    "id": "651",
+    "text": "wǒ kěyǐ zěnyàng hé nín liánxì ne ?"
+  },
+  "652": {
+    "id": "652",
+    "text": "nín kěyǐ liúxià nín de diànhuà hàomǎ ma ?"
+  },
+  "653": {
+    "id": "653",
+    "text": "wǒde shǒujī hàomǎ shì …"
+  },
+  "654": {
+    "id": "654",
+    "text": "wǒ lái zhīqián huì shìxiān dǎ diànhuà gěi nǐ de."
+  },
+  "655": {
+    "id": "655",
+    "text": "wǒ huì gěi nín fā duǎnxìn de."
+  },
+  "656": {
+    "id": "656",
+    "text": "nín shōudào wǒ fā de duǎnxìn le ma ?"
+  },
+  "657": {
+    "id": "657",
+    "text": "wǒmen kěyǐ lìng yuē shíjiān jiànmiàn."
+  },
+  "658": {
+    "id": "658",
+    "text": "ràng wǒmen yuē gè shíjiān jiànmiàn ba."
+  },
+  "659": {
+    "id": "659",
+    "text": "nín shénme shíhou fāngbiàn ?"
+  },
+  "660": {
+    "id": "660",
+    "text": "nín shénme shíhou fāngbiàn jiànmiàn ?"
+  },
+  "661": {
+    "id": "661",
+    "text": "bùhǎoyìsi, míngtiān wǒ bù tài fāngbiàn."
+  },
+  "662": {
+    "id": "662",
+    "text": "wǒ zài shénme shíhou dǎ nín diànhuà zuìhǎo ne ?"
+  },
+  "663": {
+    "id": "663",
+    "text": "wǒ zài shénme shíhou tànfǎng nín zuìhǎo ne ?"
+  },
+  "664": {
+    "id": "664",
+    "text": "xiàgge xīngqī (/xià zhōu) zěnmeyàng ?"
+  },
+  "665": {
+    "id": "665",
+    "text": "xiàgge xīngqīèr xiàwǔ duì nín fāngbiàn ma ?"
+  },
+  "666": {
+    "id": "666",
+    "text": "nǐ huì zài diànlǐ ma ?"
+  },
+  "667": {
+    "id": "667",
+    "text": "nín huì zài jiā ma ?"
+  },
+  "668": {
+    "id": "668",
+    "text": "wǒmen kěyǐ yìqǐ hē bēi chá (/kāfēi)."
+  },
+  "669": {
+    "id": "669",
+    "text": "wǒmen kěyǐ yìqǐ liáoliáo."
+  },
+  "670": {
+    "id": "670",
+    "text": "nín xiàgge xīngqī yǒukōng ma ?"
+  },
+  "671": {
+    "id": "671",
+    "text": "nín míngtiān yǒu 10 fēnzhōng de kōngyú shíjiān ma ?"
+  },
+  "672": {
+    "id": "672",
+    "text": "wǒmen kěyǐ shāowēi zǎo yīdiǎn jiànmiàn ma ?"
+  },
+  "673": {
+    "id": "673",
+    "text": "wǒmen kěyǐ shāowēi wǎn yīdiǎn jiànmiàn ma ?"
+  },
+  "674": {
+    "id": "674",
+    "text": "bùhǎoyìsi, wǒ xūyào qǔxiāo wǒmen zhècì yuēdìng."
+  },
+  "675": {
+    "id": "675",
+    "text": "wǒmen kěyǐ bǎ yuēdìng gǎi tiān ma ?"
+  },
+  "676": {
+    "id": "676",
+    "text": "jièshào shèngjīng"
+  },
+  "677": {
+    "id": "677",
+    "text": "wǒ lái hé nǐ yìqǐ fēnxiǎng shèngjīng zhōng de yīgè zhòngdiǎn xìnxī."
+  },
+  "678": {
+    "id": "678",
+    "text": "wǒ xiǎng hé nǐ yìqǐ fēnxiǎng yīgè shèngjīng zhōng hěn gǔwǔ rénxīn (/gǔlì rén) de xìnxī."
+  },
+  "679": {
+    "id": "679",
+    "text": "wǒ hé línjū fēnxiǎng shèngjīng lǐ hěn gǔlì rén de xìnxī."
+  },
+  "680": {
+    "id": "680",
+    "text": "wǒmen zài gǔlì rénmen yuèdú shèngjīng."
+  },
+  "681": {
+    "id": "681",
+    "text": "shèngjīng zhōng jiù yīxiē hěn zhòngyào de wèntí suǒ gěichū de dáàn, wǎngwǎng ràng rén jīngyà. bǐrú shuō …"
+  },
+  "682": {
+    "id": "682",
+    "text": "qǐng liúyì, shèngjīng zài zhèlǐ shuō shénme …"
+  },
+  "683": {
+    "id": "683",
+    "text": "nín yuànyì hé wǒ yìqǐ xuéxí shèngjīng ma ?"
+  },
+  "684": {
+    "id": "684",
+    "text": "wǒmen wèi dàjiā tígōng yīgè miǎnfèi de shèngjīng kèchéng."
+  },
+  "685": {
+    "id": "685",
+    "text": "jièshào kānwù"
+  },
+  "686": {
+    "id": "686",
+    "text": "wǒ xiǎng bǎ zhègè dānzhāng sònggěi nǐ."
+  },
+  "687": {
+    "id": "687",
+    "text": "zhègè dānzhāng shuō de shì …"
+  },
+  "688": {
+    "id": "688",
+    "text": "dú zhègè dānzhāng búhuì huā nín tàiduō shíjiān de."
+  },
+  "689": {
+    "id": "689",
+    "text": "zhè hěn yǒuyìsi."
+  },
+  "690": {
+    "id": "690",
+    "text": "nǐ xiǎng dúdú zhè běn cèzǐ ma ?"
+  },
+  "691": {
+    "id": "691",
+    "text": "wǒ kěyǐ sònggěi nǐ zhèxie zázhì ma ?"
+  },
+  "692": {
+    "id": "692",
+    "text": "kànkan zhè fú túhuà."
+  },
+  "693": {
+    "id": "693",
+    "text": "wǒ xiǎng gěi nǐ kàn yīxià zhè běn shū."
+  },
+  "694": {
+    "id": "694",
+    "text": "qǐng kànkàn zhè běn shūshàng suǒ shuō de."
+  },
+  "695": {
+    "id": "695",
+    "text": "zhè shì bù shōufèi de."
+  },
+  "696": {
+    "id": "696",
+    "text": "wǒmen de gōngzuò shì yóu zìyuàn juānkuǎn wéichí de."
+  },
+  "697": {
+    "id": "697",
+    "text": "nǐ kěyǐ jiè zhè běn shū.",
+    "annotation": "{x}"
+  },
+  "698": {
+    "id": "698",
+    "text": "wǒ kěyǐ jiè gěi nǐ wǒde shū."
+  },
+  "699": {
+    "id": "699",
+    "text": "wǒ xiǎng (/xīwàng) gěi nǐ yīxiē nǐ de yǔyán de xìnxī."
+  },
+  "700": {
+    "id": "700",
+    "text": "xúnwèn yìjiàn"
+  },
+  "701": {
+    "id": "701",
+    "text": "nǐ yǒu shénme xiǎngfǎ ?"
+  },
+  "702": {
+    "id": "702",
+    "text": "duì nǐ láishuō, tīngqǐlai búcuò ma ?"
+  },
+  "703": {
+    "id": "703",
+    "text": "nǐ tóngyì bùtóngyì, … ?"
+  },
+  "704": {
+    "id": "704",
+    "text": "nǐ duì … yǒu shénme gǎnjué (/gǎnshòu) ?"
+  },
+  "705": {
+    "id": "705",
+    "text": "nǐ duì … yǒu shénme kànfǎ (/xiǎngfǎ) ?"
+  },
+  "706": {
+    "id": "706",
+    "text": "huífǎng"
+  },
+  "707": {
+    "id": "707",
+    "text": "xiàcì, wǒ xiǎng tǎolùn …"
+  },
+  "708": {
+    "id": "708",
+    "text": "xiàcì, wǒ xiǎng lái huídá yīgè hěn zhòngyào de wèntí."
+  },
+  "709": {
+    "id": "709",
+    "text": "xiàcì wǒ lái de shíhòu, wǒ xiǎng hé nǐ yìqǐ tǎolùn zhègè wèntí."
+  },
+  "710": {
+    "id": "710",
+    "text": "xiàcì, wǒmen kěyǐ yìqǐ tǎolùn zhè běn shū dì 2 zhānglǐ de nèiróng (/xìnxī)."
+  },
+  "711": {
+    "id": "711",
+    "text": "nǐ hái jìde, …"
+  },
+  "712": {
+    "id": "712",
+    "text": "shàngcì wǒ wèn le nǐ yīgè wèntí."
+  },
+  "713": {
+    "id": "713",
+    "text": "jīntiān wǒ xiǎng huídá nèigè wèntí."
+  },
+  "714": {
+    "id": "714",
+    "text": "zhǎo rén"
+  },
+  "715": {
+    "id": "715",
+    "text": "XXX zài jiā ma?"
+  },
+  "716": {
+    "id": "716",
+    "text": "XXX zài ma?"
+  },
+  "717": {
+    "id": "717",
+    "text": "tā chūqù le."
+  },
+  "718": {
+    "id": "718",
+    "text": "tā shénme shíhou huílai?"
+  },
+  "719": {
+    "id": "719",
+    "text": "wǒ huì děng (tā)."
+  },
+  "720": {
+    "id": "720",
+    "text": "wǒ míngtiān zài huílai (/guòlái)."
+  },
+  "721": {
+    "id": "721",
+    "text": "méiguānxi."
+  },
+  "722": {
+    "id": "722",
+    "text": "méiwèntí."
+  },
+  "724": {
+    "id": "724",
+    "text": "dǎogào"
+  },
+  "725": {
+    "id": "725",
+    "text": "mófàn dǎogào (mǎtài 6)"
+  },
+  "726": {
+    "id": "726",
+    "text": "wǒmen zài tiānshàng de fùqīn, yuàn nǐ de míng zhāngxiǎn wéi shèng."
+  },
+  "727": {
+    "id": "727",
+    "text": "yuàn nǐ de wángguó láilín."
+  },
+  "728": {
+    "id": "728",
+    "text": "yuàn nǐ de zhǐyì zài dìshang shíxiàn, xiàng zài tiānshàng yíyàng."
+  },
+  "729": {
+    "id": "729",
+    "text": "qǐng nǐ gěi wǒmen jīntiān suǒ xūyào de shíwù."
+  },
+  "730": {
+    "id": "730",
+    "text": "kuānshù wǒmen de zuìzhài, jiù xiàng wǒmen yě kuānshùle qiàn wǒmen zuìzhài de rén yíyàng."
+  },
+  "731": {
+    "id": "731",
+    "text": "búyào ràng wǒmen xiànrù yǐnyòu, qiú nǐ bāng wǒmen tuōlí èzhě."
+  },
+  "732": {
+    "id": "732",
+    "text": "chēnghu yēhéhuá"
+  },
+  "733": {
+    "id": "733",
+    "text": "nǐ ; nín",
+    "annotation": "(:zài mùbiāo yǔyán zhōng duìchèn hū yēhéhuá chángyòng de rén chēng dàicí)"
+  },
+  "734": {
+    "id": "734",
+    "text": "yēhéhuá"
+  },
+  "735": {
+    "id": "735",
+    "text": "shàngdì"
+  },
+  "736": {
+    "id": "736",
+    "text": "wǒmen de shàngdì"
+  },
+  "737": {
+    "id": "737",
+    "text": "yēhéhuá wǒmen de shàngdì"
+  },
+  "738": {
+    "id": "738",
+    "text": "chuàngzàozhǔ"
+  },
+  "739": {
+    "id": "739",
+    "text": "wǒmen de chuàngzàozhǔ"
+  },
+  "740": {
+    "id": "740",
+    "text": "tiāndì de chuàngzàozhǔ"
+  },
+  "741": {
+    "id": "741",
+    "text": "fùqīn"
+  },
+  "742": {
+    "id": "742",
+    "text": "wǒmen de fùqīn"
+  },
+  "743": {
+    "id": "743",
+    "text": "qīn'ài de"
+  },
+  "744": {
+    "id": "744",
+    "text": "rén'ài de"
+  },
+  "745": {
+    "id": "745",
+    "text": "cíài de"
+  },
+  "746": {
+    "id": "746",
+    "text": "shēn'ài de"
+  },
+  "747": {
+    "id": "747",
+    "text": "yǒu àixīn de"
+  },
+  "748": {
+    "id": "748",
+    "text": "dà'néng de"
+  },
+  "749": {
+    "id": "749",
+    "text": "quánnéng de"
+  },
+  "750": {
+    "id": "750",
+    "text": "zài tiānshàng ; tiānshàng de"
+  },
+  "751": {
+    "id": "751",
+    "text": "wǒmen zài tiānshàng de fùqīn"
+  },
+  "752": {
+    "id": "752",
+    "text": "yēsū jīdū"
+  },
+  "753": {
+    "id": "753",
+    "text": "yēsū jīdū"
+  },
+  "754": {
+    "id": "754",
+    "text": "wǒmen fèng yēsū de míng xiàng nín dǎogào."
+  },
+  "755": {
+    "id": "755",
+    "text": "wǒmen tōngguò yēsū xiàng nín dǎogào."
+  },
+  "756": {
+    "id": "756",
+    "text": "qǐng nín tōngguò yēsū de míng tīng zhègè dǎogào."
+  },
+  "757": {
+    "id": "757",
+    "text": "wǒmen de jiùzhǔ"
+  },
+  "758": {
+    "id": "758",
+    "text": "nǐ de érzi"
+  },
+  "759": {
+    "id": "759",
+    "text": "wǒmen de jūnwáng"
+  },
+  "760": {
+    "id": "760",
+    "text": "wǒmen de zhèngzài (tiānshàng) tǒngzhì de jūnwáng"
+  },
+  "761": {
+    "id": "761",
+    "text": "āmén"
+  },
+  "762": {
+    "id": "762",
+    "text": "zànměi"
+  },
+  "763": {
+    "id": "763",
+    "text": "wǒmen ài nín."
+  },
+  "764": {
+    "id": "764",
+    "text": "wǒmen zànměi (/sòngyáng) nín."
+  },
+  "765": {
+    "id": "765",
+    "text": "wǒmen zūnchóng nín."
+  },
+  "766": {
+    "id": "766",
+    "text": "wǒmen qīdài nín de wángguó dàilái de fúfēn."
+  },
+  "767": {
+    "id": "767",
+    "text": "wǒmen xiǎng zūnxíng nín de zhǐyì."
+  },
+  "768": {
+    "id": "768",
+    "text": "wǒmen xiǎng zànměi nín de míng."
+  },
+  "769": {
+    "id": "769",
+    "text": "gǎnxiè"
+  },
+  "770": {
+    "id": "770",
+    "text": "wǒmen hěn gāoxìng …"
+  },
+  "771": {
+    "id": "771",
+    "text": "wǒmen hěn gāoxìng kěyǐ jùjí qǐlai."
+  },
+  "772": {
+    "id": "772",
+    "text": "wǒmen hěn gāoxìng jīntiān kěyǐ jùjí qǐlai."
+  },
+  "773": {
+    "id": "773",
+    "text": "wǒmen hěn gǎnxiè …"
+  },
+  "774": {
+    "id": "774",
+    "text": "wǒmen hěn gǎnxiè yǒu zhègè jùhuì de dìfang."
+  },
+  "775": {
+    "id": "775",
+    "text": "wǒmen hěn gǎnxiè yǒu zhègè jīhuì."
+  },
+  "776": {
+    "id": "776",
+    "text": "wǒmen hěn gǎnxiè nín tōngguò jùhuì gěi wǒmen de zhīshi."
+  },
+  "777": {
+    "id": "777",
+    "text": "gǎnxiè nín …"
+  },
+  "778": {
+    "id": "778",
+    "text": "gǎnxiè nín gěi wǒmen zhègè shū róng."
+  },
+  "779": {
+    "id": "779",
+    "text": "gǎnxiè nín gěi wǒmen shēngmìng."
+  },
+  "780": {
+    "id": "780",
+    "text": "gǎnxiè nín dàilǐng wǒmen tuōlí zhègè hēiàn de shìjiè."
+  },
+  "781": {
+    "id": "781",
+    "text": "gǎnxiè nín gěi wǒmen shèngjīng de huàyǔ."
+  },
+  "782": {
+    "id": "782",
+    "text": "gǎnxiè nín gěi wǒmen jīhuì rènshi nín."
+  },
+  "783": {
+    "id": "783",
+    "text": "gǎnxiè nín tōngguò yēsū jīdū wèi wǒmen fùchū de shújià."
+  },
+  "784": {
+    "id": "784",
+    "text": "gǎnxiè nín gěi wǒmen dìxiōng jiěmèi."
+  },
+  "785": {
+    "id": "785",
+    "text": "gǎnxiè nín gěi wǒ mén jùhuì de ānpái."
+  },
+  "786": {
+    "id": "786",
+    "text": "gǎnxiè nín gěi wǒmen jiānglái de xīwàng."
+  },
+  "787": {
+    "id": "787",
+    "text": "gǎnxiè nín pài nín de érzi lái dìqiú."
+  },
+  "788": {
+    "id": "788",
+    "text": "gǎnxiè nín tōngguò jùhuì gěi wǒmen de tíxǐng."
+  },
+  "789": {
+    "id": "789",
+    "text": "qǐngqiú"
+  },
+  "790": {
+    "id": "790",
+    "text": "yǐndǎo XXX"
+  },
+  "791": {
+    "id": "791",
+    "text": "yǐndǎo wǒmen."
+  },
+  "792": {
+    "id": "792",
+    "text": "yǐndǎo nǐ de zǔzhī."
+  },
+  "793": {
+    "id": "793",
+    "text": "yǐndǎo zhōngyāng zhǎnglǎotuán."
+  },
+  "794": {
+    "id": "794",
+    "text": "bāngzhù XXX"
+  },
+  "795": {
+    "id": "795",
+    "text": "bāngzhù wǒmen shì fèng nín."
+  },
+  "796": {
+    "id": "796",
+    "text": "bāngzhù wǒmen zuò duì de shìqing."
+  },
+  "797": {
+    "id": "797",
+    "text": "bāngzhù wǒmen dǐkàng yǐnyòu."
+  },
+  "798": {
+    "id": "798",
+    "text": "bāngzhù wǒmen rěnnài."
+  },
+  "799": {
+    "id": "799",
+    "text": "bāngzhù wǒmen jìxù cānjiā jùhuì."
+  },
+  "800": {
+    "id": "800",
+    "text": "bāngzhù wǒmen chuándào shí zhǎodào xīndì chéngshí de rén."
+  },
+  "801": {
+    "id": "801",
+    "text": "bāngzhù wǒmen gàosu biérén wǒmen xuédào de zhīshi."
+  },
+  "802": {
+    "id": "802",
+    "text": "bāngzhù wǒmen jùhuì qījiān kěyǐ jízhōng jīngshén."
+  },
+  "803": {
+    "id": "803",
+    "text": "bāngzhù wǒmen chénsī nǐ de huàyǔ."
+  },
+  "804": {
+    "id": "804",
+    "text": "bāngzhù wǒmen bǎ xuédào de zhīshi yìngyòngchūlai."
+  },
+  "805": {
+    "id": "805",
+    "text": "bāngzhù nàxiē xiànzài yǒu kùnnan de dìxiōng."
+  },
+  "806": {
+    "id": "806",
+    "text": "bāngzhù wǒmen liúyìdào dìxiōng de xūyào."
+  },
+  "807": {
+    "id": "807",
+    "text": "bāngzhù XXX jìxù xuéxí nǐ de huàyǔ."
+  },
+  "808": {
+    "id": "808",
+    "text": "bāngzhù XXX yǒu yǒngqì."
+  },
+  "809": {
+    "id": "809",
+    "text": "bāngzhù XXX zài shǔlíng fāngmiàn jìnbù."
+  },
+  "810": {
+    "id": "810",
+    "text": "gěi YYY XXX"
+  },
+  "811": {
+    "id": "811",
+    "text": "gěi wǒmen …"
+  },
+  "812": {
+    "id": "812",
+    "text": "gěi wǒmen nǐ de shènglíng."
+  },
+  "813": {
+    "id": "813",
+    "text": "gěi wǒmen zhìhuì."
+  },
+  "814": {
+    "id": "814",
+    "text": "gěi wǒmen lìliang qù zuò suǒyǒu nǐ yāoqiú wǒmen zuò de shì."
+  },
+  "815": {
+    "id": "815",
+    "text": "qiú (/qǐngqiú) XXX"
+  },
+  "816": {
+    "id": "816",
+    "text": "wǒmen qiú …"
+  },
+  "817": {
+    "id": "817",
+    "text": "wǒmen qiú nín zài zhègè kùnnan deshíhòu zhǐyǐn wǒmen."
+  },
+  "818": {
+    "id": "818",
+    "text": "zhùfú XXX"
+  },
+  "819": {
+    "id": "819",
+    "text": "zhùfú …"
+  },
+  "820": {
+    "id": "820",
+    "text": "zhùfú wǒmen."
+  },
+  "821": {
+    "id": "821",
+    "text": "zhùfú wǒmen de chuándào gōngzuò."
+  },
+  "822": {
+    "id": "822",
+    "text": "zhùfú zhègè jùhuì."
+  },
+  "823": {
+    "id": "823",
+    "text": "zhùfú wǒmen de huìzhòng."
+  },
+  "824": {
+    "id": "824",
+    "text": "bǎohù XXX"
+  },
+  "825": {
+    "id": "825",
+    "text": "bǎohù wǒmen."
+  },
+  "826": {
+    "id": "826",
+    "text": "bǎohù nàxiē jīntiān wǎnshang bùnéng lái zhèr de dìxiōng."
+  },
+  "827": {
+    "id": "827",
+    "text": "bǎohù nàxiē zài biéde dìfang shòudào pòhài de dìxiōng."
+  },
+  "828": {
+    "id": "828",
+    "text": "wǒmen wǎnshang huíjiā de shíhòu, (qiú nǐ) bǎohù wǒmen."
+  },
+  "829": {
+    "id": "829",
+    "text": "qǐng … ; qiú nǐ …",
+    "annotation": "(:dǎogào shí shǐ wǒmen de qǐngqiú gèng lǐmào huò yǔqì gèng qiángliè de yǔcí)"
+  },
+  "830": {
+    "id": "830",
+    "text": "zhùfú zhègè jùhuì."
+  },
+  "831": {
+    "id": "831",
+    "text": "qǐng zhùfú zhègè jùhuì."
+  },
+  "832": {
+    "id": "832",
+    "text": "zuì hé nántí"
+  },
+  "833": {
+    "id": "833",
+    "text": "wǒmen shì bùwánměi de."
+  },
+  "834": {
+    "id": "834",
+    "text": "fànzuì"
+  },
+  "835": {
+    "id": "835",
+    "text": "wǒmen duōcì fànzuì."
+  },
+  "836": {
+    "id": "836",
+    "text": "duìbuqǐ. ; wǒmen hěn bàoqiàn."
+  },
+  "837": {
+    "id": "837",
+    "text": "duìbuqǐ (/wǒmen hěn bàoqiàn), wǒmen (chángcháng) fànzuì."
+  },
+  "838": {
+    "id": "838",
+    "text": "duìbuqǐ, wǒmen shì zuìrén."
+  },
+  "839": {
+    "id": "839",
+    "text": "kuānshù"
+  },
+  "840": {
+    "id": "840",
+    "text": "wǒmen qiānbēi de qǐngqiú nín de kuānshù."
+  },
+  "841": {
+    "id": "841",
+    "text": "kuānshù XXX",
+    "annotation": "(:XXX shì yīgè rén)"
+  },
+  "842": {
+    "id": "842",
+    "text": "qǐng kuānshù wǒmen."
+  },
+  "843": {
+    "id": "843",
+    "text": "qǐng nín yīn nín de érzi fùchū de shújià ér kuānshù wǒmen."
+  },
+  "844": {
+    "id": "844",
+    "text": "kuānshù XXX",
+    "annotation": "(:XXX shì yī zhòng zuì)"
+  },
+  "845": {
+    "id": "845",
+    "text": "qǐng kuānshù wǒmen de zuì."
+  },
+  "846": {
+    "id": "846",
+    "text": "wǒmen shēnghuó zài yīgè xiéè de shìjiè lǐ."
+  },
+  "847": {
+    "id": "847",
+    "text": "wǒmen jīnglì hěnduō kùnnan (/nántí)."
+  }
+}

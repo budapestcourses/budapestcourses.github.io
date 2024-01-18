@@ -1,0 +1,3397 @@
+{
+  "5": {
+    "id": "5",
+    "text": "UNIVERSELLE SPRACHMATERIALIEN"
+  },
+  "7": {
+    "id": "7",
+    "text": "Deutsch"
+  },
+  "8": {
+    "id": "8",
+    "text": "German | .de"
+  },
+  "11": {
+    "id": "11",
+    "text": "Dieses Dokument ist ein Satz von Sprachlernhilfsmitteln exklusiv erstellt für Jehovas Zeugen."
+  },
+  "12": {
+    "id": "12",
+    "text": "Die Einträge, Definitionen und anderen Informationen, die hierin enthalten sind, können leicht in fast jede Sprache übersetzt werden. Neue Ausgaben dieses Materials können so einfach durch die Kombination zweier beliebiger Übersetzungen erzeugt werden. Es ist zu hoffen, dass dieses Rahmenkonzept die Arbeitslast von Sprachlehrern verringert und zur Effektivität der Zeugen, die im fremdsprachigen Gebiet auf der ganzen Welt dienen, beiträgt."
+  },
+  "13": {
+    "id": "13",
+    "text": "Dieses Material darf kostenfrei unter allen aktiven Zeugen verteilt werden. Es darf in keinerlei Format an andere weitergegeben oder verliehen werden."
+  },
+  "14": {
+    "id": "14",
+    "text": null
+  },
+  "15": {
+    "id": "15",
+    "text": null
+  },
+  "16": {
+    "id": "16",
+    "text": null
+  },
+  "18": {
+    "id": "18",
+    "text": "Schreibweise"
+  },
+  "19": {
+    "id": "19",
+    "text": "\"Algebraische Notation\" zeigt an, wo zusätzliche Wörter in Verbindung mit dem beschriebenen Ausdruck eingefügt werden können."
+  },
+  "20": {
+    "id": "20",
+    "text": "Wörter, die einem Ausdruck möglicherweise in gewissen Situationen hinzugefügt werden müssen, wo die Sprache dies erfordert."
+  },
+  "21": {
+    "id": "21",
+    "text": "Ein alternatives Wort, das in gewissen Situationen möglicherweise einen Teil des Ausdrucks ersetzen muss, da die Sprache dies erfordert."
+  },
+  "22": {
+    "id": "22",
+    "text": "Ein optionales Wort bzw. eine optionale Wortverbindung, die üblicherweise hinzugefügt wird ohne die Bedeutung erheblich zu verändern."
+  },
+  "23": {
+    "id": "23",
+    "text": "Ein optionales Wort bzw. eine optionale Redewendung, die normalerweise in einem Teil des Ausdrucks ersetzt wird ohne die Bedeutung nennenswert zu verändern."
+  },
+  "24": {
+    "id": "24",
+    "text": "Der Strichpunkt trennt Wörter bzw. Wortverbindungen, die eine ähnliche Bedeutungen haben."
+  },
+  "25": {
+    "id": "25",
+    "text": "Eine komplexe Wortverbindung (z.B. Konstruktionen aus Verben und anderen Wörtern) kann an dieser Stelle eingefügt werden."
+  },
+  "26": {
+    "id": "26",
+    "text": "Zusätzliche Beschreibung oder Beispiele um dem Leser den Sinn des zu definierenden Wortes verstehen zu helfen. Diese Information erscheint nur bei Definitionen und kann von Sprache zu Sprache abweichen."
+  },
+  "27": {
+    "id": "27",
+    "text": "Geschweifte Klammern enthalten zusätzliche sprachspezifische Informationen zum Zielausdruck. Dies kann grammatische Informationen oder unten angeführte Symbole beinhalten."
+  },
+  "28": {
+    "id": "28",
+    "text": "Dieses Wort oder diese Redewendung sollte aus kulturellen oder anderen Gründen mit Vorsicht verwendet werden."
+  },
+  "29": {
+    "id": "29",
+    "text": "Dies ist nur eine annähernde Übersetzung der Definition."
+  },
+  "30": {
+    "id": "30",
+    "text": "Dieses Wort oder diese Redewendung wird in der Zielsprache selten verwendet."
+  },
+  "31": {
+    "id": "31",
+    "text": "Für dieses Wort wurde von unseren Übersetzern keine Übersetzung angegeben."
+  },
+  "32": {
+    "id": "32",
+    "text": "Dies ist eine Form des Wortes oder der Redewendung, die hauptsächlich in einer Gegend verwendet wird, die nicht dem Hauptgebiet entspricht, in dem die Sprache gesprochen wird. (Hierfür werden die im Internet üblichen \"Ländercodes\" benutzt, z.B. .hk = Hongkong)"
+  },
+  "33": {
+    "id": "33",
+    "text": "Der momentan dafür definierte theokratische Ausdruck hat keine genaue Entsprechung in den Veröffentlichungen der Wachtturm-Gesellschaft in dieser Sprache. (Dieses Symbol wird normalerweise in Verbindung mit anderen Symbolen verwendet)"
+  },
+  "34": {
+    "id": "34",
+    "text": "Dies ist der Versuch unserer Übersetzer für eine genaue Übersetzung des Ausdruckes. (Dieses Symbol wird normalerweise für theokratische Ausdrücke benutzt, für die es gegenwärtig keine genaue Entsprechung in der Zielsprache gibt.)"
+  },
+  "35": {
+    "id": "35",
+    "text": "Dies ist der entsprechende Ausdruck, der üblicherweise von Brüdern bei den Zusammenkünften benutzt wird. (Dieses Symbol wird normalerweise für theokratische Ausdrücke benutzt, für die es gegenwärtig keine genaue Entsprechung in der Zielsprache gibt.)"
+  },
+  "37": {
+    "id": "37",
+    "text": "Wörter und Wendungen"
+  },
+  "38": {
+    "id": "38",
+    "text": "Organisationsstruktur"
+  },
+  "39": {
+    "id": "39",
+    "text": "Jehovas Zeugen"
+  },
+  "40": {
+    "id": "40",
+    "text": "Jehovas Zeugen"
+  },
+  "41": {
+    "id": "41",
+    "text": "ein Zeuge Jehovas"
+  },
+  "42": {
+    "id": "42",
+    "text": "die Bibelforscher",
+    "annotation": "(: der Name unter dem Jehovas Zeugen früher bekannt waren)"
+  },
+  "43": {
+    "id": "43",
+    "text": "ein Bruder",
+    "annotation": "(: ein männlicher Mitgläubiger)"
+  },
+  "44": {
+    "id": "44",
+    "text": "ein reifer Bruder"
+  },
+  "45": {
+    "id": "45",
+    "text": "unsere Brüder",
+    "annotation": "(: im Glauben)"
+  },
+  "46": {
+    "id": "46",
+    "text": "unter unseren geistigen Brüdern"
+  },
+  "47": {
+    "id": "47",
+    "text": "eine Schwester",
+    "annotation": "(: eine weibliche Mitgläubige)"
+  },
+  "48": {
+    "id": "48",
+    "text": "befähigte christliche Schwester"
+  },
+  "49": {
+    "id": "49",
+    "text": "unsere christlichen Schwestern"
+  },
+  "50": {
+    "id": "50",
+    "text": "unsere Schwestern"
+  },
+  "51": {
+    "id": "51",
+    "text": "deine geistigen Brüder und Schwestern"
+  },
+  "52": {
+    "id": "52",
+    "text": "Die Gesalbten"
+  },
+  "53": {
+    "id": "53",
+    "text": "diejenigen mit irdischer Hoffnung"
+  },
+  "54": {
+    "id": "54",
+    "text": "andere Schafe"
+  },
+  "55": {
+    "id": "55",
+    "text": "diejenigen mit himmlischer Hoffnung"
+  },
+  "56": {
+    "id": "56",
+    "text": "gesalbt",
+    "annotation": "(: Adjektiv)"
+  },
+  "57": {
+    "id": "57",
+    "text": "gesalbte Christen"
+  },
+  "58": {
+    "id": "58",
+    "text": "die Versammlung der Gesalbten auf der Erde"
+  },
+  "59": {
+    "id": "59",
+    "text": "der treue und verständige Sklave"
+  },
+  "60": {
+    "id": "60",
+    "text": "Leitende Körperschaft"
+  },
+  "61": {
+    "id": "61",
+    "text": "ein Mitglied der leitenden Körperschaft"
+  },
+  "62": {
+    "id": "62",
+    "text": "Taufe"
+  },
+  "63": {
+    "id": "63",
+    "text": "getauft werden"
+  },
+  "64": {
+    "id": "64",
+    "text": "Ich wurde 2006 getauft."
+  },
+  "65": {
+    "id": "65",
+    "text": "XXX taufen"
+  },
+  "66": {
+    "id": "66",
+    "text": "Johannes taufte Jesus."
+  },
+  "67": {
+    "id": "67",
+    "text": "Taufe",
+    "annotation": "(: der Vorgang)"
+  },
+  "68": {
+    "id": "68",
+    "text": "Er besuchte die Taufe seines Studenten."
+  },
+  "69": {
+    "id": "69",
+    "text": "Verkündiger"
+  },
+  "70": {
+    "id": "70",
+    "text": "ungetaufter Verkündiger"
+  },
+  "71": {
+    "id": "71",
+    "text": "Wann wurde er ein ungetaufter Verkündiger?"
+  },
+  "72": {
+    "id": "72",
+    "text": "getaufter Verkündiger"
+  },
+  "73": {
+    "id": "73",
+    "text": "unregelmäßiger Verkündiger"
+  },
+  "74": {
+    "id": "74",
+    "text": "untätiger Verkündiger"
+  },
+  "75": {
+    "id": "75",
+    "text": "Dienst für Jehova"
+  },
+  "76": {
+    "id": "76",
+    "text": "Dienst"
+  },
+  "77": {
+    "id": "77",
+    "text": "unser Dienst für Jehova"
+  },
+  "78": {
+    "id": "78",
+    "text": "Vollzeitdienst"
+  },
+  "79": {
+    "id": "79",
+    "text": "dienen"
+  },
+  "80": {
+    "id": "80",
+    "text": "als XXX dienen"
+  },
+  "81": {
+    "id": "81",
+    "text": "als Ältester dienen"
+  },
+  "82": {
+    "id": "82",
+    "text": "als Pionier dienen"
+  },
+  "83": {
+    "id": "83",
+    "text": "er dient als Ältester in unserer Versammlung"
+  },
+  "84": {
+    "id": "84",
+    "text": "XXX dient nicht mehr als Ältester."
+  },
+  "85": {
+    "id": "85",
+    "text": "Jehova dienen"
+  },
+  "86": {
+    "id": "86",
+    "text": "Diener"
+  },
+  "87": {
+    "id": "87",
+    "text": "Vollzeitdiener"
+  },
+  "88": {
+    "id": "88",
+    "text": "Gottes Diener",
+    "annotation": "(: Mehrzahl)"
+  },
+  "89": {
+    "id": "89",
+    "text": "Freiwilliger",
+    "annotation": "(: jemand der Freiwilligendienst leistet)"
+  },
+  "90": {
+    "id": "90",
+    "text": "unbezahlter Freiwilliger"
+  },
+  "91": {
+    "id": "91",
+    "text": "Königreichssaalbau"
+  },
+  "92": {
+    "id": "92",
+    "text": "Katastrophenhilfe"
+  },
+  "93": {
+    "id": "93",
+    "text": "Bedarf"
+  },
+  "94": {
+    "id": "94",
+    "text": "dienen, wo der Bedarf größer ist"
+  },
+  "95": {
+    "id": "95",
+    "text": "dahin umziehen, wo der Bedarf größer ist"
+  },
+  "96": {
+    "id": "96",
+    "text": "Pionier"
+  },
+  "97": {
+    "id": "97",
+    "text": "die Pionierschule besuchen"
+  },
+  "98": {
+    "id": "98",
+    "text": "allgemeiner Pionier"
+  },
+  "99": {
+    "id": "99",
+    "text": "Hilfspionier"
+  },
+  "100": {
+    "id": "100",
+    "text": "Dauerhilfspionier",
+    "annotation": "(: jemand der bis auf Widerruf ständig als Hilfspionier dient)"
+  },
+  "101": {
+    "id": "101",
+    "text": "Sonderpionier"
+  },
+  "102": {
+    "id": "102",
+    "text": "Missionar"
+  },
+  "103": {
+    "id": "103",
+    "text": "Bewerbungen und Ernennnungen"
+  },
+  "104": {
+    "id": "104",
+    "text": "sich für XXX bewerben"
+  },
+  "105": {
+    "id": "105",
+    "text": "sich für den Sonderdienst bewerben"
+  },
+  "106": {
+    "id": "106",
+    "text": "sich für die Gileadschule bewerben"
+  },
+  "107": {
+    "id": "107",
+    "text": "Bewerbungsformular"
+  },
+  "108": {
+    "id": "108",
+    "text": "ein Bewerbungsformular ausfüllen"
+  },
+  "109": {
+    "id": "109",
+    "text": "ein Bewerbungsformular für den allgemeinen Pionierdienst ausfüllen"
+  },
+  "110": {
+    "id": "110",
+    "text": "ein Bewerbungsformular einreichen"
+  },
+  "111": {
+    "id": "111",
+    "text": "Empfehlung",
+    "annotation": "(: ein Vorgang wenn jemand empfohlen wird)"
+  },
+  "112": {
+    "id": "112",
+    "text": "als Ältester empfohlen werden"
+  },
+  "113": {
+    "id": "113",
+    "text": "XXX als Ältesten empfehlen"
+  },
+  "114": {
+    "id": "114",
+    "text": "Ernennung",
+    "annotation": "(: ein Vorgang wenn jemand ernannt wird)"
+  },
+  "115": {
+    "id": "115",
+    "text": "zum XXX ernannt werden"
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX ist zum Ältesten ernannt worden"
+  },
+  "117": {
+    "id": "117",
+    "text": "XXX zum Dienstamtgehilfen ernennen"
+  },
+  "118": {
+    "id": "118",
+    "text": "Eignung"
+  },
+  "119": {
+    "id": "119",
+    "text": "[seine] Eignung ungetaufter Verkündiger zu werden besprechen"
+  },
+  "120": {
+    "id": "120",
+    "text": "die Voraussetzungen für die Taufe erfüllen"
+  },
+  "121": {
+    "id": "121",
+    "text": "sich zum ungetauften Verkündiger eignen"
+  },
+  "122": {
+    "id": "122",
+    "text": "Ernannte Männer"
+  },
+  "123": {
+    "id": "123",
+    "text": "Ältester"
+  },
+  "124": {
+    "id": "124",
+    "text": "Aufseher"
+  },
+  "125": {
+    "id": "125",
+    "text": "Gaben in Form von Menschen",
+    "annotation": "(: Eph. 4:8)"
+  },
+  "126": {
+    "id": "126",
+    "text": "Dienstamtgehilfe"
+  },
+  "127": {
+    "id": "127",
+    "text": "Ältestenschaft"
+  },
+  "128": {
+    "id": "128",
+    "text": "eine Ältestensitzung (/Besprechung der Ältestenschaft) abhalten"
+  },
+  "129": {
+    "id": "129",
+    "text": "Versammlungsdienstkomitee"
+  },
+  "130": {
+    "id": "130",
+    "text": "Diese Angelegenheit muss vom Versammlungsdienstkomitee genehmigt werden"
+  },
+  "131": {
+    "id": "131",
+    "text": "Koordinator der Ältestenschaft"
+  },
+  "132": {
+    "id": "132",
+    "text": "Versammlungssekretär"
+  },
+  "133": {
+    "id": "133",
+    "text": "Dienstaufseher"
+  },
+  "134": {
+    "id": "134",
+    "text": "Wachtturmstudienleiter"
+  },
+  "135": {
+    "id": "135",
+    "text": "Schulaufseher"
+  },
+  "136": {
+    "id": "136",
+    "text": "Hilfsratgeber"
+  },
+  "137": {
+    "id": "137",
+    "text": "Gruppenaufseher"
+  },
+  "138": {
+    "id": "138",
+    "text": "Rechtskomitee"
+  },
+  "139": {
+    "id": "139",
+    "text": "ein Rechtskomitee bilden"
+  },
+  "140": {
+    "id": "140",
+    "text": "geistige Hirten"
+  },
+  "141": {
+    "id": "141",
+    "text": "geistiges Schaf"
+  },
+  "142": {
+    "id": "142",
+    "text": "Hirtenbesuch"
+  },
+  "143": {
+    "id": "143",
+    "text": "einen Hirtenbesuch bei XXX machen"
+  },
+  "144": {
+    "id": "144",
+    "text": "Reisende Aufseher"
+  },
+  "145": {
+    "id": "145",
+    "text": "reisender Aufseher"
+  },
+  "146": {
+    "id": "146",
+    "text": "Kreisaufseher"
+  },
+  "147": {
+    "id": "147",
+    "text": "Kreis"
+  },
+  "148": {
+    "id": "148",
+    "text": "stellvertretender Kreisaufseher"
+  },
+  "149": {
+    "id": "149",
+    "text": "die Versammlungen besuchen"
+  },
+  "150": {
+    "id": "150",
+    "text": "der Besuch des Kreisaufsehers"
+  },
+  "151": {
+    "id": "151",
+    "text": "Bezirksaufseher"
+  },
+  "152": {
+    "id": "152",
+    "text": "Bezirk"
+  },
+  "153": {
+    "id": "153",
+    "text": "Zonenaufseher"
+  },
+  "154": {
+    "id": "154",
+    "text": "Gruppen und Versammlungen"
+  },
+  "155": {
+    "id": "155",
+    "text": "Versammlung",
+    "annotation": "(: eine Gruppe von Gläubigen an einem Ort)"
+  },
+  "156": {
+    "id": "156",
+    "text": "die Versammlung teilen"
+  },
+  "157": {
+    "id": "157",
+    "text": "eine neue Versammlung bilden"
+  },
+  "158": {
+    "id": "158",
+    "text": "die Christenversammlung",
+    "annotation": "(: die eine \"große\" Versammlung, die alle Gläubigen enthält)"
+  },
+  "159": {
+    "id": "159",
+    "text": "Gruppe"
+  },
+  "160": {
+    "id": "160",
+    "text": "isolierte Gruppe"
+  },
+  "161": {
+    "id": "161",
+    "text": "fremdsprachige Gruppe"
+  },
+  "162": {
+    "id": "162",
+    "text": "Zweigbüros"
+  },
+  "163": {
+    "id": "163",
+    "text": "der Zweig"
+  },
+  "164": {
+    "id": "164",
+    "text": "das Zweigbüro der Zeugen Jehovas"
+  },
+  "165": {
+    "id": "165",
+    "text": "Zweigkoordinator"
+  },
+  "166": {
+    "id": "166",
+    "text": "Zweigkomitee"
+  },
+  "167": {
+    "id": "167",
+    "text": "Landeskomitee"
+  },
+  "168": {
+    "id": "168",
+    "text": "Bethel"
+  },
+  "169": {
+    "id": "169",
+    "text": "Bethelit",
+    "annotation": "(: eine Person, die im Bethel dient)"
+  },
+  "170": {
+    "id": "170",
+    "text": "Möchtest du das Bethel besuchen?"
+  },
+  "171": {
+    "id": "171",
+    "text": "Tour; Besichtigungstour"
+  },
+  "172": {
+    "id": "172",
+    "text": "Unsere Versammlung wird nächste Woche eine Bethelbesichtigung machen."
+  },
+  "173": {
+    "id": "173",
+    "text": "Ich werde dich (/euch) auf der Tour führen."
+  },
+  "174": {
+    "id": "174",
+    "text": "Ich werde dir (/euch) das Zweigbüro zeigen."
+  },
+  "175": {
+    "id": "175",
+    "text": "Dienstabteilung",
+    "annotation": "(: im Bethel)"
+  },
+  "176": {
+    "id": "176",
+    "text": "Bitte schreibe an die Dienstabteilung."
+  },
+  "177": {
+    "id": "177",
+    "text": "die Weltzentrale"
+  },
+  "178": {
+    "id": "178",
+    "text": "Aufgaben in der Versammung"
+  },
+  "179": {
+    "id": "179",
+    "text": "Ordner"
+  },
+  "180": {
+    "id": "180",
+    "text": "Besucher",
+    "annotation": "(: Personen, die die Versammlung besuchen)"
+  },
+  "181": {
+    "id": "181",
+    "text": "die Zuhörerschaft",
+    "annotation": "(: diejenigen, die bei der Zusammenkunft zuhören)"
+  },
+  "182": {
+    "id": "182",
+    "text": "die Anwesenden zählen"
+  },
+  "183": {
+    "id": "183",
+    "text": "Anwesendenzahl",
+    "annotation": "(: die Zahl der Personen, die eine Zusammenkunft besuchen)"
+  },
+  "184": {
+    "id": "184",
+    "text": "Letztes Jahr lag die durchschnittliche Anwesendenzahl bei 85."
+  },
+  "185": {
+    "id": "185",
+    "text": "Mikrofonträger"
+  },
+  "186": {
+    "id": "186",
+    "text": "Mikrofon"
+  },
+  "187": {
+    "id": "187",
+    "text": "das Mikrofon reichen"
+  },
+  "188": {
+    "id": "188",
+    "text": "das Mikrofon einstellen"
+  },
+  "189": {
+    "id": "189",
+    "text": "das Mikrofon einschalten"
+  },
+  "190": {
+    "id": "190",
+    "text": "das Mikrofon ausschalten"
+  },
+  "191": {
+    "id": "191",
+    "text": "der für die Verstärkeranlage (/Beschallung) verantwortliche Bruder"
+  },
+  "192": {
+    "id": "192",
+    "text": "Verstärkeranlage; Mischpult"
+  },
+  "193": {
+    "id": "193",
+    "text": "die Verstärkeranlage bedienen"
+  },
+  "194": {
+    "id": "194",
+    "text": "die Lautstärke erhöhen"
+  },
+  "195": {
+    "id": "195",
+    "text": "die Lautstärke herunterdrehen"
+  },
+  "196": {
+    "id": "196",
+    "text": "für den Bühnendienst verantwortlicher Bruder"
+  },
+  "197": {
+    "id": "197",
+    "text": "Bühne"
+  },
+  "198": {
+    "id": "198",
+    "text": "Pult; Vortragspult"
+  },
+  "199": {
+    "id": "199",
+    "text": "das Pult einstellen"
+  },
+  "200": {
+    "id": "200",
+    "text": "Literaturdiener; für die Literatur verantwortlicher Bruder"
+  },
+  "201": {
+    "id": "201",
+    "text": "Literaturtheke"
+  },
+  "202": {
+    "id": "202",
+    "text": "Literatur bestellen"
+  },
+  "203": {
+    "id": "203",
+    "text": "Zeitschriftendiener; für die Zeitschriften zuständiger Bruder"
+  },
+  "204": {
+    "id": "204",
+    "text": "Zeitschriftentheke"
+  },
+  "205": {
+    "id": "205",
+    "text": "[deine] Zeitschriften abholen"
+  },
+  "206": {
+    "id": "206",
+    "text": "Gebietsdiener"
+  },
+  "207": {
+    "id": "207",
+    "text": "Gebiet (für den Predigtdienst)"
+  },
+  "208": {
+    "id": "208",
+    "text": "Karte, auf der das Predigtdienstgebiet (der Versammlung) eingezeichnet ist; Predigtdienstgebietsübersichtskarte"
+  },
+  "209": {
+    "id": "209",
+    "text": "Gebietskarte (für ein Gebiet)"
+  },
+  "210": {
+    "id": "210",
+    "text": "Kontenführer"
+  },
+  "211": {
+    "id": "211",
+    "text": "Konten"
+  },
+  "212": {
+    "id": "212",
+    "text": "Versammlungskonten"
+  },
+  "213": {
+    "id": "213",
+    "text": "die Versammlungskonten saldieren (monatlich)"
+  },
+  "214": {
+    "id": "214",
+    "text": "die Versammlungskonten prüfen"
+  },
+  "215": {
+    "id": "215",
+    "text": "Spende"
+  },
+  "216": {
+    "id": "216",
+    "text": "Spenden für das weltweite Werk",
+    "annotation": "(: Mat.24:14)"
+  },
+  "217": {
+    "id": "217",
+    "text": "Spenden für die Versammlung"
+  },
+  "218": {
+    "id": "218",
+    "text": "die Spenden zusammenzählen/zusammenrechnen"
+  },
+  "219": {
+    "id": "219",
+    "text": "eine Spende machen"
+  },
+  "220": {
+    "id": "220",
+    "text": "für das weltweite Werk spenden"
+  },
+  "221": {
+    "id": "221",
+    "text": "Spendenkasten"
+  },
+  "222": {
+    "id": "222",
+    "text": "eine Spende in den Spendenkasten werfen"
+  },
+  "223": {
+    "id": "223",
+    "text": "die Spendenkästen sind in der Nähe des Eingangs angebracht."
+  },
+  "225": {
+    "id": "225",
+    "text": "Zusammenkünfte"
+  },
+  "226": {
+    "id": "226",
+    "text": "Anbetungsstätten"
+  },
+  "227": {
+    "id": "227",
+    "text": "Saal"
+  },
+  "228": {
+    "id": "228",
+    "text": "unsere Stätte der Anbetung"
+  },
+  "229": {
+    "id": "229",
+    "text": "von freiwilligen Helfern gebaut"
+  },
+  "230": {
+    "id": "230",
+    "text": "Königreichssaal"
+  },
+  "231": {
+    "id": "231",
+    "text": "Königreichssaal in Schnellbauweise"
+  },
+  "232": {
+    "id": "232",
+    "text": "den Königreichssaal in Schuss halten"
+  },
+  "233": {
+    "id": "233",
+    "text": "den Königreichssaal reparieren"
+  },
+  "234": {
+    "id": "234",
+    "text": "den Königssaal reinigen"
+  },
+  "235": {
+    "id": "235",
+    "text": "wir sind an der Reihe den Königreichssaal zu reinigen"
+  },
+  "236": {
+    "id": "236",
+    "text": "Kongresssaal"
+  },
+  "237": {
+    "id": "237",
+    "text": "Besuch der Zusammenkünfte"
+  },
+  "238": {
+    "id": "238",
+    "text": "Zusammenkunft"
+  },
+  "239": {
+    "id": "239",
+    "text": "eine Zusammenkunft besuchen"
+  },
+  "240": {
+    "id": "240",
+    "text": "eine Zusammenkunft abhalten"
+  },
+  "241": {
+    "id": "241",
+    "text": "sich vorbereiten"
+  },
+  "242": {
+    "id": "242",
+    "text": "sich auf die Zusammenkunft vorbereiten"
+  },
+  "243": {
+    "id": "243",
+    "text": "XXX vorbereiten"
+  },
+  "244": {
+    "id": "244",
+    "text": "einen Kommentar vorbereiten"
+  },
+  "245": {
+    "id": "245",
+    "text": "einen Vortrag ausarbeiten"
+  },
+  "246": {
+    "id": "246",
+    "text": "mit XXX Umgang pflegen"
+  },
+  "247": {
+    "id": "247",
+    "text": "Wir können uns mit unseren Brüdern und Schwestern nach der Zusammenkunft Umgang pflegen."
+  },
+  "248": {
+    "id": "248",
+    "text": "XXX ermuntern"
+  },
+  "249": {
+    "id": "249",
+    "text": "Dein Kommentar hat mich wirklich ermuntert!"
+  },
+  "250": {
+    "id": "250",
+    "text": "ein ermunternder Kommentar"
+  },
+  "251": {
+    "id": "251",
+    "text": "Versammlungsbibelstudium"
+  },
+  "252": {
+    "id": "252",
+    "text": "theokratische Predigtdienstschule"
+  },
+  "253": {
+    "id": "253",
+    "text": "Dienstzusammenkunft"
+  },
+  "254": {
+    "id": "254",
+    "text": "Zusammenkunft für den Predigtdienst; Predigtdiensttreffpunkt"
+  },
+  "255": {
+    "id": "255",
+    "text": "Kongress"
+  },
+  "256": {
+    "id": "256",
+    "text": "jährliche Kongresse"
+  },
+  "257": {
+    "id": "257",
+    "text": "Tagessonderkongress"
+  },
+  "258": {
+    "id": "258",
+    "text": "Kreiskongress"
+  },
+  "259": {
+    "id": "259",
+    "text": "Kongress"
+  },
+  "260": {
+    "id": "260",
+    "text": "Bezirkskongress"
+  },
+  "261": {
+    "id": "261",
+    "text": "dreitägiger Bezirkskongress"
+  },
+  "262": {
+    "id": "262",
+    "text": "Zusammenkunftsinhalte"
+  },
+  "263": {
+    "id": "263",
+    "text": "Programmpunkt",
+    "annotation": "(: ein Teil der Zusammenkunft, z.B. Ansprache, Besprechung usw.)"
+  },
+  "264": {
+    "id": "264",
+    "text": "Ich habe nächste Woche einen Programmpunkt in der Zusammenkunft."
+  },
+  "265": {
+    "id": "265",
+    "text": "Zuteilung",
+    "annotation": "(: z.B. in der Theokratischen Predigtdienstschule)"
+  },
+  "266": {
+    "id": "266",
+    "text": "Aufgabe Nr. 1"
+  },
+  "267": {
+    "id": "267",
+    "text": "eine Zuteilung erhalten"
+  },
+  "268": {
+    "id": "268",
+    "text": "eine Zuteilung wahrnehmen"
+  },
+  "269": {
+    "id": "269",
+    "text": "Schulungspunkt",
+    "annotation": "(: aus Schulbuch)"
+  },
+  "270": {
+    "id": "270",
+    "text": "Der Schulungspunkt, an dem Schwester XXX arbeiten wollte, ist Nummer 23."
+  },
+  "271": {
+    "id": "271",
+    "text": "Vortrag",
+    "annotation": "(: eine Ansprache)"
+  },
+  "272": {
+    "id": "272",
+    "text": "ein klar strukturierter Vortrag"
+  },
+  "273": {
+    "id": "273",
+    "text": "ein öffentlicher Vortrag"
+  },
+  "274": {
+    "id": "274",
+    "text": "ein fünfminütiger Vortrag"
+  },
+  "275": {
+    "id": "275",
+    "text": "einen Vortrag halten"
+  },
+  "276": {
+    "id": "276",
+    "text": "Redner"
+  },
+  "277": {
+    "id": "277",
+    "text": "Demonstration"
+  },
+  "278": {
+    "id": "278",
+    "text": "Schauen wir uns diese Demonstration an."
+  },
+  "279": {
+    "id": "279",
+    "text": "XXX demonstrieren",
+    "annotation": "(: zeigen, wie etwas getan wird oder passiert)"
+  },
+  "280": {
+    "id": "280",
+    "text": "Schwester XXX wird uns demonstrieren, wie man in diesem Monat die Zeitschriften anbieten kann."
+  },
+  "281": {
+    "id": "281",
+    "text": "Bibelhöhepunkte",
+    "annotation": "(: ein zehnminütiger Programmpunkt in der Predigtdienstschule)"
+  },
+  "282": {
+    "id": "282",
+    "text": "Bibellesung"
+  },
+  "283": {
+    "id": "283",
+    "text": "örtliche Bedürfnisse",
+    "annotation": "(: ein Vortrag über örtliche Bedürfnisse)"
+  },
+  "284": {
+    "id": "284",
+    "text": "Fragekasten",
+    "annotation": "(: aus dem Königreichsdienst)"
+  },
+  "285": {
+    "id": "285",
+    "text": "Lieder und Gebete"
+  },
+  "286": {
+    "id": "286",
+    "text": "Lied"
+  },
+  "287": {
+    "id": "287",
+    "text": "Anfangslied"
+  },
+  "288": {
+    "id": "288",
+    "text": "Schlusslied"
+  },
+  "289": {
+    "id": "289",
+    "text": "Der Titel des Liedes ist …"
+  },
+  "290": {
+    "id": "290",
+    "text": "Das Lied stützt sich auf …"
+  },
+  "291": {
+    "id": "291",
+    "text": "Unsere Zusammenkunft beginnt mit einem Lied zum Lobpreis Jehovas."
+  },
+  "292": {
+    "id": "292",
+    "text": "Wir beginnen die Zusammenkunft mit Lied und Gebet."
+  },
+  "293": {
+    "id": "293",
+    "text": "Dieses Lied wurde von unserem Redner ausgewählt. Es passt sehr gut zum Thema seines Vortrags."
+  },
+  "294": {
+    "id": "294",
+    "text": "Dieses Lied passt gut zum Thema des Vortrags."
+  },
+  "295": {
+    "id": "295",
+    "text": "Wir werden die Zusammenkunft mit einem Lied abschließen."
+  },
+  "296": {
+    "id": "296",
+    "text": "Lied Nummer 20"
+  },
+  "297": {
+    "id": "297",
+    "text": "Lasst uns Lied 20 anhören."
+  },
+  "298": {
+    "id": "298",
+    "text": "Liederbuch"
+  },
+  "299": {
+    "id": "299",
+    "text": "Wir möchten unser Liederbuch bei Lied Nr. 10 aufschlagen."
+  },
+  "300": {
+    "id": "300",
+    "text": "ein Lied singen"
+  },
+  "301": {
+    "id": "301",
+    "text": "Wir möchten Lied Nr. 30 singen."
+  },
+  "302": {
+    "id": "302",
+    "text": "Während wir dieses Lied singen, können wir über seine Worte nachdenken."
+  },
+  "303": {
+    "id": "303",
+    "text": "Gebet"
+  },
+  "304": {
+    "id": "304",
+    "text": "Anfangsgebet"
+  },
+  "305": {
+    "id": "305",
+    "text": "Schlussgebet"
+  },
+  "306": {
+    "id": "306",
+    "text": "ein Gebet sprechen"
+  },
+  "307": {
+    "id": "307",
+    "text": "Bruder XXX, würdest du bitte das Gebet sprechen?"
+  },
+  "308": {
+    "id": "308",
+    "text": "beten"
+  },
+  "309": {
+    "id": "309",
+    "text": "zu Jehova beten"
+  },
+  "310": {
+    "id": "310",
+    "text": "Nach dem Lied beten wir zu Jehova."
+  },
+  "311": {
+    "id": "311",
+    "text": "Bekanntmachungen"
+  },
+  "312": {
+    "id": "312",
+    "text": "Bekanntmachungen",
+    "annotation": "(: z.B. innerhalb der Dienstzusammenkunft)"
+  },
+  "313": {
+    "id": "313",
+    "text": "Ich habe einige Bekanntmachungen."
+  },
+  "314": {
+    "id": "314",
+    "text": "XXX bekanntmachen"
+  },
+  "315": {
+    "id": "315",
+    "text": "die Predigtdiensttreffpunkte bekannt geben"
+  },
+  "316": {
+    "id": "316",
+    "text": "Wir freuen uns bekannt zu geben, dass …"
+  },
+  "317": {
+    "id": "317",
+    "text": "Wir sind traurig bekannt zu geben, dass …"
+  },
+  "318": {
+    "id": "318",
+    "text": "Brief",
+    "annotation": "(: z.B. vom Zweigbüro)"
+  },
+  "319": {
+    "id": "319",
+    "text": "Wir haben einen Brief vom Zweigbüro bekommen."
+  },
+  "320": {
+    "id": "320",
+    "text": "Ich möchte Bruder XXX auf die Bühne bitten, um einen Brief der Gesellschaft vorzulesen."
+  },
+  "321": {
+    "id": "321",
+    "text": "Resolution"
+  },
+  "322": {
+    "id": "322",
+    "text": "eine Resolution vorlegen"
+  },
+  "323": {
+    "id": "323",
+    "text": "Wir möchten der Versammlung folgende Resolution vorlegen."
+  },
+  "324": {
+    "id": "324",
+    "text": "abstimmen"
+  },
+  "325": {
+    "id": "325",
+    "text": "die Hand heben",
+    "annotation": "(: bei einer Abstimmung)"
+  },
+  "326": {
+    "id": "326",
+    "text": "Bitte hebt eure Hände, wenn ihr die Resolution annehmen wollt."
+  },
+  "327": {
+    "id": "327",
+    "text": "Bitte hebt eure Hände, wenn ihr die Resolution ablehnen wollt."
+  },
+  "328": {
+    "id": "328",
+    "text": "Bitte hebt eure Hände, wenn ihr euch der Stimme enthalten wollt."
+  },
+  "329": {
+    "id": "329",
+    "text": "Ihr könnt eure Hände jetzt wieder herunternehmen."
+  },
+  "330": {
+    "id": "330",
+    "text": "Ihr möchtet euch vielleicht Notizen machen."
+  },
+  "331": {
+    "id": "331",
+    "text": "Bitte gebt eure Predigtdienstberichte bei eurem Gruppenaufseher ab."
+  },
+  "332": {
+    "id": "332",
+    "text": "Diese Woche ist die Gruppe 2 mit der Reinigung des Königreichssaals an der Reihe."
+  },
+  "333": {
+    "id": "333",
+    "text": "Diesen Samstag werden wir uns zum Predigtdiensttreffpunkt um 11 Uhr in der Wohnung von Schwester XXX treffen."
+  },
+  "334": {
+    "id": "334",
+    "text": "5 Minuten nach Ende der heutigen Zusammenkunft wird es eine Predigtdienstvorkehrung geben."
+  },
+  "335": {
+    "id": "335",
+    "text": "Die Zusammenkunft für den Predigtdienst wird im Raum der 2. Klasse abgehalten werden."
+  },
+  "336": {
+    "id": "336",
+    "text": "Bruder XXX wird die Zusammenkunft für den Predigtdienst leiten."
+  },
+  "337": {
+    "id": "337",
+    "text": "Wir haben einige Bekanntmachungen, die den kommenden Bezirkskongress betreffen."
+  },
+  "338": {
+    "id": "338",
+    "text": "Unser Bezirkskongress wird am ... stattfinden."
+  },
+  "339": {
+    "id": "339",
+    "text": "Der Ort für den Bezirkskongress wird ... sein."
+  },
+  "340": {
+    "id": "340",
+    "text": "Das Kongressprogramm beginnt um 9.45 Uhr."
+  },
+  "341": {
+    "id": "341",
+    "text": "Das Kongressprogramm endet um 15.45 Uhr."
+  },
+  "342": {
+    "id": "342",
+    "text": "Wenn du einen Platz im Bus reservieren möchtest, wende dich bitte an Bruder XXX."
+  },
+  "343": {
+    "id": "343",
+    "text": "Schwester XXX ist am 12. März verstorben."
+  },
+  "344": {
+    "id": "344",
+    "text": "Ihre Begräbnisansprache wird am nächsten Dienstag im Königreichssaal stattfinden."
+  },
+  "345": {
+    "id": "345",
+    "text": "XXX hat sich von der Christenversammlung zurückgezogen."
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX wurde von der Christenversammlung ausgeschlossen."
+  },
+  "347": {
+    "id": "347",
+    "text": "Willkommen und Begrüßung"
+  },
+  "348": {
+    "id": "348",
+    "text": "Vorsitzender",
+    "annotation": "(: ein Bruder der Sprecher bei öffentlichen Zusammenkünften und Kongressen einführt)"
+  },
+  "349": {
+    "id": "349",
+    "text": "den nächsten Vortrag einführen"
+  },
+  "350": {
+    "id": "350",
+    "text": "applaudieren",
+    "annotation": "(: in die Hände klatschen, um seine Wertschätzung für eine Ansprache zu zeigen)"
+  },
+  "351": {
+    "id": "351",
+    "text": "Applaus"
+  },
+  "352": {
+    "id": "352",
+    "text": "Der Applaus zeigt, dass den Anwesenden der Vortrag gefallen hat."
+  },
+  "353": {
+    "id": "353",
+    "text": "Unsere Zusammenkunft beginnt in zwei Minuten."
+  },
+  "354": {
+    "id": "354",
+    "text": "Willkommen!"
+  },
+  "355": {
+    "id": "355",
+    "text": "Wir heißen euch zur Zusammenkunft heute Abend herzlich willkommen."
+  },
+  "356": {
+    "id": "356",
+    "text": "Willkommen, liebe Brüder und Schwestern!"
+  },
+  "357": {
+    "id": "357",
+    "text": "Willkommen zur Zusammenkunft heute Abend."
+  },
+  "358": {
+    "id": "358",
+    "text": "Bitte begebt euch auf eure Plätze."
+  },
+  "359": {
+    "id": "359",
+    "text": "Nehmt bitte Platz. / Bitte setzt euch."
+  },
+  "360": {
+    "id": "360",
+    "text": "Würdet ihr bitte eure Plätze einnehmen."
+  },
+  "361": {
+    "id": "361",
+    "text": "Wenn möglich, bleibt bitte stehen."
+  },
+  "362": {
+    "id": "362",
+    "text": "Wir werden jetzt eine zehnminütige Pause haben. Bitte seid um 15.15 Uhr wieder auf euren Plätzen."
+  },
+  "363": {
+    "id": "363",
+    "text": "Unsere Zusammenkunft besteht heute Abend aus zwei Abschnitten."
+  },
+  "364": {
+    "id": "364",
+    "text": "Es folgt das Wachtturmstudium."
+  },
+  "365": {
+    "id": "365",
+    "text": "Ich möchte Bruder XXX auf die Bühne bitten."
+  },
+  "366": {
+    "id": "366",
+    "text": "Wir wollen ihm unsere (ungeteilte) Aufmerksamkeit schenken."
+  },
+  "367": {
+    "id": "367",
+    "text": "Bruder XXX wird diese Besprechung leiten."
+  },
+  "368": {
+    "id": "368",
+    "text": "Jetzt wird Bruder XXX das Versammlungsbibelstudium leiten."
+  },
+  "369": {
+    "id": "369",
+    "text": "Bruder XXX wird aus Kapitel 5 die Verse 12 bis 25 lesen."
+  },
+  "370": {
+    "id": "370",
+    "text": "Schwester XXX wird die Empfehlung aus dem Königreichsdienst (für die Einleitung im Predigtdienst) demonstrieren."
+  },
+  "371": {
+    "id": "371",
+    "text": "Wir möchten zwei Schwestern zuhören, die folgendes Thema besprechen: …"
+  },
+  "372": {
+    "id": "372",
+    "text": "Schwester XXX wird die Unterredung (/das Gespräch) führen."
+  },
+  "373": {
+    "id": "373",
+    "text": "Ihre Partnerin ist Schwester YYY."
+  },
+  "374": {
+    "id": "374",
+    "text": "Schwester YYY wird die Rolle der Wohnungsinhaberin übernehmen."
+  },
+  "375": {
+    "id": "375",
+    "text": "Der Rahmen für dies Aufgabe ist …"
+  },
+  "376": {
+    "id": "376",
+    "text": "Wir freuen uns sehr, dass wir heute einen Gastredner bei uns haben."
+  },
+  "377": {
+    "id": "377",
+    "text": "Bruder XXX aus der Versammlung YYY wird für uns einen Vortrag halten."
+  },
+  "378": {
+    "id": "378",
+    "text": "Das Thema seines Vortrags ist …"
+  },
+  "379": {
+    "id": "379",
+    "text": "Vielen Dank, Bruder XXX, für deinen Vortrag über dieses Thema."
+  },
+  "380": {
+    "id": "380",
+    "text": "Alle 75 Anwesenden haben es sehr geschätzt deinen Vortrag zu hören."
+  },
+  "381": {
+    "id": "381",
+    "text": "Wir freuen uns, diese Woche den Kreisaufseher und seine Frau bei uns zu haben."
+  },
+  "382": {
+    "id": "382",
+    "text": "Das Thema der 1. Dienstansprache des Kreisaufsehers ist …"
+  },
+  "383": {
+    "id": "383",
+    "text": "Ich überbringe euch die herzlichsten Grüße der Bethelfamilie aus XXX."
+  },
+  "384": {
+    "id": "384",
+    "text": "Darf ich eure Grüße zur Versammlung XXX mitnehmen?"
+  },
+  "386": {
+    "id": "386",
+    "text": "Lehren und Besprechen"
+  },
+  "387": {
+    "id": "387",
+    "text": "Bibelbücher"
+  },
+  "388": {
+    "id": "388",
+    "text": "Die Hebräischen Schriften"
+  },
+  "389": {
+    "id": "389",
+    "text": "1. Mose"
+  },
+  "390": {
+    "id": "390",
+    "text": "2. Mose"
+  },
+  "391": {
+    "id": "391",
+    "text": "3. Mose"
+  },
+  "392": {
+    "id": "392",
+    "text": "4. Mose"
+  },
+  "393": {
+    "id": "393",
+    "text": "5. Mose"
+  },
+  "394": {
+    "id": "394",
+    "text": "Josua"
+  },
+  "395": {
+    "id": "395",
+    "text": "Richter"
+  },
+  "396": {
+    "id": "396",
+    "text": "Ruth"
+  },
+  "397": {
+    "id": "397",
+    "text": "1. Samuel"
+  },
+  "398": {
+    "id": "398",
+    "text": "2. Samuel"
+  },
+  "399": {
+    "id": "399",
+    "text": "1. Könige"
+  },
+  "400": {
+    "id": "400",
+    "text": "2. Könige"
+  },
+  "401": {
+    "id": "401",
+    "text": "1. Chronika"
+  },
+  "402": {
+    "id": "402",
+    "text": "2. Chronika"
+  },
+  "403": {
+    "id": "403",
+    "text": "Esra"
+  },
+  "404": {
+    "id": "404",
+    "text": "Nehemia"
+  },
+  "405": {
+    "id": "405",
+    "text": "Esther"
+  },
+  "406": {
+    "id": "406",
+    "text": "Hiob"
+  },
+  "407": {
+    "id": "407",
+    "text": "Psalm"
+  },
+  "408": {
+    "id": "408",
+    "text": "Sprüche"
+  },
+  "409": {
+    "id": "409",
+    "text": "Prediger"
+  },
+  "410": {
+    "id": "410",
+    "text": "Das Hohelied"
+  },
+  "411": {
+    "id": "411",
+    "text": "Jesaja"
+  },
+  "412": {
+    "id": "412",
+    "text": "Jeremia"
+  },
+  "413": {
+    "id": "413",
+    "text": "Klagelieder"
+  },
+  "414": {
+    "id": "414",
+    "text": "Hesekiel"
+  },
+  "415": {
+    "id": "415",
+    "text": "Daniel"
+  },
+  "416": {
+    "id": "416",
+    "text": "Hosea"
+  },
+  "417": {
+    "id": "417",
+    "text": "Joel"
+  },
+  "418": {
+    "id": "418",
+    "text": "Amos"
+  },
+  "419": {
+    "id": "419",
+    "text": "Obadja"
+  },
+  "420": {
+    "id": "420",
+    "text": "Jona"
+  },
+  "421": {
+    "id": "421",
+    "text": "Micha"
+  },
+  "422": {
+    "id": "422",
+    "text": "Nahum"
+  },
+  "423": {
+    "id": "423",
+    "text": "Habakuk"
+  },
+  "424": {
+    "id": "424",
+    "text": "Zephanja"
+  },
+  "425": {
+    "id": "425",
+    "text": "Haggai"
+  },
+  "426": {
+    "id": "426",
+    "text": "Sacharja"
+  },
+  "427": {
+    "id": "427",
+    "text": "Maleachi"
+  },
+  "428": {
+    "id": "428",
+    "text": "Die Christlichen Griechischen Schriften"
+  },
+  "429": {
+    "id": "429",
+    "text": "Matthäus"
+  },
+  "430": {
+    "id": "430",
+    "text": "Markus"
+  },
+  "431": {
+    "id": "431",
+    "text": "Lukas"
+  },
+  "432": {
+    "id": "432",
+    "text": "Johannes"
+  },
+  "433": {
+    "id": "433",
+    "text": "Apostelgeschichte"
+  },
+  "434": {
+    "id": "434",
+    "text": "Römer"
+  },
+  "435": {
+    "id": "435",
+    "text": "1. Korinther"
+  },
+  "436": {
+    "id": "436",
+    "text": "2. Korinther"
+  },
+  "437": {
+    "id": "437",
+    "text": "Galater"
+  },
+  "438": {
+    "id": "438",
+    "text": "Epheser"
+  },
+  "439": {
+    "id": "439",
+    "text": "Philipper"
+  },
+  "440": {
+    "id": "440",
+    "text": "Kolosser"
+  },
+  "441": {
+    "id": "441",
+    "text": "1. Thessalonicher"
+  },
+  "442": {
+    "id": "442",
+    "text": "2. Thessalonicher"
+  },
+  "443": {
+    "id": "443",
+    "text": "1. Timotheus"
+  },
+  "444": {
+    "id": "444",
+    "text": "2. Timotheus"
+  },
+  "445": {
+    "id": "445",
+    "text": "Titus"
+  },
+  "446": {
+    "id": "446",
+    "text": "Philemon"
+  },
+  "447": {
+    "id": "447",
+    "text": "Hebräer"
+  },
+  "448": {
+    "id": "448",
+    "text": "Jakobus"
+  },
+  "449": {
+    "id": "449",
+    "text": "1. Petrus"
+  },
+  "450": {
+    "id": "450",
+    "text": "2. Petrus"
+  },
+  "451": {
+    "id": "451",
+    "text": "1. Johannes"
+  },
+  "452": {
+    "id": "452",
+    "text": "2. Johannes"
+  },
+  "453": {
+    "id": "453",
+    "text": "3. Johannes"
+  },
+  "454": {
+    "id": "454",
+    "text": "Judas"
+  },
+  "455": {
+    "id": "455",
+    "text": "Offenbarung"
+  },
+  "456": {
+    "id": "456",
+    "text": "Gebrauch der Bibel"
+  },
+  "457": {
+    "id": "457",
+    "text": "Die Bibel"
+  },
+  "458": {
+    "id": "458",
+    "text": "Lasst uns die Bibel aufschlagen."
+  },
+  "459": {
+    "id": "459",
+    "text": "Lasst uns Jeremia 10:23 aufschlagen."
+  },
+  "460": {
+    "id": "460",
+    "text": "Geschichte (/ Bericht)"
+  },
+  "461": {
+    "id": "461",
+    "text": "Lasst uns diesen Bibelbericht nachlesen."
+  },
+  "462": {
+    "id": "462",
+    "text": "Schrifttext"
+  },
+  "463": {
+    "id": "463",
+    "text": "Was sagt uns diese Schriftstelle über ...?"
+  },
+  "464": {
+    "id": "464",
+    "text": "Was verrät uns diese Schriftstelle über …?"
+  },
+  "465": {
+    "id": "465",
+    "text": "Wie steht diese Schriftstelle in Zusammenhang mit …?"
+  },
+  "466": {
+    "id": "466",
+    "text": "Was bedeutet diese Schriftstelle?"
+  },
+  "467": {
+    "id": "467",
+    "text": "Bitte kommentiert diese Schriftstelle."
+  },
+  "468": {
+    "id": "468",
+    "text": "Bitte erklärt diese Schriftstelle."
+  },
+  "469": {
+    "id": "469",
+    "text": "Welche Lehre können wir aus dieser Schriftstelle ziehen?"
+  },
+  "470": {
+    "id": "470",
+    "text": "Matthäus Kapitel sieben, Vers zwölf."
+  },
+  "471": {
+    "id": "471",
+    "text": "Matthäus Kapitel fünf, Vers dreiundzwanzig und vierundzwanzig"
+  },
+  "472": {
+    "id": "472",
+    "text": "Erster Johannes Kapitel zwei, Vers fünfzehn bis siebzehn"
+  },
+  "473": {
+    "id": "473",
+    "text": "der siebenunddreißigste Psalm Vers elf; Vers elf des siebenunddreißigsten Psalms"
+  },
+  "474": {
+    "id": "474",
+    "text": "Studienmaterial"
+  },
+  "475": {
+    "id": "475",
+    "text": "Seite"
+  },
+  "476": {
+    "id": "476",
+    "text": "Bitte schlagt in euren Zeitschriften den Artikel auf Seite zwanzig auf."
+  },
+  "477": {
+    "id": "477",
+    "text": "Bitte schlagt euer Studienmaterial auf Seite fünfundvierzig auf."
+  },
+  "478": {
+    "id": "478",
+    "text": "Lasst uns auf Seite zehn wechseln."
+  },
+  "479": {
+    "id": "479",
+    "text": "Artikel"
+  },
+  "480": {
+    "id": "480",
+    "text": "eine Artikelserie",
+    "annotation": "(: z.B. in einer Wachtturmausgabe)"
+  },
+  "481": {
+    "id": "481",
+    "text": "Diese Woche werden wir den ersten von drei Artikeln dieser Artikelserie betrachten."
+  },
+  "482": {
+    "id": "482",
+    "text": "Thema"
+  },
+  "483": {
+    "id": "483",
+    "text": "Leittext"
+  },
+  "484": {
+    "id": "484",
+    "text": "Überschrift"
+  },
+  "485": {
+    "id": "485",
+    "text": "Unterthema"
+  },
+  "486": {
+    "id": "486",
+    "text": "Absatz"
+  },
+  "487": {
+    "id": "487",
+    "text": "der vorangegangene Absatz"
+  },
+  "488": {
+    "id": "488",
+    "text": "der nächste Absatz"
+  },
+  "489": {
+    "id": "489",
+    "text": "die nächsten beiden Absätze"
+  },
+  "490": {
+    "id": "490",
+    "text": "Lasst uns die nächsten beiden Absätze lesen."
+  },
+  "491": {
+    "id": "491",
+    "text": "Wort"
+  },
+  "492": {
+    "id": "492",
+    "text": "ein fettgedrucktes Wort"
+  },
+  "493": {
+    "id": "493",
+    "text": "ein kursiv geschriebenes Wort"
+  },
+  "494": {
+    "id": "494",
+    "text": "Fußnote"
+  },
+  "495": {
+    "id": "495",
+    "text": "Anhang"
+  },
+  "496": {
+    "id": "496",
+    "text": "Kasten"
+  },
+  "497": {
+    "id": "497",
+    "text": "Bild"
+  },
+  "498": {
+    "id": "498",
+    "text": "Ihr Kinder, wie lautet der Name des Mannes auf dem Bild?"
+  },
+  "499": {
+    "id": "499",
+    "text": "Bildunterschrift",
+    "annotation": "(: Text unter einem Bild/Foto)"
+  },
+  "500": {
+    "id": "500",
+    "text": "Besprechung"
+  },
+  "501": {
+    "id": "501",
+    "text": "Antwort"
+  },
+  "502": {
+    "id": "502",
+    "text": "eine Antwort geben"
+  },
+  "503": {
+    "id": "503",
+    "text": "Frage"
+  },
+  "504": {
+    "id": "504",
+    "text": "einleitende Fragen",
+    "annotation": "(: z.B. aus dem \"Was lehrt die Bibel wirklich?\"-Buch)"
+  },
+  "505": {
+    "id": "505",
+    "text": "Wiederholungsfragen",
+    "annotation": "(: z.B. wie beim Wachtturmstudium)"
+  },
+  "506": {
+    "id": "506",
+    "text": "eine Frage stellen"
+  },
+  "507": {
+    "id": "507",
+    "text": "eine Frage beantworten"
+  },
+  "508": {
+    "id": "508",
+    "text": "Kommentar"
+  },
+  "509": {
+    "id": "509",
+    "text": "einen Kommentar geben"
+  },
+  "510": {
+    "id": "510",
+    "text": "Bitte übersetze seinen Kommentar."
+  },
+  "511": {
+    "id": "511",
+    "text": "Gibt es irgendwelche weiteren Kommentare?"
+  },
+  "512": {
+    "id": "512",
+    "text": "Bitte gebt nur Kommentare von maximal dreißig Sekunden."
+  },
+  "513": {
+    "id": "513",
+    "text": "kommentieren"
+  },
+  "514": {
+    "id": "514",
+    "text": "Wer würde gern einen Kommentar zum wöchentlichen Bibellesen geben?"
+  },
+  "515": {
+    "id": "515",
+    "text": "das Bild kommentieren"
+  },
+  "516": {
+    "id": "516",
+    "text": "Besprechung"
+  },
+  "517": {
+    "id": "517",
+    "text": "Besprechung in Form von Fragen und Antworten"
+  },
+  "518": {
+    "id": "518",
+    "text": "besprechen"
+  },
+  "519": {
+    "id": "519",
+    "text": "den Tagestext besprechen"
+  },
+  "520": {
+    "id": "520",
+    "text": "Wir werden nun diesen Artikel zusammen besprechen."
+  },
+  "521": {
+    "id": "521",
+    "text": "eine Besprechung leiten"
+  },
+  "522": {
+    "id": "522",
+    "text": "Vielen Dank, Bruder XXX für das Leiten dieser Besprechung."
+  },
+  "523": {
+    "id": "523",
+    "text": "Leiter"
+  },
+  "524": {
+    "id": "524",
+    "text": "Wachtturm-Studien-Leiter"
+  },
+  "525": {
+    "id": "525",
+    "text": "betrachten",
+    "annotation": "(: sich auf etwas in einer Diskussion konzentrieren)"
+  },
+  "526": {
+    "id": "526",
+    "text": "Nun werden wir eine wichtige Frage betrachten."
+  },
+  "527": {
+    "id": "527",
+    "text": "vorlesen",
+    "annotation": "(: laut, wie z.B. in einer Zusammenkunft)"
+  },
+  "528": {
+    "id": "528",
+    "text": "Wer kann Absatz zwei vorlesen?"
+  },
+  "529": {
+    "id": "529",
+    "text": "Bitte lies Absatz zwei vor."
+  },
+  "530": {
+    "id": "530",
+    "text": "Vielen Dank, Bruder XXX für das Lesen."
+  },
+  "531": {
+    "id": "531",
+    "text": "wiederholen"
+  },
+  "532": {
+    "id": "532",
+    "text": "Lasst uns die Hauptpunkte dieses Artikels betrachten."
+  },
+  "533": {
+    "id": "533",
+    "text": "Hauptpunkt"
+  },
+  "534": {
+    "id": "534",
+    "text": "Welche sind die Hauptpunkte, die wir aus dem Stoff dieser Woche gelernt haben?"
+  },
+  "535": {
+    "id": "535",
+    "text": "XXX auf YYY  anwenden"
+  },
+  "536": {
+    "id": "536",
+    "text": "Wie können wir dies auf ... anwenden?"
+  },
+  "537": {
+    "id": "537",
+    "text": "Wie können wir dies auf unseren Dienst anwenden?"
+  },
+  "538": {
+    "id": "538",
+    "text": "XXX zusammenfassen"
+  },
+  "539": {
+    "id": "539",
+    "text": "Wie können wir diese Absätze zusammenfassen?"
+  },
+  "540": {
+    "id": "540",
+    "text": "Liebe Brüder und Schwestern",
+    "annotation": "(: um die Aufmerksamkeit auf sich zu ziehen oder als Anfangsworte zu einer Zuhörerschaft)"
+  },
+  "541": {
+    "id": "541",
+    "text": "Bruder XXX",
+    "annotation": "(: wenn jemand aufgerufen wird einen Kommentar in einer Zusammenkunft zu geben)"
+  },
+  "542": {
+    "id": "542",
+    "text": "Schwester XXX",
+    "annotation": "(: wenn jemand aufgerufen wird einen Kommentar in einer Zusammenkunft zu geben)"
+  },
+  "543": {
+    "id": "543",
+    "text": "Bitte hebe Deine Hand."
+  },
+  "544": {
+    "id": "544",
+    "text": "Bitte warte auf das Mikrofon."
+  },
+  "545": {
+    "id": "545",
+    "text": "Bitte stelle das Mikrofon an."
+  },
+  "546": {
+    "id": "546",
+    "text": "Bitte halte das Mikrofon richtig."
+  },
+  "547": {
+    "id": "547",
+    "text": "Sehr gut!",
+    "annotation": "(: Sage dies nachdem jemand eine gute Aufgabe gehalten oder einen guten Kommentar gegeben hat)"
+  },
+  "548": {
+    "id": "548",
+    "text": "Überleitungen"
+  },
+  "549": {
+    "id": "549",
+    "text": "Nun; Als nächstes …"
+  },
+  "550": {
+    "id": "550",
+    "text": "Nun lasst uns Absatz drei lesen."
+  },
+  "551": {
+    "id": "551",
+    "text": "Wir werden nun … besprechen."
+  },
+  "552": {
+    "id": "552",
+    "text": "Wir werden nun die folgende Frage besprechen."
+  },
+  "553": {
+    "id": "553",
+    "text": "Wir werden nun das folgende Problem besprechen."
+  },
+  "554": {
+    "id": "554",
+    "text": "Wir werden nun das folgende Thema besprechen."
+  },
+  "555": {
+    "id": "555",
+    "text": "Zunächst …"
+  },
+  "556": {
+    "id": "556",
+    "text": "Später …"
+  },
+  "557": {
+    "id": "557",
+    "text": "Schließlich …"
+  },
+  "558": {
+    "id": "558",
+    "text": "letzte Woche"
+  },
+  "559": {
+    "id": "559",
+    "text": "diese Woche"
+  },
+  "560": {
+    "id": "560",
+    "text": "Diese Woche werden wir die Absätze 10 bis 18 besprechen."
+  },
+  "561": {
+    "id": "561",
+    "text": "Diese Woche ist Bruder XXX unser Leser."
+  },
+  "562": {
+    "id": "562",
+    "text": "nächste Woche"
+  },
+  "563": {
+    "id": "563",
+    "text": "Was werden wir nächste Woche besprechen?"
+  },
+  "564": {
+    "id": "564",
+    "text": "letztes Mal"
+  },
+  "565": {
+    "id": "565",
+    "text": "nächstes Mal"
+  },
+  "566": {
+    "id": "566",
+    "text": "Lasst uns fortfahren."
+  },
+  "567": {
+    "id": "567",
+    "text": "Ich befürchte, dass uns die Zeit davon läuft."
+  },
+  "568": {
+    "id": "568",
+    "text": "Die Zeit ist schon fortgeschritten, deshalb fahren wir fort."
+  },
+  "569": {
+    "id": "569",
+    "text": "Das ist alles, wofür wir noch Zeit haben."
+  },
+  "570": {
+    "id": "570",
+    "text": "Wir müssen dies hier beenden."
+  },
+  "572": {
+    "id": "572",
+    "text": "Zeugnisgeben"
+  },
+  "573": {
+    "id": "573",
+    "text": "Predigtdienst"
+  },
+  "574": {
+    "id": "574",
+    "text": "Predigtdienst"
+  },
+  "575": {
+    "id": "575",
+    "text": "mit XXX in den Dienst gehen"
+  },
+  "576": {
+    "id": "576",
+    "text": "Wann können wir zusammen in den Dienst gehen?"
+  },
+  "577": {
+    "id": "577",
+    "text": "predigen"
+  },
+  "578": {
+    "id": "578",
+    "text": "Predigtdienst"
+  },
+  "579": {
+    "id": "579",
+    "text": "predigen"
+  },
+  "580": {
+    "id": "580",
+    "text": "XXX predigen"
+  },
+  "581": {
+    "id": "581",
+    "text": "XXX Zeugnis geben"
+  },
+  "582": {
+    "id": "582",
+    "text": "XXX ein Zeugnis geben"
+  },
+  "583": {
+    "id": "583",
+    "text": "Zeugnisgeben"
+  },
+  "584": {
+    "id": "584",
+    "text": "Zeugnisgeben von Haus zu Haus"
+  },
+  "585": {
+    "id": "585",
+    "text": "Straßendienst"
+  },
+  "586": {
+    "id": "586",
+    "text": "informelles Zeugnisgeben"
+  },
+  "587": {
+    "id": "587",
+    "text": "Zeugnisgeben in Geschäftsvierteln"
+  },
+  "588": {
+    "id": "588",
+    "text": "Rückbesuch"
+  },
+  "589": {
+    "id": "589",
+    "text": "Würdest Du morgen einen Rückbesuch mit mir machen?"
+  },
+  "590": {
+    "id": "590",
+    "text": "zu einem Rückbesuch gehen"
+  },
+  "591": {
+    "id": "591",
+    "text": "Bibelstudium"
+  },
+  "592": {
+    "id": "592",
+    "text": "ein Bibelstudium beginnen"
+  },
+  "593": {
+    "id": "593",
+    "text": "ein Bibelstudium durchführen"
+  },
+  "594": {
+    "id": "594",
+    "text": "Nächste Woche habe ich ein Bibelstudium. Möchtest du mitkommen?"
+  },
+  "595": {
+    "id": "595",
+    "text": "Bibellehrer"
+  },
+  "596": {
+    "id": "596",
+    "text": "Interessierter"
+  },
+  "597": {
+    "id": "597",
+    "text": "Interessierter"
+  },
+  "598": {
+    "id": "598",
+    "text": "Interesse weiter fördern",
+    "annotation": "(: dort wieder vorsprechen, wo jemand Interesse gezeigt hat)"
+  },
+  "599": {
+    "id": "599",
+    "text": "Zeit für den Predigtdienst"
+  },
+  "600": {
+    "id": "600",
+    "text": "Letzten Monat hat er 14 Stunden für den Predigtdienst eingesetzt."
+  },
+  "601": {
+    "id": "601",
+    "text": "Letzten Monat hat er vierzehn Stunden Predigtdienst und ein Bibelstudium berichtet."
+  },
+  "602": {
+    "id": "602",
+    "text": "Darbietung; Einleitung"
+  },
+  "603": {
+    "id": "603",
+    "text": "Kennst Du eine gute Einleitung für den Predigtdienst?"
+  },
+  "604": {
+    "id": "604",
+    "text": "Erfahrung",
+    "annotation": "(: d.h. etwas, das man im Predigtdienst erlebt hat)"
+  },
+  "605": {
+    "id": "605",
+    "text": "Hast du im letzten Monat im Predigtdienst etwas Interessantes erlebt?"
+  },
+  "606": {
+    "id": "606",
+    "text": "Bruder XXX wird uns nun eine interessante Erfahrung erzählen."
+  },
+  "607": {
+    "id": "607",
+    "text": "Unser Königreichsdienst"
+  },
+  "608": {
+    "id": "608",
+    "text": "Beilage"
+  },
+  "609": {
+    "id": "609",
+    "text": "Bitte bringt die Königreichsdienst-Beilage für Dezember 2006 zum Treffpunkt mit."
+  },
+  "610": {
+    "id": "610",
+    "text": "Angebot",
+    "annotation": "(: eine Veröffentlichung, die zu einer bestimmten Zeit im Predigtdienst angeboten wird)"
+  },
+  "611": {
+    "id": "611",
+    "text": "Was ist in diesem Monat im Angebot?"
+  },
+  "612": {
+    "id": "612",
+    "text": "Welche Veröffentlichung bieten wir in diesem Monat an?"
+  },
+  "613": {
+    "id": "613",
+    "text": "Sonderaktion",
+    "annotation": "(: ein Zeitraum, in dem besondere Anstrengungen unternommen werden, ein besonderes Traktat zu verbreiten)"
+  },
+  "614": {
+    "id": "614",
+    "text": "Wann beginnt die Sonderaktion?"
+  },
+  "615": {
+    "id": "615",
+    "text": "Partner",
+    "annotation": "(: d.h. im Predigtdienst)"
+  },
+  "616": {
+    "id": "616",
+    "text": "Wer hat noch keinen Partner?"
+  },
+  "617": {
+    "id": "617",
+    "text": "Bruder XXX, du kannst mit Bruder YYY zusammenarbeiten."
+  },
+  "618": {
+    "id": "618",
+    "text": "Benötigt jemand eine Mitfahrgelegenheit?",
+    "annotation": "(: Wer braucht Hilfe, um ins Gebiet zu gelangen?)"
+  },
+  "619": {
+    "id": "619",
+    "text": "Gebiet"
+  },
+  "620": {
+    "id": "620",
+    "text": "Wer braucht Gebiet?"
+  },
+  "621": {
+    "id": "621",
+    "text": "Gibt es irgendwelche Schwierigkeiten?"
+  },
+  "622": {
+    "id": "622",
+    "text": "Hat jemand Fragen?"
+  },
+  "623": {
+    "id": "623",
+    "text": "Gehen wir!",
+    "annotation": "(: Lasst uns zusammen losgehen und den Predigtdienst beginnen.)"
+  },
+  "624": {
+    "id": "624",
+    "text": "Einleitungen"
+  },
+  "625": {
+    "id": "625",
+    "text": "Guten Tag. Mein Name ist XXX."
+  },
+  "626": {
+    "id": "626",
+    "text": "Entschuldigung.",
+    "annotation": "(: ein höflicher Ausdruck, um im Predigtdienst jemandes Aufmerksamkeit zu erlangen)"
+  },
+  "627": {
+    "id": "627",
+    "text": "Ich lerne XXX.",
+    "annotation": "(: XXX ist eine Sprache)"
+  },
+  "628": {
+    "id": "628",
+    "text": "Sprechen Sie XXX?",
+    "annotation": "(: XXX ist eine Sprache)"
+  },
+  "629": {
+    "id": "629",
+    "text": "Ich suche nach Personen, die XXX sprechen.",
+    "annotation": "(: XXX ist eine Sprache)"
+  },
+  "630": {
+    "id": "630",
+    "text": "Ich freue mich, Sie anzutreffen."
+  },
+  "631": {
+    "id": "631",
+    "text": "Schön, Sie wiederzusehen."
+  },
+  "632": {
+    "id": "632",
+    "text": "Ich freue mich, dass ich wieder mit Ihnen sprechen kann."
+  },
+  "633": {
+    "id": "633",
+    "text": "Es tut mir leid, dass ich ungelegen komme."
+  },
+  "634": {
+    "id": "634",
+    "text": "Ich sehe, dass Sie im Augenblick sehr beschäftigt sind."
+  },
+  "635": {
+    "id": "635",
+    "text": "Ich werde mich kurz fassen."
+  },
+  "636": {
+    "id": "636",
+    "text": "Wir besuchen alle Familien in dieser Gegend."
+  },
+  "637": {
+    "id": "637",
+    "text": "Wir machen heute einen kurzen Besuch bei unseren Nachbarn."
+  },
+  "638": {
+    "id": "638",
+    "text": "Bei meinen Gesprächen habe ich festgestellt, dass …"
+  },
+  "639": {
+    "id": "639",
+    "text": "Bei unseren Gesprächen ist uns aufgefallen, dass …"
+  },
+  "640": {
+    "id": "640",
+    "text": "Wir sprechen mit unseren Nachbarn darüber, wo man praktische Hilfe finden kann, um mit den Problemen des Lebens fertig zu werden."
+  },
+  "641": {
+    "id": "641",
+    "text": "Wir sprechen mit unseren Nachbarn über ..."
+  },
+  "642": {
+    "id": "642",
+    "text": "Wir sprechen über …"
+  },
+  "643": {
+    "id": "643",
+    "text": "Wir sprechen mit jedem, den wir antreffen, über …"
+  },
+  "644": {
+    "id": "644",
+    "text": "Ich unterhalte mich mit meinen Nachbarn über ein Thema, das uns alle betrifft."
+  },
+  "645": {
+    "id": "645",
+    "text": "Heute stellen wir jedem, den wir treffen, eine Frage."
+  },
+  "646": {
+    "id": "646",
+    "text": "Heute fragen wir unsere Nachbarn …"
+  },
+  "647": {
+    "id": "647",
+    "text": "Ich würde Sie gerne etwas fragen."
+  },
+  "648": {
+    "id": "648",
+    "text": "Haben Sie sich schon einmal gefragt: …?"
+  },
+  "649": {
+    "id": "649",
+    "text": "Haben Sie sich schon einmal gefragt: Kümmert sich Gott wirklich um die Ungerechtigkeit und das Leid, das die Menschen ertragen?"
+  },
+  "650": {
+    "id": "650",
+    "text": "Kontakt herstellen"
+  },
+  "651": {
+    "id": "651",
+    "text": "Wie kann ich Sie wieder erreichen?"
+  },
+  "652": {
+    "id": "652",
+    "text": "Könnten Sie mir Ihre Telefonnummer geben?"
+  },
+  "653": {
+    "id": "653",
+    "text": "Meine Handynummer ist …"
+  },
+  "654": {
+    "id": "654",
+    "text": "Ich werde Sie anrufen, bevor ich komme."
+  },
+  "655": {
+    "id": "655",
+    "text": "Ich werde Ihnen eine SMS (/Textnachricht) schicken."
+  },
+  "656": {
+    "id": "656",
+    "text": "Haben Sie meine SMS erhalten?"
+  },
+  "657": {
+    "id": "657",
+    "text": "Wir können uns ein andermal wieder treffen."
+  },
+  "658": {
+    "id": "658",
+    "text": "Machen wir einen Termin."
+  },
+  "659": {
+    "id": "659",
+    "text": "Wann würde es Ihnen passen?"
+  },
+  "660": {
+    "id": "660",
+    "text": "Wann wäre es für Sie günstig, um sich wieder zu treffen?"
+  },
+  "661": {
+    "id": "661",
+    "text": "Es tut mir leid, morgen geht es leider nicht."
+  },
+  "662": {
+    "id": "662",
+    "text": "Wann wäre ein günstiger Zeitpunkt, um Sie anzurufen?"
+  },
+  "663": {
+    "id": "663",
+    "text": "Wann wäre ein günstiger Zeitpunkt, um Sie besuchen?"
+  },
+  "664": {
+    "id": "664",
+    "text": "Wie wäre es nächste Woche?"
+  },
+  "665": {
+    "id": "665",
+    "text": "Wäre Ihnen Donnerstagnachmittag recht?"
+  },
+  "666": {
+    "id": "666",
+    "text": "Werden Sie dann im Geschäft sein?"
+  },
+  "667": {
+    "id": "667",
+    "text": "Werden Sie zu Hause sein?"
+  },
+  "668": {
+    "id": "668",
+    "text": "Wir könnten uns auf eine Tasse Tee (/Kaffee) treffen."
+  },
+  "669": {
+    "id": "669",
+    "text": "Wir könnten uns dann kurz unterhalten."
+  },
+  "670": {
+    "id": "670",
+    "text": "Haben Sie nächste Woche Zeit?"
+  },
+  "671": {
+    "id": "671",
+    "text": "Haben Sie morgen zehn Minuten Zeit?"
+  },
+  "672": {
+    "id": "672",
+    "text": "Könnten wir uns etwas früher treffen?"
+  },
+  "673": {
+    "id": "673",
+    "text": "Könnten wir uns etwas später treffen?"
+  },
+  "674": {
+    "id": "674",
+    "text": "Es tut mir leid. Ich muss unsere Verabredung absagen."
+  },
+  "675": {
+    "id": "675",
+    "text": "Können wir für einen anderen Tag einen neuen Termin vereinbaren?"
+  },
+  "676": {
+    "id": "676",
+    "text": "Bibeltexte einleiten"
+  },
+  "677": {
+    "id": "677",
+    "text": "Ich bin gekommen, um Sie auf einen wichtigen Gedanken aus der Bibel aufmerksam zu machen."
+  },
+  "678": {
+    "id": "678",
+    "text": "Ich würde Ihnen gerne einen ermunternden Gedanken aus der Bibel zeigen."
+  },
+  "679": {
+    "id": "679",
+    "text": "Ich spreche mit meinen Nachbarn über einen ermunternden Gedanken aus der Bibel."
+  },
+  "680": {
+    "id": "680",
+    "text": "Wir ermuntern unsere Mitmenschen zum Bibellesen."
+  },
+  "681": {
+    "id": "681",
+    "text": "Oft sind die Menschen überrascht über die Antworten, die die Bibel auf wichtige Fragen gibt. Zum Beispiel: …"
+  },
+  "682": {
+    "id": "682",
+    "text": "Bitte schauen Sie einmal, was die Bibel hierzu sagt."
+  },
+  "683": {
+    "id": "683",
+    "text": "Würden Sie gerne die Bibel mit mir zusammen studieren?"
+  },
+  "684": {
+    "id": "684",
+    "text": "Wir bieten kostenlose Bibelkurse an."
+  },
+  "685": {
+    "id": "685",
+    "text": "Veröffentlichungen anbieten"
+  },
+  "686": {
+    "id": "686",
+    "text": "Ich würde Ihnen gerne dieses Traktat überreichen."
+  },
+  "687": {
+    "id": "687",
+    "text": "Dieses Traktat bespricht …"
+  },
+  "688": {
+    "id": "688",
+    "text": "Es wird nicht viel Zeit kosten, dieses Traktat zu lesen."
+  },
+  "689": {
+    "id": "689",
+    "text": "Es ist sehr interessant."
+  },
+  "690": {
+    "id": "690",
+    "text": "Möchten Sie gerne diese Broschüre lesen?"
+  },
+  "691": {
+    "id": "691",
+    "text": "Kann ich Ihnen diese Zeitschriften zurücklassen?"
+  },
+  "692": {
+    "id": "692",
+    "text": "Sehen Sie sich dieses Bild an."
+  },
+  "693": {
+    "id": "693",
+    "text": "Ich möchte Ihnen dieses Buch zeigen."
+  },
+  "694": {
+    "id": "694",
+    "text": "Schauen Sie bitte, was in diesem Buch gesagt wird."
+  },
+  "695": {
+    "id": "695",
+    "text": "Es ist kostenfrei."
+  },
+  "696": {
+    "id": "696",
+    "text": "Unsere Tätigkeit wird durch freiwillige Spenden unterstützt."
+  },
+  "697": {
+    "id": "697",
+    "text": "Sie können sich dieses Buch ausleihen."
+  },
+  "698": {
+    "id": "698",
+    "text": "Ich kann Ihnen mein Buch leihen."
+  },
+  "699": {
+    "id": "699",
+    "text": "Ich würde Ihnen gerne einige Informationen in Ihrer eigenen Sprache bringen."
+  },
+  "700": {
+    "id": "700",
+    "text": "Nach dem Standpunkt fragen"
+  },
+  "701": {
+    "id": "701",
+    "text": "Wie denken Sie darüber?",
+    "annotation": "(: nachdem du etwas geäußert oder gezeigt hast)"
+  },
+  "702": {
+    "id": "702",
+    "text": "Hört sich das für Sie gut an?"
+  },
+  "703": {
+    "id": "703",
+    "text": "Würden Sie dem zustimmen?"
+  },
+  "704": {
+    "id": "704",
+    "text": "Wie finden Sie …?"
+  },
+  "705": {
+    "id": "705",
+    "text": "Was denken Sie über …?"
+  },
+  "706": {
+    "id": "706",
+    "text": "Rückbesuche"
+  },
+  "707": {
+    "id": "707",
+    "text": "Nächstes Mal möchte ich gerne über … sprechen."
+  },
+  "708": {
+    "id": "708",
+    "text": "Nächstes Mal möchte ich gerne eine wichtige Frage beantworten."
+  },
+  "709": {
+    "id": "709",
+    "text": "Beim nächsten Mal möchte ich gerne diese Frage mit Ihnen besprechen."
+  },
+  "710": {
+    "id": "710",
+    "text": "Beim nächsten Mal können wir das Kapitel 2 aus diesem Buch besprechen."
+  },
+  "711": {
+    "id": "711",
+    "text": "Erinnern Sie sich, …"
+  },
+  "712": {
+    "id": "712",
+    "text": "Beim letzten Mal habe ich Ihnen eine Frage gestellt."
+  },
+  "713": {
+    "id": "713",
+    "text": "Diesmal möchte ich diese Frage gerne beantworten."
+  },
+  "714": {
+    "id": "714",
+    "text": "Jemanden suchen"
+  },
+  "715": {
+    "id": "715",
+    "text": "Ist XXX zu Hause?"
+  },
+  "716": {
+    "id": "716",
+    "text": "Ist XXX da?"
+  },
+  "717": {
+    "id": "717",
+    "text": "Er ist nicht da."
+  },
+  "718": {
+    "id": "718",
+    "text": "Wann kommt er wieder?"
+  },
+  "719": {
+    "id": "719",
+    "text": "Ich werde gerne (auf ihn) warten."
+  },
+  "720": {
+    "id": "720",
+    "text": "Ich komme morgen wieder."
+  },
+  "721": {
+    "id": "721",
+    "text": "Macht nichts."
+  },
+  "722": {
+    "id": "722",
+    "text": "Kein Problem."
+  },
+  "724": {
+    "id": "724",
+    "text": "Gebete sprechen"
+  },
+  "725": {
+    "id": "725",
+    "text": "Mustergebet (Mat. 6)"
+  },
+  "726": {
+    "id": "726",
+    "text": "Unser Vater in den Himmeln, dein Name werde geheiligt."
+  },
+  "727": {
+    "id": "727",
+    "text": "Dein Königreich komme."
+  },
+  "728": {
+    "id": "728",
+    "text": "Dein Wille geschehe wie im Himmel so auch auf der Erde."
+  },
+  "729": {
+    "id": "729",
+    "text": "Gib uns heute unser Brot für diesen Tag;"
+  },
+  "730": {
+    "id": "730",
+    "text": "und vergib uns unsere Schulden, wie auch wir unseren Schuldnern vergeben haben."
+  },
+  "731": {
+    "id": "731",
+    "text": "Und bringe uns nicht in Versuchung, sondern befreie uns von dem, der böse ist."
+  },
+  "732": {
+    "id": "732",
+    "text": "Jehova anreden"
+  },
+  "733": {
+    "id": "733",
+    "text": "du",
+    "annotation": "(: die Personalpronomen, die in der Zielsprache üblicherweise verwendet werden, um Jehova anzureden)"
+  },
+  "734": {
+    "id": "734",
+    "text": "Jehova"
+  },
+  "735": {
+    "id": "735",
+    "text": "Gott"
+  },
+  "736": {
+    "id": "736",
+    "text": "Unser Gott"
+  },
+  "737": {
+    "id": "737",
+    "text": "Jehova, unser Gott,"
+  },
+  "738": {
+    "id": "738",
+    "text": "Schöpfer"
+  },
+  "739": {
+    "id": "739",
+    "text": "Unser Schöpfer"
+  },
+  "740": {
+    "id": "740",
+    "text": "Schöpfer des Himmels und der Erde"
+  },
+  "741": {
+    "id": "741",
+    "text": "Vater"
+  },
+  "742": {
+    "id": "742",
+    "text": "unser Vater"
+  },
+  "743": {
+    "id": "743",
+    "text": "lieber"
+  },
+  "744": {
+    "id": "744",
+    "text": "gütiger"
+  },
+  "745": {
+    "id": "745",
+    "text": "barmherziger"
+  },
+  "746": {
+    "id": "746",
+    "text": "geliebter"
+  },
+  "747": {
+    "id": "747",
+    "text": "liebevoller"
+  },
+  "748": {
+    "id": "748",
+    "text": "mächtiger"
+  },
+  "749": {
+    "id": "749",
+    "text": "allmächtiger"
+  },
+  "750": {
+    "id": "750",
+    "text": "im Himmel; himmlischer"
+  },
+  "751": {
+    "id": "751",
+    "text": "unser Vater im Himmel"
+  },
+  "752": {
+    "id": "752",
+    "text": "Jesus Christus"
+  },
+  "753": {
+    "id": "753",
+    "text": "Jesus Christus"
+  },
+  "754": {
+    "id": "754",
+    "text": "Wir beten in Jesu Namen."
+  },
+  "755": {
+    "id": "755",
+    "text": "Wir richten dieses Gebet an dich durch Jesus."
+  },
+  "756": {
+    "id": "756",
+    "text": "Bitte erhöre unser Gebet im Namen Jesu Christi."
+  },
+  "757": {
+    "id": "757",
+    "text": "unseres Retters"
+  },
+  "758": {
+    "id": "758",
+    "text": "deines Sohnes"
+  },
+  "759": {
+    "id": "759",
+    "text": "unseres Königs"
+  },
+  "760": {
+    "id": "760",
+    "text": "unseres regierenden Königs"
+  },
+  "761": {
+    "id": "761",
+    "text": "Amen."
+  },
+  "762": {
+    "id": "762",
+    "text": "Lobpreis"
+  },
+  "763": {
+    "id": "763",
+    "text": "Wir lieben dich."
+  },
+  "764": {
+    "id": "764",
+    "text": "Wir preisen dich."
+  },
+  "765": {
+    "id": "765",
+    "text": "Wir verherrlichen dich."
+  },
+  "766": {
+    "id": "766",
+    "text": "Wir freuen uns auf die Segnungen deines Königreichs."
+  },
+  "767": {
+    "id": "767",
+    "text": "Wir möchten deinen Willen tun."
+  },
+  "768": {
+    "id": "768",
+    "text": "Wir möchten deinen Namen preisen."
+  },
+  "769": {
+    "id": "769",
+    "text": "Danksagung"
+  },
+  "770": {
+    "id": "770",
+    "text": "Wir freuen uns, dass …"
+  },
+  "771": {
+    "id": "771",
+    "text": "Wir freuen uns, dass wir uns hier versammeln können."
+  },
+  "772": {
+    "id": "772",
+    "text": "Wir freuen uns, dass wir uns heute hier versammeln können."
+  },
+  "773": {
+    "id": "773",
+    "text": "Wir sind dankbar dafür, dass …"
+  },
+  "774": {
+    "id": "774",
+    "text": "Wir sind dankbar dafür, dass wir uns hier versammeln können."
+  },
+  "775": {
+    "id": "775",
+    "text": "Wir sind dir für diese Gelegenheit dankbar."
+  },
+  "776": {
+    "id": "776",
+    "text": "Wir sind dankbar für das Wissen, das du uns durch die Zusammenkünfte vermittelst."
+  },
+  "777": {
+    "id": "777",
+    "text": "Wir danken dir für …"
+  },
+  "778": {
+    "id": "778",
+    "text": "Wir danken dir für dieses wunderbare Vorrecht."
+  },
+  "779": {
+    "id": "779",
+    "text": "Wir danken dir für das Leben."
+  },
+  "780": {
+    "id": "780",
+    "text": "Wir danken dir dafür, dass du uns aus dieser Welt hinausführst."
+  },
+  "781": {
+    "id": "781",
+    "text": "Wir danken dir für dein Wort, die Bibel."
+  },
+  "782": {
+    "id": "782",
+    "text": "Wir danken dir dafür, dass wir dich kennenlernen können."
+  },
+  "783": {
+    "id": "783",
+    "text": "Wir danken dir für das Loskaufsopfer Jesu Christi."
+  },
+  "784": {
+    "id": "784",
+    "text": "Wir danken dir für unsere Brüder und Schwestern."
+  },
+  "785": {
+    "id": "785",
+    "text": "Wir danken dir für diese Zusammenkunft."
+  },
+  "786": {
+    "id": "786",
+    "text": "Wir danken dir für die Zukunftshoffnung, die du uns gibst."
+  },
+  "787": {
+    "id": "787",
+    "text": "Wir danken dir dafür, dass du deinen Sohn auf die Erde gesandt hast."
+  },
+  "788": {
+    "id": "788",
+    "text": "Wir danken dir dafür, dass du uns durch diese Zusammenkunft an vieles erinnert hast."
+  },
+  "789": {
+    "id": "789",
+    "text": "Bitten"
+  },
+  "790": {
+    "id": "790",
+    "text": "XXX leiten"
+  },
+  "791": {
+    "id": "791",
+    "text": "Leite uns."
+  },
+  "792": {
+    "id": "792",
+    "text": "Leite deine Organisation."
+  },
+  "793": {
+    "id": "793",
+    "text": "Gib der Leitenden Körperschaft Anleitung."
+  },
+  "794": {
+    "id": "794",
+    "text": "XXX helfen"
+  },
+  "795": {
+    "id": "795",
+    "text": "Hilf uns dir zu dienen."
+  },
+  "796": {
+    "id": "796",
+    "text": "Hilf uns das Rechte zu tun."
+  },
+  "797": {
+    "id": "797",
+    "text": "Hilf uns Versuchungen zu widerstehen."
+  },
+  "798": {
+    "id": "798",
+    "text": "Hilf uns auszuharren."
+  },
+  "799": {
+    "id": "799",
+    "text": "Hilf uns regelmäßig die Zusammenkünfte besuchen zu können."
+  },
+  "800": {
+    "id": "800",
+    "text": "Hilf uns im Predigtdienst aufrichtige Personen zu finden."
+  },
+  "801": {
+    "id": "801",
+    "text": "Hilf uns mit anderen über die Dinge zu sprechen, die wir gelernt haben."
+  },
+  "802": {
+    "id": "802",
+    "text": "Hilf uns uns während der Zusammenkunft zu konzentrieren."
+  },
+  "803": {
+    "id": "803",
+    "text": "Hilf uns über dein Wort nachzusinnen."
+  },
+  "804": {
+    "id": "804",
+    "text": "Hilf uns das anzuwenden, was wir gelernt haben."
+  },
+  "805": {
+    "id": "805",
+    "text": "Hilf unseren Brüdern, die zurzeit Schwierigkeiten haben."
+  },
+  "806": {
+    "id": "806",
+    "text": "Hilf uns auf die Bedürfnisse unserer Brüder zu achten."
+  },
+  "807": {
+    "id": "807",
+    "text": "Hilf XXX sein Studium deines Wortes fortzusetzen."
+  },
+  "808": {
+    "id": "808",
+    "text": "Hilf XXX mutig zu sein."
+  },
+  "809": {
+    "id": "809",
+    "text": "Hilf XXX weiter geistig Fortschritte zu machen."
+  },
+  "810": {
+    "id": "810",
+    "text": "YYY XXX geben"
+  },
+  "811": {
+    "id": "811",
+    "text": "Gib uns …"
+  },
+  "812": {
+    "id": "812",
+    "text": "Gib uns deinen Heiligen Geist."
+  },
+  "813": {
+    "id": "813",
+    "text": "Gib uns Weisheit."
+  },
+  "814": {
+    "id": "814",
+    "text": "Gib uns die Kraft, alles zu tun, was du von uns erwartest."
+  },
+  "815": {
+    "id": "815",
+    "text": "um XXX bitten"
+  },
+  "816": {
+    "id": "816",
+    "text": "Wir bitten um …"
+  },
+  "817": {
+    "id": "817",
+    "text": "Wir bitten um deine Leitung in dieser schweren Zeit."
+  },
+  "818": {
+    "id": "818",
+    "text": "XXX segnen"
+  },
+  "819": {
+    "id": "819",
+    "text": "Segne …"
+  },
+  "820": {
+    "id": "820",
+    "text": "Segne uns."
+  },
+  "821": {
+    "id": "821",
+    "text": "Segne unseren Predigtdienst."
+  },
+  "822": {
+    "id": "822",
+    "text": "Segne diese Zusammenkunft."
+  },
+  "823": {
+    "id": "823",
+    "text": "Segne unsere Versammlung."
+  },
+  "824": {
+    "id": "824",
+    "text": "XXX beschützen"
+  },
+  "825": {
+    "id": "825",
+    "text": "Beschütze uns."
+  },
+  "826": {
+    "id": "826",
+    "text": "Beschütze die Brüder, die heute Abend nicht hier sein konnten."
+  },
+  "827": {
+    "id": "827",
+    "text": "Beschütze unsere Brüder, die in anderen Ländern verfolgt werden."
+  },
+  "828": {
+    "id": "828",
+    "text": "Beschütze uns auf unserem Heimweg heute Abend."
+  },
+  "829": {
+    "id": "829",
+    "text": "Bitte …",
+    "annotation": "(: ein Wort oder eine Wendung, die im Gebet verwendet werden kann, um eine Bitte höflicher oder mit größerem Nachdruck zu formulieren)"
+  },
+  "830": {
+    "id": "830",
+    "text": "Segne diese Zusammenkunft."
+  },
+  "831": {
+    "id": "831",
+    "text": "Bitte segne diese Zusammenkunft."
+  },
+  "832": {
+    "id": "832",
+    "text": "Sünden und Probleme"
+  },
+  "833": {
+    "id": "833",
+    "text": "Wir sind unvollkommen."
+  },
+  "834": {
+    "id": "834",
+    "text": "sündigen"
+  },
+  "835": {
+    "id": "835",
+    "text": "Wir sündigen oft."
+  },
+  "836": {
+    "id": "836",
+    "text": "Es tut uns leid."
+  },
+  "837": {
+    "id": "837",
+    "text": "Es tut uns sehr leid, dass wir gesündigt haben."
+  },
+  "838": {
+    "id": "838",
+    "text": "Es tut uns leid, dass wir Sünder sind."
+  },
+  "839": {
+    "id": "839",
+    "text": "Vergebung"
+  },
+  "840": {
+    "id": "840",
+    "text": "Wir bitten demütig um deine Vergebung."
+  },
+  "841": {
+    "id": "841",
+    "text": "XXX vergeben",
+    "annotation": "(: XXX ist eine Person)"
+  },
+  "842": {
+    "id": "842",
+    "text": "Bitte vergib uns."
+  },
+  "843": {
+    "id": "843",
+    "text": "Bitte vergib uns auf der Grundlage des Loskaufsopfers deines Sohnes."
+  },
+  "844": {
+    "id": "844",
+    "text": "XXX vergeben",
+    "annotation": "(: XXX ist eine Sünde)"
+  },
+  "845": {
+    "id": "845",
+    "text": "Bitte vergib uns unsere Sünden."
+  },
+  "846": {
+    "id": "846",
+    "text": "Wir leben in einer bösen Welt."
+  },
+  "847": {
+    "id": "847",
+    "text": "Wir haben mit vielen Problemen zu kämpfen."
+  }
+}

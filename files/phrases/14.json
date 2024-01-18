@@ -1,0 +1,3382 @@
+{
+  "5": {
+    "id": "5",
+    "text": "EGYETEMES NYELVI SEGÉDLETEK"
+  },
+  "7": {
+    "id": "7",
+    "text": "Magyar"
+  },
+  "8": {
+    "id": "8",
+    "text": "Hungarian | .hu"
+  },
+  "11": {
+    "id": "11",
+    "text": "Ez a nyelvtanulási segédlet kizárólagosan Jehova Tanúi számára lett összeállítva."
+  },
+  "12": {
+    "id": "12",
+    "text": "A bejegyzések, meghatározások és minden más itt található információ könnyűszerrel fordítható szinte bármelyik nyelvre. Ennek az anyagnak újabb kiadásai két tetszőlegesen kiválasztott nyelv összevonásávál hozhatóak létre. Reményeink szerint ez a \"váz\" vagy \"szerkezet\"-i elrendezés könnyíteni fog a nyelvi oktatók mukáján és hozzájárulhat a világszerte külföldi nyelvterületeken szolgáló tanúk munkájának a hatékonyságához. "
+  },
+  "13": {
+    "id": "13",
+    "text": "Ez a nyelvtanulási segédlet ingyenesen továbbadható az aktív tanúk között, de mások számára semmilyen formában nem szabad elérhetővé  tenni."
+  },
+  "14": {
+    "id": "14",
+    "text": null
+  },
+  "15": {
+    "id": "15",
+    "text": null
+  },
+  "16": {
+    "id": "16",
+    "text": null
+  },
+  "18": {
+    "id": "18",
+    "text": "Megjegyzések"
+  },
+  "19": {
+    "id": "19",
+    "text": "Ez a jel azt mutatja, hogy más szavakat is lehet használni az adott kifejezéshez."
+  },
+  "20": {
+    "id": "20",
+    "text": "Olyan szavak, amiket különböző helyzetekben szükséges hozzátenni a kifejezéshez, mert az adott nyelv megköveteli."
+  },
+  "21": {
+    "id": "21",
+    "text": "Kifejezések bizonyos részeiben szükséges helyettesítő szavak, amikre szükség lehet a nyelv miatt."
+  },
+  "22": {
+    "id": "22",
+    "text": "Olyan választható szó vagy kifejezés, ami az adott kifejezéshez általában szükséges, de az értelmét csak kismértékben befolyásolja."
+  },
+  "23": {
+    "id": "23",
+    "text": "Másik szó vagy kifejezés, ami az adott kifejezés bizonyos részeiben általában helyettesíthető, de az értelmét csak kismértékben befolyásolja."
+  },
+  "24": {
+    "id": "24",
+    "text": "Pontosvessző választja el a hasonló értelmű kifejezéseket."
+  },
+  "25": {
+    "id": "25",
+    "text": "Összetett nyelvi fordulat (pl.: igét és más szavakat magában foglaló) illeszthető ide."
+  },
+  "26": {
+    "id": "26",
+    "text": "További leírás vagy példák, amik segítik az olvasót, hogy a meghatározás alatt lévő szó értelmét megértse. Ezek az információk csak a meghatározásokban találhatóak meg és nyelvenként eltérhetnek."
+  },
+  "27": {
+    "id": "27",
+    "text": "A kapcsos zárójelek a foridítani kívánt szóhoz tartozó nyelvi sajátosságokat tartalmazza. Ezek magunkban foglalhatnak nyelvtani információt vagy a lent látható jeleket."
+  },
+  "28": {
+    "id": "28",
+    "text": "Ezt a szót vagy kifejezést kultúrális vagy más okokból körültekintően kell használni."
+  },
+  "29": {
+    "id": "29",
+    "text": "Ez csak hozzávetőleges fordítás."
+  },
+  "30": {
+    "id": "30",
+    "text": "Ez a szó vagy kifejezés csak ritkán használatos az adott nyelvben."
+  },
+  "31": {
+    "id": "31",
+    "text": "A forditó nem adott meg fordítást ehhez a szóhoz"
+  },
+  "32": {
+    "id": "32",
+    "text": "Ez a szónak vagy kifejezésnek egy olyan eltérő formája, amit gyakran az adott nyelv elsődlegesen beszélt területétől eltérően használnak (Internet stílusú jelölés, pl.: .hk=Hong Kong)"
+  },
+  "33": {
+    "id": "33",
+    "text": "Ennek a teokratikus kifejezésnek jelenleg nincs azonos értelmű megfelelője az Őrtorony Társulat kiadványaiban az adott nyelven. (Ez a jel általában más jelekkel együtt van használva)"
+  },
+  "34": {
+    "id": "34",
+    "text": "A kifejezés eredeti értelméhez legközelebb álló, fordítók által megkísérelt fordítás. (Ez a jel rendszerint csak akkor használatos, amikor teokratikus kifejezéseknek nincs ismert megfelelőjük az adott nyelven.)"
+  },
+  "35": {
+    "id": "35",
+    "text": "Ez a szónak vagy kifejezésnek a testvérek által az összejöveteleken gyakran használt megfelelője. (Ez a jel rendszerint csak akkor használatos, amikor teokratikus kifejezéseknek nincs ismert megfelelőjük az adott nyelven.)"
+  },
+  "37": {
+    "id": "37",
+    "text": "Szókincs és Kifejezések"
+  },
+  "38": {
+    "id": "38",
+    "text": "Szervezeti Felépítés"
+  },
+  "39": {
+    "id": "39",
+    "text": "Jehova Tanúi"
+  },
+  "40": {
+    "id": "40",
+    "text": "Jehova Tanúi"
+  },
+  "41": {
+    "id": "41",
+    "text": "egy Jehova tanúja"
+  },
+  "42": {
+    "id": "42",
+    "text": "Bibliakutatók",
+    "annotation": "(: Jehova Tanúi régi neve)"
+  },
+  "43": {
+    "id": "43",
+    "text": "testvér",
+    "annotation": "(: egy férfi hívőtárs)"
+  },
+  "44": {
+    "id": "44",
+    "text": "egy érett testvér"
+  },
+  "45": {
+    "id": "45",
+    "text": "testvéreink",
+    "annotation": "(: a hitben)"
+  },
+  "46": {
+    "id": "46",
+    "text": "a szellemi testvéreink között"
+  },
+  "47": {
+    "id": "47",
+    "text": "testvérnő",
+    "annotation": "(: egy női hívőtárs)"
+  },
+  "48": {
+    "id": "48",
+    "text": "képesített testvérnő",
+    "annotation": "(: képesített egy testvér helyettesítésére)"
+  },
+  "49": {
+    "id": "49",
+    "text": "keresztény testvérnőink"
+  },
+  "50": {
+    "id": "50",
+    "text": "testvérnőink"
+  },
+  "51": {
+    "id": "51",
+    "text": "keresztény testvéreid és testvérnőid"
+  },
+  "52": {
+    "id": "52",
+    "text": "Felkentek"
+  },
+  "53": {
+    "id": "53",
+    "text": "akiknek földi reménységük van"
+  },
+  "54": {
+    "id": "54",
+    "text": "más juhok"
+  },
+  "55": {
+    "id": "55",
+    "text": "akiknek égi reménységük van"
+  },
+  "56": {
+    "id": "56",
+    "text": "felkent",
+    "annotation": "(: jelző)"
+  },
+  "57": {
+    "id": "57",
+    "text": "felkent keresztények"
+  },
+  "58": {
+    "id": "58",
+    "text": "Krisztus felkent követőiből álló földi gyülekezete"
+  },
+  "59": {
+    "id": "59",
+    "text": "a Hű és Értelmes rabszolga"
+  },
+  "60": {
+    "id": "60",
+    "text": "Vezető Testület."
+  },
+  "61": {
+    "id": "61",
+    "text": "Vezető Testület-i tag."
+  },
+  "62": {
+    "id": "62",
+    "text": "Keresztelkedés"
+  },
+  "63": {
+    "id": "63",
+    "text": "megkeresztelkedni"
+  },
+  "64": {
+    "id": "64",
+    "text": "2006-ban keresztelkedtem."
+  },
+  "65": {
+    "id": "65",
+    "text": "megkeresztelni XXX-t"
+  },
+  "66": {
+    "id": "66",
+    "text": "János megkeresztelte Jézust."
+  },
+  "67": {
+    "id": "67",
+    "text": "Keresztelkedés",
+    "annotation": "(: az alkalom)"
+  },
+  "68": {
+    "id": "68",
+    "text": "Jelen volt a tanulmányozója keresztelkedésén."
+  },
+  "69": {
+    "id": "69",
+    "text": "hírnök"
+  },
+  "70": {
+    "id": "70",
+    "text": "kereszteletlen hírnök"
+  },
+  "71": {
+    "id": "71",
+    "text": "Mikor lett kereszteletlen hírnök?"
+  },
+  "72": {
+    "id": "72",
+    "text": "megkeresztelt hírnök"
+  },
+  "73": {
+    "id": "73",
+    "text": "rendszertelen hírnök"
+  },
+  "74": {
+    "id": "74",
+    "text": "tétlen hírnök"
+  },
+  "75": {
+    "id": "75",
+    "text": "Jehovát Szolgálni"
+  },
+  "76": {
+    "id": "76",
+    "text": "szolgálat"
+  },
+  "77": {
+    "id": "77",
+    "text": "a Jehovának végzett szolgálatunk"
+  },
+  "78": {
+    "id": "78",
+    "text": "teljesidejű szolgálat"
+  },
+  "79": {
+    "id": "79",
+    "text": "szolgálni"
+  },
+  "80": {
+    "id": "80",
+    "text": "XXX-ként szolgálni"
+  },
+  "81": {
+    "id": "81",
+    "text": "vénként szolgálni"
+  },
+  "82": {
+    "id": "82",
+    "text": "úttörőként szolgálni"
+  },
+  "83": {
+    "id": "83",
+    "text": "Ő vénként szolgál a gyülekezetünkben."
+  },
+  "84": {
+    "id": "84",
+    "text": "XXX nem szolgál vénként többé"
+  },
+  "85": {
+    "id": "85",
+    "text": "szolgálni Jehovát"
+  },
+  "86": {
+    "id": "86",
+    "text": "szolga"
+  },
+  "87": {
+    "id": "87",
+    "text": "teljesidejű szolga"
+  },
+  "88": {
+    "id": "88",
+    "text": "Isten szolgái"
+  },
+  "89": {
+    "id": "89",
+    "text": "önkéntes",
+    "annotation": "(: valaki, aki önkéntes munkát végez)"
+  },
+  "90": {
+    "id": "90",
+    "text": "nem fizetett önkéntes"
+  },
+  "91": {
+    "id": "91",
+    "text": "Királyság-terem építkezés"
+  },
+  "92": {
+    "id": "92",
+    "text": "katasztrófa mentesítő munka"
+  },
+  "93": {
+    "id": "93",
+    "text": "szükség",
+    "annotation": "(: főnév)"
+  },
+  "94": {
+    "id": "94",
+    "text": "ott szolgálni, ahol nagyobb a szükség"
+  },
+  "95": {
+    "id": "95",
+    "text": "oda költözni, ahol nagyobb a szükség"
+  },
+  "96": {
+    "id": "96",
+    "text": "úttörő"
+  },
+  "97": {
+    "id": "97",
+    "text": "részt venni az úttörő iskolán"
+  },
+  "98": {
+    "id": "98",
+    "text": "általános úttörő"
+  },
+  "99": {
+    "id": "99",
+    "text": "kisegítő úttörő"
+  },
+  "100": {
+    "id": "100",
+    "text": "folyamatos kisegítő úttörő",
+    "annotation": "(: valaki, aki minden hónapban kisegítő úttörőként szolgál)"
+  },
+  "101": {
+    "id": "101",
+    "text": "különleges úttörő"
+  },
+  "102": {
+    "id": "102",
+    "text": "misszionárius"
+  },
+  "103": {
+    "id": "103",
+    "text": "Jelentkezések és Kinevezések"
+  },
+  "104": {
+    "id": "104",
+    "text": "XXX-ra jelentkezni"
+  },
+  "105": {
+    "id": "105",
+    "text": "különleges szolgálatra jelentkezni"
+  },
+  "106": {
+    "id": "106",
+    "text": "a Gileád Iskolára jelentkezni"
+  },
+  "107": {
+    "id": "107",
+    "text": "jelentkezési lap"
+  },
+  "108": {
+    "id": "108",
+    "text": "kitölteni egy jelentkezési lapot"
+  },
+  "109": {
+    "id": "109",
+    "text": "kitölteni egy jelentkezési lapot általános úttörőnek"
+  },
+  "110": {
+    "id": "110",
+    "text": "beadni egy jelentkezési lapot"
+  },
+  "111": {
+    "id": "111",
+    "text": "ajánlás",
+    "annotation": "(: amikor valakit ajánlanak)"
+  },
+  "112": {
+    "id": "112",
+    "text": "vénnek van ajánlva"
+  },
+  "113": {
+    "id": "113",
+    "text": "vénnek ajánlani XXX-t"
+  },
+  "114": {
+    "id": "114",
+    "text": "kinevezés",
+    "annotation": "(: amikor valakit kineveznek)"
+  },
+  "115": {
+    "id": "115",
+    "text": "XXX-nek van kinevezve"
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX ki lett nevezve vénnek"
+  },
+  "117": {
+    "id": "117",
+    "text": "kinevezni XXX-t kisegítőszolgának"
+  },
+  "118": {
+    "id": "118",
+    "text": "alkalmasság; képesítés"
+  },
+  "119": {
+    "id": "119",
+    "text": "megbeszélni az alkalmasság[á]t a kereszteletlen hírnökké vállás[á]hoz"
+  },
+  "120": {
+    "id": "120",
+    "text": "alkalmassá válni a keresztelkedésre"
+  },
+  "121": {
+    "id": "121",
+    "text": "alkalmassá válni kereszteletlen hírnöknek"
+  },
+  "122": {
+    "id": "122",
+    "text": "Kinevezett Férfiak"
+  },
+  "123": {
+    "id": "123",
+    "text": "vén"
+  },
+  "124": {
+    "id": "124",
+    "text": "felvigyázó"
+  },
+  "125": {
+    "id": "125",
+    "text": "\"emberajándékok\"",
+    "annotation": "(: Efézus 4:8)"
+  },
+  "126": {
+    "id": "126",
+    "text": "kisegítőszolga"
+  },
+  "127": {
+    "id": "127",
+    "text": "vének testülete"
+  },
+  "128": {
+    "id": "128",
+    "text": "vének összejövetelét tartani"
+  },
+  "129": {
+    "id": "129",
+    "text": "gyülekezeti szolgálati bizottság"
+  },
+  "130": {
+    "id": "130",
+    "text": "Ezt a dolgot a gyülekezeti szolgálati bizottságnak kell jóváhagynia."
+  },
+  "131": {
+    "id": "131",
+    "text": "a vének testületének kordinátora"
+  },
+  "132": {
+    "id": "132",
+    "text": "gyülekezeti titkár"
+  },
+  "133": {
+    "id": "133",
+    "text": "szolgálat felvigyázó"
+  },
+  "134": {
+    "id": "134",
+    "text": "Őrtorony tanulmányozás vezető"
+  },
+  "135": {
+    "id": "135",
+    "text": "Teokratikus szolgálati iskola felvigyázó"
+  },
+  "136": {
+    "id": "136",
+    "text": "helyettes tanácsadó"
+  },
+  "137": {
+    "id": "137",
+    "text": "csoport felvigyázó"
+  },
+  "138": {
+    "id": "138",
+    "text": "bírói bizottság"
+  },
+  "139": {
+    "id": "139",
+    "text": "egy bírói bizottságot létrehozni"
+  },
+  "140": {
+    "id": "140",
+    "text": "szellemi pásztorok"
+  },
+  "141": {
+    "id": "141",
+    "text": "szellemi juhok"
+  },
+  "142": {
+    "id": "142",
+    "text": "pásztori látogatás"
+  },
+  "143": {
+    "id": "143",
+    "text": "XXX-nél pásztori látogatást végezni"
+  },
+  "144": {
+    "id": "144",
+    "text": "Utazó Felvigyázók"
+  },
+  "145": {
+    "id": "145",
+    "text": "utazó felvigyázó"
+  },
+  "146": {
+    "id": "146",
+    "text": "körzetfelvigyázó"
+  },
+  "147": {
+    "id": "147",
+    "text": "körzet"
+  },
+  "148": {
+    "id": "148",
+    "text": "körzetfelvigyázó helyettes"
+  },
+  "149": {
+    "id": "149",
+    "text": "meglátogatni a gyülekezeteket"
+  },
+  "150": {
+    "id": "150",
+    "text": "a körzetfelvigyázó látogatása"
+  },
+  "151": {
+    "id": "151",
+    "text": "kerületfelvigyázó"
+  },
+  "152": {
+    "id": "152",
+    "text": "kerület"
+  },
+  "153": {
+    "id": "153",
+    "text": "zónafelvigyázó"
+  },
+  "154": {
+    "id": "154",
+    "text": "Csoportok és Gyülekezetek"
+  },
+  "155": {
+    "id": "155",
+    "text": "gyülekezet",
+    "annotation": "(: egy adott helyen élő hívők csoportja)"
+  },
+  "156": {
+    "id": "156",
+    "text": "gyülekezetet kettéválasztani"
+  },
+  "157": {
+    "id": "157",
+    "text": "gyülekezetet alakítani"
+  },
+  "158": {
+    "id": "158",
+    "text": "a keresztény gyülekezet",
+    "annotation": "(: a \"nagy\" gyülekezet, ami magába foglalja az összes hívőt)"
+  },
+  "159": {
+    "id": "159",
+    "text": "csoport"
+  },
+  "160": {
+    "id": "160",
+    "text": "elszigetelt csoport"
+  },
+  "161": {
+    "id": "161",
+    "text": "idegen nyelvű csoport"
+  },
+  "162": {
+    "id": "162",
+    "text": "Fiókhivatalok"
+  },
+  "163": {
+    "id": "163",
+    "text": "a fiókhivatal"
+  },
+  "164": {
+    "id": "164",
+    "text": "Jehova Tanúi fiókhivatala"
+  },
+  "165": {
+    "id": "165",
+    "text": "a fiókhivatal kordinátora"
+  },
+  "166": {
+    "id": "166",
+    "text": "fiókbizottság"
+  },
+  "167": {
+    "id": "167",
+    "text": "országos bizottság"
+  },
+  "168": {
+    "id": "168",
+    "text": "Bétel"
+  },
+  "169": {
+    "id": "169",
+    "text": "Bétel szolga",
+    "annotation": "(: valaki, aki a Bételben szolgál)"
+  },
+  "170": {
+    "id": "170",
+    "text": "Szeretnéd meglátogatni a Bételt?"
+  },
+  "171": {
+    "id": "171",
+    "text": "túra"
+  },
+  "172": {
+    "id": "172",
+    "text": "A gyülekezetünk jövőhéten meg fogja látogatni a Bételt."
+  },
+  "173": {
+    "id": "173",
+    "text": "Én leszek a túravezetőtök."
+  },
+  "174": {
+    "id": "174",
+    "text": "Körbevezetlek titeket a Bételben."
+  },
+  "175": {
+    "id": "175",
+    "text": "szolgálati osztály",
+    "annotation": "(: a bételben)"
+  },
+  "176": {
+    "id": "176",
+    "text": "Kérünk írj a szolgálati osztálynak."
+  },
+  "177": {
+    "id": "177",
+    "text": "a világközpont"
+  },
+  "178": {
+    "id": "178",
+    "text": "Gyülekezeti Feladatok"
+  },
+  "179": {
+    "id": "179",
+    "text": "rendező"
+  },
+  "180": {
+    "id": "180",
+    "text": "jelenlévők",
+    "annotation": "(: akik jelen vannak az összejövetelen)"
+  },
+  "181": {
+    "id": "181",
+    "text": "hallgatóság",
+    "annotation": "(: akik hallgatják az összejövetelt)"
+  },
+  "182": {
+    "id": "182",
+    "text": "megszámolni a jelenlévőket"
+  },
+  "183": {
+    "id": "183",
+    "text": "jelenlévők száma",
+    "annotation": "(: azok száma, akik jelen voltak az összejövetelen)"
+  },
+  "184": {
+    "id": "184",
+    "text": "Tavaly átlagban 85-en voltak jelen a szolgálati összejövetelen."
+  },
+  "185": {
+    "id": "185",
+    "text": "mikrofon hordó"
+  },
+  "186": {
+    "id": "186",
+    "text": "mikrofon"
+  },
+  "187": {
+    "id": "187",
+    "text": "vinni a mikrofont"
+  },
+  "188": {
+    "id": "188",
+    "text": "állítani a mikrofont"
+  },
+  "189": {
+    "id": "189",
+    "text": "bekapcsolni a mikrofont"
+  },
+  "190": {
+    "id": "190",
+    "text": "kikapcsolni a mikrofont"
+  },
+  "191": {
+    "id": "191",
+    "text": "a hangosításért felelős testvér"
+  },
+  "192": {
+    "id": "192",
+    "text": "hangosítás"
+  },
+  "193": {
+    "id": "193",
+    "text": "kezelni a hangosítást"
+  },
+  "194": {
+    "id": "194",
+    "text": "felvenni a hangerőt"
+  },
+  "195": {
+    "id": "195",
+    "text": "levenni a hangerőt"
+  },
+  "196": {
+    "id": "196",
+    "text": "az emelvényért felelős testvér"
+  },
+  "197": {
+    "id": "197",
+    "text": "emelvény"
+  },
+  "198": {
+    "id": "198",
+    "text": "állvány"
+  },
+  "199": {
+    "id": "199",
+    "text": "állítani az állványt"
+  },
+  "200": {
+    "id": "200",
+    "text": "az irodalomért felelős testvér"
+  },
+  "201": {
+    "id": "201",
+    "text": "irodalompult"
+  },
+  "202": {
+    "id": "202",
+    "text": "irodalmat megrendelni"
+  },
+  "203": {
+    "id": "203",
+    "text": "a folyóiratokért felelős testvér"
+  },
+  "204": {
+    "id": "204",
+    "text": "folyóiratpult",
+    "annotation": "{~}"
+  },
+  "205": {
+    "id": "205",
+    "text": "felvenni a folyóiratokat [/folyóirataidat]"
+  },
+  "206": {
+    "id": "206",
+    "text": "a területért felelős testvér"
+  },
+  "207": {
+    "id": "207",
+    "text": "terület (szántóföldi szolgálatra)"
+  },
+  "208": {
+    "id": "208",
+    "text": "szántóföldi terület térképe"
+  },
+  "209": {
+    "id": "209",
+    "text": "terület kártya"
+  },
+  "210": {
+    "id": "210",
+    "text": "a számlákért felelős testvér"
+  },
+  "211": {
+    "id": "211",
+    "text": "számlák"
+  },
+  "212": {
+    "id": "212",
+    "text": "gyülekezeti számlák"
+  },
+  "213": {
+    "id": "213",
+    "text": "előkészíteni a gyülekezeti számlákat"
+  },
+  "214": {
+    "id": "214",
+    "text": "ellenőrizni a gyülekezet számláit"
+  },
+  "215": {
+    "id": "215",
+    "text": "hozzájárulás; adomány"
+  },
+  "216": {
+    "id": "216",
+    "text": "hozzájárulások a világméretű mukához",
+    "annotation": "(: Máté 24:14)"
+  },
+  "217": {
+    "id": "217",
+    "text": "hozzájárulások a gyülekezetnek"
+  },
+  "218": {
+    "id": "218",
+    "text": "megszámolni a hozzájárulásokat"
+  },
+  "219": {
+    "id": "219",
+    "text": "hozzájárulni; adományt adni"
+  },
+  "220": {
+    "id": "220",
+    "text": "hozzájárulni a világméretű munkához"
+  },
+  "221": {
+    "id": "221",
+    "text": "admományláda"
+  },
+  "222": {
+    "id": "222",
+    "text": "beletenni (/bedobni) a hozzájárulást (/adományt ) az adományládába"
+  },
+  "223": {
+    "id": "223",
+    "text": "Az adományládák az ajtó mellett találhatóak."
+  },
+  "225": {
+    "id": "225",
+    "text": "Összejövetelek"
+  },
+  "226": {
+    "id": "226",
+    "text": "Imádati Helyek"
+  },
+  "227": {
+    "id": "227",
+    "text": "terem"
+  },
+  "228": {
+    "id": "228",
+    "text": "imádati helyünk"
+  },
+  "229": {
+    "id": "229",
+    "text": "önkéntesek építették"
+  },
+  "230": {
+    "id": "230",
+    "text": "Királyság-terem"
+  },
+  "231": {
+    "id": "231",
+    "text": "Gyorsépítésű Királyság-terem"
+  },
+  "232": {
+    "id": "232",
+    "text": "karbantartani a Királyság-termet"
+  },
+  "233": {
+    "id": "233",
+    "text": "javítást végezni a Királyság-termen"
+  },
+  "234": {
+    "id": "234",
+    "text": "kitakarítani a Királyság-termet"
+  },
+  "235": {
+    "id": "235",
+    "text": "Rajtunk van a sor kitakarítani a Királyság-termet"
+  },
+  "236": {
+    "id": "236",
+    "text": "Kongresszusi-terem"
+  },
+  "237": {
+    "id": "237",
+    "text": "Összejövetelekre Járni"
+  },
+  "238": {
+    "id": "238",
+    "text": "összejövetel"
+  },
+  "239": {
+    "id": "239",
+    "text": "részt venni (/jelen lenni) az összejövetelen"
+  },
+  "240": {
+    "id": "240",
+    "text": "összejövetelt tartani"
+  },
+  "241": {
+    "id": "241",
+    "text": "felkészülni"
+  },
+  "242": {
+    "id": "242",
+    "text": "felkészülni az összejövetelre"
+  },
+  "243": {
+    "id": "243",
+    "text": "felkészülni XXX-ra"
+  },
+  "244": {
+    "id": "244",
+    "text": "felkészülni egy hozzászólásra"
+  },
+  "245": {
+    "id": "245",
+    "text": "felkészülni egy előadásra"
+  },
+  "246": {
+    "id": "246",
+    "text": "összejönni XXX-val"
+  },
+  "247": {
+    "id": "247",
+    "text": "Az összejövetel után együtt lehetünk a testvéreinkkel."
+  },
+  "248": {
+    "id": "248",
+    "text": "buzdítani XXX-t"
+  },
+  "249": {
+    "id": "249",
+    "text": "A hozzászólásod igazán buzditó volt számomra."
+  },
+  "250": {
+    "id": "250",
+    "text": "egy buzditó (/ösztönző) hozzászólás"
+  },
+  "251": {
+    "id": "251",
+    "text": "gyülekezeti Bibliatanulmányozás"
+  },
+  "252": {
+    "id": "252",
+    "text": "teokratikus szolgálati iskola"
+  },
+  "253": {
+    "id": "253",
+    "text": "szolgálati összejövetel"
+  },
+  "254": {
+    "id": "254",
+    "text": "szántóföldi összejövetel"
+  },
+  "255": {
+    "id": "255",
+    "text": "kongresszus"
+  },
+  "256": {
+    "id": "256",
+    "text": "évenkénti kongresszusok"
+  },
+  "257": {
+    "id": "257",
+    "text": "különleges kongresszusi nap"
+  },
+  "258": {
+    "id": "258",
+    "text": "körzetkongresszus"
+  },
+  "259": {
+    "id": "259",
+    "text": "kongresszus"
+  },
+  "260": {
+    "id": "260",
+    "text": "kerületkongresszus"
+  },
+  "261": {
+    "id": "261",
+    "text": "három napos kerületkongresszus"
+  },
+  "262": {
+    "id": "262",
+    "text": "Összejövetelek Összetétele"
+  },
+  "263": {
+    "id": "263",
+    "text": "program",
+    "annotation": "(: rész az összejövetelen: pl.: előadás, beszélgetés, stb.)"
+  },
+  "264": {
+    "id": "264",
+    "text": "Jövőhéten lesz egy programom az összejövetelen."
+  },
+  "265": {
+    "id": "265",
+    "text": "feladat; tanulóbeszéd",
+    "annotation": "(: pl. a Teokratikus Szolgálati Iskolán)"
+  },
+  "266": {
+    "id": "266",
+    "text": "egyes számú tanulóbeszéd"
+  },
+  "267": {
+    "id": "267",
+    "text": "feladatot kapni"
+  },
+  "268": {
+    "id": "268",
+    "text": "elvégezni egy feladatot"
+  },
+  "269": {
+    "id": "269",
+    "text": "szempont",
+    "annotation": "(: az Iskola könyvből)"
+  },
+  "270": {
+    "id": "270",
+    "text": "XXX testvérnő a 23-as szemponton dolgozott."
+  },
+  "271": {
+    "id": "271",
+    "text": "előadás",
+    "annotation": "(: szónoklat)"
+  },
+  "272": {
+    "id": "272",
+    "text": "egy jól kidolgozott előadás"
+  },
+  "273": {
+    "id": "273",
+    "text": "nyilvános előadás"
+  },
+  "274": {
+    "id": "274",
+    "text": "öt perces előadás"
+  },
+  "275": {
+    "id": "275",
+    "text": "előadást tartani"
+  },
+  "276": {
+    "id": "276",
+    "text": "előadó"
+  },
+  "277": {
+    "id": "277",
+    "text": "bemutató"
+  },
+  "278": {
+    "id": "278",
+    "text": "Figyeljünk meg egy bemutatót."
+  },
+  "279": {
+    "id": "279",
+    "text": "bemutatni XXX-t",
+    "annotation": "(: megmutatni, hogy hogyan kell valamit megtenni, elvégezni)"
+  },
+  "280": {
+    "id": "280",
+    "text": "XXX testvérnő fogja bemutatni, hogyan ajánlhatjuk fel az e havi folyóiratokat."
+  },
+  "281": {
+    "id": "281",
+    "text": "A Bibliaolvasás főbb gondolatainak kiemelése",
+    "annotation": "(: a 10 perces rész a Teokratikus Szolgálati Iskolán)"
+  },
+  "282": {
+    "id": "282",
+    "text": "Bibliaolvasás"
+  },
+  "283": {
+    "id": "283",
+    "text": "Helyi szükségletek ( : előadás a helyi szükségletekről)"
+  },
+  "284": {
+    "id": "284",
+    "text": "Kérdés Doboz ( : a Királyság-szolgálatunkban)"
+  },
+  "285": {
+    "id": "285",
+    "text": "Énekek és Imák"
+  },
+  "286": {
+    "id": "286",
+    "text": "ének"
+  },
+  "287": {
+    "id": "287",
+    "text": "kezdő ének"
+  },
+  "288": {
+    "id": "288",
+    "text": "befejező ének"
+  },
+  "289": {
+    "id": "289",
+    "text": "Az ének címe"
+  },
+  "290": {
+    "id": "290",
+    "text": "Az ének a … alapul."
+  },
+  "291": {
+    "id": "291",
+    "text": "Az összejövetelünket egy Jehovát dícsérő énekkel fogjuk elkezdeni."
+  },
+  "292": {
+    "id": "292",
+    "text": "Az összejövetelt egy énekkel fogjuk kezdeni, azt követôen pedig imádkozni fogunk."
+  },
+  "293": {
+    "id": "293",
+    "text": "Ezt az éneket az előadó választotta az előadás témájával összhangban."
+  },
+  "294": {
+    "id": "294",
+    "text": "Ez az ének összhangban van az előadás témájával."
+  },
+  "295": {
+    "id": "295",
+    "text": "Az összejövetelt egy énekkel fogjuk befejezni."
+  },
+  "296": {
+    "id": "296",
+    "text": "20-as számú ének"
+  },
+  "297": {
+    "id": "297",
+    "text": "Hallgassuk meg a 20-as számú éneket."
+  },
+  "298": {
+    "id": "298",
+    "text": "énekeskönyv"
+  },
+  "299": {
+    "id": "299",
+    "text": "Nyissuk ki az énekeskönyvünket a 10-es éneknél."
+  },
+  "300": {
+    "id": "300",
+    "text": "énekelni egy éneket"
+  },
+  "301": {
+    "id": "301",
+    "text": "Énekeljük el a 30-as számú éneket."
+  },
+  "302": {
+    "id": "302",
+    "text": "Amint éneklünk, gondolkodjunk el a szövegen."
+  },
+  "303": {
+    "id": "303",
+    "text": "ima"
+  },
+  "304": {
+    "id": "304",
+    "text": "kezdő ima"
+  },
+  "305": {
+    "id": "305",
+    "text": "befejező ima"
+  },
+  "306": {
+    "id": "306",
+    "text": "imádkozni"
+  },
+  "307": {
+    "id": "307",
+    "text": "XXX testvér, felkérhetnénk az imára?"
+  },
+  "308": {
+    "id": "308",
+    "text": "imádkozni"
+  },
+  "309": {
+    "id": "309",
+    "text": "imádkozni Jehovához"
+  },
+  "310": {
+    "id": "310",
+    "text": "Az ének után imádkozni fogunk Jehovához."
+  },
+  "311": {
+    "id": "311",
+    "text": "Bejelentések"
+  },
+  "312": {
+    "id": "312",
+    "text": "bejelentések",
+    "annotation": "(: pl. a szolgálati összejövetelen)"
+  },
+  "313": {
+    "id": "313",
+    "text": "A következő bejelentések vannak mára …"
+  },
+  "314": {
+    "id": "314",
+    "text": "bejelenteni XXX-t"
+  },
+  "315": {
+    "id": "315",
+    "text": "bejelenteni a szántóföldi összejöveteleket."
+  },
+  "316": {
+    "id": "316",
+    "text": "Örömmel jelentjük be, hogy …"
+  },
+  "317": {
+    "id": "317",
+    "text": "Szomorúan jelenetjük be, hogy …"
+  },
+  "318": {
+    "id": "318",
+    "text": "levél",
+    "annotation": "(:pl. A fiókhivataltól)"
+  },
+  "319": {
+    "id": "319",
+    "text": "Kaptunk egy levelet a fiókhivataltól."
+  },
+  "320": {
+    "id": "320",
+    "text": "Szeretném XXX testvért a színpadra hívni, hogy olvassa fel nekünk a Szervezettől jött levelet."
+  },
+  "321": {
+    "id": "321",
+    "text": "határozat"
+  },
+  "322": {
+    "id": "322",
+    "text": "előterjeszteni egy határozatot"
+  },
+  "323": {
+    "id": "323",
+    "text": "A következő határozatot szeretnénk a gyülekezet elé terjeszteni."
+  },
+  "324": {
+    "id": "324",
+    "text": "szavazni"
+  },
+  "325": {
+    "id": "325",
+    "text": "feltenni a kezet [/kezed]",
+    "annotation": "(: szavazáskor)"
+  },
+  "326": {
+    "id": "326",
+    "text": "Kérlek tegyétek fel a kezeteket, ha egyetértetek a határozattal."
+  },
+  "327": {
+    "id": "327",
+    "text": "Kérlek tegyétek fel a kezeteket, ha nem értetek egyet a határozattal."
+  },
+  "328": {
+    "id": "328",
+    "text": "Kérlek tegyétek fel a kezeteket, ha tartózkodtok."
+  },
+  "329": {
+    "id": "329",
+    "text": "Most már letehetitek a kezeteket."
+  },
+  "330": {
+    "id": "330",
+    "text": "Hasznos lenne ha leírnátok."
+  },
+  "331": {
+    "id": "331",
+    "text": "Kérlek add le a munkajelentésedet a Csoport felvigyázódnak."
+  },
+  "332": {
+    "id": "332",
+    "text": "Ezen a héten a 2-es csoport fogja kitakarítani a Királyság-termet."
+  },
+  "333": {
+    "id": "333",
+    "text": "Ezen a héten a szántóföldi összejövetel szombaton 11-kor lesz XXX testvérnőnél."
+  },
+  "334": {
+    "id": "334",
+    "text": "Ma az összejövetel után lesz egy öt perces szántóföldi összejövetel."
+  },
+  "335": {
+    "id": "335",
+    "text": "A szántóföldi összejövetel a második teremben lesz."
+  },
+  "336": {
+    "id": "336",
+    "text": "XXX testvér fogja levezetni a szántóföldi összejövetelt."
+  },
+  "337": {
+    "id": "337",
+    "text": "Van néhány bejelentésünk a közeledő Kerületkongresszussal kapcsolatban."
+  },
+  "338": {
+    "id": "338",
+    "text": "A Kerületkongresszus ... lesz megtartva."
+  },
+  "339": {
+    "id": "339",
+    "text": "A Kerületkongresszus helyszíne …"
+  },
+  "340": {
+    "id": "340",
+    "text": "A kongresszusi program reggel 9:50-kor kezdődik."
+  },
+  "341": {
+    "id": "341",
+    "text": "A kongresszusi program délután 3:45-kor ér véget."
+  },
+  "342": {
+    "id": "342",
+    "text": "Ha szeretnél lefoglalni egy helyet a buszon, kérlek beszélj XXX testvérrel."
+  },
+  "343": {
+    "id": "343",
+    "text": "XXX testvérnő Március 12-én elhunyt."
+  },
+  "344": {
+    "id": "344",
+    "text": "A temetési szolgálat (beszéd) jövőhét kedden lesz megtartva a Királyság teremben."
+  },
+  "345": {
+    "id": "345",
+    "text": "XXX elkülönült a Keresztény gyülekezettől."
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX ki lett közösítve a Keresztény gyülekezetből."
+  },
+  "347": {
+    "id": "347",
+    "text": "Üdvözlet és Bemutatás"
+  },
+  "348": {
+    "id": "348",
+    "text": "elnöklő",
+    "annotation": "(: a testvér, aki bejelenti az előadókat a nyilvános összejöveteleken és kongresszusokon)"
+  },
+  "349": {
+    "id": "349",
+    "text": "bejelenteni a következő előadást"
+  },
+  "350": {
+    "id": "350",
+    "text": "tapsolni ( : értékelést kimutatni tapsolás által)"
+  },
+  "351": {
+    "id": "351",
+    "text": "tapsolni; tetszésnyilvánítás"
+  },
+  "352": {
+    "id": "352",
+    "text": "A taps mutatja, hogy a hallgatóságnak tetszett az előadás."
+  },
+  "353": {
+    "id": "353",
+    "text": "Az összejövetelünk 2 percen belül fog elkezdődni."
+  },
+  "354": {
+    "id": "354",
+    "text": "Üdvözlet!"
+  },
+  "355": {
+    "id": "355",
+    "text": "Üdvözlünk a ma esti összejövetelünkön."
+  },
+  "356": {
+    "id": "356",
+    "text": "Üdvözlünk benneteket testvérek és testvérnők."
+  },
+  "357": {
+    "id": "357",
+    "text": "Üdvözlünk a ma esti összejövetelünkön."
+  },
+  "358": {
+    "id": "358",
+    "text": "Kérünk keressétek meg a helyeteket."
+  },
+  "359": {
+    "id": "359",
+    "text": "Kérünk üljetek le."
+  },
+  "360": {
+    "id": "360",
+    "text": "Kérünk foglaljatok helyet."
+  },
+  "361": {
+    "id": "361",
+    "text": "Ha lehetséges, kérünk álljatok fel."
+  },
+  "362": {
+    "id": "362",
+    "text": "Most 10 perc szünetet tartunk. Kérünk, 3:15-re legyetek a helyeteken."
+  },
+  "363": {
+    "id": "363",
+    "text": "A ma esti összejövetel két részből áll."
+  },
+  "364": {
+    "id": "364",
+    "text": "Az összejövetelünk következő része az Őrtoronytanulmányozás."
+  },
+  "365": {
+    "id": "365",
+    "text": "Szeretném XXX testvért felhívni az emelvényre."
+  },
+  "366": {
+    "id": "366",
+    "text": "Figyeljünk alaposan arra, amit mondani fog."
+  },
+  "367": {
+    "id": "367",
+    "text": "XXX testvér fogja levezetni ezt a megbeszélést."
+  },
+  "368": {
+    "id": "368",
+    "text": "Most pedig XXX testvér fogja levezetni a gyülekezeti Bibliatanulmányozást."
+  },
+  "369": {
+    "id": "369",
+    "text": "XXX testvér fogja felolvasni az 5. fejezet 12-es verstől a 25-ös versig."
+  },
+  "370": {
+    "id": "370",
+    "text": "XXX testvérnő most bemutatja a Királyság-szolgálatunkban lévő második felkínálást."
+  },
+  "371": {
+    "id": "371",
+    "text": "Most figyeljük meg, amint két testvérnő megbeszéli a következő témát …"
+  },
+  "372": {
+    "id": "372",
+    "text": "XXX testvérnő vezeti a beszélgetést."
+  },
+  "373": {
+    "id": "373",
+    "text": "YYY testvérnő a segítője."
+  },
+  "374": {
+    "id": "374",
+    "text": "YYY testvérnő játsza a házigazda szerepét."
+  },
+  "375": {
+    "id": "375",
+    "text": "A keret, ami ehhez a feladathoz lett választva …"
+  },
+  "376": {
+    "id": "376",
+    "text": "Nagyon örülünk, hogy ma egy vendég előadó jött el hozzánk előadást tartani."
+  },
+  "377": {
+    "id": "377",
+    "text": "XXX testvér a YYY gyülekezetből fogja megtartani az előadást."
+  },
+  "378": {
+    "id": "378",
+    "text": "Az előadás témája …"
+  },
+  "379": {
+    "id": "379",
+    "text": "XXX testvér. Köszönjük, hogy beszéltél nekünk erről a témáról."
+  },
+  "380": {
+    "id": "380",
+    "text": "Mind a 75 jelenlévő örömmel hallgatta az előadásodat."
+  },
+  "381": {
+    "id": "381",
+    "text": "Örülünk, hogy ezen a héten közöttünk van a Körzetfelvigyázó és a felesége."
+  },
+  "382": {
+    "id": "382",
+    "text": "A Körzetfelvigyázó első szolgálati előadásának a címe …"
+  },
+  "383": {
+    "id": "383",
+    "text": "Elhoztam nektek a XXX-i Bételcsalád szeretetteljes üdvözletét."
+  },
+  "384": {
+    "id": "384",
+    "text": "Elvihetném a szeretetteljes üdvözleteteket a XXX-i gyülekezetnek?"
+  },
+  "386": {
+    "id": "386",
+    "text": "Tanítás és Megbeszélés"
+  },
+  "387": {
+    "id": "387",
+    "text": "Bibliai Könyvek"
+  },
+  "388": {
+    "id": "388",
+    "text": "a Héber Iratok"
+  },
+  "389": {
+    "id": "389",
+    "text": "1 Mózes"
+  },
+  "390": {
+    "id": "390",
+    "text": "2 Mózes"
+  },
+  "391": {
+    "id": "391",
+    "text": "3 Mózes"
+  },
+  "392": {
+    "id": "392",
+    "text": "4 Mózes"
+  },
+  "393": {
+    "id": "393",
+    "text": "5 Mózes"
+  },
+  "394": {
+    "id": "394",
+    "text": "Józsué"
+  },
+  "395": {
+    "id": "395",
+    "text": "Bírák"
+  },
+  "396": {
+    "id": "396",
+    "text": "Ruth"
+  },
+  "397": {
+    "id": "397",
+    "text": "1 Sámuel"
+  },
+  "398": {
+    "id": "398",
+    "text": "2 Sámuel"
+  },
+  "399": {
+    "id": "399",
+    "text": "1 Királyok"
+  },
+  "400": {
+    "id": "400",
+    "text": "2 Királyok"
+  },
+  "401": {
+    "id": "401",
+    "text": "1 Krónikák"
+  },
+  "402": {
+    "id": "402",
+    "text": "2 Krónikák"
+  },
+  "403": {
+    "id": "403",
+    "text": "Ezsdrás"
+  },
+  "404": {
+    "id": "404",
+    "text": "Nehémiás"
+  },
+  "405": {
+    "id": "405",
+    "text": "Eszter"
+  },
+  "406": {
+    "id": "406",
+    "text": "Jób"
+  },
+  "407": {
+    "id": "407",
+    "text": "Zsoltárok"
+  },
+  "408": {
+    "id": "408",
+    "text": "Példabeszédek"
+  },
+  "409": {
+    "id": "409",
+    "text": "Prédikátor"
+  },
+  "410": {
+    "id": "410",
+    "text": "Énekek Éneke"
+  },
+  "411": {
+    "id": "411",
+    "text": "Ézsaiás"
+  },
+  "412": {
+    "id": "412",
+    "text": "Jeremiás"
+  },
+  "413": {
+    "id": "413",
+    "text": "Siralmak"
+  },
+  "414": {
+    "id": "414",
+    "text": "Ezékiel"
+  },
+  "415": {
+    "id": "415",
+    "text": "Dániel"
+  },
+  "416": {
+    "id": "416",
+    "text": "Hóseás"
+  },
+  "417": {
+    "id": "417",
+    "text": "Jóel"
+  },
+  "418": {
+    "id": "418",
+    "text": "Ámos"
+  },
+  "419": {
+    "id": "419",
+    "text": "Abdiás"
+  },
+  "420": {
+    "id": "420",
+    "text": "Jónás"
+  },
+  "421": {
+    "id": "421",
+    "text": "Mikeás"
+  },
+  "422": {
+    "id": "422",
+    "text": "Náhum"
+  },
+  "423": {
+    "id": "423",
+    "text": "Habakuk"
+  },
+  "424": {
+    "id": "424",
+    "text": "Sofóniás"
+  },
+  "425": {
+    "id": "425",
+    "text": "Aggeus"
+  },
+  "426": {
+    "id": "426",
+    "text": "Zakariás"
+  },
+  "427": {
+    "id": "427",
+    "text": "Malakiás"
+  },
+  "428": {
+    "id": "428",
+    "text": "a Görög Iratok"
+  },
+  "429": {
+    "id": "429",
+    "text": "Máté"
+  },
+  "430": {
+    "id": "430",
+    "text": "Márk"
+  },
+  "431": {
+    "id": "431",
+    "text": "Lukács"
+  },
+  "432": {
+    "id": "432",
+    "text": "János"
+  },
+  "433": {
+    "id": "433",
+    "text": "Cselekedetek"
+  },
+  "434": {
+    "id": "434",
+    "text": "Róma"
+  },
+  "435": {
+    "id": "435",
+    "text": "1 Korintusz"
+  },
+  "436": {
+    "id": "436",
+    "text": "2 Korintusz"
+  },
+  "437": {
+    "id": "437",
+    "text": "Galácia"
+  },
+  "438": {
+    "id": "438",
+    "text": "Efézus"
+  },
+  "439": {
+    "id": "439",
+    "text": "Filippi"
+  },
+  "440": {
+    "id": "440",
+    "text": "Kolosszé"
+  },
+  "441": {
+    "id": "441",
+    "text": "1 Tesszalonika"
+  },
+  "442": {
+    "id": "442",
+    "text": "2 Tesszalonika"
+  },
+  "443": {
+    "id": "443",
+    "text": "1 Timóteusz"
+  },
+  "444": {
+    "id": "444",
+    "text": "2 Timóteusz"
+  },
+  "445": {
+    "id": "445",
+    "text": "Titusz"
+  },
+  "446": {
+    "id": "446",
+    "text": "Filemon"
+  },
+  "447": {
+    "id": "447",
+    "text": "Héberek"
+  },
+  "448": {
+    "id": "448",
+    "text": "Jakab"
+  },
+  "449": {
+    "id": "449",
+    "text": "1 Péter"
+  },
+  "450": {
+    "id": "450",
+    "text": "2 Péter"
+  },
+  "451": {
+    "id": "451",
+    "text": "1 János"
+  },
+  "452": {
+    "id": "452",
+    "text": "2 János"
+  },
+  "453": {
+    "id": "453",
+    "text": "3 János"
+  },
+  "454": {
+    "id": "454",
+    "text": "Júdás"
+  },
+  "455": {
+    "id": "455",
+    "text": "Jelenések"
+  },
+  "456": {
+    "id": "456",
+    "text": "Bibliahasználat"
+  },
+  "457": {
+    "id": "457",
+    "text": "a Biblia"
+  },
+  "458": {
+    "id": "458",
+    "text": "Nyissuk ki a Bibliánkat."
+  },
+  "459": {
+    "id": "459",
+    "text": "Nyissuk ki a Bibliánkat a Jeremiás 10:23-nál."
+  },
+  "460": {
+    "id": "460",
+    "text": "beszámoló (/történet)"
+  },
+  "461": {
+    "id": "461",
+    "text": "Nézzük meg ezt a bibliai beszámolót."
+  },
+  "462": {
+    "id": "462",
+    "text": "Írásszöveg"
+  },
+  "463": {
+    "id": "463",
+    "text": "Mit mond ez a Írásszöveg nekünk arról, hogy …?"
+  },
+  "464": {
+    "id": "464",
+    "text": "Mit tár fel ez a Írásszöveg arról, hogy …?"
+  },
+  "465": {
+    "id": "465",
+    "text": "Hogyan kapcsolódik ez a Írásszöveg ...-hoz?"
+  },
+  "466": {
+    "id": "466",
+    "text": "Mi az értelme ennek a Írásszövegnek?"
+  },
+  "467": {
+    "id": "467",
+    "text": "Kérlek szóljatok hozzá ezzel a Írásszöveggel kapcsolatban."
+  },
+  "468": {
+    "id": "468",
+    "text": "Kérlek fejtsd ki ezt a Írásszöveget."
+  },
+  "469": {
+    "id": "469",
+    "text": "Milyen tanulságot vonhatunk le ebből a Írásszövegből?"
+  },
+  "470": {
+    "id": "470",
+    "text": "Máté hetedik fejezet tizenkettedik vers."
+  },
+  "471": {
+    "id": "471",
+    "text": "Máté ötödik fejezet, huszonhármas és huszonnégyes versek."
+  },
+  "472": {
+    "id": "472",
+    "text": "János első levele második fejezet, tizenöttől tizenhétig terjedő versek."
+  },
+  "473": {
+    "id": "473",
+    "text": "a harminchetedik Zsoltár tízenegyes verse, a tízenegyes vers a harminchetedik Zsoltárban"
+  },
+  "474": {
+    "id": "474",
+    "text": "Tanulmányozási Anyagok"
+  },
+  "475": {
+    "id": "475",
+    "text": "oldal"
+  },
+  "476": {
+    "id": "476",
+    "text": "Kérlek nyissátok ki a folyóiratotokat a 20. oldalon lévő cikknél."
+  },
+  "477": {
+    "id": "477",
+    "text": "Kérlek lapozzatok a tanulmányozási anyagunk 45. oldalához."
+  },
+  "478": {
+    "id": "478",
+    "text": "Lapozzunk a 10. oldalhoz"
+  },
+  "479": {
+    "id": "479",
+    "text": "cikk"
+  },
+  "480": {
+    "id": "480",
+    "text": "cikk sorozat",
+    "annotation": "(: pl, az Őrtorony folyóiratban)"
+  },
+  "481": {
+    "id": "481",
+    "text": "Ezen a héten a három cikkből álló sorozatnak az első cikkét vesszük."
+  },
+  "482": {
+    "id": "482",
+    "text": "téma"
+  },
+  "483": {
+    "id": "483",
+    "text": "kulcs idézet"
+  },
+  "484": {
+    "id": "484",
+    "text": "cím"
+  },
+  "485": {
+    "id": "485",
+    "text": "alcím"
+  },
+  "486": {
+    "id": "486",
+    "text": "bekezdés"
+  },
+  "487": {
+    "id": "487",
+    "text": "az előző bekezdés"
+  },
+  "488": {
+    "id": "488",
+    "text": "a következő bekezdés"
+  },
+  "489": {
+    "id": "489",
+    "text": "a következő két bekezdés"
+  },
+  "490": {
+    "id": "490",
+    "text": "Olvassuk el a következő két bekezdést."
+  },
+  "491": {
+    "id": "491",
+    "text": "szó"
+  },
+  "492": {
+    "id": "492",
+    "text": "vastagon szedett szó"
+  },
+  "493": {
+    "id": "493",
+    "text": "ferdén szedett szó"
+  },
+  "494": {
+    "id": "494",
+    "text": "lábjegyzet"
+  },
+  "495": {
+    "id": "495",
+    "text": "függelék"
+  },
+  "496": {
+    "id": "496",
+    "text": "bekeretezett rész"
+  },
+  "497": {
+    "id": "497",
+    "text": "kép"
+  },
+  "498": {
+    "id": "498",
+    "text": "Gyerekek, mi a neve a képen lévő férfinak?"
+  },
+  "499": {
+    "id": "499",
+    "text": "képhez tartozó szöveg"
+  },
+  "500": {
+    "id": "500",
+    "text": "Megbeszélés"
+  },
+  "501": {
+    "id": "501",
+    "text": "válasz"
+  },
+  "502": {
+    "id": "502",
+    "text": "válaszolni"
+  },
+  "503": {
+    "id": "503",
+    "text": "kérdés"
+  },
+  "504": {
+    "id": "504",
+    "text": "áttekintő kérdések",
+    "annotation": "(: pl. A \"Mit tanít valójában a Biblia\" könyvben)"
+  },
+  "505": {
+    "id": "505",
+    "text": "ismétlő kérdések",
+    "annotation": "(: pl. az Őrtorony cikkben)"
+  },
+  "506": {
+    "id": "506",
+    "text": "feltenni egy kérdést"
+  },
+  "507": {
+    "id": "507",
+    "text": "válaszoni egy kérdésre"
+  },
+  "508": {
+    "id": "508",
+    "text": "hozzászólás"
+  },
+  "509": {
+    "id": "509",
+    "text": "hozzászólni"
+  },
+  "510": {
+    "id": "510",
+    "text": "Kérlek fordítsd le a hozzászólását."
+  },
+  "511": {
+    "id": "511",
+    "text": "Egyéb hozzásszólás?"
+  },
+  "512": {
+    "id": "512",
+    "text": "Kérlek figyeljetek oda, hogy a hozzászólásotok ne legyen hosszabb 30 másodpercnél."
+  },
+  "513": {
+    "id": "513",
+    "text": "hozzászólni"
+  },
+  "514": {
+    "id": "514",
+    "text": "Ki szeretne hozzászólni az e heti Biblia olvasási anyaghoz?"
+  },
+  "515": {
+    "id": "515",
+    "text": "hozzászólni a képpel kapcsolatban"
+  },
+  "516": {
+    "id": "516",
+    "text": "megbeszélés"
+  },
+  "517": {
+    "id": "517",
+    "text": "kérdés feleletes megbeszélés"
+  },
+  "518": {
+    "id": "518",
+    "text": "megbeszélni"
+  },
+  "519": {
+    "id": "519",
+    "text": "megbeszélni a napi szöveget"
+  },
+  "520": {
+    "id": "520",
+    "text": "Most beszéljük meg ezt a cikket közösen."
+  },
+  "521": {
+    "id": "521",
+    "text": "levezetni (egy megbeszélést)"
+  },
+  "522": {
+    "id": "522",
+    "text": "Köszönjük XXX tesvérnek a megbeszélés levezetésést."
+  },
+  "523": {
+    "id": "523",
+    "text": "levezető"
+  },
+  "524": {
+    "id": "524",
+    "text": "Őrtorony tanulmányozás vezető"
+  },
+  "525": {
+    "id": "525",
+    "text": "fontolóra, tekintetbe venni",
+    "annotation": "(: valamire összpontosítani megbeszélés alatt)"
+  },
+  "526": {
+    "id": "526",
+    "text": "Most egy fontos kérdésre fogjuk a figyelmünket fordítani."
+  },
+  "527": {
+    "id": "527",
+    "text": "felovalsni",
+    "annotation": "(: hangosan, pl. az összejövetelen)"
+  },
+  "528": {
+    "id": "528",
+    "text": "Ki tudná felolvasni a második bekezdést?"
+  },
+  "529": {
+    "id": "529",
+    "text": "Kérlek olvasd fel a második bekezdést."
+  },
+  "530": {
+    "id": "530",
+    "text": "Köszönjük XXX tesvérnek az olvasást."
+  },
+  "531": {
+    "id": "531",
+    "text": "ismételni"
+  },
+  "532": {
+    "id": "532",
+    "text": "Ismételjük át a cikk főbb pontjait."
+  },
+  "533": {
+    "id": "533",
+    "text": "főpont"
+  },
+  "534": {
+    "id": "534",
+    "text": "Milyen föbb pontokat tanultunk az e heti anyagból?"
+  },
+  "535": {
+    "id": "535",
+    "text": "alkalmazni XXX-t YYY-ra"
+  },
+  "536": {
+    "id": "536",
+    "text": "Hogyan tudjuk ezt alkalmazni a …?"
+  },
+  "537": {
+    "id": "537",
+    "text": "Hogyan tudjuk ezt alkalmazni a szolgálatunkra?"
+  },
+  "538": {
+    "id": "538",
+    "text": "összefoglalni XXX-t"
+  },
+  "539": {
+    "id": "539",
+    "text": "Hogyan tudnánk ezeket a bekezdéseket összefoglalni?"
+  },
+  "540": {
+    "id": "540",
+    "text": "Testvérek és Testvérnők",
+    "annotation": "(: figyelem felhiváskor vagy amikor a hallgatósághoz kezdünk beszélni)"
+  },
+  "541": {
+    "id": "541",
+    "text": "XXX tesvér",
+    "annotation": "(: amikor felszólítunk valakit hozzászóláskor)"
+  },
+  "542": {
+    "id": "542",
+    "text": "XXX tesvérnő",
+    "annotation": "(: amikor felszólítunk valakit hozzászóláskor)"
+  },
+  "543": {
+    "id": "543",
+    "text": "Kérlek emeljétek fel a kezeteket."
+  },
+  "544": {
+    "id": "544",
+    "text": "Kérlek várj a mikrofonra."
+  },
+  "545": {
+    "id": "545",
+    "text": "Kérlek kapcsold be a mikrofont."
+  },
+  "546": {
+    "id": "546",
+    "text": "Kérlek tartsd helyesen a mikrofont."
+  },
+  "547": {
+    "id": "547",
+    "text": "Nagyon jó!"
+  },
+  "548": {
+    "id": "548",
+    "text": "Köztes Szavak"
+  },
+  "549": {
+    "id": "549",
+    "text": "Most …"
+  },
+  "550": {
+    "id": "550",
+    "text": "Olvassuk a hármas bekezdést."
+  },
+  "551": {
+    "id": "551",
+    "text": "Most meg fogjuk vizsgálni …-t;  Most fordítsuk a figyelmünket …-ra."
+  },
+  "552": {
+    "id": "552",
+    "text": "Most fordítsuk a figyelmünket a következő kérdésre."
+  },
+  "553": {
+    "id": "553",
+    "text": "Most fordítsuk a figyelmünket a következő problémára."
+  },
+  "554": {
+    "id": "554",
+    "text": "Most fordítsuk a figyelmünket a következő témára."
+  },
+  "555": {
+    "id": "555",
+    "text": "Első"
+  },
+  "556": {
+    "id": "556",
+    "text": "Később"
+  },
+  "557": {
+    "id": "557",
+    "text": "Végül, végezetül"
+  },
+  "558": {
+    "id": "558",
+    "text": "múlt hét"
+  },
+  "559": {
+    "id": "559",
+    "text": "ezen a héten"
+  },
+  "560": {
+    "id": "560",
+    "text": "Ezen a héten a 10-től a 18-ig terjedő bekezdéseket fogjuk megbeszélni."
+  },
+  "561": {
+    "id": "561",
+    "text": "Ezen a héten XXX testvér fog olvasni."
+  },
+  "562": {
+    "id": "562",
+    "text": "jövőhét"
+  },
+  "563": {
+    "id": "563",
+    "text": "Miről fogunk jövőhéten beszélni?"
+  },
+  "564": {
+    "id": "564",
+    "text": "a múltkor; a múlt alkalommal"
+  },
+  "565": {
+    "id": "565",
+    "text": "legközelebb; a következő alkalommal"
+  },
+  "566": {
+    "id": "566",
+    "text": "Folytassuk."
+  },
+  "567": {
+    "id": "567",
+    "text": "Attól tartok, hogy kevés az időnk."
+  },
+  "568": {
+    "id": "568",
+    "text": "Kevés az időnk, úgyhogy haladnunk kell."
+  },
+  "569": {
+    "id": "569",
+    "text": "Ennyire volt időnk."
+  },
+  "570": {
+    "id": "570",
+    "text": "Itt be kell, hogy fejezzük."
+  },
+  "572": {
+    "id": "572",
+    "text": "Tanúskodás"
+  },
+  "573": {
+    "id": "573",
+    "text": "Szántóföldi Szolgálat"
+  },
+  "574": {
+    "id": "574",
+    "text": "szántóföldi szolgálat"
+  },
+  "575": {
+    "id": "575",
+    "text": "prédikálni XXX-val"
+  },
+  "576": {
+    "id": "576",
+    "text": "Mikor mehetnék prédikálni (/munkálkodni) veled?"
+  },
+  "577": {
+    "id": "577",
+    "text": "prédikálás"
+  },
+  "578": {
+    "id": "578",
+    "text": "prédikáló munka"
+  },
+  "579": {
+    "id": "579",
+    "text": "prédikál"
+  },
+  "580": {
+    "id": "580",
+    "text": "prédikál XXX-nak"
+  },
+  "581": {
+    "id": "581",
+    "text": "tanúskodik XXX-nak"
+  },
+  "582": {
+    "id": "582",
+    "text": "tanúskodik XXX-nak"
+  },
+  "583": {
+    "id": "583",
+    "text": "tanúskodás"
+  },
+  "584": {
+    "id": "584",
+    "text": "házról házra tanúskodni"
+  },
+  "585": {
+    "id": "585",
+    "text": "utcai tanúskodás"
+  },
+  "586": {
+    "id": "586",
+    "text": "kötetlen formájú tanúskodás"
+  },
+  "587": {
+    "id": "587",
+    "text": "tanúskodás üzleti területen"
+  },
+  "588": {
+    "id": "588",
+    "text": "újralátogatás"
+  },
+  "589": {
+    "id": "589",
+    "text": "Eljönnél velem egy újralátogatásra holnap?"
+  },
+  "590": {
+    "id": "590",
+    "text": "újralátogatni"
+  },
+  "591": {
+    "id": "591",
+    "text": "bibliatanulmányozás"
+  },
+  "592": {
+    "id": "592",
+    "text": "elkezdeni egy bibliatanulmányozást"
+  },
+  "593": {
+    "id": "593",
+    "text": "vezetni egy bibliatanulmányozást"
+  },
+  "594": {
+    "id": "594",
+    "text": "Jövő héten lesz egy biblitanulmányozásom. Szeretnél eljönni velem?"
+  },
+  "595": {
+    "id": "595",
+    "text": "Biblia tanító"
+  },
+  "596": {
+    "id": "596",
+    "text": "bibliatanulmányozó"
+  },
+  "597": {
+    "id": "597",
+    "text": "érdeklődő"
+  },
+  "598": {
+    "id": "598",
+    "text": "nyomonkövetni az érdeklődést"
+  },
+  "599": {
+    "id": "599",
+    "text": "szántóföldi szolgálatban eltöltött idő"
+  },
+  "600": {
+    "id": "600",
+    "text": "Múlt hónapban 14 órát töltött a szántóföldi szolgálatban."
+  },
+  "601": {
+    "id": "601",
+    "text": "Múlt hónapban 14 órát és 1 bibliatanulmányozást jelentett."
+  },
+  "602": {
+    "id": "602",
+    "text": "felkínálás, bevezető"
+  },
+  "603": {
+    "id": "603",
+    "text": "Van valami jó szántóföldi bevezetőd?"
+  },
+  "604": {
+    "id": "604",
+    "text": "tapasztalat",
+    "annotation": "(: valami, ami a szolgálat során történt )"
+  },
+  "605": {
+    "id": "605",
+    "text": "Volt valami érdekes tapasztalatod múlthónapban a szolgálatban?"
+  },
+  "606": {
+    "id": "606",
+    "text": "XXX testvér most el fog mondani nekünk egy érdekes tapasztalatot."
+  },
+  "607": {
+    "id": "607",
+    "text": "Királyság-szolgálatunk"
+  },
+  "608": {
+    "id": "608",
+    "text": "melléklet"
+  },
+  "609": {
+    "id": "609",
+    "text": "Kérlek hozzátok magatokkal a 2006. decemberi Királyság-szolgálatunk mellékletét a szántóföldi összejövetelre."
+  },
+  "610": {
+    "id": "610",
+    "text": "ajánlott irodalom"
+  },
+  "611": {
+    "id": "611",
+    "text": "Mi az ajánlott irodalom erre a hónapra?"
+  },
+  "612": {
+    "id": "612",
+    "text": "Mit kínálunk fel ebben a hónapban?"
+  },
+  "613": {
+    "id": "613",
+    "text": "kampány"
+  },
+  "614": {
+    "id": "614",
+    "text": "Mikor kezdődik a kampány?"
+  },
+  "615": {
+    "id": "615",
+    "text": "társ"
+  },
+  "616": {
+    "id": "616",
+    "text": "Kinek nincs társa?"
+  },
+  "617": {
+    "id": "617",
+    "text": "XXX testvér, te tudsz menni YYY testvérrel.."
+  },
+  "618": {
+    "id": "618",
+    "text": "Kinek van szüksége segítségre, hogy eljusson a tetületre?"
+  },
+  "619": {
+    "id": "619",
+    "text": "terület"
+  },
+  "620": {
+    "id": "620",
+    "text": "Kinek van szüksége területre?"
+  },
+  "621": {
+    "id": "621",
+    "text": "Minden rendben?"
+  },
+  "622": {
+    "id": "622",
+    "text": "Van valakinek kérdése?"
+  },
+  "623": {
+    "id": "623",
+    "text": "Menjünk!"
+  },
+  "624": {
+    "id": "624",
+    "text": "Bevezetők"
+  },
+  "625": {
+    "id": "625",
+    "text": "Jó napot! XXX vagyok."
+  },
+  "626": {
+    "id": "626",
+    "text": "Elnézést kérek …"
+  },
+  "627": {
+    "id": "627",
+    "text": "XXX-ul tanulok."
+  },
+  "628": {
+    "id": "628",
+    "text": "Beszélsz XXX-ul?"
+  },
+  "629": {
+    "id": "629",
+    "text": "Olyanokat keresünk, akik beszélnek XXX-ul."
+  },
+  "630": {
+    "id": "630",
+    "text": "Örülök, hogy otthon találtam."
+  },
+  "631": {
+    "id": "631",
+    "text": "Örülök, hogy újralátom."
+  },
+  "632": {
+    "id": "632",
+    "text": "Örülök, hogy tudunk megint beszélgetni."
+  },
+  "633": {
+    "id": "633",
+    "text": "Sajnálom, hogy alkalmatlan időben zavarom."
+  },
+  "634": {
+    "id": "634",
+    "text": "Látom, hogy most nagyon elfoglalt."
+  },
+  "635": {
+    "id": "635",
+    "text": "Rövid leszek."
+  },
+  "636": {
+    "id": "636",
+    "text": "Minden családot meglátogatunk ezen a környéken."
+  },
+  "637": {
+    "id": "637",
+    "text": "Ma felkeressük a szomszédainkat, egy rövid beszélgetésre."
+  },
+  "638": {
+    "id": "638",
+    "text": "Amint beszéltem az emberekkel, megfigyeltem, hogy …"
+  },
+  "639": {
+    "id": "639",
+    "text": "Amint beszélünk az emberekkel, úgy találjuk, hogy …"
+  },
+  "640": {
+    "id": "640",
+    "text": "Arról beszélgetünk a szomszédainkkal, hogy hol találhatunk gyakorlatias segítséget az élet problémáinak leküzdésére."
+  },
+  "641": {
+    "id": "641",
+    "text": "Arról beszélgetünk a szomszédainkkal, hogy …"
+  },
+  "642": {
+    "id": "642",
+    "text": "Arról beszélgetünk az emberekkel, hogy …"
+  },
+  "643": {
+    "id": "643",
+    "text": "Arról beszélgetünk mindenkivel, hogy …"
+  },
+  "644": {
+    "id": "644",
+    "text": "Beszélgetek a szomszédokkal valamiről, amivel mindannyiunknak szembe kell néznünk."
+  },
+  "645": {
+    "id": "645",
+    "text": "Ma mindenkitől azt kérdezzük, hogy...…"
+  },
+  "646": {
+    "id": "646",
+    "text": "Ma a szomszédainkat kérdezzük …"
+  },
+  "647": {
+    "id": "647",
+    "text": "Szeretnék feltenni egy kérdést."
+  },
+  "648": {
+    "id": "648",
+    "text": "Gondolkozott már valaha azon, hogy: ...?"
+  },
+  "649": {
+    "id": "649",
+    "text": "Gondolkozott már valaha azon, hogy: Isten valóban foglalkozik az embereket érő igazságtalansággal és szenvedéssel?"
+  },
+  "650": {
+    "id": "650",
+    "text": "Kapcsolat Teremtés"
+  },
+  "651": {
+    "id": "651",
+    "text": "Hogyan tudnám elérni?"
+  },
+  "652": {
+    "id": "652",
+    "text": "Esetleg elkérhetném a telefonszámát?"
+  },
+  "653": {
+    "id": "653",
+    "text": "Az én mobilszámom..."
+  },
+  "654": {
+    "id": "654",
+    "text": "Hívni fogom mielőtt jövök …"
+  },
+  "655": {
+    "id": "655",
+    "text": "Küldök majd egy sms-t …"
+  },
+  "656": {
+    "id": "656",
+    "text": "Megkapta az sms-emet?"
+  },
+  "657": {
+    "id": "657",
+    "text": "Máskor is találkozhatunk."
+  },
+  "658": {
+    "id": "658",
+    "text": "Beszéljünk meg egy időpontot."
+  },
+  "659": {
+    "id": "659",
+    "text": "Önnek mikor lenne jó?"
+  },
+  "660": {
+    "id": "660",
+    "text": "Mikor tudnánk (újra) találkozni?"
+  },
+  "661": {
+    "id": "661",
+    "text": "Sajnálom, de holnap nem jó nekem."
+  },
+  "662": {
+    "id": "662",
+    "text": "Mikor lenne a legalkalmasabb ha hívnám?"
+  },
+  "663": {
+    "id": "663",
+    "text": "Mikor lenne a legalkalmasabb, ha (újra) jönnék?"
+  },
+  "664": {
+    "id": "664",
+    "text": "Mit szólna a jövő héthez?"
+  },
+  "665": {
+    "id": "665",
+    "text": "Jövő héten kedden délután jó lenne?"
+  },
+  "666": {
+    "id": "666",
+    "text": "A boltban lesz?"
+  },
+  "667": {
+    "id": "667",
+    "text": "Otthon lesz?"
+  },
+  "668": {
+    "id": "668",
+    "text": "Megihatnánk egy teát (/kávét) együtt?"
+  },
+  "669": {
+    "id": "669",
+    "text": "Találkozhatnánk és beszélgethetnénk . ; Találkozhatunk és beszélgethetünk."
+  },
+  "670": {
+    "id": "670",
+    "text": "Van ideje a jövő héten?"
+  },
+  "671": {
+    "id": "671",
+    "text": "Lenne 10 perce holnap?"
+  },
+  "672": {
+    "id": "672",
+    "text": "Találkozhatnánk egy kicsit korábban?"
+  },
+  "673": {
+    "id": "673",
+    "text": "Találkozhatnánk egy kicsit később?"
+  },
+  "674": {
+    "id": "674",
+    "text": "Sajnos le kell mondanom a megbeszélt találkozót."
+  },
+  "675": {
+    "id": "675",
+    "text": "Át tudnánk tenni a megbeszélt időpontot egy másik napra?"
+  },
+  "676": {
+    "id": "676",
+    "text": "Bemutatni a Bibliát"
+  },
+  "677": {
+    "id": "677",
+    "text": "Azért jöttem, hogy megosszak egy fontos bibliai gondolatot önnel."
+  },
+  "678": {
+    "id": "678",
+    "text": "Szeretnék egy buzdító gondolatot megosztani önnel a Bibliából."
+  },
+  "679": {
+    "id": "679",
+    "text": "A szomszédaimmal osztok meg egy buzdító bibliai gondolatot …"
+  },
+  "680": {
+    "id": "680",
+    "text": "Arra buzdítjuk az embereket, hogy olvassák a Bibliát."
+  },
+  "681": {
+    "id": "681",
+    "text": "A Biblia fontos kérdésekre adott válasza gyakran meglepi az embereket. Például: …"
+  },
+  "682": {
+    "id": "682",
+    "text": "Kérem figyelje meg, hogy mit mond erre a Biblia."
+  },
+  "683": {
+    "id": "683",
+    "text": "Szívesen tanulmányozná a Bibliát velem?"
+  },
+  "684": {
+    "id": "684",
+    "text": "Ingyenes házi bibliatanulmányozást kínálunk fel az embereknek."
+  },
+  "685": {
+    "id": "685",
+    "text": "Irodalom Felkínálás"
+  },
+  "686": {
+    "id": "686",
+    "text": "Szeretném odaadni ezt a traktátust."
+  },
+  "687": {
+    "id": "687",
+    "text": "Ez a traktátus arról beszél, hogy …"
+  },
+  "688": {
+    "id": "688",
+    "text": "Ezt a traktátust nem tart sokáig elolvasni."
+  },
+  "689": {
+    "id": "689",
+    "text": "Nagyon érdekes."
+  },
+  "690": {
+    "id": "690",
+    "text": "Szeretné elolvasni ezt a füzetet?"
+  },
+  "691": {
+    "id": "691",
+    "text": "Szeretném itthagyni önnek ezeket a folyóiratokat."
+  },
+  "692": {
+    "id": "692",
+    "text": "Kérem nézze meg ezt a képet."
+  },
+  "693": {
+    "id": "693",
+    "text": "Szeretném megmutatni ezt a könyvet."
+  },
+  "694": {
+    "id": "694",
+    "text": "Kérem figyelje meg mit ír ez a könyv."
+  },
+  "695": {
+    "id": "695",
+    "text": "Térítésmentes."
+  },
+  "696": {
+    "id": "696",
+    "text": "A munkánk önkéntes adományokból van támogatva."
+  },
+  "697": {
+    "id": "697",
+    "text": "Kölcsön tudom adni ezt a könyvet.",
+    "annotation": "{x}"
+  },
+  "698": {
+    "id": "698",
+    "text": "Kölcsön tudom adni a saját könyvemet."
+  },
+  "699": {
+    "id": "699",
+    "text": "Szeretnék adni önnek valamit az ön nyelvén."
+  },
+  "700": {
+    "id": "700",
+    "text": "Megtudni a Véleményét Valakinek"
+  },
+  "701": {
+    "id": "701",
+    "text": "Mit gondol erről?",
+    "annotation": "(: mondjuk miután mondtunk vagy mutattunk valamit )"
+  },
+  "702": {
+    "id": "702",
+    "text": "Jól hangzik, nem?"
+  },
+  "703": {
+    "id": "703",
+    "text": "Egyetért azzal, hogy....?"
+  },
+  "704": {
+    "id": "704",
+    "text": "Hogyan érez azzal kapcsolatban, hogy....?"
+  },
+  "705": {
+    "id": "705",
+    "text": "Mit gondol arról, hogy.....?"
+  },
+  "706": {
+    "id": "706",
+    "text": "Újra Felkeresni"
+  },
+  "707": {
+    "id": "707",
+    "text": "A következő alkalommal szeretném megbeszélni …"
+  },
+  "708": {
+    "id": "708",
+    "text": "A következő alkalommal szeretnék egy fontos kérdésre választ adni …"
+  },
+  "709": {
+    "id": "709",
+    "text": "Amikor legközelebb jövök, szeretném ezt a kérdést megbeszélni önnel."
+  },
+  "710": {
+    "id": "710",
+    "text": "Legközelebb megbeszélhetjük ennek a könyvnek a második fejezetét."
+  },
+  "711": {
+    "id": "711",
+    "text": "Emlékszik …"
+  },
+  "712": {
+    "id": "712",
+    "text": "A múltkor feltettem egy kérdést."
+  },
+  "713": {
+    "id": "713",
+    "text": "Most szeretném megválaszolni azt a kérdést."
+  },
+  "714": {
+    "id": "714",
+    "text": "Keresni Valakit"
+  },
+  "715": {
+    "id": "715",
+    "text": "XXX otthon van?"
+  },
+  "716": {
+    "id": "716",
+    "text": "XXX itt van?"
+  },
+  "717": {
+    "id": "717",
+    "text": "El kellett mennie."
+  },
+  "718": {
+    "id": "718",
+    "text": "Mikor jön vissza?"
+  },
+  "719": {
+    "id": "719",
+    "text": "Megvárom"
+  },
+  "720": {
+    "id": "720",
+    "text": "Majd holnap visszajövök."
+  },
+  "721": {
+    "id": "721",
+    "text": "Nem számít"
+  },
+  "722": {
+    "id": "722",
+    "text": "Nem gond."
+  },
+  "724": {
+    "id": "724",
+    "text": "Ima"
+  },
+  "725": {
+    "id": "725",
+    "text": "Minta ima (Máté 6)"
+  },
+  "726": {
+    "id": "726",
+    "text": "Égi Atyánk, szenteltessék meg a neved."
+  },
+  "727": {
+    "id": "727",
+    "text": "Jöjjön el a királyságod."
+  },
+  "728": {
+    "id": "728",
+    "text": "Legyen meg az akaratod, mint az égben, úgy a földön is."
+  },
+  "729": {
+    "id": "729",
+    "text": "Add meg nekünk ma a mai napra való kenyerünket;"
+  },
+  "730": {
+    "id": "730",
+    "text": "és bocsásd meg bűneinket, miként mi is megbocsátottunk az ellenünk vétkezőknek."
+  },
+  "731": {
+    "id": "731",
+    "text": "És ne vigyél minket kísértésbe, hanem szabadíts meg a gonosztól."
+  },
+  "732": {
+    "id": "732",
+    "text": "Jehova Megszólítása"
+  },
+  "733": {
+    "id": "733",
+    "text": "Te"
+  },
+  "734": {
+    "id": "734",
+    "text": "Jehova"
+  },
+  "735": {
+    "id": "735",
+    "text": "Isten"
+  },
+  "736": {
+    "id": "736",
+    "text": "Istenünk"
+  },
+  "737": {
+    "id": "737",
+    "text": "Jehova Istenünk"
+  },
+  "738": {
+    "id": "738",
+    "text": "Teremtő"
+  },
+  "739": {
+    "id": "739",
+    "text": "Teremtőnk"
+  },
+  "740": {
+    "id": "740",
+    "text": "Az ég és föld teremtője"
+  },
+  "741": {
+    "id": "741",
+    "text": "Atya"
+  },
+  "742": {
+    "id": "742",
+    "text": "Atyánk"
+  },
+  "743": {
+    "id": "743",
+    "text": "drága"
+  },
+  "744": {
+    "id": "744",
+    "text": "kedves"
+  },
+  "745": {
+    "id": "745",
+    "text": "megbocsátó"
+  },
+  "746": {
+    "id": "746",
+    "text": "szeretett"
+  },
+  "747": {
+    "id": "747",
+    "text": "szerető"
+  },
+  "748": {
+    "id": "748",
+    "text": "hatalmas"
+  },
+  "749": {
+    "id": "749",
+    "text": "mindenható"
+  },
+  "750": {
+    "id": "750",
+    "text": "az egekben; égi; a mennyben; mennyei"
+  },
+  "751": {
+    "id": "751",
+    "text": "Mennyei Atyánk"
+  },
+  "752": {
+    "id": "752",
+    "text": "Jézus Krisztus"
+  },
+  "753": {
+    "id": "753",
+    "text": "Jézus Krisztus"
+  },
+  "754": {
+    "id": "754",
+    "text": "Mindezeket Jézus nevében kérjük."
+  },
+  "755": {
+    "id": "755",
+    "text": "Mindezt Jézuson keresztül kérjük."
+  },
+  "756": {
+    "id": "756",
+    "text": "Kérünk fogadd el imánkat Jézus Krisztus nevében."
+  },
+  "757": {
+    "id": "757",
+    "text": "megmentőnk"
+  },
+  "758": {
+    "id": "758",
+    "text": "a fiad"
+  },
+  "759": {
+    "id": "759",
+    "text": "a királyunk"
+  },
+  "760": {
+    "id": "760",
+    "text": "uralkodó királyunk"
+  },
+  "761": {
+    "id": "761",
+    "text": "Ámen."
+  },
+  "762": {
+    "id": "762",
+    "text": "Dícséret"
+  },
+  "763": {
+    "id": "763",
+    "text": "Szeretünk Téged."
+  },
+  "764": {
+    "id": "764",
+    "text": "Dicsérünk Téged."
+  },
+  "765": {
+    "id": "765",
+    "text": "Magasztalunk Téged."
+  },
+  "766": {
+    "id": "766",
+    "text": "Előretekintünk azokra az áldásokra, amiket a Királyságod fog elhozni."
+  },
+  "767": {
+    "id": "767",
+    "text": "Szeretnénk az akaratodat cselekedni."
+  },
+  "768": {
+    "id": "768",
+    "text": "Szeretnénk dícsérni Nevedet."
+  },
+  "769": {
+    "id": "769",
+    "text": "Hála"
+  },
+  "770": {
+    "id": "770",
+    "text": "Örülünk, hogy …"
+  },
+  "771": {
+    "id": "771",
+    "text": "Örülünk, hogy összegyűlhetünk. ; Örülünk, hogy együtt lehetünk."
+  },
+  "772": {
+    "id": "772",
+    "text": "Örülünk, hogy ma összegyűlhettünk. ; Örülünk, hogy ma együtt lehettünk."
+  },
+  "773": {
+    "id": "773",
+    "text": "Hálásak vagyunk …-ért (/, hogy …)"
+  },
+  "774": {
+    "id": "774",
+    "text": "Hálásak vagyunk ezért az összejöveteli helyért."
+  },
+  "775": {
+    "id": "775",
+    "text": "Hálásak vagyunk Neked ezért a lehetőségért."
+  },
+  "776": {
+    "id": "776",
+    "text": "Hálásak vagyunk az összejöveteleken kapott ismeretért."
+  },
+  "777": {
+    "id": "777",
+    "text": "Köszönjük a …-t; Hálásak vagyunk …-ért"
+  },
+  "778": {
+    "id": "778",
+    "text": "Köszönjük ezt a csodálatos kiváltságot."
+  },
+  "779": {
+    "id": "779",
+    "text": "Köszönjük az életet."
+  },
+  "780": {
+    "id": "780",
+    "text": "Köszönjük, hogy kihoztál minket ebből a világból"
+  },
+  "781": {
+    "id": "781",
+    "text": "Köszönjük Szent Szavadat, a Bibliát."
+  },
+  "782": {
+    "id": "782",
+    "text": "Köszönjük a lehetőséget, hogy ismerhetünk Téged."
+  },
+  "783": {
+    "id": "783",
+    "text": "Köszönjük Jézus váltságáldozatát."
+  },
+  "784": {
+    "id": "784",
+    "text": "Köszönjük a testvériséget."
+  },
+  "785": {
+    "id": "785",
+    "text": "Köszönjük ezt az összejövetelt."
+  },
+  "786": {
+    "id": "786",
+    "text": "Köszönjük a jövőbeli reménységünket."
+  },
+  "787": {
+    "id": "787",
+    "text": "Köszönjük, hogy elküldted fiadat a földre."
+  },
+  "788": {
+    "id": "788",
+    "text": "Köszönjük az összejövetelen elhangzott emlékeztetőket."
+  },
+  "789": {
+    "id": "789",
+    "text": "Kérések"
+  },
+  "790": {
+    "id": "790",
+    "text": "irányítani, vezetni XXX-t"
+  },
+  "791": {
+    "id": "791",
+    "text": "Vezess minket"
+  },
+  "792": {
+    "id": "792",
+    "text": "Vezesd a szervezetedet."
+  },
+  "793": {
+    "id": "793",
+    "text": "Irányítsd a Vezető Testületet."
+  },
+  "794": {
+    "id": "794",
+    "text": "segítsd XXX-t"
+  },
+  "795": {
+    "id": "795",
+    "text": "Segíts nekünk szolgálni Téged."
+  },
+  "796": {
+    "id": "796",
+    "text": "Segíts nekünk azt tenni, ami helyes."
+  },
+  "797": {
+    "id": "797",
+    "text": "Segíts nekünk ellenállni a kísértésnek"
+  },
+  "798": {
+    "id": "798",
+    "text": "Segíts kitartanunk"
+  },
+  "799": {
+    "id": "799",
+    "text": "Segíts, hogy továbbra is tudjunk az összejövetelekre járni."
+  },
+  "800": {
+    "id": "800",
+    "text": "Segíts, hogy a szolgálat során megtalálhassuk az őszinte szívű embereket."
+  },
+  "801": {
+    "id": "801",
+    "text": "Segíts, hogy megtudjuk osztani másokkal, amiket hallottunk."
+  },
+  "802": {
+    "id": "802",
+    "text": "Segíts figyelnünk az összejövetel alatt."
+  },
+  "803": {
+    "id": "803",
+    "text": "Segíts elmélkedni a szavadon."
+  },
+  "804": {
+    "id": "804",
+    "text": "Segíts alkalmazni, amiket tanultunk."
+  },
+  "805": {
+    "id": "805",
+    "text": "Segítsd a nehézségekkel küszködő testvéreinket."
+  },
+  "806": {
+    "id": "806",
+    "text": "Segíts nekünk, hogy észrevegyük testvéreink szükségleteit."
+  },
+  "807": {
+    "id": "807",
+    "text": "Segítsd XXX-t, hogy folytatni tudja szavad tanulmányozását."
+  },
+  "808": {
+    "id": "808",
+    "text": "Segíts XXX-nek, hogy bátor tudjon lenni."
+  },
+  "809": {
+    "id": "809",
+    "text": "Segítsd XXX-t, hogy továbbra is előre tudjon haladni szellemileg."
+  },
+  "810": {
+    "id": "810",
+    "text": "adni XXX-t YYY-nak"
+  },
+  "811": {
+    "id": "811",
+    "text": "Adj nekünk"
+  },
+  "812": {
+    "id": "812",
+    "text": "Adj nekünk szent szellemet"
+  },
+  "813": {
+    "id": "813",
+    "text": "Adj nekünk bölcsességet."
+  },
+  "814": {
+    "id": "814",
+    "text": "Adj erőt, hogy mindent úgy tehessünk, ahogy elvárod tőlünk."
+  },
+  "815": {
+    "id": "815",
+    "text": "Kérni XXX-t"
+  },
+  "816": {
+    "id": "816",
+    "text": "Kérünk, hogy"
+  },
+  "817": {
+    "id": "817",
+    "text": "Kérünk add vezetésed ebben a nehéz időben."
+  },
+  "818": {
+    "id": "818",
+    "text": "áld meg XXX-t; adni áldás[od] XXX-re"
+  },
+  "819": {
+    "id": "819",
+    "text": "Áldd (/Áldj) meg …"
+  },
+  "820": {
+    "id": "820",
+    "text": "Áldj meg minket."
+  },
+  "821": {
+    "id": "821",
+    "text": "Áldd meg a szolgálatunkat."
+  },
+  "822": {
+    "id": "822",
+    "text": "Add áldásod erre az összejövetelre."
+  },
+  "823": {
+    "id": "823",
+    "text": "Áldd meg a gyülekezetünket."
+  },
+  "824": {
+    "id": "824",
+    "text": "(meg)védeni XXX-t, lenni XXX-val; oltalmazz XXX-t"
+  },
+  "825": {
+    "id": "825",
+    "text": "Óvj minket. ; Védj minket.;  Légy velünk."
+  },
+  "826": {
+    "id": "826",
+    "text": "Légy azokkal a testvérekkel (/Védd azokat a testvéreket), akik nem tudtak eljönni erre az összejövetelre."
+  },
+  "827": {
+    "id": "827",
+    "text": "Légy azokkal a testvéreinkkel, akik más országokban üldözést szenvednek el."
+  },
+  "828": {
+    "id": "828",
+    "text": "Oltalmazz minket, amint hazamegyünk ma este."
+  },
+  "829": {
+    "id": "829",
+    "text": "Kérünk, hogy… , Könyörgünk, hogy …; Esdeklünk, hogy …; Könyörögve kérünk, hogy …; Kérve kérünk, hogy …"
+  },
+  "830": {
+    "id": "830",
+    "text": "Áldd meg ezt az összejövetelt."
+  },
+  "831": {
+    "id": "831",
+    "text": "Kérünk, hogy áldd meg ezt az összejövetelt."
+  },
+  "832": {
+    "id": "832",
+    "text": "Bűn és Gondok, Nehézségek"
+  },
+  "833": {
+    "id": "833",
+    "text": "Tökéletlenek vagyunk."
+  },
+  "834": {
+    "id": "834",
+    "text": "bűnt elkövetni"
+  },
+  "835": {
+    "id": "835",
+    "text": "Sokszor követünk el bűnt."
+  },
+  "836": {
+    "id": "836",
+    "text": "Nagyon sajnáljuk."
+  },
+  "837": {
+    "id": "837",
+    "text": "Nagyon sajnáljuk, hogy vétkeztünk ellened."
+  },
+  "838": {
+    "id": "838",
+    "text": "Sajnáljuk, hogy bűnösök vagyunk.",
+    "annotation": "{x}"
+  },
+  "839": {
+    "id": "839",
+    "text": "megbocsátás"
+  },
+  "840": {
+    "id": "840",
+    "text": "Alázatosan kérjük bocsánatodat ."
+  },
+  "841": {
+    "id": "841",
+    "text": "Bocsáss meg XXX-nak."
+  },
+  "842": {
+    "id": "842",
+    "text": "Kérünk bocsáss meg nekünk."
+  },
+  "843": {
+    "id": "843",
+    "text": "Fiad váltságáldozatára való tekintettel, kérünk bocsáss meg nekünk."
+  },
+  "844": {
+    "id": "844",
+    "text": "Bocsásd meg XXX-t."
+  },
+  "845": {
+    "id": "845",
+    "text": "Kérünk bocsásd meg bűneinket."
+  },
+  "846": {
+    "id": "846",
+    "text": "Egy gonosz világban élünk."
+  },
+  "847": {
+    "id": "847",
+    "text": "Sok problémával nézünk szembe."
+  }
+}

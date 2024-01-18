@@ -1,0 +1,3406 @@
+{
+  "5": {
+    "id": "5",
+    "text": "METODO LINGUISTICO UNIVERSALE"
+  },
+  "7": {
+    "id": "7",
+    "text": "italiano"
+  },
+  "8": {
+    "id": "8",
+    "text": "Italian | .it"
+  },
+  "11": {
+    "id": "11",
+    "text": "Questo documento è una raccolta di materiale didattico per apprendimento linguistico preparato esclusivamente per uso da parte di Testimoni di Geova."
+  },
+  "12": {
+    "id": "12",
+    "text": "Le voci, definizioni e altre informazioni contenute nel presente documento possono essere facilmente tradotte in quasi tutte le lingue. Nuove versioni di questo materiale didattico possono essere create semplicemente combinando assieme due traduzioni. Ci si augura pertanto che il presente materiale possa ridurre il carico di lavoro degli insegnanti di lingua e allo stesso tempo contribuire a migliorare l'efficacia dei Testimoni che servono in campi di lingua straniera in tutto il mondo."
+  },
+  "13": {
+    "id": "13",
+    "text": "Questa raccolta di materiale didattico per apprendimento linguistico può essere liberamente condiviso a titolo gratuito fra Testimoni attivi. La cessione o prestito del presente materiale ad altri non  è consentita in qualunque formato."
+  },
+  "14": {
+    "id": "14",
+    "text": null
+  },
+  "15": {
+    "id": "15",
+    "text": null
+  },
+  "16": {
+    "id": "16",
+    "text": null
+  },
+  "18": {
+    "id": "18",
+    "text": "Note"
+  },
+  "19": {
+    "id": "19",
+    "text": "Notazione \"algebrica\" utilizzata per mostrare dove possono essere inserite parole aggiuntive, in relazione all'espressione indicata."
+  },
+  "20": {
+    "id": "20",
+    "text": "Parole che potrebbero dover essere aggiunte all'espressione in determinate circostanze come richiesto dalla lingua."
+  },
+  "21": {
+    "id": "21",
+    "text": "Parola alternativa che in determinate circostanze potrebbe sostituire parte dell'espressione come richiesto dalla lingua."
+  },
+  "22": {
+    "id": "22",
+    "text": "Una parola o frase opzionale che viene comunemente aggiunta a questa espressione senza che il suo significato ne venga alterato."
+  },
+  "23": {
+    "id": "23",
+    "text": "Una parola o frase alternativa che viene comunemente usata in sostituzione ad una parte dell'espressione senza che il suo significato ne venga alterato."
+  },
+  "24": {
+    "id": "24",
+    "text": "Il punto e virgola separa espressioni con significato simile."
+  },
+  "25": {
+    "id": "25",
+    "text": "Una frase complessa (es. riguardante un verbo e altre parole) può essere inserita in questo punto."
+  },
+  "26": {
+    "id": "26",
+    "text": "Descrizione supplementare o esempio usato per aiutare il lettore a comprendere la definizione della parola. Questa informazione compare  solo nelle definizioni e può variare da lingua a lingua."
+  },
+  "27": {
+    "id": "27",
+    "text": "Le parentesi graffe contengono informazioni linguistiche supplementari in relazione alla relativa espressione. Questo può includere informazioni grammaticali o i simboli indicati di seguito."
+  },
+  "28": {
+    "id": "28",
+    "text": "Questa parola o frase dovrebbe essere usata con cautela per ragioni culturali o per altre ragioni."
+  },
+  "29": {
+    "id": "29",
+    "text": "Questa è una traduzione approssimativa della definizione."
+  },
+  "30": {
+    "id": "30",
+    "text": "Questa parola o frase è raramente usata nella lingua di destinazione."
+  },
+  "31": {
+    "id": "31",
+    "text": "I nostri traduttori non hanno provveduto alcuna traduzione per questa parola."
+  },
+  "32": {
+    "id": "32",
+    "text": "Questa è una forma della parola o della frase che viene comunemente utilizzata in una zona diversa da quella principale dove questa lingua viene parlata (viene usata la notazione in stile \"internet\" - es. .hk = Hong Kong)"
+  },
+  "33": {
+    "id": "33",
+    "text": "Il termine teocratico qui definito non trova al momento equivalenti esatti nelle pubblicazioni della Watch Tower Society in questa lingua. (Questo simbolo viene normalmente utilizzato in aggiunta ad altri simboli)"
+  },
+  "34": {
+    "id": "34",
+    "text": "Questo rappresenta il tentativo nostri traduttori di rendere una traduzione accurata del termine. (Questo simbolo è normalmente utilizzato solo per i termini teocratici che attualmente non hanno un equivalente accurato nella lingua di destinazione.)"
+  },
+  "35": {
+    "id": "35",
+    "text": "Questo è il termine corrispondente che viene comunemente usato dai fratelli durante le adunanze. (Questo simbolo è normalmente utilizzato solo per i termini teocratici che attualmente non hanno un equivalente accurato nella lingua di destinazione.)"
+  },
+  "37": {
+    "id": "37",
+    "text": "Dizionario & Frasi"
+  },
+  "38": {
+    "id": "38",
+    "text": "Struttura Organizzativa"
+  },
+  "39": {
+    "id": "39",
+    "text": "Testimoni di Geova"
+  },
+  "40": {
+    "id": "40",
+    "text": "Testimoni di Geova"
+  },
+  "41": {
+    "id": "41",
+    "text": "un Testimone di Geova"
+  },
+  "42": {
+    "id": "42",
+    "text": "Gli Studenti Biblici",
+    "annotation": "(: il nome con il quale i Tesitmoni di Geova erano precedentemente conosciuti)"
+  },
+  "43": {
+    "id": "43",
+    "text": "fratello",
+    "annotation": "(: un compagno di fede)"
+  },
+  "44": {
+    "id": "44",
+    "text": "un fratello maturo"
+  },
+  "45": {
+    "id": "45",
+    "text": "nostri fratelli",
+    "annotation": "(: in fede)"
+  },
+  "46": {
+    "id": "46",
+    "text": "tra i nostri fratelli spirituali"
+  },
+  "47": {
+    "id": "47",
+    "text": "sorella",
+    "annotation": "(: una compagna di fede)"
+  },
+  "48": {
+    "id": "48",
+    "text": "sorella cristiana qualificata",
+    "annotation": "(: qualificata per sostituire un fratello in caso di assenza)"
+  },
+  "49": {
+    "id": "49",
+    "text": "nostre sorelle cristiane"
+  },
+  "50": {
+    "id": "50",
+    "text": "nostre sorelle"
+  },
+  "51": {
+    "id": "51",
+    "text": "vostri fratelli e sorelle spirituali"
+  },
+  "52": {
+    "id": "52",
+    "text": "Gli unti"
+  },
+  "53": {
+    "id": "53",
+    "text": "coloro con la speranza terrena"
+  },
+  "54": {
+    "id": "54",
+    "text": "altre pecore"
+  },
+  "55": {
+    "id": "55",
+    "text": "coloro con la speranza celeste"
+  },
+  "56": {
+    "id": "56",
+    "text": "unti",
+    "annotation": "(: aggettivo)"
+  },
+  "57": {
+    "id": "57",
+    "text": "cristiani unti"
+  },
+  "58": {
+    "id": "58",
+    "text": "la congregazione dei suoi seguaci unti sulla terra"
+  },
+  "59": {
+    "id": "59",
+    "text": "lo schiavo e fedele e discreto"
+  },
+  "60": {
+    "id": "60",
+    "text": "il Corpo Direttivo"
+  },
+  "61": {
+    "id": "61",
+    "text": "un membro del Corpo Direttivo"
+  },
+  "62": {
+    "id": "62",
+    "text": "Battesimo"
+  },
+  "63": {
+    "id": "63",
+    "text": "essere (/venire) battezzato"
+  },
+  "64": {
+    "id": "64",
+    "text": "Fui battezzato nel 2006."
+  },
+  "65": {
+    "id": "65",
+    "text": "battezzare XXX"
+  },
+  "66": {
+    "id": "66",
+    "text": "Giovanni battezzò Gesù."
+  },
+  "67": {
+    "id": "67",
+    "text": "battesimo",
+    "annotation": "(: l'occasione)"
+  },
+  "68": {
+    "id": "68",
+    "text": "Fu presente in occasione del battesimo del suo studio."
+  },
+  "69": {
+    "id": "69",
+    "text": "proclamatore"
+  },
+  "70": {
+    "id": "70",
+    "text": "proclamatore non battezzato"
+  },
+  "71": {
+    "id": "71",
+    "text": "Quando divenne un proclamatore non battezzato?"
+  },
+  "72": {
+    "id": "72",
+    "text": "proclamatore battezzato"
+  },
+  "73": {
+    "id": "73",
+    "text": "proclamatore irregolare"
+  },
+  "74": {
+    "id": "74",
+    "text": "proclamatore inattivo"
+  },
+  "75": {
+    "id": "75",
+    "text": "Servire Geova"
+  },
+  "76": {
+    "id": "76",
+    "text": "servizio"
+  },
+  "77": {
+    "id": "77",
+    "text": "il nostro servizio a Geova"
+  },
+  "78": {
+    "id": "78",
+    "text": "servizio a tempo pieno"
+  },
+  "79": {
+    "id": "79",
+    "text": "servire"
+  },
+  "80": {
+    "id": "80",
+    "text": "servire come XXX; servire in qualità di XXX"
+  },
+  "81": {
+    "id": "81",
+    "text": "servire come anziano ; servire in qualità di anziano"
+  },
+  "82": {
+    "id": "82",
+    "text": "servire come pioniere ; servire in qualità di pioniere"
+  },
+  "83": {
+    "id": "83",
+    "text": "Serve come anziano nella nostra congregazione"
+  },
+  "84": {
+    "id": "84",
+    "text": "XXX non serve più come anziano."
+  },
+  "85": {
+    "id": "85",
+    "text": "servire Geova"
+  },
+  "86": {
+    "id": "86",
+    "text": "servitore"
+  },
+  "87": {
+    "id": "87",
+    "text": "servitore a tempo pieno"
+  },
+  "88": {
+    "id": "88",
+    "text": "servitori di Geova"
+  },
+  "89": {
+    "id": "89",
+    "text": "volontario",
+    "annotation": "(: qualcuno che fa lavoro volontario)"
+  },
+  "90": {
+    "id": "90",
+    "text": "lavoratore non retribuito"
+  },
+  "91": {
+    "id": "91",
+    "text": "lavoro di costruzione di Sale del Regno"
+  },
+  "92": {
+    "id": "92",
+    "text": "operazioni di soccorso in zone disastrate"
+  },
+  "93": {
+    "id": "93",
+    "text": "bisogno",
+    "annotation": "(: sostantivo)"
+  },
+  "94": {
+    "id": "94",
+    "text": "servire dove c’è maggior bisogno"
+  },
+  "95": {
+    "id": "95",
+    "text": "trasferirsi dove c’è maggior bisogno"
+  },
+  "96": {
+    "id": "96",
+    "text": "pioniere"
+  },
+  "97": {
+    "id": "97",
+    "text": "frequentare la scuola di pioniere"
+  },
+  "98": {
+    "id": "98",
+    "text": "pioniere regolare"
+  },
+  "99": {
+    "id": "99",
+    "text": "pioniere ausiliario"
+  },
+  "100": {
+    "id": "100",
+    "text": "pioniere ausiliario a tempo indeterminato",
+    "annotation": "(: colui che serve come un pioniere ausiliario ogni mese)"
+  },
+  "101": {
+    "id": "101",
+    "text": "pioniere speciale"
+  },
+  "102": {
+    "id": "102",
+    "text": "missionario"
+  },
+  "103": {
+    "id": "103",
+    "text": "Moduli & Nomine"
+  },
+  "104": {
+    "id": "104",
+    "text": "fare domanda per XXX"
+  },
+  "105": {
+    "id": "105",
+    "text": "fare domanda per il servizio speciale"
+  },
+  "106": {
+    "id": "106",
+    "text": "fare domanda per la scuola di Galad"
+  },
+  "107": {
+    "id": "107",
+    "text": "modulo"
+  },
+  "108": {
+    "id": "108",
+    "text": "compilare un modulo"
+  },
+  "109": {
+    "id": "109",
+    "text": "compilare una domanda di pioniere regolare"
+  },
+  "110": {
+    "id": "110",
+    "text": "inoltrare un modulo"
+  },
+  "111": {
+    "id": "111",
+    "text": "raccomandazione",
+    "annotation": "(: un'instanza quando qualcuno viene raccomandato)"
+  },
+  "112": {
+    "id": "112",
+    "text": "essere raccomandato come anziano"
+  },
+  "113": {
+    "id": "113",
+    "text": "raccomandare XXX come anziano"
+  },
+  "114": {
+    "id": "114",
+    "text": "nomina",
+    "annotation": "(: un'instanza quando qualcuno viene nominato)"
+  },
+  "115": {
+    "id": "115",
+    "text": "essere nominato XXX"
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX è stato nominato anziano"
+  },
+  "117": {
+    "id": "117",
+    "text": "nominare XXX come servitore di ministero"
+  },
+  "118": {
+    "id": "118",
+    "text": "requisiti"
+  },
+  "119": {
+    "id": "119",
+    "text": "esaminare i [suoi] requisiti per divenire un proclamatore non battezzato"
+  },
+  "120": {
+    "id": "120",
+    "text": "soddisfare i requisiti per il battesimo ; essere idonei per il battesimo"
+  },
+  "121": {
+    "id": "121",
+    "text": "essere qualificato per divenire un proclamatore non battezzato"
+  },
+  "122": {
+    "id": "122",
+    "text": "Uomini nominati"
+  },
+  "123": {
+    "id": "123",
+    "text": "anziano"
+  },
+  "124": {
+    "id": "124",
+    "text": "sorvegliante"
+  },
+  "125": {
+    "id": "125",
+    "text": "\"doni negli uomini\"",
+    "annotation": "(: Ef 4:8)"
+  },
+  "126": {
+    "id": "126",
+    "text": "servitore di ministero"
+  },
+  "127": {
+    "id": "127",
+    "text": "corpo degli anziani"
+  },
+  "128": {
+    "id": "128",
+    "text": "tenere un'adunanza del corpo degli anziani"
+  },
+  "129": {
+    "id": "129",
+    "text": "comitato di servizio della congregazione"
+  },
+  "130": {
+    "id": "130",
+    "text": "Questa questione necessita (/ ha bisogno di) l'approvazione del comitato di servizio della congregazione"
+  },
+  "131": {
+    "id": "131",
+    "text": "coordinatore del corpo degli anziani"
+  },
+  "132": {
+    "id": "132",
+    "text": "segretario della congregazione"
+  },
+  "133": {
+    "id": "133",
+    "text": "sorvegliante del servizio"
+  },
+  "134": {
+    "id": "134",
+    "text": "conduttore dello studio Torre di Guardia"
+  },
+  "135": {
+    "id": "135",
+    "text": "sorvegliante della Scuola di Ministero Teocratico"
+  },
+  "136": {
+    "id": "136",
+    "text": "consigliere ausiliario"
+  },
+  "137": {
+    "id": "137",
+    "text": "sorvegliante del gruppo"
+  },
+  "138": {
+    "id": "138",
+    "text": "comitato giudiziario"
+  },
+  "139": {
+    "id": "139",
+    "text": "formare un comitato giudiziario"
+  },
+  "140": {
+    "id": "140",
+    "text": "pastori spirituali"
+  },
+  "141": {
+    "id": "141",
+    "text": "pecora spirituale"
+  },
+  "142": {
+    "id": "142",
+    "text": "visita pastorale"
+  },
+  "143": {
+    "id": "143",
+    "text": "fare una visita pastorale a XXX"
+  },
+  "144": {
+    "id": "144",
+    "text": "Sorveglianti viaggianti"
+  },
+  "145": {
+    "id": "145",
+    "text": "sorvegliante viaggante"
+  },
+  "146": {
+    "id": "146",
+    "text": "sorvegliante di circoscrizione"
+  },
+  "147": {
+    "id": "147",
+    "text": "circoscrizione"
+  },
+  "148": {
+    "id": "148",
+    "text": "sostituto sorvegliante di circoscrizione"
+  },
+  "149": {
+    "id": "149",
+    "text": "visitare le congregazioni"
+  },
+  "150": {
+    "id": "150",
+    "text": "la visita del sorvegliante di circoscrizione"
+  },
+  "151": {
+    "id": "151",
+    "text": "sorvegliante di distretto"
+  },
+  "152": {
+    "id": "152",
+    "text": "distretto"
+  },
+  "153": {
+    "id": "153",
+    "text": "sorvegliante di zona"
+  },
+  "154": {
+    "id": "154",
+    "text": "Gruppi e congregazioni"
+  },
+  "155": {
+    "id": "155",
+    "text": "congregazione",
+    "annotation": "(: un piccolo gruppo di fedeli in una località)"
+  },
+  "156": {
+    "id": "156",
+    "text": "dividere la congregazione"
+  },
+  "157": {
+    "id": "157",
+    "text": "formare una nuova congregazione"
+  },
+  "158": {
+    "id": "158",
+    "text": "la congregazione cristiana",
+    "annotation": "(: la congregazione in senso \"globale\" che raggruppa tutti i fedeli)"
+  },
+  "159": {
+    "id": "159",
+    "text": "gruppo"
+  },
+  "160": {
+    "id": "160",
+    "text": "gruppo isolato"
+  },
+  "161": {
+    "id": "161",
+    "text": "gruppo di lingua straniera"
+  },
+  "162": {
+    "id": "162",
+    "text": "Uffici di filiale"
+  },
+  "163": {
+    "id": "163",
+    "text": "la filiale"
+  },
+  "164": {
+    "id": "164",
+    "text": "l'ufficio di filiale dei Testimoni di Geova"
+  },
+  "165": {
+    "id": "165",
+    "text": "coordinatore di filiale"
+  },
+  "166": {
+    "id": "166",
+    "text": "comitato di filiale"
+  },
+  "167": {
+    "id": "167",
+    "text": "comitato di paese"
+  },
+  "168": {
+    "id": "168",
+    "text": "Betel"
+  },
+  "169": {
+    "id": "169",
+    "text": "betelita",
+    "annotation": "(: una persona che serve in Betel)"
+  },
+  "170": {
+    "id": "170",
+    "text": "Le piacerebbe visitare la Betel?"
+  },
+  "171": {
+    "id": "171",
+    "text": "visita guidata; tour"
+  },
+  "172": {
+    "id": "172",
+    "text": "La settimana prossima la nostra congregazione andrà a visitare la Betel."
+  },
+  "173": {
+    "id": "173",
+    "text": "Sarò la vostra guida."
+  },
+  "174": {
+    "id": "174",
+    "text": "Vi farò da guida alla Betel."
+  },
+  "175": {
+    "id": "175",
+    "text": "reparto servizio",
+    "annotation": "(: della Betel)"
+  },
+  "176": {
+    "id": "176",
+    "text": "Scriva al reparto servizio."
+  },
+  "177": {
+    "id": "177",
+    "text": "la sede mondiale"
+  },
+  "178": {
+    "id": "178",
+    "text": "Responsabilità di congregazione"
+  },
+  "179": {
+    "id": "179",
+    "text": "usciere"
+  },
+  "180": {
+    "id": "180",
+    "text": "presenti",
+    "annotation": "(: persone che sono presenti ad un'adunanza)"
+  },
+  "181": {
+    "id": "181",
+    "text": "l'uditorio",
+    "annotation": "(: coloro che ascoltano un'adunanza)"
+  },
+  "182": {
+    "id": "182",
+    "text": "contare i presenti"
+  },
+  "183": {
+    "id": "183",
+    "text": "presenze",
+    "annotation": "(: il numero di coloro che sono presenti ad un'adunza, ecc.)"
+  },
+  "184": {
+    "id": "184",
+    "text": "La media delle presenze dello scorso anno è di 85."
+  },
+  "185": {
+    "id": "185",
+    "text": "addetto a portare i microfoni"
+  },
+  "186": {
+    "id": "186",
+    "text": "microfono"
+  },
+  "187": {
+    "id": "187",
+    "text": "maneggiare un microfono"
+  },
+  "188": {
+    "id": "188",
+    "text": "sistemare un microfono"
+  },
+  "189": {
+    "id": "189",
+    "text": "accendere il microfono"
+  },
+  "190": {
+    "id": "190",
+    "text": "spegnere il microfono"
+  },
+  "191": {
+    "id": "191",
+    "text": "fratello resposabile dell'acustica"
+  },
+  "192": {
+    "id": "192",
+    "text": "acustica"
+  },
+  "193": {
+    "id": "193",
+    "text": "gestire il reparto acustica"
+  },
+  "194": {
+    "id": "194",
+    "text": "alzare il volume"
+  },
+  "195": {
+    "id": "195",
+    "text": "abbassare il volume"
+  },
+  "196": {
+    "id": "196",
+    "text": "fratello resposabile del palco"
+  },
+  "197": {
+    "id": "197",
+    "text": "palco"
+  },
+  "198": {
+    "id": "198",
+    "text": "leggio"
+  },
+  "199": {
+    "id": "199",
+    "text": "sistemare il leggio"
+  },
+  "200": {
+    "id": "200",
+    "text": "fratello responsabile della letteratura"
+  },
+  "201": {
+    "id": "201",
+    "text": "reparto letteratura"
+  },
+  "202": {
+    "id": "202",
+    "text": "fare un ordine di letteratura"
+  },
+  "203": {
+    "id": "203",
+    "text": "fratello responsabile delle riviste"
+  },
+  "204": {
+    "id": "204",
+    "text": "reparto riviste"
+  },
+  "205": {
+    "id": "205",
+    "text": "ritirare le [vostre] riviste"
+  },
+  "206": {
+    "id": "206",
+    "text": "fratello responsabile dei territori"
+  },
+  "207": {
+    "id": "207",
+    "text": "territorio (per il servizio di campo)"
+  },
+  "208": {
+    "id": "208",
+    "text": "piantina del territorio  (per il servizio di campo)"
+  },
+  "209": {
+    "id": "209",
+    "text": "territorio"
+  },
+  "210": {
+    "id": "210",
+    "text": "fratello responsabile della contabilità"
+  },
+  "211": {
+    "id": "211",
+    "text": "contabilità"
+  },
+  "212": {
+    "id": "212",
+    "text": "contabilità della congregazione"
+  },
+  "213": {
+    "id": "213",
+    "text": "preparare la contabilità della congregazione"
+  },
+  "214": {
+    "id": "214",
+    "text": "verificare i conti della congregazione"
+  },
+  "215": {
+    "id": "215",
+    "text": "donazione; contribuzione"
+  },
+  "216": {
+    "id": "216",
+    "text": "contribuzioni per l'opera di predicazione",
+    "annotation": "(: Matt. 24:14)"
+  },
+  "217": {
+    "id": "217",
+    "text": "contribuzioni per la congregazione"
+  },
+  "218": {
+    "id": "218",
+    "text": "contare le contribuzioni"
+  },
+  "219": {
+    "id": "219",
+    "text": "fare una contribuzione"
+  },
+  "220": {
+    "id": "220",
+    "text": "fare una donazione per l'opera mondiale; contribuire per l'opera mondiale"
+  },
+  "221": {
+    "id": "221",
+    "text": "casetta delle contribuzioni"
+  },
+  "222": {
+    "id": "222",
+    "text": "mettere una contribuzione nella cassetta delle contribuzioni"
+  },
+  "223": {
+    "id": "223",
+    "text": "Le cassette delle contribuzioni si trovano in prossimità della porta."
+  },
+  "225": {
+    "id": "225",
+    "text": "Adunanze"
+  },
+  "226": {
+    "id": "226",
+    "text": "Luoghi di adorazione"
+  },
+  "227": {
+    "id": "227",
+    "text": "sala"
+  },
+  "228": {
+    "id": "228",
+    "text": "il nostro luogo di adorazione"
+  },
+  "229": {
+    "id": "229",
+    "text": "costruito da volontari"
+  },
+  "230": {
+    "id": "230",
+    "text": "Sala del Regno"
+  },
+  "231": {
+    "id": "231",
+    "text": "Sala del Regno edificata con metodo di contruzione rapida"
+  },
+  "232": {
+    "id": "232",
+    "text": "mantenere la Sala del Regno; fare la manutenzione della Sala del Regno"
+  },
+  "233": {
+    "id": "233",
+    "text": "riparare la Sala del Regno; fare riparazioni della Sala del Regno"
+  },
+  "234": {
+    "id": "234",
+    "text": "pulire la Sala del Regno"
+  },
+  "235": {
+    "id": "235",
+    "text": "E' il nostro turno per pulire la Sala del Regno"
+  },
+  "236": {
+    "id": "236",
+    "text": "Sala delle Assemblee"
+  },
+  "237": {
+    "id": "237",
+    "text": "Frequentare le adunanze"
+  },
+  "238": {
+    "id": "238",
+    "text": "adunanza"
+  },
+  "239": {
+    "id": "239",
+    "text": "assistere a un'adunanza"
+  },
+  "240": {
+    "id": "240",
+    "text": "tenere un'adunanza"
+  },
+  "241": {
+    "id": "241",
+    "text": "prepararsi",
+    "annotation": "(: preparazione personale)"
+  },
+  "242": {
+    "id": "242",
+    "text": "prepararsi per l'adunanza"
+  },
+  "243": {
+    "id": "243",
+    "text": "preparare XXX"
+  },
+  "244": {
+    "id": "244",
+    "text": "preparare un commento"
+  },
+  "245": {
+    "id": "245",
+    "text": "preparare un discorso"
+  },
+  "246": {
+    "id": "246",
+    "text": "stare in compagnia di XXX"
+  },
+  "247": {
+    "id": "247",
+    "text": "Possiamo stare in compagnia dei nostri fratelli e sorelle dopo l'adunanza."
+  },
+  "248": {
+    "id": "248",
+    "text": "incoraggiare XXX"
+  },
+  "249": {
+    "id": "249",
+    "text": "Il tuo commento mi ha davvero incoraggiato!"
+  },
+  "250": {
+    "id": "250",
+    "text": "un commento incoraggiante"
+  },
+  "251": {
+    "id": "251",
+    "text": "studio biblico di congregazione"
+  },
+  "252": {
+    "id": "252",
+    "text": "Scuola di Ministero Teocratico"
+  },
+  "253": {
+    "id": "253",
+    "text": "adunanza di servizio"
+  },
+  "254": {
+    "id": "254",
+    "text": "adunanza per il servizio di campo"
+  },
+  "255": {
+    "id": "255",
+    "text": "assemblea"
+  },
+  "256": {
+    "id": "256",
+    "text": "assemblee annuali"
+  },
+  "257": {
+    "id": "257",
+    "text": "assemblea speciale di un giorno"
+  },
+  "258": {
+    "id": "258",
+    "text": "assemblea di circoscrizione"
+  },
+  "259": {
+    "id": "259",
+    "text": "assemblea"
+  },
+  "260": {
+    "id": "260",
+    "text": "assemblea di distretto"
+  },
+  "261": {
+    "id": "261",
+    "text": "assemblea di distretto di 3 giorni"
+  },
+  "262": {
+    "id": "262",
+    "text": "Contenuto delle adunanze"
+  },
+  "263": {
+    "id": "263",
+    "text": "parte",
+    "annotation": "(: una parte ad un'adunanza: es. discorso, trattazione, ecc.)"
+  },
+  "264": {
+    "id": "264",
+    "text": "Avrò una parte all'adunanza della settimana prossima."
+  },
+  "265": {
+    "id": "265",
+    "text": "parte",
+    "annotation": "(: es. alla Scuola di Ministero Teocratico)"
+  },
+  "266": {
+    "id": "266",
+    "text": "parte numero 1"
+  },
+  "267": {
+    "id": "267",
+    "text": "ricevere un incarico"
+  },
+  "268": {
+    "id": "268",
+    "text": "assolvere un incarico"
+  },
+  "269": {
+    "id": "269",
+    "text": "qualità oratoria",
+    "annotation": "(: dal libro della Scuola di Ministero)"
+  },
+  "270": {
+    "id": "270",
+    "text": "la qualità oratoria sulla quale stava lavorando la sorella XXX  è la numero 23."
+  },
+  "271": {
+    "id": "271",
+    "text": "discorso",
+    "annotation": "(: una conferenza)"
+  },
+  "272": {
+    "id": "272",
+    "text": "un discorso ben sviluppato"
+  },
+  "273": {
+    "id": "273",
+    "text": "un discorso pubblico"
+  },
+  "274": {
+    "id": "274",
+    "text": "un discorso di cinque minuti"
+  },
+  "275": {
+    "id": "275",
+    "text": "pronunciare un discorso"
+  },
+  "276": {
+    "id": "276",
+    "text": "oratore"
+  },
+  "277": {
+    "id": "277",
+    "text": "dimostrazione"
+  },
+  "278": {
+    "id": "278",
+    "text": "Vediamo questa dimostrazione."
+  },
+  "279": {
+    "id": "279",
+    "text": "dimostrare XXX",
+    "annotation": "(: mostrare come qualcosa viene fatto o avviene)"
+  },
+  "280": {
+    "id": "280",
+    "text": "La sorella XXX dimostrerà come offrire le riviste di questo mese."
+  },
+  "281": {
+    "id": "281",
+    "text": "Punti notevoli della lettura della Bibbia",
+    "annotation": "(: una parte di 10 minuti alla Scuola di Ministero Teocratico)"
+  },
+  "282": {
+    "id": "282",
+    "text": "Lettura della Bibbia"
+  },
+  "283": {
+    "id": "283",
+    "text": "Bisogni locali",
+    "annotation": "(: un discorso sui bisogni locali)"
+  },
+  "284": {
+    "id": "284",
+    "text": "Risposta a domande",
+    "annotation": "(: nel Ministero del Regno)"
+  },
+  "285": {
+    "id": "285",
+    "text": "Cantico e preghiere"
+  },
+  "286": {
+    "id": "286",
+    "text": "cantico"
+  },
+  "287": {
+    "id": "287",
+    "text": "cantico iniziale"
+  },
+  "288": {
+    "id": "288",
+    "text": "cantico conclusivo"
+  },
+  "289": {
+    "id": "289",
+    "text": "Il titolo di questo cantico è …"
+  },
+  "290": {
+    "id": "290",
+    "text": "Il cantico è basato su …"
+  },
+  "291": {
+    "id": "291",
+    "text": "La nostra adunanza inizierà con un cantico di lode a Geova."
+  },
+  "292": {
+    "id": "292",
+    "text": "Inizieremo la nostra adunanza con un cantico che sarà seguito da una preghiera."
+  },
+  "293": {
+    "id": "293",
+    "text": "Questo cantico è stato scelto dal nostro oratore ed è in armonia con il tema del suo discorso."
+  },
+  "294": {
+    "id": "294",
+    "text": "Questo cantico è in armonia con il tema del discorso."
+  },
+  "295": {
+    "id": "295",
+    "text": "Concluderemo l'adunanza con un cantico."
+  },
+  "296": {
+    "id": "296",
+    "text": "cantico numero 20"
+  },
+  "297": {
+    "id": "297",
+    "text": "Ascoltiamo il cantico numero 20."
+  },
+  "298": {
+    "id": "298",
+    "text": "libretto dei cantici"
+  },
+  "299": {
+    "id": "299",
+    "text": "Apriamo il nostro libretto dei cantici per cantare il numero 10."
+  },
+  "300": {
+    "id": "300",
+    "text": "cantare un cantico"
+  },
+  "301": {
+    "id": "301",
+    "text": "Cantiamo il cantico numero 30"
+  },
+  "302": {
+    "id": "302",
+    "text": "Mentre cantiamo il cantico possiamo pensare alle sue parole."
+  },
+  "303": {
+    "id": "303",
+    "text": "preghiera"
+  },
+  "304": {
+    "id": "304",
+    "text": "preghiera iniziale"
+  },
+  "305": {
+    "id": "305",
+    "text": "preghiera conclusiva"
+  },
+  "306": {
+    "id": "306",
+    "text": "pronunciare una preghiera"
+  },
+  "307": {
+    "id": "307",
+    "text": "Fratello XXX, potresti per favore pronunciare una preghiera?"
+  },
+  "308": {
+    "id": "308",
+    "text": "pregare"
+  },
+  "309": {
+    "id": "309",
+    "text": "pregare Geova"
+  },
+  "310": {
+    "id": "310",
+    "text": "Dopo il cantico faremo una preghiera a Geova."
+  },
+  "311": {
+    "id": "311",
+    "text": "Annunci"
+  },
+  "312": {
+    "id": "312",
+    "text": "annunci",
+    "annotation": "(: es. all'adunanza di servizio)"
+  },
+  "313": {
+    "id": "313",
+    "text": "Ho degli annunci."
+  },
+  "314": {
+    "id": "314",
+    "text": "annunciare XXX"
+  },
+  "315": {
+    "id": "315",
+    "text": "annunciare le adunanze per il servizio di campo"
+  },
+  "316": {
+    "id": "316",
+    "text": "Siamo lieti di annunciare che …"
+  },
+  "317": {
+    "id": "317",
+    "text": "Ci spiace annunciare che …"
+  },
+  "318": {
+    "id": "318",
+    "text": "lettera",
+    "annotation": "(: es. dalla filiale)"
+  },
+  "319": {
+    "id": "319",
+    "text": "Abbiamo ricevuto una lettera dalla filiale."
+  },
+  "320": {
+    "id": "320",
+    "text": "Invitiamo sul podio il fratello XXX per leggere una lettera dalla filiale."
+  },
+  "321": {
+    "id": "321",
+    "text": "risoluzione"
+  },
+  "322": {
+    "id": "322",
+    "text": "presentare una risoluzione"
+  },
+  "323": {
+    "id": "323",
+    "text": "Vorremmo presentare la seguente risoluzione alla congregazione."
+  },
+  "324": {
+    "id": "324",
+    "text": "votare"
+  },
+  "325": {
+    "id": "325",
+    "text": "alzare la [vostra] mano",
+    "annotation": "(: per votare)"
+  },
+  "326": {
+    "id": "326",
+    "text": "Prego alzate la vostra mano se siete a favore della risoluzione."
+  },
+  "327": {
+    "id": "327",
+    "text": "Prego alzate la vostra mano se siete contrari alla risoluzione"
+  },
+  "328": {
+    "id": "328",
+    "text": "Prego alzate la vostra mano se vi astenete",
+    "annotation": "(: dal voto)"
+  },
+  "329": {
+    "id": "329",
+    "text": "Potete ora abbassare le vostre mani."
+  },
+  "330": {
+    "id": "330",
+    "text": "Potreste prendere alcuni appunti qui."
+  },
+  "331": {
+    "id": "331",
+    "text": "Per favore, consegnate il vostro rapporto di servizio al sorvegliante del vostro gruppo."
+  },
+  "332": {
+    "id": "332",
+    "text": "Questa settimana il gruppo [numero] 2 si occuperà delle pulizie della Sala del Regno."
+  },
+  "333": {
+    "id": "333",
+    "text": "Questo sabato ci troveremo alle ore 11 a casa della sorella XXX per uscire in servizio di campo."
+  },
+  "334": {
+    "id": "334",
+    "text": "5 minuti dopo il termine dell'adunanza di quest'oggi si terrà un'adunanza per il servizio di campo."
+  },
+  "335": {
+    "id": "335",
+    "text": "L'adunanza per il servizio di campo si terrà nella salla della seconda scuola."
+  },
+  "336": {
+    "id": "336",
+    "text": "Il fratello XXX condurrà l'adunanza per il servizio di campo."
+  },
+  "337": {
+    "id": "337",
+    "text": "Abbiamo alcuni annunci in merito alla prossima assemblea di distretto."
+  },
+  "338": {
+    "id": "338",
+    "text": "La nostra assemblea di distretto si terrà il …",
+    "annotation": "(: data)"
+  },
+  "339": {
+    "id": "339",
+    "text": "L'assemblea di distretto si terrà a …",
+    "annotation": "(: luogo)"
+  },
+  "340": {
+    "id": "340",
+    "text": "Il programma dell'assemblea di distretto inizierà alle [ore] 9:50."
+  },
+  "341": {
+    "id": "341",
+    "text": "Il programma dell'assemblea di distretto terminerà alle [ore] 15:45."
+  },
+  "342": {
+    "id": "342",
+    "text": "Se desiderate prenotare un posto sulla corriera rivolgetevi al fratello XXX."
+  },
+  "343": {
+    "id": "343",
+    "text": "La sorella XXX è deceduta il 12 marzo."
+  },
+  "344": {
+    "id": "344",
+    "text": "Il suo funerale si terrà martedì prossimo nella Sala del Regno."
+  },
+  "345": {
+    "id": "345",
+    "text": "XXX si è dissociato dalla congregazione cristiana."
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX è stato disassociato dalla congregazione cristiana"
+  },
+  "347": {
+    "id": "347",
+    "text": "Benvenuto e introduzione"
+  },
+  "348": {
+    "id": "348",
+    "text": "presidente",
+    "annotation": "(: un fratello che introduce gli oratori alle adunanze pubbliche e alle assemblee)"
+  },
+  "349": {
+    "id": "349",
+    "text": "introdurre il discorso successivo"
+  },
+  "350": {
+    "id": "350",
+    "text": "applaudire",
+    "annotation": "(: battere le vostre mani in apprezzamento per un discorso, ecc.)"
+  },
+  "351": {
+    "id": "351",
+    "text": "applauso"
+  },
+  "352": {
+    "id": "352",
+    "text": "Questo applauso dimostra che l'uditorio ha apprezzato il discorso."
+  },
+  "353": {
+    "id": "353",
+    "text": "La nostra adunanza inizierà in due minuti."
+  },
+  "354": {
+    "id": "354",
+    "text": "Benvenuti!"
+  },
+  "355": {
+    "id": "355",
+    "text": "Siamo lieti di darvi il benvenuto all'adunanza di questa sera."
+  },
+  "356": {
+    "id": "356",
+    "text": "Benvenuti, fratelli e sorelle ; Diamo a voi tutti un benvenuto, fratelli e sorelle"
+  },
+  "357": {
+    "id": "357",
+    "text": "Benvenuti all'adunanza di questa sera ; Diamo a voi tutti un benvenuto all'adunanza di questa sera"
+  },
+  "358": {
+    "id": "358",
+    "text": "Siete pregati di cominciare a prendere posto."
+  },
+  "359": {
+    "id": "359",
+    "text": "Potete accomodarvi."
+  },
+  "360": {
+    "id": "360",
+    "text": "Siete pregati di prendere posto."
+  },
+  "361": {
+    "id": "361",
+    "text": "Se possibile, siete pregati di alzarvi in piedi."
+  },
+  "362": {
+    "id": "362",
+    "text": "Avremo ora una pausa di 10 minuti. Siete pregati di tornare ai vostri posti per le [ore] 15:15."
+  },
+  "363": {
+    "id": "363",
+    "text": "L'adunanza di questa è suddivisa in due parti."
+  },
+  "364": {
+    "id": "364",
+    "text": "La parte successiva della nostra adunanza è lo studio Torre di Guardia."
+  },
+  "365": {
+    "id": "365",
+    "text": "Invitiamo ora sul podio il fratello XXX."
+  },
+  "366": {
+    "id": "366",
+    "text": "Prestiamogli la massima attenzione."
+  },
+  "367": {
+    "id": "367",
+    "text": "Il fratello XXX condurrà questa parte."
+  },
+  "368": {
+    "id": "368",
+    "text": "Ora il fratello XXX condurrà lo studio biblico di congregazione."
+  },
+  "369": {
+    "id": "369",
+    "text": "Il fratello XXX leggerà dal versetto 12 al versetto 25 del capitolo 25."
+  },
+  "370": {
+    "id": "370",
+    "text": "La sorella XXX dimostrerà la seconda presentazione contenuta nel Ministero del Regno."
+  },
+  "371": {
+    "id": "371",
+    "text": "Ora ascoltiamo due sorelle che trattano il seguente tema: \"…\""
+  },
+  "372": {
+    "id": "372",
+    "text": "La parte è stata assegnata alla sorella XXX."
+  },
+  "373": {
+    "id": "373",
+    "text": "La sua assistente è la sorella YYY."
+  },
+  "374": {
+    "id": "374",
+    "text": "La sorella YYY impersonificherà la padrona di casa ; La sorella YYY sarà la padrona di casa"
+  },
+  "375": {
+    "id": "375",
+    "text": "L'ambiente per questa parte è …"
+  },
+  "376": {
+    "id": "376",
+    "text": "Oggi abbiamo il piacere di avere un oratore in visita che è venuto a pronunciare un discorso."
+  },
+  "377": {
+    "id": "377",
+    "text": "Il fratello XXX, della congregazione YYY pronuncerà un discorso."
+  },
+  "378": {
+    "id": "378",
+    "text": "Il tema del suo discorso è …"
+  },
+  "379": {
+    "id": "379",
+    "text": "Fratello XXX, grazie per averci parlato in merito a questo argomento."
+  },
+  "380": {
+    "id": "380",
+    "text": "Tutte le 75 persone presenti hanno apprezzato il tuo discorso."
+  },
+  "381": {
+    "id": "381",
+    "text": "Siamo lieti di avere con noi questa settimana il nostro sorvegliante di circoscrizione e sua moglie."
+  },
+  "382": {
+    "id": "382",
+    "text": "Il tema del primo discoso di servizio del sorvegliante di circoscrizione è …"
+  },
+  "383": {
+    "id": "383",
+    "text": "Vi porto i calorosi saluti della famiglia Betel in XXX."
+  },
+  "384": {
+    "id": "384",
+    "text": "Posso portare i vostri caolorosi saluti alla congregazione di XXX?"
+  },
+  "386": {
+    "id": "386",
+    "text": "Insegnamento"
+  },
+  "387": {
+    "id": "387",
+    "text": "Libri della Bibbia"
+  },
+  "388": {
+    "id": "388",
+    "text": "le Scritture Ebraiche"
+  },
+  "389": {
+    "id": "389",
+    "text": "Genesi"
+  },
+  "390": {
+    "id": "390",
+    "text": "Esodo"
+  },
+  "391": {
+    "id": "391",
+    "text": "Levitico"
+  },
+  "392": {
+    "id": "392",
+    "text": "Numeri"
+  },
+  "393": {
+    "id": "393",
+    "text": "Deuteronomio"
+  },
+  "394": {
+    "id": "394",
+    "text": "Giosuè"
+  },
+  "395": {
+    "id": "395",
+    "text": "Giudici"
+  },
+  "396": {
+    "id": "396",
+    "text": "Rut"
+  },
+  "397": {
+    "id": "397",
+    "text": "1 Samuele"
+  },
+  "398": {
+    "id": "398",
+    "text": "2 Samuele"
+  },
+  "399": {
+    "id": "399",
+    "text": "1 Re"
+  },
+  "400": {
+    "id": "400",
+    "text": "2 Re"
+  },
+  "401": {
+    "id": "401",
+    "text": "1 Cronache"
+  },
+  "402": {
+    "id": "402",
+    "text": "2 Cronache"
+  },
+  "403": {
+    "id": "403",
+    "text": "Esdra"
+  },
+  "404": {
+    "id": "404",
+    "text": "Neemia"
+  },
+  "405": {
+    "id": "405",
+    "text": "Ester"
+  },
+  "406": {
+    "id": "406",
+    "text": "Giobbe"
+  },
+  "407": {
+    "id": "407",
+    "text": "Salmi"
+  },
+  "408": {
+    "id": "408",
+    "text": "Proverbi"
+  },
+  "409": {
+    "id": "409",
+    "text": "Ecclesiaste"
+  },
+  "410": {
+    "id": "410",
+    "text": "Il Cantico dei Cantici"
+  },
+  "411": {
+    "id": "411",
+    "text": "Isaia"
+  },
+  "412": {
+    "id": "412",
+    "text": "Geremia"
+  },
+  "413": {
+    "id": "413",
+    "text": "Lamentazioni"
+  },
+  "414": {
+    "id": "414",
+    "text": "Ezechiele"
+  },
+  "415": {
+    "id": "415",
+    "text": "Daniele"
+  },
+  "416": {
+    "id": "416",
+    "text": "Osea"
+  },
+  "417": {
+    "id": "417",
+    "text": "Gioele"
+  },
+  "418": {
+    "id": "418",
+    "text": "Amos"
+  },
+  "419": {
+    "id": "419",
+    "text": "Abdia"
+  },
+  "420": {
+    "id": "420",
+    "text": "Giona"
+  },
+  "421": {
+    "id": "421",
+    "text": "Michea"
+  },
+  "422": {
+    "id": "422",
+    "text": "Naum"
+  },
+  "423": {
+    "id": "423",
+    "text": "Abacuc"
+  },
+  "424": {
+    "id": "424",
+    "text": "Sofonia"
+  },
+  "425": {
+    "id": "425",
+    "text": "Aggeo"
+  },
+  "426": {
+    "id": "426",
+    "text": "Zaccaria"
+  },
+  "427": {
+    "id": "427",
+    "text": "Malachia"
+  },
+  "428": {
+    "id": "428",
+    "text": "le Scritture Greche (Cristiane)"
+  },
+  "429": {
+    "id": "429",
+    "text": "Matteo"
+  },
+  "430": {
+    "id": "430",
+    "text": "Marco"
+  },
+  "431": {
+    "id": "431",
+    "text": "Luca"
+  },
+  "432": {
+    "id": "432",
+    "text": "Giovanni"
+  },
+  "433": {
+    "id": "433",
+    "text": "Atti"
+  },
+  "434": {
+    "id": "434",
+    "text": "Romani"
+  },
+  "435": {
+    "id": "435",
+    "text": "1 Corinti"
+  },
+  "436": {
+    "id": "436",
+    "text": "2 Corinti"
+  },
+  "437": {
+    "id": "437",
+    "text": "Galati"
+  },
+  "438": {
+    "id": "438",
+    "text": "Efesini"
+  },
+  "439": {
+    "id": "439",
+    "text": "Filippesi"
+  },
+  "440": {
+    "id": "440",
+    "text": "Colossesi"
+  },
+  "441": {
+    "id": "441",
+    "text": "1 Tessalonicesi"
+  },
+  "442": {
+    "id": "442",
+    "text": "2 Tessalonicesi"
+  },
+  "443": {
+    "id": "443",
+    "text": "1 Timoteo"
+  },
+  "444": {
+    "id": "444",
+    "text": "2 Timoteo"
+  },
+  "445": {
+    "id": "445",
+    "text": "Tito"
+  },
+  "446": {
+    "id": "446",
+    "text": "Filemone"
+  },
+  "447": {
+    "id": "447",
+    "text": "Ebrei"
+  },
+  "448": {
+    "id": "448",
+    "text": "Giacomo"
+  },
+  "449": {
+    "id": "449",
+    "text": "1 Pietro"
+  },
+  "450": {
+    "id": "450",
+    "text": "2 Pietro"
+  },
+  "451": {
+    "id": "451",
+    "text": "1 Giovanni"
+  },
+  "452": {
+    "id": "452",
+    "text": "2 Giovanni"
+  },
+  "453": {
+    "id": "453",
+    "text": "3 Giovanni"
+  },
+  "454": {
+    "id": "454",
+    "text": "Giuda"
+  },
+  "455": {
+    "id": "455",
+    "text": "Rivelazione"
+  },
+  "456": {
+    "id": "456",
+    "text": "Uso della Bibbia"
+  },
+  "457": {
+    "id": "457",
+    "text": "la Bibbia"
+  },
+  "458": {
+    "id": "458",
+    "text": "Apriamo la nostra Bibbia."
+  },
+  "459": {
+    "id": "459",
+    "text": "Apriamo la nostra Bibbia in Geremia 10:23."
+  },
+  "460": {
+    "id": "460",
+    "text": "racconto (/storia)"
+  },
+  "461": {
+    "id": "461",
+    "text": "Esaminiamo questo racconto biblico."
+  },
+  "462": {
+    "id": "462",
+    "text": "scrittura; versetto"
+  },
+  "463": {
+    "id": "463",
+    "text": "Che cosa ci dice questa scrittura in merito a …?"
+  },
+  "464": {
+    "id": "464",
+    "text": "Che cosa ci rivela questa scrittura in merito a …?"
+  },
+  "465": {
+    "id": "465",
+    "text": "Che relazione ha questa scrittura con …?"
+  },
+  "466": {
+    "id": "466",
+    "text": "Qual'è il significato di questa scrittura?"
+  },
+  "467": {
+    "id": "467",
+    "text": "Vi invito a commentare su questa scrittura."
+  },
+  "468": {
+    "id": "468",
+    "text": "Chi vuole spiegare questa scrittura?",
+    "annotation": "(: domanda rivolta all'uditorio)"
+  },
+  "469": {
+    "id": "469",
+    "text": "Che lezione possiamo trarre da questa scrittura?"
+  },
+  "470": {
+    "id": "470",
+    "text": "Matteo capitolo sette, versetto dodici"
+  },
+  "471": {
+    "id": "471",
+    "text": "Matteo capitolo cinque, versetto trentatré e trentaquattro"
+  },
+  "472": {
+    "id": "472",
+    "text": "Primo Giovanni capitolo due, versetti da quindici a diciassette"
+  },
+  "473": {
+    "id": "473",
+    "text": "il trentasettesimo Salmo versetto undici; versetto undici del trentasettesimo Salmo"
+  },
+  "474": {
+    "id": "474",
+    "text": "Materiale di studio"
+  },
+  "475": {
+    "id": "475",
+    "text": "pagina"
+  },
+  "476": {
+    "id": "476",
+    "text": "Vi invito ad aprire la vostra rivista all'articolo che si trova a pagina 20."
+  },
+  "477": {
+    "id": "477",
+    "text": "Vi prego di andare a pagina 45 del materiale di studio."
+  },
+  "478": {
+    "id": "478",
+    "text": "Andiamo a pagina 10."
+  },
+  "479": {
+    "id": "479",
+    "text": "articolo"
+  },
+  "480": {
+    "id": "480",
+    "text": "una serie di articoli",
+    "annotation": "(: es. nella rivista Torre di Guardia)"
+  },
+  "481": {
+    "id": "481",
+    "text": "Questa settimana considereremo il primo di una serie di tre articoli."
+  },
+  "482": {
+    "id": "482",
+    "text": "tema"
+  },
+  "483": {
+    "id": "483",
+    "text": "scrittura base"
+  },
+  "484": {
+    "id": "484",
+    "text": "titolo"
+  },
+  "485": {
+    "id": "485",
+    "text": "sottotitolo"
+  },
+  "486": {
+    "id": "486",
+    "text": "paragrafo"
+  },
+  "487": {
+    "id": "487",
+    "text": "il paragrafo precedente"
+  },
+  "488": {
+    "id": "488",
+    "text": "il paragrafo successivo"
+  },
+  "489": {
+    "id": "489",
+    "text": "i due paragrafi successivi"
+  },
+  "490": {
+    "id": "490",
+    "text": "Leggiamo i prossimi due paragrafi."
+  },
+  "491": {
+    "id": "491",
+    "text": "parola"
+  },
+  "492": {
+    "id": "492",
+    "text": "parole in grassetto"
+  },
+  "493": {
+    "id": "493",
+    "text": "parole in corsivo"
+  },
+  "494": {
+    "id": "494",
+    "text": "nota in calce"
+  },
+  "495": {
+    "id": "495",
+    "text": "appendice"
+  },
+  "496": {
+    "id": "496",
+    "text": "riquadro"
+  },
+  "497": {
+    "id": "497",
+    "text": "figura"
+  },
+  "498": {
+    "id": "498",
+    "text": "Ragazzi, qual'è il nome dell'uomo nell'illustrazione?"
+  },
+  "499": {
+    "id": "499",
+    "text": "didascalia",
+    "annotation": "(: di un'illustrazione)"
+  },
+  "500": {
+    "id": "500",
+    "text": "Trattazione",
+    "annotation": "(: con l'uditorio)"
+  },
+  "501": {
+    "id": "501",
+    "text": "risposta"
+  },
+  "502": {
+    "id": "502",
+    "text": "dare una risposta"
+  },
+  "503": {
+    "id": "503",
+    "text": "domanda"
+  },
+  "504": {
+    "id": "504",
+    "text": "domande introduttive",
+    "annotation": "(: es. nel libro \"Cosa insegna realmente la Bibbia?\")"
+  },
+  "505": {
+    "id": "505",
+    "text": "domande di ripasso",
+    "annotation": "(: es. nello studio Torre di Guardia)"
+  },
+  "506": {
+    "id": "506",
+    "text": "fare una domanda; porre una domanda"
+  },
+  "507": {
+    "id": "507",
+    "text": "rispondere ad una domanda"
+  },
+  "508": {
+    "id": "508",
+    "text": "commento"
+  },
+  "509": {
+    "id": "509",
+    "text": "fare un commento"
+  },
+  "510": {
+    "id": "510",
+    "text": "Vi prego di tradurre il suo commento."
+  },
+  "511": {
+    "id": "511",
+    "text": "Ci sono altri commenti?"
+  },
+  "512": {
+    "id": "512",
+    "text": "Vi invito a limitate i vostri commenti alla durata massima di 30 secondi."
+  },
+  "513": {
+    "id": "513",
+    "text": "commentare"
+  },
+  "514": {
+    "id": "514",
+    "text": "Chi desidera fare un commento sulla lettura biblica di questa settimana?"
+  },
+  "515": {
+    "id": "515",
+    "text": "commentare sull'illustrazione"
+  },
+  "516": {
+    "id": "516",
+    "text": "trattazione",
+    "annotation": "(: con l'uditorio)"
+  },
+  "517": {
+    "id": "517",
+    "text": "trattazione con domande e risposte"
+  },
+  "518": {
+    "id": "518",
+    "text": "considerare ; trattare"
+  },
+  "519": {
+    "id": "519",
+    "text": "considerare la scrittura del giorno"
+  },
+  "520": {
+    "id": "520",
+    "text": "Ora considereremo insieme questo articolo."
+  },
+  "521": {
+    "id": "521",
+    "text": "condurre (una parte)"
+  },
+  "522": {
+    "id": "522",
+    "text": "Grazie fratello XXX per aver condotto questa parte."
+  },
+  "523": {
+    "id": "523",
+    "text": "conduttore"
+  },
+  "524": {
+    "id": "524",
+    "text": "Conduttore dello studio Torre di Guardia"
+  },
+  "525": {
+    "id": "525",
+    "text": "considerare ; analizzare ; esaminare",
+    "annotation": "(: concentrarsi su qualcosa in una parte)"
+  },
+  "526": {
+    "id": "526",
+    "text": "Ora considereremo un domanda importante."
+  },
+  "527": {
+    "id": "527",
+    "text": "leggere",
+    "annotation": "(: ad alta voce, es. alle adunanze)"
+  },
+  "528": {
+    "id": "528",
+    "text": "Chi può (/desidera) leggere il paragrafo 2?"
+  },
+  "529": {
+    "id": "529",
+    "text": "Per favore, leggi il paragrafo 2."
+  },
+  "530": {
+    "id": "530",
+    "text": "Grazie fratello XXX per la tua lettura."
+  },
+  "531": {
+    "id": "531",
+    "text": "ripassare"
+  },
+  "532": {
+    "id": "532",
+    "text": "Ripassiamo i punti principali di questo articolo."
+  },
+  "533": {
+    "id": "533",
+    "text": "punto principale"
+  },
+  "534": {
+    "id": "534",
+    "text": "Quali sono i punti principali del materiale di questa settimana?"
+  },
+  "535": {
+    "id": "535",
+    "text": "applicare XXX a YYY"
+  },
+  "536": {
+    "id": "536",
+    "text": "Come possiamo applicare questo a … ?"
+  },
+  "537": {
+    "id": "537",
+    "text": "Come possiamo applicare questo nel nostro ministero? ; Come possiamo usare questo [punto] nel nostro ministero?"
+  },
+  "538": {
+    "id": "538",
+    "text": "riassumere XXX"
+  },
+  "539": {
+    "id": "539",
+    "text": "Come possiamo riassumere questi paragrafi?"
+  },
+  "540": {
+    "id": "540",
+    "text": "Fratelli e sorelle",
+    "annotation": "(: quando si richiede attenzione o quando ci si rivolge all'uditorio)"
+  },
+  "541": {
+    "id": "541",
+    "text": "Fratello XXX",
+    "annotation": "(: quando si chiama qualcuno per fare un commento all'adunanza)"
+  },
+  "542": {
+    "id": "542",
+    "text": "Sorella XXX",
+    "annotation": "(: quando si chiama qualcuno per fare un commento all'adunanza)"
+  },
+  "543": {
+    "id": "543",
+    "text": "Alza la mano, per cortesia."
+  },
+  "544": {
+    "id": "544",
+    "text": "Attendi (/ Attenda) il microfono per cortesia."
+  },
+  "545": {
+    "id": "545",
+    "text": "Accendi (/ Accenda) il microfono per cortesia."
+  },
+  "546": {
+    "id": "546",
+    "text": "Tieni (/ Tenga) per cortesia il microfono nella posizione corretta."
+  },
+  "547": {
+    "id": "547",
+    "text": "Molto bene! ; Ben fatto!",
+    "annotation": "(: dire questo per congratularmi con qualcuno che ha pronunciato un buon discorso o fatto un buon commento, ecc.)"
+  },
+  "548": {
+    "id": "548",
+    "text": "Parole o frasi che indicano sequenza"
+  },
+  "549": {
+    "id": "549",
+    "text": "Ora; Il prossimo …"
+  },
+  "550": {
+    "id": "550",
+    "text": "Ora leggiamo il paragrafo 3."
+  },
+  "551": {
+    "id": "551",
+    "text": "Ora considereremo …"
+  },
+  "552": {
+    "id": "552",
+    "text": "Ora considereremo la seguente domanda."
+  },
+  "553": {
+    "id": "553",
+    "text": "Ora considereremo il seguente situazione (/ problema)."
+  },
+  "554": {
+    "id": "554",
+    "text": "Ora considereremo il seguente argomento."
+  },
+  "555": {
+    "id": "555",
+    "text": "Innanzi tutto …"
+  },
+  "556": {
+    "id": "556",
+    "text": "Successivamente …"
+  },
+  "557": {
+    "id": "557",
+    "text": "Infine …"
+  },
+  "558": {
+    "id": "558",
+    "text": "la scorsa settimana"
+  },
+  "559": {
+    "id": "559",
+    "text": "questa settimana"
+  },
+  "560": {
+    "id": "560",
+    "text": "Questa settimana considereremo i paragrafi da 10 a 18."
+  },
+  "561": {
+    "id": "561",
+    "text": "Questa settimana il lettore sarà il fratello XXX."
+  },
+  "562": {
+    "id": "562",
+    "text": "la settimana prossima (/ la settimana successiva)"
+  },
+  "563": {
+    "id": "563",
+    "text": "Cosa considereremo (/ tratteremo) la settimana prossima?"
+  },
+  "564": {
+    "id": "564",
+    "text": "ultima volta ; volta scorsa"
+  },
+  "565": {
+    "id": "565",
+    "text": "prossima volta (/ volta successiva)"
+  },
+  "566": {
+    "id": "566",
+    "text": "Proseguiamo. ; Possiamo proseguire."
+  },
+  "567": {
+    "id": "567",
+    "text": "Purtroppo siamo in ritardo. ; Purtroppo c’è rimasto poco tempo a disposizione."
+  },
+  "568": {
+    "id": "568",
+    "text": "Vogliamo ora proseguire visto che il tempo a disposizione sta per terminare."
+  },
+  "569": {
+    "id": "569",
+    "text": "Non c’è tempo per altro."
+  },
+  "570": {
+    "id": "570",
+    "text": "Dobbiamo terminare qui."
+  },
+  "572": {
+    "id": "572",
+    "text": "Testimonianza"
+  },
+  "573": {
+    "id": "573",
+    "text": "Servizio di campo"
+  },
+  "574": {
+    "id": "574",
+    "text": "servizio di campo; ministero di campo"
+  },
+  "575": {
+    "id": "575",
+    "text": "uscire in servizio con XXX"
+  },
+  "576": {
+    "id": "576",
+    "text": "Quando possiamo uscire insieme in servizio?"
+  },
+  "577": {
+    "id": "577",
+    "text": "predicazione"
+  },
+  "578": {
+    "id": "578",
+    "text": "opera di predicazione"
+  },
+  "579": {
+    "id": "579",
+    "text": "predicare"
+  },
+  "580": {
+    "id": "580",
+    "text": "predicare a XXX"
+  },
+  "581": {
+    "id": "581",
+    "text": "testimoniare a XXX",
+    "annotation": "{x}"
+  },
+  "582": {
+    "id": "582",
+    "text": "dare testimonianza a XXX"
+  },
+  "583": {
+    "id": "583",
+    "text": "testimoniare",
+    "annotation": "{x}"
+  },
+  "584": {
+    "id": "584",
+    "text": "testimonianza (/ opera) di casa in casa"
+  },
+  "585": {
+    "id": "585",
+    "text": "opera stradale"
+  },
+  "586": {
+    "id": "586",
+    "text": "testimonianza informale"
+  },
+  "587": {
+    "id": "587",
+    "text": "testimonianza in territorio commerciale"
+  },
+  "588": {
+    "id": "588",
+    "text": "visita ulteriore"
+  },
+  "589": {
+    "id": "589",
+    "text": "Vorresti venire con me domani ad una visita ulteriore?"
+  },
+  "590": {
+    "id": "590",
+    "text": "fare una visita ulteriore"
+  },
+  "591": {
+    "id": "591",
+    "text": "studio biblico"
+  },
+  "592": {
+    "id": "592",
+    "text": "iniziare uno studio biblico"
+  },
+  "593": {
+    "id": "593",
+    "text": "condurre uno studio biblico"
+  },
+  "594": {
+    "id": "594",
+    "text": "La settimana prossima ho uno studio biblico. Vorresti accompagnarmi?"
+  },
+  "595": {
+    "id": "595",
+    "text": "insegnante biblico"
+  },
+  "596": {
+    "id": "596",
+    "text": "studente biblico"
+  },
+  "597": {
+    "id": "597",
+    "text": "persona interessata"
+  },
+  "598": {
+    "id": "598",
+    "text": "coltivare l'interesse",
+    "annotation": "(: ritornare da persone che hanno mostrato interesse)"
+  },
+  "599": {
+    "id": "599",
+    "text": "tempo dedicato al servizio di campo"
+  },
+  "600": {
+    "id": "600",
+    "text": "Lo scorso mese ha fatto rapporto di 14 ore [di servizio di campo]."
+  },
+  "601": {
+    "id": "601",
+    "text": "Lo scorso mese ha fatto rapporto di 14 ore e 1 studio biblico."
+  },
+  "602": {
+    "id": "602",
+    "text": "presentazione; introduzione"
+  },
+  "603": {
+    "id": "603",
+    "text": "Conosci una buona presentazione per il servizio di campo?"
+  },
+  "604": {
+    "id": "604",
+    "text": "esperienza",
+    "annotation": "(: es. qualcosa che è accaduto nel ministero)"
+  },
+  "605": {
+    "id": "605",
+    "text": "Hai avuto delle esperienze interessanti nel ministero lo scorso mese?"
+  },
+  "606": {
+    "id": "606",
+    "text": "Ora il fratello XXX ci racconterà un'esperienza interessante."
+  },
+  "607": {
+    "id": "607",
+    "text": "Il Ministero del Regno"
+  },
+  "608": {
+    "id": "608",
+    "text": "inserto"
+  },
+  "609": {
+    "id": "609",
+    "text": "All'adunanza per il servizio di campo vi invito a portare con voi l'inserto del Ministero del Regno di dicembre 2006."
+  },
+  "610": {
+    "id": "610",
+    "text": "offerta",
+    "annotation": "(: una pubblicazione che viene offerta nel ministero in un particolare momento o periodo)"
+  },
+  "611": {
+    "id": "611",
+    "text": "Qual'è l'offerta di questo mese?"
+  },
+  "612": {
+    "id": "612",
+    "text": "Quale pubblicazione stiamo offrendo questo mese?"
+  },
+  "613": {
+    "id": "613",
+    "text": "campagna",
+    "annotation": "(: un periodo di attività nella quale un volantino speciale viene distribuito in modo esteso)"
+  },
+  "614": {
+    "id": "614",
+    "text": "Quando inizia la campagna?"
+  },
+  "615": {
+    "id": "615",
+    "text": "compagno",
+    "annotation": "(: es. nel ministero)"
+  },
+  "616": {
+    "id": "616",
+    "text": "Chi non è accoppiato?"
+  },
+  "617": {
+    "id": "617",
+    "text": "Tu fratello XXX puoi uscire con il fratello YYY."
+  },
+  "618": {
+    "id": "618",
+    "text": "Chi ha bisogno di mezzi di trasporto?",
+    "annotation": "(: Chi ha bisogno di aiuto per raggiungere il territorio?)"
+  },
+  "619": {
+    "id": "619",
+    "text": "territorio (per il servizio di campo)"
+  },
+  "620": {
+    "id": "620",
+    "text": "Chi ha bisogno di territorio?"
+  },
+  "621": {
+    "id": "621",
+    "text": "Ci sono dei problemi?"
+  },
+  "622": {
+    "id": "622",
+    "text": "Ci sono domande?"
+  },
+  "623": {
+    "id": "623",
+    "text": "Andiamo! ; Possiamo andare!",
+    "annotation": "(: usciamo ora insieme nel servizio di campo)"
+  },
+  "624": {
+    "id": "624",
+    "text": "Introduzioni"
+  },
+  "625": {
+    "id": "625",
+    "text": "Salve. Mi chiamo XXX"
+  },
+  "626": {
+    "id": "626",
+    "text": "Mi scusi.",
+    "annotation": "(: un'espressione usata attirare gentilmente l'attenzione di qualcuno nel ministero)"
+  },
+  "627": {
+    "id": "627",
+    "text": "Sto imparando XXX.",
+    "annotation": "(: XXX è una lingua)"
+  },
+  "628": {
+    "id": "628",
+    "text": "Parla XXX?",
+    "annotation": "(: XXX è una lingua)"
+  },
+  "629": {
+    "id": "629",
+    "text": "Sto cercando persone che parlano XXX.",
+    "annotation": "(: XXX è una lingua)"
+  },
+  "630": {
+    "id": "630",
+    "text": "Sono lieto di trovarla in casa."
+  },
+  "631": {
+    "id": "631",
+    "text": "E' un piacere incontrarla di nuovo."
+  },
+  "632": {
+    "id": "632",
+    "text": "E' un piacere poterle parlare di nuovo."
+  },
+  "633": {
+    "id": "633",
+    "text": "Mi spiace di essere capitato in un momento poco opportuno."
+  },
+  "634": {
+    "id": "634",
+    "text": "Vedo che è molto impegnato al momento."
+  },
+  "635": {
+    "id": "635",
+    "text": "Sarò breve."
+  },
+  "636": {
+    "id": "636",
+    "text": "Stiamo visitando tutte le famiglie della zona."
+  },
+  "637": {
+    "id": "637",
+    "text": "Oggi stiamo facendo brevi visite ai nostri vicini."
+  },
+  "638": {
+    "id": "638",
+    "text": "Parlando con le persone ho notato che …"
+  },
+  "639": {
+    "id": "639",
+    "text": "Parlando con le persone abbiamo notato che …"
+  },
+  "640": {
+    "id": "640",
+    "text": "Stiamo ragionando con le persone della zona su dove si può trovare aiuto pratico per far fronte ai problemi della vita."
+  },
+  "641": {
+    "id": "641",
+    "text": "Stiamo ragionando con i nostri vicini in merito a …"
+  },
+  "642": {
+    "id": "642",
+    "text": "Stiamo ragionando con le persone in merito a …"
+  },
+  "643": {
+    "id": "643",
+    "text": "Stiamo parlando con tutti in merito a …"
+  },
+  "644": {
+    "id": "644",
+    "text": "Sto parlando con le persone della zona di una questione che tutti noi dobbiamo affrontare."
+  },
+  "645": {
+    "id": "645",
+    "text": "Oggi stiamo chiedendo a tutti una domanda."
+  },
+  "646": {
+    "id": "646",
+    "text": "Oggi stiamo chiedendo ai nostri vicini …"
+  },
+  "647": {
+    "id": "647",
+    "text": "Vorrei farle una domanda."
+  },
+  "648": {
+    "id": "648",
+    "text": "Si è mai chiesto: …?"
+  },
+  "649": {
+    "id": "649",
+    "text": "Si è mai chiesto se Dio si preoccupa veramente delle ingiustizie e delle sofferenze che affliggono gli uomini?"
+  },
+  "650": {
+    "id": "650",
+    "text": "Stabilire un contatto"
+  },
+  "651": {
+    "id": "651",
+    "text": "Come posso contattarla?"
+  },
+  "652": {
+    "id": "652",
+    "text": "Può lasciarmi il suo numero di telefono?"
+  },
+  "653": {
+    "id": "653",
+    "text": "Il mio numero di cellulare è …"
+  },
+  "654": {
+    "id": "654",
+    "text": "La chiamerò prima di venire."
+  },
+  "655": {
+    "id": "655",
+    "text": "Le manderò un messaggio sms."
+  },
+  "656": {
+    "id": "656",
+    "text": "Ha ricevuto il mio messaggio sms?"
+  },
+  "657": {
+    "id": "657",
+    "text": "Possiamo incontrarci di nuovo."
+  },
+  "658": {
+    "id": "658",
+    "text": "Prendiamo un appuntamento."
+  },
+  "659": {
+    "id": "659",
+    "text": "Quando sarebbe conveniente per lei?"
+  },
+  "660": {
+    "id": "660",
+    "text": "Quando sarebbe conveniente incontrarsi?"
+  },
+  "661": {
+    "id": "661",
+    "text": "Mi spiace, domani non posso."
+  },
+  "662": {
+    "id": "662",
+    "text": "Quando preferisce che la chiami?"
+  },
+  "663": {
+    "id": "663",
+    "text": "Qual'è il momento migliore per tornare a trovarla?"
+  },
+  "664": {
+    "id": "664",
+    "text": "Che ne dice della settimana prossima?"
+  },
+  "665": {
+    "id": "665",
+    "text": "Le potrebbe andar bene nel pomeriggio martedì prossimo?"
+  },
+  "666": {
+    "id": "666",
+    "text": "Sarà nel negozio?"
+  },
+  "667": {
+    "id": "667",
+    "text": "Sarà a casa?"
+  },
+  "668": {
+    "id": "668",
+    "text": "Possiamo incontrarci per un tè (/caffè)."
+  },
+  "669": {
+    "id": "669",
+    "text": "Ci possiamo trovare per fare due chiacchere."
+  },
+  "670": {
+    "id": "670",
+    "text": "Ha tempo la settimana prossima?"
+  },
+  "671": {
+    "id": "671",
+    "text": "Ha 10 minuti di tempo domani?"
+  },
+  "672": {
+    "id": "672",
+    "text": "Possiamo vederci (/ incontrarci) un po' prima?"
+  },
+  "673": {
+    "id": "673",
+    "text": "Possiamo vederci (/ incontrarci) un po' più tardi?"
+  },
+  "674": {
+    "id": "674",
+    "text": "Mi spiace ma purtroppo devo cancellare il nostro appuntamento."
+  },
+  "675": {
+    "id": "675",
+    "text": "Possiamo riorganizzarci per un altro giorno?"
+  },
+  "676": {
+    "id": "676",
+    "text": "Introduzione della Bibbia"
+  },
+  "677": {
+    "id": "677",
+    "text": "Sono venuto a condividere con lei un importante pensiero tratto dalla Bibbia."
+  },
+  "678": {
+    "id": "678",
+    "text": "Vorrei condividere con lei un pensiero incoraggiante tratto dalla Bibbia."
+  },
+  "679": {
+    "id": "679",
+    "text": "Sto condividendo con i miei vicini un pensiero incoraggiante tratto dalla Bibbia."
+  },
+  "680": {
+    "id": "680",
+    "text": "Stiamo incoraggiando le persone a leggere la loro Bibbia."
+  },
+  "681": {
+    "id": "681",
+    "text": "Le risposte che la Bibbia dà a importanti domande spesso meravigliano le persone. Ad esempio …"
+  },
+  "682": {
+    "id": "682",
+    "text": "Noti cosa dice qui la Bibbia."
+  },
+  "683": {
+    "id": "683",
+    "text": "Le piacerebbe (/ farebbe piacere) studiare la Bibbia con me?"
+  },
+  "684": {
+    "id": "684",
+    "text": "Stiamo offrendo alle persone un gratuito studio biblico a domicilio."
+  },
+  "685": {
+    "id": "685",
+    "text": "Introduzione della letteratura"
+  },
+  "686": {
+    "id": "686",
+    "text": "Vorrei lasciarle questo volantino."
+  },
+  "687": {
+    "id": "687",
+    "text": "Questo volantino parla di …"
+  },
+  "688": {
+    "id": "688",
+    "text": "Leggere questo volantino non le prenderà (/ porterà via) molto del suo tempo."
+  },
+  "689": {
+    "id": "689",
+    "text": "E' molto interessante."
+  },
+  "690": {
+    "id": "690",
+    "text": "Le farebbe piacere leggere questo opuscolo?"
+  },
+  "691": {
+    "id": "691",
+    "text": "Le posso lasciare queste riviste?"
+  },
+  "692": {
+    "id": "692",
+    "text": "Osservi questa figura."
+  },
+  "693": {
+    "id": "693",
+    "text": "Volevo mostrarle questo libro."
+  },
+  "694": {
+    "id": "694",
+    "text": "Noti cosa viene detto in questo libro."
+  },
+  "695": {
+    "id": "695",
+    "text": "E' gratuito."
+  },
+  "696": {
+    "id": "696",
+    "text": "La nostra opera è sostenuta da contribuzioni volontarie."
+  },
+  "697": {
+    "id": "697",
+    "text": "Può prendere questo libro in prestito."
+  },
+  "698": {
+    "id": "698",
+    "text": "Le posso prestare questo libro."
+  },
+  "699": {
+    "id": "699",
+    "text": "Le vorrei lasciare alcune informazioni nella sua lingua."
+  },
+  "700": {
+    "id": "700",
+    "text": "Chiedere opinioni"
+  },
+  "701": {
+    "id": "701",
+    "text": "Che ne pensa?",
+    "annotation": "(: Dire questo dopo aver detto o mostrato qualcosa)"
+  },
+  "702": {
+    "id": "702",
+    "text": "Come le sembra?’"
+  },
+  "703": {
+    "id": "703",
+    "text": "E' d'accordo con …?"
+  },
+  "704": {
+    "id": "704",
+    "text": "Cosa ne pensa di (/ in merito a) …?"
+  },
+  "705": {
+    "id": "705",
+    "text": "Cosa ne pensa del …?"
+  },
+  "706": {
+    "id": "706",
+    "text": "Visite ulteriori"
+  },
+  "707": {
+    "id": "707",
+    "text": "La prossima volta mi piacerebbe parlare di …"
+  },
+  "708": {
+    "id": "708",
+    "text": "La prossima volta vorrei rispondere ad un'importante domanda …"
+  },
+  "709": {
+    "id": "709",
+    "text": "La prossima volta che vengo vorrei considerare con lei questa domanda."
+  },
+  "710": {
+    "id": "710",
+    "text": "La prossima volta possiamo considerare le informazioni contenute nel capitolo 2 di questo libro."
+  },
+  "711": {
+    "id": "711",
+    "text": "Si ricorda …"
+  },
+  "712": {
+    "id": "712",
+    "text": "La volta scorsa le avevo fatto una domanda."
+  },
+  "713": {
+    "id": "713",
+    "text": "Oggi vorrei dare una risposta a quella domanda."
+  },
+  "714": {
+    "id": "714",
+    "text": "Ricerca di una persona"
+  },
+  "715": {
+    "id": "715",
+    "text": "E' a casa XXX?"
+  },
+  "716": {
+    "id": "716",
+    "text": "C'è XXX?"
+  },
+  "717": {
+    "id": "717",
+    "text": "E' uscito."
+  },
+  "718": {
+    "id": "718",
+    "text": "Quando torna?"
+  },
+  "719": {
+    "id": "719",
+    "text": "Lo posso aspettare."
+  },
+  "720": {
+    "id": "720",
+    "text": "Ritornerò domani."
+  },
+  "721": {
+    "id": "721",
+    "text": "Non importa."
+  },
+  "722": {
+    "id": "722",
+    "text": "Non c'è nessun problema."
+  },
+  "724": {
+    "id": "724",
+    "text": "Pronunciare preghiere"
+  },
+  "725": {
+    "id": "725",
+    "text": "Preghiera modello (Matteo 6)"
+  },
+  "726": {
+    "id": "726",
+    "text": "Padre nostro che sei nei cieli, sia santificato il tuo nome."
+  },
+  "727": {
+    "id": "727",
+    "text": "Venga il tuo regno."
+  },
+  "728": {
+    "id": "728",
+    "text": "Sia fatta la tua volontà, come in cielo, anche sulla terra."
+  },
+  "729": {
+    "id": "729",
+    "text": "Dacci oggi il nostro pane per questo giorno;"
+  },
+  "730": {
+    "id": "730",
+    "text": "e perdonaci I nostri debiti, come anche noi li abbiamo perdonati ai nostri debitori."
+  },
+  "731": {
+    "id": "731",
+    "text": "E non ci condurre in tentazione, ma liberaci dal malvagio."
+  },
+  "732": {
+    "id": "732",
+    "text": "Rivolgersi a Geova"
+  },
+  "733": {
+    "id": "733",
+    "text": "tu (: il pronome personale comunemente usato per rivolgersi a Geova nella lingua di destinazione"
+  },
+  "734": {
+    "id": "734",
+    "text": "Geova"
+  },
+  "735": {
+    "id": "735",
+    "text": "Dio"
+  },
+  "736": {
+    "id": "736",
+    "text": "Nostro Dio"
+  },
+  "737": {
+    "id": "737",
+    "text": "Geova nostro Dio"
+  },
+  "738": {
+    "id": "738",
+    "text": "Creatore"
+  },
+  "739": {
+    "id": "739",
+    "text": "Nostro Creatore"
+  },
+  "740": {
+    "id": "740",
+    "text": "Creatore dei cieli e della terra"
+  },
+  "741": {
+    "id": "741",
+    "text": "padre"
+  },
+  "742": {
+    "id": "742",
+    "text": "padre nostro"
+  },
+  "743": {
+    "id": "743",
+    "text": "caro"
+  },
+  "744": {
+    "id": "744",
+    "text": "buono"
+  },
+  "745": {
+    "id": "745",
+    "text": "misericordioso"
+  },
+  "746": {
+    "id": "746",
+    "text": "amato; diletto"
+  },
+  "747": {
+    "id": "747",
+    "text": "amorevole"
+  },
+  "748": {
+    "id": "748",
+    "text": "potente"
+  },
+  "749": {
+    "id": "749",
+    "text": "onnipotente"
+  },
+  "750": {
+    "id": "750",
+    "text": "nei cieli; celeste"
+  },
+  "751": {
+    "id": "751",
+    "text": "Padre nostro che sei nei cieli"
+  },
+  "752": {
+    "id": "752",
+    "text": "Gesù Cristo"
+  },
+  "753": {
+    "id": "753",
+    "text": "Gesù Cristo"
+  },
+  "754": {
+    "id": "754",
+    "text": "Ti rivolgiamo questa preghiera nel nome di Gesù."
+  },
+  "755": {
+    "id": "755",
+    "text": "Ti rivolgiamo questa preghiera tramite (/mediante) Gesù."
+  },
+  "756": {
+    "id": "756",
+    "text": "Ti preghiamo di accettare la nostra preghiera nel nome di Gesù Cristo."
+  },
+  "757": {
+    "id": "757",
+    "text": "nostro salvatore"
+  },
+  "758": {
+    "id": "758",
+    "text": "tuo figlio"
+  },
+  "759": {
+    "id": "759",
+    "text": "nostro re"
+  },
+  "760": {
+    "id": "760",
+    "text": "nostro re intronizzato"
+  },
+  "761": {
+    "id": "761",
+    "text": "Amen."
+  },
+  "762": {
+    "id": "762",
+    "text": "Lodi"
+  },
+  "763": {
+    "id": "763",
+    "text": "Ti amiamo."
+  },
+  "764": {
+    "id": "764",
+    "text": "Ti lodiamo."
+  },
+  "765": {
+    "id": "765",
+    "text": "Ti diamo gloria."
+  },
+  "766": {
+    "id": "766",
+    "text": "Teniamo lo sguardo rivolto alle benedizioni che il tuo Regno porterà."
+  },
+  "767": {
+    "id": "767",
+    "text": "Vogliamo fare la tua volontà."
+  },
+  "768": {
+    "id": "768",
+    "text": "Vogliamo lodare il tuo nome."
+  },
+  "769": {
+    "id": "769",
+    "text": "Gratitudine"
+  },
+  "770": {
+    "id": "770",
+    "text": "Siamo felici di …"
+  },
+  "771": {
+    "id": "771",
+    "text": "Siamo felici di essere qui riuniti."
+  },
+  "772": {
+    "id": "772",
+    "text": "Siamo felici di essere qui riuniti oggi."
+  },
+  "773": {
+    "id": "773",
+    "text": "Siamo grati di …"
+  },
+  "774": {
+    "id": "774",
+    "text": "Siamo grati di avere questo luogo di adunanza."
+  },
+  "775": {
+    "id": "775",
+    "text": "Ti siamo grati per averci dato questa opportunità."
+  },
+  "776": {
+    "id": "776",
+    "text": "Siamo grati per l'instruzione che ci dai mediante le adunanze."
+  },
+  "777": {
+    "id": "777",
+    "text": "Grazie (/ Ti ringraziamo) per …"
+  },
+  "778": {
+    "id": "778",
+    "text": "Grazie (/ Ti ringraziamo) per questo privilegio meraviglioso."
+  },
+  "779": {
+    "id": "779",
+    "text": "Grazie (/ Ti ringraziamo) per averci dato la vita."
+  },
+  "780": {
+    "id": "780",
+    "text": "Grazie (/ Ti ringraziamo) per averci condotto fuori da questo mondo."
+  },
+  "781": {
+    "id": "781",
+    "text": "Grazie (/ Ti ringraziamo) per averci dato la tua Parola, la Bibbia."
+  },
+  "782": {
+    "id": "782",
+    "text": "Grazie (/ Ti ringraziamo) per averci dato l'opportunità di conoscerti."
+  },
+  "783": {
+    "id": "783",
+    "text": "Grazie (/ Ti ringraziamo) per il sacrificio di riscatto di Gesù Cristo."
+  },
+  "784": {
+    "id": "784",
+    "text": "Grazie  (/ Ti ringraziamo) per la nostra fratellanza (/ per i fratelli e sorelle che abbiamo)."
+  },
+  "785": {
+    "id": "785",
+    "text": "Grazie (/ Ti ringraziamo) per questa adunanza."
+  },
+  "786": {
+    "id": "786",
+    "text": "Grazie (/ Ti ringraziamo) per la speranza che ci dai per il futuro."
+  },
+  "787": {
+    "id": "787",
+    "text": "Grazie (/ Ti ringraziamo) per aver mandato tuo figlio sulla terra."
+  },
+  "788": {
+    "id": "788",
+    "text": "Grazie (/ Ti ringraziamo) per i rammemoratori che abbiamo ricevuto da questa adunanza."
+  },
+  "789": {
+    "id": "789",
+    "text": "Richieste"
+  },
+  "790": {
+    "id": "790",
+    "text": "guidare XXX"
+  },
+  "791": {
+    "id": "791",
+    "text": "Guidaci."
+  },
+  "792": {
+    "id": "792",
+    "text": "Guida la tua organizzazione."
+  },
+  "793": {
+    "id": "793",
+    "text": "Guida il Corpo Direttivo."
+  },
+  "794": {
+    "id": "794",
+    "text": "aiutare XXX"
+  },
+  "795": {
+    "id": "795",
+    "text": "Aiutaci a servirti."
+  },
+  "796": {
+    "id": "796",
+    "text": "Aiutaci a fare ciò che è giusto."
+  },
+  "797": {
+    "id": "797",
+    "text": "Aiutaci a resistere alle tentazioni."
+  },
+  "798": {
+    "id": "798",
+    "text": "Aiutaci a perseverare."
+  },
+  "799": {
+    "id": "799",
+    "text": "Aiutaci a continuare a frequentare le adunanze."
+  },
+  "800": {
+    "id": "800",
+    "text": "Aiutaci a trovare persone di cuore sincero nel ministero."
+  },
+  "801": {
+    "id": "801",
+    "text": "Aiutaci a dire ad altri le cose che abbiamo imparato."
+  },
+  "802": {
+    "id": "802",
+    "text": "Aiutaci a concentraci durante l'adunanza."
+  },
+  "803": {
+    "id": "803",
+    "text": "Aiutaci a meditare sulla tua Parola."
+  },
+  "804": {
+    "id": "804",
+    "text": "Aiutaci ad applicare (/ mettere in pratica) le cose che abbiamo imparato."
+  },
+  "805": {
+    "id": "805",
+    "text": "Aiuta i nostri fratelli che stanno affrontando difficoltà."
+  },
+  "806": {
+    "id": "806",
+    "text": "Aiutaci a comprendere i bisogni dei nostri fratelli."
+  },
+  "807": {
+    "id": "807",
+    "text": "Aiuta XXX a continuare a studiare la tua Parola."
+  },
+  "808": {
+    "id": "808",
+    "text": "Aiuta XXX ad essere coraggioso."
+  },
+  "809": {
+    "id": "809",
+    "text": "Aiuta XXX a continuare a fare buon progresso spirituale."
+  },
+  "810": {
+    "id": "810",
+    "text": "dare XXX a YYY"
+  },
+  "811": {
+    "id": "811",
+    "text": "Dacci …"
+  },
+  "812": {
+    "id": "812",
+    "text": "Dacci il tuo spirito santo."
+  },
+  "813": {
+    "id": "813",
+    "text": "Dacci sapienza."
+  },
+  "814": {
+    "id": "814",
+    "text": "Dacci la forza di fare tutto quello che ci è richiesto."
+  },
+  "815": {
+    "id": "815",
+    "text": "chiedere di XXX"
+  },
+  "816": {
+    "id": "816",
+    "text": "Chiediamo di …"
+  },
+  "817": {
+    "id": "817",
+    "text": "Chiediamo la tua guida in questo momento difficile."
+  },
+  "818": {
+    "id": "818",
+    "text": "benedire XXX"
+  },
+  "819": {
+    "id": "819",
+    "text": "Benedire …"
+  },
+  "820": {
+    "id": "820",
+    "text": "Benedicici. (/ Dacci la tua benedizione.)"
+  },
+  "821": {
+    "id": "821",
+    "text": "Benedici il nostro ministero."
+  },
+  "822": {
+    "id": "822",
+    "text": "Benedici questa adunanza."
+  },
+  "823": {
+    "id": "823",
+    "text": "Benedici la nostra congregazione."
+  },
+  "824": {
+    "id": "824",
+    "text": "proteggere XXX"
+  },
+  "825": {
+    "id": "825",
+    "text": "Poteggici."
+  },
+  "826": {
+    "id": "826",
+    "text": "Proteggi i fratelli che non hanno potuto essere presenti qui questa sera."
+  },
+  "827": {
+    "id": "827",
+    "text": "Proteggi i nostri fratelli che sono perseguitati in altre parti del mondo."
+  },
+  "828": {
+    "id": "828",
+    "text": "Proteggici mentre questa sera facciamo ritorno alle nostre abitazioni."
+  },
+  "829": {
+    "id": "829",
+    "text": "Ti preghiamo …",
+    "annotation": "(: una parola o frase che può essere usata in una preghiera per fare una richiesta più rispettosa o intensa)"
+  },
+  "830": {
+    "id": "830",
+    "text": "Benedici questa adunanza."
+  },
+  "831": {
+    "id": "831",
+    "text": "Ti preghiamo di benedire questa adunanza."
+  },
+  "832": {
+    "id": "832",
+    "text": "Peccati & problemi"
+  },
+  "833": {
+    "id": "833",
+    "text": "Siamo imperfetti."
+  },
+  "834": {
+    "id": "834",
+    "text": "peccare"
+  },
+  "835": {
+    "id": "835",
+    "text": "Pecchiamo molte volte."
+  },
+  "836": {
+    "id": "836",
+    "text": "Ci dispiace."
+  },
+  "837": {
+    "id": "837",
+    "text": "Ci dispiace molto che abbiamo peccato."
+  },
+  "838": {
+    "id": "838",
+    "text": "Ci dispiace che abbiamo peccatori."
+  },
+  "839": {
+    "id": "839",
+    "text": "perdono"
+  },
+  "840": {
+    "id": "840",
+    "text": "Chiediamo umilmente il tuo perdono."
+  },
+  "841": {
+    "id": "841",
+    "text": "perdonare XXX",
+    "annotation": "(: XXX è una persona)"
+  },
+  "842": {
+    "id": "842",
+    "text": "Ti preghiamo di perdonarci."
+  },
+  "843": {
+    "id": "843",
+    "text": "Ti preghiamo di perdonarci sulla base del sacrificio di riscatto di tuo figlio."
+  },
+  "844": {
+    "id": "844",
+    "text": "perdonare XXX",
+    "annotation": "(: XXX è un peccato)"
+  },
+  "845": {
+    "id": "845",
+    "text": "Ti preghiamo di perdonare i nostri peccati."
+  },
+  "846": {
+    "id": "846",
+    "text": "Viviamo in un mondo malvagio."
+  },
+  "847": {
+    "id": "847",
+    "text": "Abbiamo molti problemi."
+  }
+}

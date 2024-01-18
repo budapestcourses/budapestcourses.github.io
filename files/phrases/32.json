@@ -1,0 +1,3362 @@
+{
+  "5": {
+    "id": "5",
+    "text": "xxx"
+  },
+  "7": {
+    "id": "7",
+    "text": "Uyghurche"
+  },
+  "8": {
+    "id": "8",
+    "text": "Uighur (ULY-modified) | .cn"
+  },
+  "11": {
+    "id": "11",
+    "text": "xxx"
+  },
+  "12": {
+    "id": "12",
+    "text": "xxx"
+  },
+  "13": {
+    "id": "13",
+    "text": "xxx"
+  },
+  "14": {
+    "id": "14",
+    "text": null
+  },
+  "15": {
+    "id": "15",
+    "text": null
+  },
+  "16": {
+    "id": "16",
+    "text": null
+  },
+  "18": {
+    "id": "18",
+    "text": "xxx"
+  },
+  "19": {
+    "id": "19",
+    "text": "xxx"
+  },
+  "20": {
+    "id": "20",
+    "text": "xxx"
+  },
+  "21": {
+    "id": "21",
+    "text": "xxx"
+  },
+  "22": {
+    "id": "22",
+    "text": "xxx"
+  },
+  "23": {
+    "id": "23",
+    "text": "xxx"
+  },
+  "24": {
+    "id": "24",
+    "text": "xxx"
+  },
+  "25": {
+    "id": "25",
+    "text": "xxx"
+  },
+  "26": {
+    "id": "26",
+    "text": "xxx"
+  },
+  "27": {
+    "id": "27",
+    "text": "xxx"
+  },
+  "28": {
+    "id": "28",
+    "text": "xxx"
+  },
+  "29": {
+    "id": "29",
+    "text": "xxx"
+  },
+  "30": {
+    "id": "30",
+    "text": "xxx"
+  },
+  "31": {
+    "id": "31",
+    "text": "xxx"
+  },
+  "32": {
+    "id": "32",
+    "text": "xxx"
+  },
+  "33": {
+    "id": "33",
+    "text": "xxx"
+  },
+  "34": {
+    "id": "34",
+    "text": "xxx"
+  },
+  "35": {
+    "id": "35",
+    "text": "xxx"
+  },
+  "37": {
+    "id": "37",
+    "text": "xxx"
+  },
+  "38": {
+    "id": "38",
+    "text": "xxx"
+  },
+  "39": {
+    "id": "39",
+    "text": "xxx"
+  },
+  "40": {
+    "id": "40",
+    "text": "yehwa guwahchiliri"
+  },
+  "41": {
+    "id": "41",
+    "text": "yehwa guwahchisi"
+  },
+  "42": {
+    "id": "42",
+    "text": "muqeddes kitabni tetqiq qilghuchilar"
+  },
+  "43": {
+    "id": "43",
+    "text": "qérindash; burader",
+    "annotation": "{.kz}"
+  },
+  "44": {
+    "id": "44",
+    "text": "rohiy jehettin yétilgen qérindash"
+  },
+  "45": {
+    "id": "45",
+    "text": "étiqadchi qérindashlirimiz"
+  },
+  "46": {
+    "id": "46",
+    "text": "imandashlirimiz arisida"
+  },
+  "47": {
+    "id": "47",
+    "text": "qérindash; ayal qérindash"
+  },
+  "48": {
+    "id": "48",
+    "text": "layaqetlik ayal qérindash"
+  },
+  "49": {
+    "id": "49",
+    "text": "étiqadchi acha-singillirimiz",
+    "annotation": "{~}"
+  },
+  "50": {
+    "id": "50",
+    "text": "acha-singillirimiz"
+  },
+  "51": {
+    "id": "51",
+    "text": "sizning rohiy jehettiki qérindashliringiz"
+  },
+  "52": {
+    "id": "52",
+    "text": "xxx"
+  },
+  "53": {
+    "id": "53",
+    "text": "yerde yashashqa ümidi bar ademler"
+  },
+  "54": {
+    "id": "54",
+    "text": "bashqa qoylar"
+  },
+  "55": {
+    "id": "55",
+    "text": "asmanda yashashqa ümidi bar ademler"
+  },
+  "56": {
+    "id": "56",
+    "text": "mesih qilin'ghan; yaghlan'ghan; maylan'ghan",
+    "annotation": "{.kz}"
+  },
+  "57": {
+    "id": "57",
+    "text": "mesih qilin'ghan étiqadchilar"
+  },
+  "58": {
+    "id": "58",
+    "text": "özining yer yüzidiki mesih qilin'ghan egeshküchiliri jama'iti"
+  },
+  "59": {
+    "id": "59",
+    "text": "sadiq we pem-parasetlik qul"
+  },
+  "60": {
+    "id": "60",
+    "text": "yétekchi kéngesh"
+  },
+  "61": {
+    "id": "61",
+    "text": "yétekchi kéngesh ezasi"
+  },
+  "62": {
+    "id": "62",
+    "text": null
+  },
+  "63": {
+    "id": "63",
+    "text": "chömüldürül-; chömdürül-",
+    "annotation": "{.kz}"
+  },
+  "64": {
+    "id": "64",
+    "text": "men 2006-yili chömüldürüldüm."
+  },
+  "65": {
+    "id": "65",
+    "text": "XXX-ni (sugha) chömüldür- (/chömdür-",
+    "annotation": "{.kz}"
+  },
+  "66": {
+    "id": "66",
+    "text": "yehya eysani (sugha) chömüldürdi."
+  },
+  "67": {
+    "id": "67",
+    "text": "(sugha) chömüldürülüsh"
+  },
+  "68": {
+    "id": "68",
+    "text": "u oqughuchisining sugha chömüldürülishige qatnashti."
+  },
+  "69": {
+    "id": "69",
+    "text": "wez éytquchi; wezichi",
+    "annotation": "{.kz}"
+  },
+  "70": {
+    "id": "70",
+    "text": "téxi chömüldürülmigen wez éytquchi"
+  },
+  "71": {
+    "id": "71",
+    "text": "u qachan sugha chömüldürülmigen wez éytquchi boldi?"
+  },
+  "72": {
+    "id": "72",
+    "text": "chömüldürülgen wez éytquchi"
+  },
+  "73": {
+    "id": "73",
+    "text": "muntizim emes wez éytquchi"
+  },
+  "74": {
+    "id": "74",
+    "text": "wez éytishni toxtap qalghan étiqadchi (/qérindash)"
+  },
+  "75": {
+    "id": "75",
+    "text": null
+  },
+  "76": {
+    "id": "76",
+    "text": "xizmet"
+  },
+  "77": {
+    "id": "77",
+    "text": "bizning yehwa xudagha bolghan xizmitimiz"
+  },
+  "78": {
+    "id": "78",
+    "text": "toluq waqitliq xizmet"
+  },
+  "79": {
+    "id": "79",
+    "text": "xizmet qil-"
+  },
+  "80": {
+    "id": "80",
+    "text": "XXX bolup xizmet qil-"
+  },
+  "81": {
+    "id": "81",
+    "text": "aqsaqal bolup xizmet qil-"
+  },
+  "82": {
+    "id": "82",
+    "text": "pida'iy wez éytquchi bolup xizmet qil-"
+  },
+  "83": {
+    "id": "83",
+    "text": "u bizning jama'etchilikimizde aqsaqal bolup xizmet qilidu."
+  },
+  "84": {
+    "id": "84",
+    "text": "buningdin kéyin (/emdi) XXX aqsaqal emes."
+  },
+  "85": {
+    "id": "85",
+    "text": "yehwagha xizmet qil-"
+  },
+  "86": {
+    "id": "86",
+    "text": "xizmetchi"
+  },
+  "87": {
+    "id": "87",
+    "text": "toluq waqitliq xizmetchi"
+  },
+  "88": {
+    "id": "88",
+    "text": "xudaning xizmetchiliri"
+  },
+  "89": {
+    "id": "89",
+    "text": "pida'iy; özini xizmetke atighuchi (/béghishlighuchi)"
+  },
+  "90": {
+    "id": "90",
+    "text": "heqsiz özini xizmetke atighuchi (/béghishlighuchi)"
+  },
+  "91": {
+    "id": "91",
+    "text": "padishahliq yighilish zali qurulush ishliri"
+  },
+  "92": {
+    "id": "92",
+    "text": "tebi'iy apetlerge uchrighanlargha yardem bérish ishliri"
+  },
+  "93": {
+    "id": "93",
+    "text": "éhtiyaj"
+  },
+  "94": {
+    "id": "94",
+    "text": "alahide éhtiyaj bar térritoriyide xizmet qilish"
+  },
+  "95": {
+    "id": "95",
+    "text": "alahide éhtiyaj bar térritoriyige köchüp bérish"
+  },
+  "96": {
+    "id": "96",
+    "text": "pida'iy wez éytquchi"
+  },
+  "97": {
+    "id": "97",
+    "text": "pida'iy wez éytquchilar mektipige qatnash-"
+  },
+  "98": {
+    "id": "98",
+    "text": "pida'iy wez éytquchi"
+  },
+  "99": {
+    "id": "99",
+    "text": "yardemchi pida'iy wez éytquchi"
+  },
+  "100": {
+    "id": "100",
+    "text": "her ayda yardemchi pida'iy wez éytquchi bolup xizmet qilish"
+  },
+  "101": {
+    "id": "101",
+    "text": "mexsus (/alahide) pida'iy wez éytquchi"
+  },
+  "102": {
+    "id": "102",
+    "text": "yat el xelqi arisda wez éytquchi"
+  },
+  "103": {
+    "id": "103",
+    "text": "xxx"
+  },
+  "104": {
+    "id": "104",
+    "text": "XXX-ni iltimas qil-"
+  },
+  "105": {
+    "id": "105",
+    "text": "alahide xizmet qilishni iltimas qil-"
+  },
+  "106": {
+    "id": "106",
+    "text": "gili'ad mektipige kirishke iltimas qil-"
+  },
+  "107": {
+    "id": "107",
+    "text": "iltimasname"
+  },
+  "108": {
+    "id": "108",
+    "text": "iltimasname toldur-"
+  },
+  "109": {
+    "id": "109",
+    "text": "pida'iy wez éytquchi iltimasnamisini toldur-"
+  },
+  "110": {
+    "id": "110",
+    "text": "iltimasnamini tapshur-"
+  },
+  "111": {
+    "id": "111",
+    "text": "tewsiye qilish"
+  },
+  "112": {
+    "id": "112",
+    "text": "aqsaqal süpitide tewsiye qilin-"
+  },
+  "113": {
+    "id": "113",
+    "text": "XXX-ni aqsaqal süpitide tewsiye qil-"
+  },
+  "114": {
+    "id": "114",
+    "text": "teyinlinish"
+  },
+  "115": {
+    "id": "115",
+    "text": "XXX bolup teyinlen-"
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX aqsaqal bolup teyinlendi."
+  },
+  "117": {
+    "id": "117",
+    "text": "XXX-ni yardemchi xizmetchi bolup teyinle-"
+  },
+  "118": {
+    "id": "118",
+    "text": "teleplerge layaqetlik (/muwapiq) bol-"
+  },
+  "119": {
+    "id": "119",
+    "text": "[uning] sugha chömüldürülmigen wez éytquchi bolush layaqiti heqqide muzakire qil-"
+  },
+  "120": {
+    "id": "120",
+    "text": "chömüldürülüshning teleplirige layiq bolush"
+  },
+  "121": {
+    "id": "121",
+    "text": "sugha chömüldürülmigen wez éytquchi bolush layaqitige tosh-"
+  },
+  "122": {
+    "id": "122",
+    "text": "xxx"
+  },
+  "123": {
+    "id": "123",
+    "text": "aqsaqal"
+  },
+  "124": {
+    "id": "124",
+    "text": "(…-din xewer alidighan/…-gha mes'ul) aqsaqal; nazaretchi",
+    "annotation": "{.kz}"
+  },
+  "125": {
+    "id": "125",
+    "text": "《hediyiler》"
+  },
+  "126": {
+    "id": "126",
+    "text": "yardemchi xizmetchi"
+  },
+  "127": {
+    "id": "127",
+    "text": "aqsaqallar kéngishi"
+  },
+  "128": {
+    "id": "128",
+    "text": "aqsaqallar kéngishining uchrishishini ötküz-"
+  },
+  "129": {
+    "id": "129",
+    "text": "jama'etchilikning wez xizmiti komitéti"
+  },
+  "130": {
+    "id": "130",
+    "text": "bu mesile jama'etchilikning wez xizmiti komitéti teripidin maqullinishi kérek."
+  },
+  "131": {
+    "id": "131",
+    "text": "aqsaqallarning kéngishining riyasetchi aqsaqili"
+  },
+  "132": {
+    "id": "132",
+    "text": "jama'étchilik katipi"
+  },
+  "133": {
+    "id": "133",
+    "text": "wez xizmitige mes'ul aqsaqal"
+  },
+  "134": {
+    "id": "134",
+    "text": "közitish munari  öginishke riyasetchilik qilghuchi"
+  },
+  "135": {
+    "id": "135",
+    "text": "wez éytquchilarni terbiyilesh mektipige mes'ul aqsaqal (/bolghuchi)"
+  },
+  "136": {
+    "id": "136",
+    "text": "yardemchi nesihet bergüchi aqsaqal"
+  },
+  "137": {
+    "id": "137",
+    "text": "gruppigha mes'ul aqsaqal (/bolghuchi)"
+  },
+  "138": {
+    "id": "138",
+    "text": "chare-tedbir körüsh komitéti"
+  },
+  "139": {
+    "id": "139",
+    "text": "chare-tedbir körüsh komitéti teshkille-"
+  },
+  "140": {
+    "id": "140",
+    "text": "rohiy padichilar"
+  },
+  "141": {
+    "id": "141",
+    "text": "rohiy qoy"
+  },
+  "142": {
+    "id": "142",
+    "text": "aqsaqallarning padilarni yoqlishi"
+  },
+  "143": {
+    "id": "143",
+    "text": "XXX-ni yoqla-; XXX-gha yoqlap ber-"
+  },
+  "144": {
+    "id": "144",
+    "text": "xxx"
+  },
+  "145": {
+    "id": "145",
+    "text": "yoqlash qilghuchi aqsaqal",
+    "annotation": "{?+}"
+  },
+  "146": {
+    "id": "146",
+    "text": "rayon'gha mes'ul aqsaqal"
+  },
+  "147": {
+    "id": "147",
+    "text": "rayon"
+  },
+  "148": {
+    "id": "148",
+    "text": "seplime rayon'gha mes'ul aqsaqal"
+  },
+  "149": {
+    "id": "149",
+    "text": "jama'etchiliklerni yoqla-"
+  },
+  "150": {
+    "id": "150",
+    "text": "rayon'gha mes'ul aqsaqalning yoqlishi"
+  },
+  "151": {
+    "id": "151",
+    "text": "da'irige mes'ul aqsaqal"
+  },
+  "152": {
+    "id": "152",
+    "text": "da'ire"
+  },
+  "153": {
+    "id": "153",
+    "text": "mexsus ziyaret qilghuchi aqsaqal"
+  },
+  "154": {
+    "id": "154",
+    "text": "xxx"
+  },
+  "155": {
+    "id": "155",
+    "text": "jama'etchilik"
+  },
+  "156": {
+    "id": "156",
+    "text": "jama'etchilikni böl-"
+  },
+  "157": {
+    "id": "157",
+    "text": "yéngi jama'etchilikni teshkille-"
+  },
+  "158": {
+    "id": "158",
+    "text": "étiqadchilar jama'iti"
+  },
+  "159": {
+    "id": "159",
+    "text": "gruppa; top"
+  },
+  "160": {
+    "id": "160",
+    "text": "jama'ettin arliqi yiraqta bolghan gruppa"
+  },
+  "161": {
+    "id": "161",
+    "text": "chet'el tili gruppisi"
+  },
+  "162": {
+    "id": "162",
+    "text": "xxx"
+  },
+  "163": {
+    "id": "163",
+    "text": "tarmaq ish béjirish orni; shöbe",
+    "annotation": "{.kz}"
+  },
+  "164": {
+    "id": "164",
+    "text": "yehwa guwahchilirining tarmaq ish béjirish orni"
+  },
+  "165": {
+    "id": "165",
+    "text": "tarmaq ish béjirish ornining ishlirige riyasetchilik qilghuchi (aqsaqal)"
+  },
+  "166": {
+    "id": "166",
+    "text": "tarmaq ish béjirish komitéti"
+  },
+  "167": {
+    "id": "167",
+    "text": "yerlik ish béjirish komitéti"
+  },
+  "168": {
+    "id": "168",
+    "text": "beytel"
+  },
+  "169": {
+    "id": "169",
+    "text": "beytelde xizmet qilghuchi"
+  },
+  "170": {
+    "id": "170",
+    "text": "siz beytelni ziyaret qilghungiz kélemdu?"
+  },
+  "171": {
+    "id": "171",
+    "text": "ziyaret"
+  },
+  "172": {
+    "id": "172",
+    "text": "bizning jama'etchilikimiz kéler heptide beytelni ziyaret qilmaqchi."
+  },
+  "173": {
+    "id": "173",
+    "text": "men silerning ziyaret yétekchinglar."
+  },
+  "174": {
+    "id": "174",
+    "text": "men silerge tarmaq ish béjirish ornining térritoriyasini körsitimen."
+  },
+  "175": {
+    "id": "175",
+    "text": "wez xizmiti bölümi"
+  },
+  "176": {
+    "id": "176",
+    "text": "wez xizmiti bölümige xet yollang."
+  },
+  "177": {
+    "id": "177",
+    "text": "teshkillesh merkiziy orni; dunyawiy asasiy bashqarma",
+    "annotation": "{.kz}"
+  },
+  "178": {
+    "id": "178",
+    "text": "xxx"
+  },
+  "179": {
+    "id": "179",
+    "text": "nöwetchi"
+  },
+  "180": {
+    "id": "180",
+    "text": "jama'etchilik yighilishlirigha kelgüchiler"
+  },
+  "181": {
+    "id": "181",
+    "text": "(yighilishqa) anglighuchilar"
+  },
+  "182": {
+    "id": "182",
+    "text": "yighilishqa qatnashquchilarni sana-"
+  },
+  "183": {
+    "id": "183",
+    "text": "yighilishqa kelgen ademlerning sani"
+  },
+  "184": {
+    "id": "184",
+    "text": "ötken yili yighilishqa qatnashqan ademlerning otturche sani 85 bolghan (idi)."
+  },
+  "185": {
+    "id": "185",
+    "text": "mikrofon yetküzüp bergüchi (qérindash)"
+  },
+  "186": {
+    "id": "186",
+    "text": "mikrofon"
+  },
+  "187": {
+    "id": "187",
+    "text": "mikrofonni yetküz-"
+  },
+  "188": {
+    "id": "188",
+    "text": "mikrofonni tengshe-"
+  },
+  "189": {
+    "id": "189",
+    "text": "mikrofonni échiwet-"
+  },
+  "190": {
+    "id": "190",
+    "text": "mikrofonni étiwet-"
+  },
+  "191": {
+    "id": "191",
+    "text": "awazni kücheytish sistémisigha mes'ul qérindash"
+  },
+  "192": {
+    "id": "192",
+    "text": "awazni kücheytish sistémisi (/apparati)"
+  },
+  "193": {
+    "id": "193",
+    "text": "awazni kücheytish sistémisini bashqur-"
+  },
+  "194": {
+    "id": "194",
+    "text": "awaz[i]ni kücheyt-"
+  },
+  "195": {
+    "id": "195",
+    "text": "awaz[i]ni peseyt-"
+  },
+  "196": {
+    "id": "196",
+    "text": "sehnige mes'ul qérindash"
+  },
+  "197": {
+    "id": "197",
+    "text": "sehne"
+  },
+  "198": {
+    "id": "198",
+    "text": "munber"
+  },
+  "199": {
+    "id": "199",
+    "text": "munberni tüz-"
+  },
+  "200": {
+    "id": "200",
+    "text": "oqush matériyallirigha mes'ul qérindash"
+  },
+  "201": {
+    "id": "201",
+    "text": "oqush matériyalliri üstili"
+  },
+  "202": {
+    "id": "202",
+    "text": "oqush matériyallirini buyrutup qoy-"
+  },
+  "203": {
+    "id": "203",
+    "text": "zhurnallargha mes'ul qérindash"
+  },
+  "204": {
+    "id": "204",
+    "text": "zhurnallar bölümi"
+  },
+  "205": {
+    "id": "205",
+    "text": "zakas bérilgen zhurnallarni élip  ket-"
+  },
+  "206": {
+    "id": "206",
+    "text": "bölün'gen rayonglargha mes'ul qérindash"
+  },
+  "207": {
+    "id": "207",
+    "text": "(wez xizmiti) bölün'gen rayon"
+  },
+  "208": {
+    "id": "208",
+    "text": "(wez xizmiti) bölün'gen rayon xeritisi"
+  },
+  "209": {
+    "id": "209",
+    "text": "(wez xizmiti) bölün'gen rayon kartisi"
+  },
+  "210": {
+    "id": "210",
+    "text": "hésabatqa mes'ul qérindash"
+  },
+  "211": {
+    "id": "211",
+    "text": "hésabat"
+  },
+  "212": {
+    "id": "212",
+    "text": "jama'etchilikning hésabiti"
+  },
+  "213": {
+    "id": "213",
+    "text": "jama'etchilikning hésabitini teyyarla-"
+  },
+  "214": {
+    "id": "214",
+    "text": "jama'etchilikning hésabitini tekshür-"
+  },
+  "215": {
+    "id": "215",
+    "text": "i'ane"
+  },
+  "216": {
+    "id": "216",
+    "text": "dunyawiy wez ishigha béridighan i'ane"
+  },
+  "217": {
+    "id": "217",
+    "text": "jama'etchilik pa'aliyiti üchün béridighan i'ane"
+  },
+  "218": {
+    "id": "218",
+    "text": "chüshken i'anini sana-"
+  },
+  "219": {
+    "id": "219",
+    "text": "i'ane ber-"
+  },
+  "220": {
+    "id": "220",
+    "text": "dunyawiy wez ishigha i'ane ber-"
+  },
+  "221": {
+    "id": "221",
+    "text": "i'ane sanduqi"
+  },
+  "222": {
+    "id": "222",
+    "text": "i'anini i'ane sandquqigha sal-"
+  },
+  "223": {
+    "id": "223",
+    "text": "i'ane sanduqi ishikning yénigha qoyulghan."
+  },
+  "225": {
+    "id": "225",
+    "text": "xxx"
+  },
+  "226": {
+    "id": "226",
+    "text": "xxx"
+  },
+  "227": {
+    "id": "227",
+    "text": "yighilish ötküzülidighan zal"
+  },
+  "228": {
+    "id": "228",
+    "text": "ibadet jayimiz"
+  },
+  "229": {
+    "id": "229",
+    "text": "öz küchi bilen salghan"
+  },
+  "230": {
+    "id": "230",
+    "text": "padishahliq yighilish zali; padishahliq sarayi",
+    "annotation": "{.kz}"
+  },
+  "231": {
+    "id": "231",
+    "text": "padishahliq yighilish zallirini chapsan sélish uslubi"
+  },
+  "232": {
+    "id": "232",
+    "text": "padishahliq yighilish zalini küt-"
+  },
+  "233": {
+    "id": "233",
+    "text": "padishahliq yighilish zalini rémont qil-"
+  },
+  "234": {
+    "id": "234",
+    "text": "padishahliq yighilish zalini süpürüp tazila-"
+  },
+  "235": {
+    "id": "235",
+    "text": "padishahliq yighilish zalini süpürüp tazilash bizning nöwitimiz."
+  },
+  "236": {
+    "id": "236",
+    "text": "chong yighilishlar zali"
+  },
+  "237": {
+    "id": "237",
+    "text": null
+  },
+  "238": {
+    "id": "238",
+    "text": "yighilish; uchrishish",
+    "annotation": "{.kz}"
+  },
+  "239": {
+    "id": "239",
+    "text": "yighilishqa qatnash-; yighilshta ishtrak qil-"
+  },
+  "240": {
+    "id": "240",
+    "text": "yighilish(ni) ötküz-"
+  },
+  "241": {
+    "id": "241",
+    "text": "teyyarliq qil-"
+  },
+  "242": {
+    "id": "242",
+    "text": "yighilishqa teyyarliq qil-"
+  },
+  "243": {
+    "id": "243",
+    "text": "XXX-ni teyyarlash"
+  },
+  "244": {
+    "id": "244",
+    "text": "pikir bayan qilish üchün teyyarliq qil-"
+  },
+  "245": {
+    "id": "245",
+    "text": "nutuq teyyarla-"
+  },
+  "246": {
+    "id": "246",
+    "text": "XXX bilen bardi-keldi qil-"
+  },
+  "247": {
+    "id": "247",
+    "text": "biz qérindashlirimiz bilen yighilishtin kéyin bardi-keldi qilsaq bolidu."
+  },
+  "248": {
+    "id": "248",
+    "text": "XXX-ni righbetlendur-; XXX-ni ilhamlandur-"
+  },
+  "249": {
+    "id": "249",
+    "text": "siz bayan qilghan (oy-)pikir méni nahayiti righbetlendurdi (/ilhamlandurdi)."
+  },
+  "250": {
+    "id": "250",
+    "text": "(kishini) righbetlenduridighan jawab"
+  },
+  "251": {
+    "id": "251",
+    "text": "jama'etchiliktiki mukeddes kitab üginish"
+  },
+  "252": {
+    "id": "252",
+    "text": "wez éytquchilarni terbiyilesh mektipi"
+  },
+  "253": {
+    "id": "253",
+    "text": "wez xizmiti yighilishi"
+  },
+  "254": {
+    "id": "254",
+    "text": "(sirtqa) wezge chiqish uchrishishi"
+  },
+  "255": {
+    "id": "255",
+    "text": "chong yighilish"
+  },
+  "256": {
+    "id": "256",
+    "text": "her yilliq ammiwi chong yighilishlar"
+  },
+  "257": {
+    "id": "257",
+    "text": "bir künlük mexsus chong yighilish"
+  },
+  "258": {
+    "id": "258",
+    "text": "rayonluq chong yighilish"
+  },
+  "259": {
+    "id": "259",
+    "text": "chong yighilish"
+  },
+  "260": {
+    "id": "260",
+    "text": "da'irilik chong yighilish"
+  },
+  "261": {
+    "id": "261",
+    "text": "üch künlük da'irilik chong yighilish"
+  },
+  "262": {
+    "id": "262",
+    "text": "xxx"
+  },
+  "263": {
+    "id": "263",
+    "text": "(tapshurulghan) bölek (/tür)"
+  },
+  "264": {
+    "id": "264",
+    "text": "kéler heptidiki yighilishta manga tapshurulghan bir bölek (/tür) bar."
+  },
+  "265": {
+    "id": "265",
+    "text": "tapshuruq; tapshurma",
+    "annotation": "{.kz}"
+  },
+  "266": {
+    "id": "266",
+    "text": "1-tapshuruq"
+  },
+  "267": {
+    "id": "267",
+    "text": "tapshuruq[ni] al-"
+  },
+  "268": {
+    "id": "268",
+    "text": "tapshuruq[ni] orunda-"
+  },
+  "269": {
+    "id": "269",
+    "text": "ders"
+  },
+  "270": {
+    "id": "270",
+    "text": "XXX qérindash 23-dersni orunlawatidu"
+  },
+  "271": {
+    "id": "271",
+    "text": "nutuq"
+  },
+  "272": {
+    "id": "272",
+    "text": "yaxshi sözlen'gen bir nutuq"
+  },
+  "273": {
+    "id": "273",
+    "text": "ammiwiy nutuq"
+  },
+  "274": {
+    "id": "274",
+    "text": "5 minutluq nutuq"
+  },
+  "275": {
+    "id": "275",
+    "text": "nutuq sözle-"
+  },
+  "276": {
+    "id": "276",
+    "text": "nutuq sözligüchi"
+  },
+  "277": {
+    "id": "277",
+    "text": "ülge körsitish"
+  },
+  "278": {
+    "id": "278",
+    "text": "ülge körsitishni qarap köreyli."
+  },
+  "279": {
+    "id": "279",
+    "text": "XXX-ning ülgisini körset-"
+  },
+  "280": {
+    "id": "280",
+    "text": "XXX qérindash mushu ayda tarqitilidighan zhurnalni qandaq tewsiye qilishining (/tonushturushining) ülgisini körsitidu."
+  },
+  "281": {
+    "id": "281",
+    "text": "muqeddes kitabtiki tallan'ghan nuqtilar"
+  },
+  "282": {
+    "id": "282",
+    "text": "muqeddes kitabni oqush"
+  },
+  "283": {
+    "id": "283",
+    "text": "yerlik éhtiyajlar"
+  },
+  "284": {
+    "id": "284",
+    "text": "ramkidiki so'allar"
+  },
+  "285": {
+    "id": "285",
+    "text": "xxx"
+  },
+  "286": {
+    "id": "286",
+    "text": "naxsha"
+  },
+  "287": {
+    "id": "287",
+    "text": "kirishme naxsha"
+  },
+  "288": {
+    "id": "288",
+    "text": "axirqi naxsha"
+  },
+  "289": {
+    "id": "289",
+    "text": "bu naxshining mawzusi (/ismi)…"
+  },
+  "290": {
+    "id": "290",
+    "text": "bu naxsha … dégen ayetke asaslan'ghan."
+  },
+  "291": {
+    "id": "291",
+    "text": "bizning yighilishimiz yehwani medhiyilesh naxshisi bilen bashlinidu."
+  },
+  "292": {
+    "id": "292",
+    "text": "biz yighilishni naxsha bilen bashlaymiz, andin du'a bolidu."
+  },
+  "293": {
+    "id": "293",
+    "text": "bu nutuq sözligüchi  tallighan naxsha, bu nutuqning témisigha uyghun."
+  },
+  "294": {
+    "id": "294",
+    "text": "bu naxsha nutuqning mawzusigha uyghun."
+  },
+  "295": {
+    "id": "295",
+    "text": "yighilishimizni naxsha bilen ayaghlashturmiz."
+  },
+  "296": {
+    "id": "296",
+    "text": "yigirminchi naxsha"
+  },
+  "297": {
+    "id": "297",
+    "text": "yigirminchi naxshini anglayli."
+  },
+  "298": {
+    "id": "298",
+    "text": "naxsha kitabi"
+  },
+  "299": {
+    "id": "299",
+    "text": "naxsha kitabimizdiki oninchi naxshini achayli."
+  },
+  "300": {
+    "id": "300",
+    "text": "naxsha éyt-"
+  },
+  "301": {
+    "id": "301",
+    "text": "ottuzinchi naxshini éytayli."
+  },
+  "302": {
+    "id": "302",
+    "text": "naxsha éytqanimizda, sözler toghrisida oyliyalaymiz."
+  },
+  "303": {
+    "id": "303",
+    "text": "du'a; duga",
+    "annotation": "{.kz}"
+  },
+  "304": {
+    "id": "304",
+    "text": "kirishme du'a"
+  },
+  "305": {
+    "id": "305",
+    "text": "axirqi du'a"
+  },
+  "306": {
+    "id": "306",
+    "text": "du'a qil-"
+  },
+  "307": {
+    "id": "307",
+    "text": "XXX qérindash, du'a qilalamsen?"
+  },
+  "308": {
+    "id": "308",
+    "text": "du'a qil-"
+  },
+  "309": {
+    "id": "309",
+    "text": "yehwagha du'a qil-"
+  },
+  "310": {
+    "id": "310",
+    "text": "naxshidin kéyin yehwagha du'a qilimiz."
+  },
+  "311": {
+    "id": "311",
+    "text": "xxx"
+  },
+  "312": {
+    "id": "312",
+    "text": "uqturushlar"
+  },
+  "313": {
+    "id": "313",
+    "text": "mende bir munche uqturushlar bar."
+  },
+  "314": {
+    "id": "314",
+    "text": "XXX-ni élan qil-"
+  },
+  "315": {
+    "id": "315",
+    "text": "wezge chiqish uchrishishilirining orunlashturushini élan qil-"
+  },
+  "316": {
+    "id": "316",
+    "text": "biz xushalliq bilen shuni élan qilimizki …"
+  },
+  "317": {
+    "id": "317",
+    "text": "biz qayghu bilen bu xewerni yetküzimiz …"
+  },
+  "318": {
+    "id": "318",
+    "text": "xet"
+  },
+  "319": {
+    "id": "319",
+    "text": "biz tarmaq ish béjirish ornidin xet alduq."
+  },
+  "320": {
+    "id": "320",
+    "text": "men XXX qérindashni sehnige teklip qilimen, u jem'iyetning xétini oqup béridu."
+  },
+  "321": {
+    "id": "321",
+    "text": "qarar"
+  },
+  "322": {
+    "id": "322",
+    "text": "qarar maqullashqa qoy-"
+  },
+  "323": {
+    "id": "323",
+    "text": "biz jama'etchilikke töwendikini qarar maqullashqa qoyimiz"
+  },
+  "324": {
+    "id": "324",
+    "text": "awaz qosh-"
+  },
+  "325": {
+    "id": "325",
+    "text": "qol[unglar]ni kötür-"
+  },
+  "326": {
+    "id": "326",
+    "text": "eger siler bu qarargha maqul bolsanglar, qolunglarni kötürünglar."
+  },
+  "327": {
+    "id": "327",
+    "text": "eger siler bu qarargha maqul bolmisanglar, qolunglarni kötürünglar."
+  },
+  "328": {
+    "id": "328",
+    "text": "eger siler bu qarar maqullashta bitereplikni saqlisanglar, qolunglarni kötürünglar."
+  },
+  "329": {
+    "id": "329",
+    "text": "emdi qolunglarni chüshürsenglar bolidu"
+  },
+  "330": {
+    "id": "330",
+    "text": "yéziwalsanglar bolidu."
+  },
+  "331": {
+    "id": "331",
+    "text": "wez éytish xizmitinglarning sanliq melumatini gruppigha mes'ul bolghuchigha (/aqsaqalgha) tapshurunglar, rehmet."
+  },
+  "332": {
+    "id": "332",
+    "text": "bu heptide padishaliq yighilish zailining tazilash nöwetchiliqi 2-gruppida."
+  },
+  "333": {
+    "id": "333",
+    "text": "bu shembide wez xizmiti uchrishishi XXX qérindishimizning öyide sa'et 11-de bolidu"
+  },
+  "334": {
+    "id": "334",
+    "text": "bügünki uchrishishimizdin 5 minuttin kéyin wez xizmiti uchrishishi bolidu."
+  },
+  "335": {
+    "id": "335",
+    "text": "wez xizmiti uchrishishi 2-zalda bolidu."
+  },
+  "336": {
+    "id": "336",
+    "text": "wez xizmiti uchrishishini XXX qérindash ötküzidu."
+  },
+  "337": {
+    "id": "337",
+    "text": "bizde kéliwatqan chong yighilish heqqide bezi bir élanlar bar."
+  },
+  "338": {
+    "id": "338",
+    "text": "bizning da'irilik chong yighilishimiz ….  ötidu."
+  },
+  "339": {
+    "id": "339",
+    "text": "da'irilik chong yighilishning ötüsh jayi …"
+  },
+  "340": {
+    "id": "340",
+    "text": "chong yighilishning programmisi etigenligi 9:50-te bashlinidu."
+  },
+  "341": {
+    "id": "341",
+    "text": "chong yighilishning programisi kündüzi 3:45-te ayaghlishidu."
+  },
+  "342": {
+    "id": "342",
+    "text": "eger aldin-ala aptowusta orun igileshni xalisanglar, XXX qérindashqa yoluqunglar."
+  },
+  "343": {
+    "id": "343",
+    "text": "12-mart küni XXX qérindash wapat boldi."
+  },
+  "344": {
+    "id": "344",
+    "text": "shu seweblik kélidighan shenbe küni depne qilish nutqi bolidu."
+  },
+  "345": {
+    "id": "345",
+    "text": "XXX étiqadchilar jama'et bilen munasiwet qilishni toxtatti."
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX étiqadchilar jama'itidin chiqirildi."
+  },
+  "347": {
+    "id": "347",
+    "text": "xxx"
+  },
+  "348": {
+    "id": "348",
+    "text": "riyasetchi"
+  },
+  "349": {
+    "id": "349",
+    "text": "nöwettiki nutuqni tonushtur-"
+  },
+  "350": {
+    "id": "350",
+    "text": "chawaq chal-"
+  },
+  "351": {
+    "id": "351",
+    "text": "chawaqlar"
+  },
+  "352": {
+    "id": "352",
+    "text": "chawaqlar tingshighuchilarning nutuqtin huzurlen'ginini körsitiwatidu"
+  },
+  "353": {
+    "id": "353",
+    "text": "yighilishimiz 2 minuttin kéyin bashlinidu."
+  },
+  "354": {
+    "id": "354",
+    "text": "qeddem teshrip qilghininglarni qarshi alimiz!; xush kepsiler!",
+    "annotation": "{.kz}"
+  },
+  "355": {
+    "id": "355",
+    "text": "bügünki yighilishqa silerning qeddem teshrip qilghininglarni  qarshi alimiz!"
+  },
+  "356": {
+    "id": "356",
+    "text": "qérindashlar, qeddem teshrip qilghininglarni qarshi alimiz!"
+  },
+  "357": {
+    "id": "357",
+    "text": "bügünki yighilishqa qatnashqininglarni qarshi alimiz."
+  },
+  "358": {
+    "id": "358",
+    "text": "orunliringlargha ötünglar."
+  },
+  "359": {
+    "id": "359",
+    "text": "olturunglar."
+  },
+  "360": {
+    "id": "360",
+    "text": "öz orunliringlarni igilenglar."
+  },
+  "361": {
+    "id": "361",
+    "text": "mümkin bolsa, orunliringlardin turunglar."
+  },
+  "362": {
+    "id": "362",
+    "text": "hazir 10 minutluq tenepüs bolidu. iltimas, orunliringlargha 3:15-te qaytinglar."
+  },
+  "363": {
+    "id": "363",
+    "text": "bügünki yighilishimiz ikki qisimdin ibaret."
+  },
+  "364": {
+    "id": "364",
+    "text": "yighilishimizning nöwettiki qismi «közet munarisi» diki maqalini muhakime qilish."
+  },
+  "365": {
+    "id": "365",
+    "text": "sehnige XXX qérindashni teklip qilimen."
+  },
+  "366": {
+    "id": "366",
+    "text": "uninggha barche diqqet-étibarimizni qaritayli."
+  },
+  "367": {
+    "id": "367",
+    "text": "bu muhakimige XXX qérindash riyasetchilik qilidu (/yétekchilik qilidu)."
+  },
+  "368": {
+    "id": "368",
+    "text": "hazir, yighilishining kitab üginishige XXX qérindash riyasetchilik qilidu (/ yétekchilik qilidu)."
+  },
+  "369": {
+    "id": "369",
+    "text": "XXX qérindash 5-babning 12-din 25- ayetigiche oqup béridu."
+  },
+  "370": {
+    "id": "370",
+    "text": "XXX qérindishimiz «padishaliq xizmetimiz» waraqchisidiki ikkinchi tewsiyining ülgisini körsitidu."
+  },
+  "371": {
+    "id": "371",
+    "text": "hazir ikki qérindishimizning « … » dégen mawzu (/téma) toghrisida qilidighan muhakimige anglap baqayli (/qulaq salayli)."
+  },
+  "372": {
+    "id": "372",
+    "text": "XXX qérindash muzakirini bashquridu"
+  },
+  "373": {
+    "id": "373",
+    "text": "uning shériki XXX qérindash."
+  },
+  "374": {
+    "id": "374",
+    "text": "XXX qérindash öy igisining rolini oynaydu."
+  },
+  "375": {
+    "id": "375",
+    "text": "bu tapshuruq üchün tallan'ghan weziyet …."
+  },
+  "376": {
+    "id": "376",
+    "text": "biz bügün nutuq éytishqa teklip qilin'ghan qérindashni qarshi élishqa xursenmiz."
+  },
+  "377": {
+    "id": "377",
+    "text": "YYY jama'etchilikidin kelgen XXX qérindash bizge nutuq éytidu."
+  },
+  "378": {
+    "id": "378",
+    "text": "nutuqining témisi ..."
+  },
+  "379": {
+    "id": "379",
+    "text": "XXX qérindash, mushu matérial heqqide bizge sözlep berginingiz üchün rexmet."
+  },
+  "380": {
+    "id": "380",
+    "text": "mushu yighilishqa ishtirak qilghan 75 ademning barliqi nutuqingdin huzurlandi."
+  },
+  "381": {
+    "id": "381",
+    "text": "jama'etchilikimizni rayon'gha mes'ul aqsaqal we uning ayalining yoqlap kelgenlikidin intayin xursenmiz."
+  },
+  "382": {
+    "id": "382",
+    "text": "rayon'gha mes'ul aqsaqalning wez xizmiti heqqidiki birinchi nutuqining mawzusi (/témisi)…"
+  },
+  "383": {
+    "id": "383",
+    "text": "men XXX-diki beytel a'ilisining qizghin salamlirini silerge yetküzimen."
+  },
+  "384": {
+    "id": "384",
+    "text": "silerning salamliringlarni XXX jama'etchilikigha yetküzsem bolamdu?"
+  },
+  "386": {
+    "id": "386",
+    "text": "xxx"
+  },
+  "387": {
+    "id": "387",
+    "text": "xxx"
+  },
+  "388": {
+    "id": "388",
+    "text": "ibraniy yazmilar"
+  },
+  "389": {
+    "id": "389",
+    "text": "yaritilish"
+  },
+  "390": {
+    "id": "390",
+    "text": "chiqish"
+  },
+  "391": {
+    "id": "391",
+    "text": "lawiylar"
+  },
+  "392": {
+    "id": "392",
+    "text": "sanlar"
+  },
+  "393": {
+    "id": "393",
+    "text": "tekrar qanun"
+  },
+  "394": {
+    "id": "394",
+    "text": "jeshu"
+  },
+  "395": {
+    "id": "395",
+    "text": "hakimlar"
+  },
+  "396": {
+    "id": "396",
+    "text": "rut"
+  },
+  "397": {
+    "id": "397",
+    "text": "1-samu'il"
+  },
+  "398": {
+    "id": "398",
+    "text": "2-samu'il"
+  },
+  "399": {
+    "id": "399",
+    "text": "1-padishahlar"
+  },
+  "400": {
+    "id": "400",
+    "text": "2-padishahlar"
+  },
+  "401": {
+    "id": "401",
+    "text": "1-tarixname"
+  },
+  "402": {
+    "id": "402",
+    "text": "2-tarixname"
+  },
+  "403": {
+    "id": "403",
+    "text": "ezra"
+  },
+  "404": {
+    "id": "404",
+    "text": "nehemiya"
+  },
+  "405": {
+    "id": "405",
+    "text": "estér"
+  },
+  "406": {
+    "id": "406",
+    "text": "ayup"
+  },
+  "407": {
+    "id": "407",
+    "text": "zebur"
+  },
+  "408": {
+    "id": "408",
+    "text": "pendi-nesihet"
+  },
+  "409": {
+    "id": "409",
+    "text": "wez"
+  },
+  "410": {
+    "id": "410",
+    "text": "shé'irlarning shé'iri"
+  },
+  "411": {
+    "id": "411",
+    "text": "yeshaya"
+  },
+  "412": {
+    "id": "412",
+    "text": "yeremiya"
+  },
+  "413": {
+    "id": "413",
+    "text": "mersiye"
+  },
+  "414": {
+    "id": "414",
+    "text": "hezqiyal"
+  },
+  "415": {
+    "id": "415",
+    "text": "daniyal"
+  },
+  "416": {
+    "id": "416",
+    "text": "hoshiya"
+  },
+  "417": {
+    "id": "417",
+    "text": "yo'él"
+  },
+  "418": {
+    "id": "418",
+    "text": "amos"
+  },
+  "419": {
+    "id": "419",
+    "text": "obidya"
+  },
+  "420": {
+    "id": "420",
+    "text": "yunus"
+  },
+  "421": {
+    "id": "421",
+    "text": "mixa"
+  },
+  "422": {
+    "id": "422",
+    "text": "nahum"
+  },
+  "423": {
+    "id": "423",
+    "text": "hababaquq"
+  },
+  "424": {
+    "id": "424",
+    "text": "sefiniya"
+  },
+  "425": {
+    "id": "425",
+    "text": "heji"
+  },
+  "426": {
+    "id": "426",
+    "text": "zekeriya"
+  },
+  "427": {
+    "id": "427",
+    "text": "malaxi"
+  },
+  "428": {
+    "id": "428",
+    "text": "grék yazmilar"
+  },
+  "429": {
+    "id": "429",
+    "text": "metta"
+  },
+  "430": {
+    "id": "430",
+    "text": "markus"
+  },
+  "431": {
+    "id": "431",
+    "text": "luqa"
+  },
+  "432": {
+    "id": "432",
+    "text": "yuhanna"
+  },
+  "433": {
+    "id": "433",
+    "text": "elchiler"
+  },
+  "434": {
+    "id": "434",
+    "text": "rimliqlar"
+  },
+  "435": {
+    "id": "435",
+    "text": "1-korintliqlar"
+  },
+  "436": {
+    "id": "436",
+    "text": "2-korintliqlar"
+  },
+  "437": {
+    "id": "437",
+    "text": "galatiyaliqlar"
+  },
+  "438": {
+    "id": "438",
+    "text": "efeslikler"
+  },
+  "439": {
+    "id": "439",
+    "text": "fiipilikler"
+  },
+  "440": {
+    "id": "440",
+    "text": "kolosiliqlar"
+  },
+  "441": {
+    "id": "441",
+    "text": "1-salonikaliqlar"
+  },
+  "442": {
+    "id": "442",
+    "text": "2-salonikaliqlar"
+  },
+  "443": {
+    "id": "443",
+    "text": "1-timotiy"
+  },
+  "444": {
+    "id": "444",
+    "text": "2-timoty"
+  },
+  "445": {
+    "id": "445",
+    "text": "titus"
+  },
+  "446": {
+    "id": "446",
+    "text": "filimun"
+  },
+  "447": {
+    "id": "447",
+    "text": "ibraniylar"
+  },
+  "448": {
+    "id": "448",
+    "text": "yaqup"
+  },
+  "449": {
+    "id": "449",
+    "text": "1-pétrus"
+  },
+  "450": {
+    "id": "450",
+    "text": "2-pétrus"
+  },
+  "451": {
+    "id": "451",
+    "text": "1-yuhanna"
+  },
+  "452": {
+    "id": "452",
+    "text": "2-yuhanna"
+  },
+  "453": {
+    "id": "453",
+    "text": "3-yuhanna"
+  },
+  "454": {
+    "id": "454",
+    "text": "yehuda"
+  },
+  "455": {
+    "id": "455",
+    "text": "wehiyler"
+  },
+  "456": {
+    "id": "456",
+    "text": "xxx"
+  },
+  "457": {
+    "id": "457",
+    "text": "muqeddes kitab"
+  },
+  "458": {
+    "id": "458",
+    "text": "muqeddes kitabimizni achayli."
+  },
+  "459": {
+    "id": "459",
+    "text": "yazmilardiki yeremiya 10:23-ni achayli."
+  },
+  "460": {
+    "id": "460",
+    "text": "xatire (/hékaye)"
+  },
+  "461": {
+    "id": "461",
+    "text": "yazmilardiki misalni tapayli."
+  },
+  "462": {
+    "id": "462",
+    "text": "ayet"
+  },
+  "463": {
+    "id": "463",
+    "text": "bu ayet bizge … heqqide néme éytiwatidu?"
+  },
+  "464": {
+    "id": "464",
+    "text": "bu ayet bizge …. heqqide néme échip bériwatidu?"
+  },
+  "465": {
+    "id": "465",
+    "text": "bu ayet …. bilen qandaq baghlinishliq?"
+  },
+  "466": {
+    "id": "466",
+    "text": "bu ayet némini bildüridu?"
+  },
+  "467": {
+    "id": "467",
+    "text": "bu ayet heqqide pikir bayan qilinglar."
+  },
+  "468": {
+    "id": "468",
+    "text": "bu ayetni chüshendürüp béringlar."
+  },
+  "469": {
+    "id": "469",
+    "text": "bu ayettin qandaq sawaq alalaymiz?"
+  },
+  "470": {
+    "id": "470",
+    "text": "metta yettinchi bab, on ikkinchi ayet"
+  },
+  "471": {
+    "id": "471",
+    "text": "metta beshinchi bab, yigirme üchinchi, yigirme tötinchi ayetler"
+  },
+  "472": {
+    "id": "472",
+    "text": "yuhannaning birinichi xéti, ikkinchi bab, on beshinchi ayettin on yettinchi ayetqiche"
+  },
+  "473": {
+    "id": "473",
+    "text": "zebur, ottuz yettinchi bab, on birinchi ayet; ottuz yettinchi babning on birinchi ayiti"
+  },
+  "474": {
+    "id": "474",
+    "text": "xxx"
+  },
+  "475": {
+    "id": "475",
+    "text": "bet"
+  },
+  "476": {
+    "id": "476",
+    "text": "zhurnalliringlarning 21-bétidiki maqalini échinglar."
+  },
+  "477": {
+    "id": "477",
+    "text": "oqush matérialining 46-bétini échinglar."
+  },
+  "478": {
+    "id": "478",
+    "text": "10-betke achayli"
+  },
+  "479": {
+    "id": "479",
+    "text": "maqale"
+  },
+  "480": {
+    "id": "480",
+    "text": "bir qatar munasiwetlik (/baghlinishliq) maqaliler"
+  },
+  "481": {
+    "id": "481",
+    "text": "bu heptide bir qatar munasiwetlik (/baghlinishliq) üch maqalining birinchisini mulahize qilimiz (/qarap chiqimiz)."
+  },
+  "482": {
+    "id": "482",
+    "text": "téma"
+  },
+  "483": {
+    "id": "483",
+    "text": "bash téma qilin'ghan ayet"
+  },
+  "484": {
+    "id": "484",
+    "text": "mawzu"
+  },
+  "485": {
+    "id": "485",
+    "text": "kichik mawzu"
+  },
+  "486": {
+    "id": "486",
+    "text": "abzas"
+  },
+  "487": {
+    "id": "487",
+    "text": "awwalqi abzas"
+  },
+  "488": {
+    "id": "488",
+    "text": "kélerki abzas"
+  },
+  "489": {
+    "id": "489",
+    "text": "kélerki ikki abzas"
+  },
+  "490": {
+    "id": "490",
+    "text": "kélerki ikki abzasni oqup chiqayli."
+  },
+  "491": {
+    "id": "491",
+    "text": "söz"
+  },
+  "492": {
+    "id": "492",
+    "text": "tekitlen'gen sözler; qélin heripler bilen yézilghan sözler"
+  },
+  "493": {
+    "id": "493",
+    "text": "-; kursip bilen bölün'gen sözler",
+    "annotation": "{.kz}"
+  },
+  "494": {
+    "id": "494",
+    "text": "bet asti izahati"
+  },
+  "495": {
+    "id": "495",
+    "text": "qoshumche izahat"
+  },
+  "496": {
+    "id": "496",
+    "text": "ramka"
+  },
+  "497": {
+    "id": "497",
+    "text": "süret; resim"
+  },
+  "498": {
+    "id": "498",
+    "text": "balilar, resimdiki ademning ismi qandaq?"
+  },
+  "499": {
+    "id": "499",
+    "text": "süret astidiki yéziq"
+  },
+  "500": {
+    "id": "500",
+    "text": "xxx"
+  },
+  "501": {
+    "id": "501",
+    "text": "jawab"
+  },
+  "502": {
+    "id": "502",
+    "text": "jawab ber-"
+  },
+  "503": {
+    "id": "503",
+    "text": "so'al"
+  },
+  "504": {
+    "id": "504",
+    "text": "kirishme so'allar"
+  },
+  "505": {
+    "id": "505",
+    "text": "qaytilash üchün qoyulghan so'allar"
+  },
+  "506": {
+    "id": "506",
+    "text": "so'al qoy-"
+  },
+  "507": {
+    "id": "507",
+    "text": "so'algha jawab ber-"
+  },
+  "508": {
+    "id": "508",
+    "text": "(oy-)pikir"
+  },
+  "509": {
+    "id": "509",
+    "text": "pikir bayan qil-"
+  },
+  "510": {
+    "id": "510",
+    "text": "uning (bayan qilghan) pikirini terjime qilip béring."
+  },
+  "511": {
+    "id": "511",
+    "text": "yene bashqa (oy-)pikirlar barmu?"
+  },
+  "512": {
+    "id": "512",
+    "text": "jawabliringlarning ottuz sékunttin éship ketmeslikini soraymen."
+  },
+  "513": {
+    "id": "513",
+    "text": "pikir bayan qil-"
+  },
+  "514": {
+    "id": "514",
+    "text": "kim mushu heptide oqughan bablar asasida (oy-)pikirini bayan qilishni xalaydu?"
+  },
+  "515": {
+    "id": "515",
+    "text": "süret (/resim) heqqide (oy-)pikir bayan qil-"
+  },
+  "516": {
+    "id": "516",
+    "text": "bes-munazire; muhakime (qilish)"
+  },
+  "517": {
+    "id": "517",
+    "text": "so'al-jawab tiptiki (/türidiki) bes-munazire; so'al-jawablar arqiliq muhakime qilish"
+  },
+  "518": {
+    "id": "518",
+    "text": "munazire qil-; muhakime qil-"
+  },
+  "519": {
+    "id": "519",
+    "text": "kündilik ayetni muhakime qil-"
+  },
+  "520": {
+    "id": "520",
+    "text": "hazir biz bu maqalini bille muhakime qilimiz."
+  },
+  "521": {
+    "id": "521",
+    "text": "(muhakimige) riyasetchilik qil- (/yétekchilik qil-)"
+  },
+  "522": {
+    "id": "522",
+    "text": "XXX qérindash muhakimige riyasetchilik (/yétekchilik) qilghiningiz üchün rexmet."
+  },
+  "523": {
+    "id": "523",
+    "text": "riyasetchi"
+  },
+  "524": {
+    "id": "524",
+    "text": "közet munarisini üginishning riyasetchisi"
+  },
+  "525": {
+    "id": "525",
+    "text": "mulahize qil-; qarap chiq-; qarashtur-",
+    "annotation": "{.kz}"
+  },
+  "526": {
+    "id": "526",
+    "text": "hazir biz muhim bir so'alni mulahize qilimiz."
+  },
+  "527": {
+    "id": "527",
+    "text": "oqup ber-; oqup chiq-"
+  },
+  "528": {
+    "id": "528",
+    "text": "kim 2-abzasni oqup béreleydu?"
+  },
+  "529": {
+    "id": "529",
+    "text": "2-abzasni oqup chiqing."
+  },
+  "530": {
+    "id": "530",
+    "text": "biz üchün oqup bergining'ge rexmet XXX qérindash."
+  },
+  "531": {
+    "id": "531",
+    "text": "qaytila-"
+  },
+  "532": {
+    "id": "532",
+    "text": "bu maqalining asasiy oy-pikirlirini qaytilayli."
+  },
+  "533": {
+    "id": "533",
+    "text": "asasiy oy-pikir"
+  },
+  "534": {
+    "id": "534",
+    "text": "mushu heptide qaralghan matérialning asasiy oy-pikirliri némidin ibaret?"
+  },
+  "535": {
+    "id": "535",
+    "text": "XXX-ni YYY-gha qollan-"
+  },
+  "536": {
+    "id": "536",
+    "text": "biz buni …-gha munasiwetlik qandaq qollansaq bolidu?"
+  },
+  "537": {
+    "id": "537",
+    "text": "biz buni xizmette qandaq qollansaq bolidu?"
+  },
+  "538": {
+    "id": "538",
+    "text": "XXX-ni yekünle-"
+  },
+  "539": {
+    "id": "539",
+    "text": "biz bu abzaslarni qandaq yekünlisek bolidu?"
+  },
+  "540": {
+    "id": "540",
+    "text": "qérindashlar!"
+  },
+  "541": {
+    "id": "541",
+    "text": "XXX qérindash; XXX burader",
+    "annotation": "{.kz}"
+  },
+  "542": {
+    "id": "542",
+    "text": "XXX qérindash"
+  },
+  "543": {
+    "id": "543",
+    "text": "qolunglarni kötürünglar."
+  },
+  "544": {
+    "id": "544",
+    "text": "mikrofonni kütünglar."
+  },
+  "545": {
+    "id": "545",
+    "text": "mikrofonni échiwéting."
+  },
+  "546": {
+    "id": "546",
+    "text": "mikrofonni toghra tutunglar."
+  },
+  "547": {
+    "id": "547",
+    "text": "[….-gha] rexmet!; yaraysiz!",
+    "annotation": "{.kz}"
+  },
+  "548": {
+    "id": "548",
+    "text": "xxx"
+  },
+  "549": {
+    "id": "549",
+    "text": "nöwette; emdi; töwende; aldimizda"
+  },
+  "550": {
+    "id": "550",
+    "text": "emdi 3-abzasni oqayli"
+  },
+  "551": {
+    "id": "551",
+    "text": "nöwette, biz … toghrisida mulahize qilayli."
+  },
+  "552": {
+    "id": "552",
+    "text": "nöwette, biz kéyinki so'al (/mesile) toghrisida mulahize qilayli."
+  },
+  "553": {
+    "id": "553",
+    "text": "nöwette, biz kéyinki so'al (/mesile) toghrisida mulahize qilayli."
+  },
+  "554": {
+    "id": "554",
+    "text": "nöwette, biz kéyinki so'al (/mesile) toghrisida mulahize qilayli."
+  },
+  "555": {
+    "id": "555",
+    "text": "deslepte; eng awwal; aldi bilen"
+  },
+  "556": {
+    "id": "556",
+    "text": "kéyin(rek); dawamida"
+  },
+  "557": {
+    "id": "557",
+    "text": "(eng) axirida"
+  },
+  "558": {
+    "id": "558",
+    "text": "ötken heptide"
+  },
+  "559": {
+    "id": "559",
+    "text": "bu heptide"
+  },
+  "560": {
+    "id": "560",
+    "text": "bu heptide 10-din 18-ghiche abzaslarni mulahize qilimiz."
+  },
+  "561": {
+    "id": "561",
+    "text": "bu heptide bizge XXX qérindash oqup béridu"
+  },
+  "562": {
+    "id": "562",
+    "text": "kéler(ki) heptide"
+  },
+  "563": {
+    "id": "563",
+    "text": "biz kéler(ki) heptide némini mulahize qilimiz?"
+  },
+  "564": {
+    "id": "564",
+    "text": "ötken qétim"
+  },
+  "565": {
+    "id": "565",
+    "text": "kéler(ki) qétim"
+  },
+  "566": {
+    "id": "566",
+    "text": "dawamlashturayli."
+  },
+  "567": {
+    "id": "567",
+    "text": "epsuski, waqtimiz qis."
+  },
+  "568": {
+    "id": "568",
+    "text": "waqit ötüwatidu, shunga dawamlashturayli."
+  },
+  "569": {
+    "id": "569",
+    "text": "waqtimizning yetkini mushu."
+  },
+  "570": {
+    "id": "570",
+    "text": "biz mushu yerde ayaghlashturishimiz kérek."
+  },
+  "572": {
+    "id": "572",
+    "text": "xxx"
+  },
+  "573": {
+    "id": "573",
+    "text": "xxx"
+  },
+  "574": {
+    "id": "574",
+    "text": "sirttiki wez xizmiti"
+  },
+  "575": {
+    "id": "575",
+    "text": "XXX bilen xizmetke bar-"
+  },
+  "576": {
+    "id": "576",
+    "text": "qachan biz bille xizmetke baralaymiz?"
+  },
+  "577": {
+    "id": "577",
+    "text": "wez éytish; weze",
+    "annotation": "{.kz}"
+  },
+  "578": {
+    "id": "578",
+    "text": "wez éytish xizmiti"
+  },
+  "579": {
+    "id": "579",
+    "text": "wez éyt-; weze qil-",
+    "annotation": "{.kz}"
+  },
+  "580": {
+    "id": "580",
+    "text": "XXX-gha wez éyt-; XXX-gha weze qil-",
+    "annotation": "{.kz}"
+  },
+  "581": {
+    "id": "581",
+    "text": "XXX-gha guwahliq ber-"
+  },
+  "582": {
+    "id": "582",
+    "text": "XXX-gha guwahliq ber-"
+  },
+  "583": {
+    "id": "583",
+    "text": "guwahliq bérish"
+  },
+  "584": {
+    "id": "584",
+    "text": "öymu-öy guwahliq bérish"
+  },
+  "585": {
+    "id": "585",
+    "text": "kochida guwahliq bérish"
+  },
+  "586": {
+    "id": "586",
+    "text": "naresmiy guwahliq bérish"
+  },
+  "587": {
+    "id": "587",
+    "text": "tijaret (/soda-sétiq) orunlirida guwahliq bérish"
+  },
+  "588": {
+    "id": "588",
+    "text": "qayta yoqlash"
+  },
+  "589": {
+    "id": "589",
+    "text": "ete méning bilen qayta yoqlashqa baramsen?"
+  },
+  "590": {
+    "id": "590",
+    "text": "qayta yoqlashqa bérish"
+  },
+  "591": {
+    "id": "591",
+    "text": "muqeddes kitabni (tetqiq qilip) üginish"
+  },
+  "592": {
+    "id": "592",
+    "text": "muqeddes kitabni üginishni bashla-"
+  },
+  "593": {
+    "id": "593",
+    "text": "muqeddes kitabni üginishni ötküz-"
+  },
+  "594": {
+    "id": "594",
+    "text": "kéler heptide mende muqeddes kitabni üginish bar. méning shérikim bolushni xalamsen?"
+  },
+  "595": {
+    "id": "595",
+    "text": "muqeddes kitabni üginishni ötküziwatqan wez éytqüchi"
+  },
+  "596": {
+    "id": "596",
+    "text": "ügen'güchi"
+  },
+  "597": {
+    "id": "597",
+    "text": "qiziqquchi"
+  },
+  "598": {
+    "id": "598",
+    "text": "qiziqishni rawajlandur-"
+  },
+  "599": {
+    "id": "599",
+    "text": "wez xizmitining waqti"
+  },
+  "600": {
+    "id": "600",
+    "text": "ötken ayda u wez xizmitide 14 sa'et boldi."
+  },
+  "601": {
+    "id": "601",
+    "text": "ötken ayda u wez xizmitide 14 sa'et bolup, bir muqeddes kitab üginishni ötküzdi."
+  },
+  "602": {
+    "id": "602",
+    "text": "tewsiye qilish usuli; tonushturush usuli"
+  },
+  "603": {
+    "id": "603",
+    "text": "sizning qandaq yaxshi tewsiye qilish usulingiz bar?"
+  },
+  "604": {
+    "id": "604",
+    "text": "weqe; waqie",
+    "annotation": "{.kz}"
+  },
+  "605": {
+    "id": "605",
+    "text": "ötken ayda xizmette qiziq weqiler boldimu?"
+  },
+  "606": {
+    "id": "606",
+    "text": "hazir XXX qérindash bir qiziq weqini éytip béridu."
+  },
+  "607": {
+    "id": "607",
+    "text": "«padishaliq xizmitimiz»"
+  },
+  "608": {
+    "id": "608",
+    "text": "qisturma"
+  },
+  "609": {
+    "id": "609",
+    "text": "dékabir 2006 yilida chiqqan «padishaliq xizmitimiz»ning qisturmisini wez xizmiti uchrishishigha élip kélinglar."
+  },
+  "610": {
+    "id": "610",
+    "text": "ayliq tarqitilidighan matériyal"
+  },
+  "611": {
+    "id": "611",
+    "text": "bu ayda tarqitilidighan matériyal néme?"
+  },
+  "612": {
+    "id": "612",
+    "text": "bu ayda qandaq oqushluq(lar)ni tarqitimiz?"
+  },
+  "613": {
+    "id": "613",
+    "text": "alahide wez éytish pa'aliyiti"
+  },
+  "614": {
+    "id": "614",
+    "text": "alahide wez éytish pa'aliyiti qachan bashlinidu?"
+  },
+  "615": {
+    "id": "615",
+    "text": "shérik"
+  },
+  "616": {
+    "id": "616",
+    "text": "kimning shériki yoq?"
+  },
+  "617": {
+    "id": "617",
+    "text": "XXX qérindash, sen YYY qérindash bilen xizmet qilalaysen."
+  },
+  "618": {
+    "id": "618",
+    "text": "kim qatnash wastilirige éhtiyajliq?"
+  },
+  "619": {
+    "id": "619",
+    "text": "(wez xizmiti) bölün'gen rayon"
+  },
+  "620": {
+    "id": "620",
+    "text": "kimge bölün'gen rayon kérek?"
+  },
+  "621": {
+    "id": "621",
+    "text": "qiyinchiliqlar barmu?"
+  },
+  "622": {
+    "id": "622",
+    "text": "so'alliringlar barmu?"
+  },
+  "623": {
+    "id": "623",
+    "text": "yürünglar!"
+  },
+  "624": {
+    "id": "624",
+    "text": "xxx"
+  },
+  "625": {
+    "id": "625",
+    "text": "yaxshimusiz! méning ismim XXX."
+  },
+  "626": {
+    "id": "626",
+    "text": "kechürisiz."
+  },
+  "627": {
+    "id": "627",
+    "text": "men XXX-che üginiwatimen."
+  },
+  "628": {
+    "id": "628",
+    "text": "siz XXX-che sözlemsiz?"
+  },
+  "629": {
+    "id": "629",
+    "text": "men XXX-che sözleydighan ademlerni izdewatimen."
+  },
+  "630": {
+    "id": "630",
+    "text": "sizning öyingizni tapqinimgha nahayiti xushalmen."
+  },
+  "631": {
+    "id": "631",
+    "text": "sizni qaytidin körüshimge nahayiti xushalmen."
+  },
+  "632": {
+    "id": "632",
+    "text": "siz bilen qaytidin sözlishishke nahayiti xushalmen."
+  },
+  "633": {
+    "id": "633",
+    "text": "qolaysiz waqitta kelginimge kechürüng."
+  },
+  "634": {
+    "id": "634",
+    "text": "sizning waqtingiz yoq oxshaydu."
+  },
+  "635": {
+    "id": "635",
+    "text": "men qisqiche éytay."
+  },
+  "636": {
+    "id": "636",
+    "text": "biz mushu rayonda barliq a'ililerge yoluqiwatimiz."
+  },
+  "637": {
+    "id": "637",
+    "text": "biz bügün silerning qoshniliringlar bilen qisqa waqit sözlishiwatimiz."
+  },
+  "638": {
+    "id": "638",
+    "text": "ademler bilen sözliship, men … bayqidim."
+  },
+  "639": {
+    "id": "639",
+    "text": "ademler bilen sözliship, biz … bayqiduq."
+  },
+  "640": {
+    "id": "640",
+    "text": "biz qoshnilirimiz bilen hayatimizdiki qiyinchiliqlarni hel qilish üchün, emeliy yardemni qeyerdin tépishqa bolidighanlighi toghrisida sözlishiwatimiz."
+  },
+  "641": {
+    "id": "641",
+    "text": "biz qoshnilirimizgha … toghrisida éytiwatimiz."
+  },
+  "642": {
+    "id": "642",
+    "text": "biz ademlerge … toghrisida éytiwatimiz."
+  },
+  "643": {
+    "id": "643",
+    "text": "biz hemmisi bilen … toghrisida sözlishiwatimiz."
+  },
+  "644": {
+    "id": "644",
+    "text": "men qoshnilar bilen hemmimizge te'elluq bir  so'alni muhakime qiliwatimen."
+  },
+  "645": {
+    "id": "645",
+    "text": "bügün biz hemmisidin…  sorawatimiz."
+  },
+  "646": {
+    "id": "646",
+    "text": "bügün biz qoshnilirimizgha … so'al qoyuwatimiz"
+  },
+  "647": {
+    "id": "647",
+    "text": "men sizge mundaq so'al qoyay dégen."
+  },
+  "648": {
+    "id": "648",
+    "text": "siz oylap baqqanmu?"
+  },
+  "649": {
+    "id": "649",
+    "text": "siz oylap baqqanmu: eger xuda bar bolsa, némishke u ademlerning béshigha kéliwatqan adaletsizlikke hem azabqa yol qoyidu?"
+  },
+  "650": {
+    "id": "650",
+    "text": "xxx"
+  },
+  "651": {
+    "id": "651",
+    "text": "siz bilen qandaq alaqilashsam bolidu?"
+  },
+  "652": {
+    "id": "652",
+    "text": "téléfon noméringizni bérelemsiz?"
+  },
+  "653": {
+    "id": "653",
+    "text": "méning téléfon nomérim …"
+  },
+  "654": {
+    "id": "654",
+    "text": "men kélishtin awwal sizge téléfon qilimen."
+  },
+  "655": {
+    "id": "655",
+    "text": "men sizge s m s qilimen."
+  },
+  "656": {
+    "id": "656",
+    "text": "siz méning s m s -imni aldingizmu?"
+  },
+  "657": {
+    "id": "657",
+    "text": "biz bashqa waqitta uchrashsaq bolidu."
+  },
+  "658": {
+    "id": "658",
+    "text": "uchrishish üchün waqit belgiliwalayli."
+  },
+  "659": {
+    "id": "659",
+    "text": "sizge qaysi waqit qolayliq?"
+  },
+  "660": {
+    "id": "660",
+    "text": "qaysi waqitta uchrishish sizge qolayliq?"
+  },
+  "661": {
+    "id": "661",
+    "text": "kechürüng, ete manga qolayliq emes."
+  },
+  "662": {
+    "id": "662",
+    "text": "sizge qaysi waqitta téléfon qilghinim toghra bolidu?"
+  },
+  "663": {
+    "id": "663",
+    "text": "sizge qaysi waqitta kelginim toghra bolidu?"
+  },
+  "664": {
+    "id": "664",
+    "text": "kéler heptide uchrashsaq qandaq?"
+  },
+  "665": {
+    "id": "665",
+    "text": "kéler heptening ikkinchi küni chüshtin kéyin uchrashsaq, sizge qolayliqmu?"
+  },
+  "666": {
+    "id": "666",
+    "text": "siz dukanda bolamsiz?"
+  },
+  "667": {
+    "id": "667",
+    "text": "siz öyde bolamsiz?"
+  },
+  "668": {
+    "id": "668",
+    "text": "-; bir chine chay (/qehwe) ichishte uchrashsaq bolidu.",
+    "annotation": "{.kz}"
+  },
+  "669": {
+    "id": "669",
+    "text": "bir jayda uchriship paranglishsaq bolidu."
+  },
+  "670": {
+    "id": "670",
+    "text": "kéler heptide sizning waqtingiz bolamdu?"
+  },
+  "671": {
+    "id": "671",
+    "text": "ete sizde 10 minut waqtingiz bolamdu?"
+  },
+  "672": {
+    "id": "672",
+    "text": "biz sel burunraq körüshsek bolamdu?"
+  },
+  "673": {
+    "id": "673",
+    "text": "biz sel kéyinrek körüshsek bolamdu?"
+  },
+  "674": {
+    "id": "674",
+    "text": "kechürüng, uchrishishni bikar qilidighan boldum."
+  },
+  "675": {
+    "id": "675",
+    "text": "biz uchrishishni bashqa künge özgertsek bolamdu?"
+  },
+  "676": {
+    "id": "676",
+    "text": "xxx"
+  },
+  "677": {
+    "id": "677",
+    "text": "men siz bilen muqeddes kitabtin muhim bir pikir bilen bölüshqili keldim."
+  },
+  "678": {
+    "id": "678",
+    "text": "men siz bilen muqeddes kitabtiki quwwetleydighan pikirni bölüshey dégen"
+  },
+  "679": {
+    "id": "679",
+    "text": "men qoshnilirim bilen muqeddes kitabtiki quwwetleydighan pikirni bölüshiwatimen"
+  },
+  "680": {
+    "id": "680",
+    "text": "biz ademlerni muqeddes kitabni oqushqa dewet qiliwatimiz."
+  },
+  "681": {
+    "id": "681",
+    "text": "muhim soallargha muqeddes kitab bériwatqan jawablar ademlerni heyran qalduridu. mesilen; ..."
+  },
+  "682": {
+    "id": "682",
+    "text": "muqeddes kitab néme deydighinigha qarap körünga."
+  },
+  "683": {
+    "id": "683",
+    "text": "siz méning bilen muqeddes kitabni üginishni xalamsiz?"
+  },
+  "684": {
+    "id": "684",
+    "text": "biz ademlerge muqeddes kitabni heqsiz üginishni teqdim qiliwatimiz."
+  },
+  "685": {
+    "id": "685",
+    "text": null
+  },
+  "686": {
+    "id": "686",
+    "text": "men sizge munu waraqchini bérey dégen."
+  },
+  "687": {
+    "id": "687",
+    "text": "bu waraqche … toghrisida."
+  },
+  "688": {
+    "id": "688",
+    "text": "bu waraqchini oqup chiqish köp waqtingizni almaydu."
+  },
+  "689": {
+    "id": "689",
+    "text": "bu ajayip qiziq."
+  },
+  "690": {
+    "id": "690",
+    "text": "siz munu kitapchini oqqungiz barmu?"
+  },
+  "691": {
+    "id": "691",
+    "text": "sizge munu zhurnallarni qalduraymu?"
+  },
+  "692": {
+    "id": "692",
+    "text": "munu süretke qarap béqinge."
+  },
+  "693": {
+    "id": "693",
+    "text": "men sizge munu kitabni körsitey dégen."
+  },
+  "694": {
+    "id": "694",
+    "text": "munu kitabta éytilghan sözlerge qarap béqinga."
+  },
+  "695": {
+    "id": "695",
+    "text": "bu heqsiz."
+  },
+  "696": {
+    "id": "696",
+    "text": "bizning ishlirimiz ixtiyariy i'ane bilen élip bériliwatidu."
+  },
+  "697": {
+    "id": "697",
+    "text": "siz bu élip tursingiz bolidu."
+  },
+  "698": {
+    "id": "698",
+    "text": "men sizge özemning kitabimni bérip tureleymen."
+  },
+  "699": {
+    "id": "699",
+    "text": "men siz bilen sizning tilingizda melumat bölüshküm kélidu."
+  },
+  "700": {
+    "id": "700",
+    "text": "xxx"
+  },
+  "701": {
+    "id": "701",
+    "text": "siz bu heqqide néme oylaysiz?"
+  },
+  "702": {
+    "id": "702",
+    "text": "bu sizge yaqamdu?"
+  },
+  "703": {
+    "id": "703",
+    "text": "siz …-gha kélishemsiz?"
+  },
+  "704": {
+    "id": "704",
+    "text": "siz qandaq qaraysiz?"
+  },
+  "705": {
+    "id": "705",
+    "text": "siz  … toghrisida qandaq oylaysiz?"
+  },
+  "706": {
+    "id": "706",
+    "text": "xxx"
+  },
+  "707": {
+    "id": "707",
+    "text": "kéler qétim … heqqide sözlishey dégen."
+  },
+  "708": {
+    "id": "708",
+    "text": "kéler qétim sizge muhim so'alning jawabini körsitey dégen."
+  },
+  "709": {
+    "id": "709",
+    "text": "bu so'alni kéler qétim kelginimde muhakime qilayli"
+  },
+  "710": {
+    "id": "710",
+    "text": "kéler qétim bu kitabning 2-babini qarap körsek bolidu."
+  },
+  "711": {
+    "id": "711",
+    "text": "ésingizdimu, … ?"
+  },
+  "712": {
+    "id": "712",
+    "text": "aldinqi qétim sizge so'al qoyghan."
+  },
+  "713": {
+    "id": "713",
+    "text": "bügün shu so'algha jawab bérey dégen."
+  },
+  "714": {
+    "id": "714",
+    "text": "xxx"
+  },
+  "715": {
+    "id": "715",
+    "text": "XXX öydimu?"
+  },
+  "716": {
+    "id": "716",
+    "text": "XXX barmu?"
+  },
+  "717": {
+    "id": "717",
+    "text": "u chiqip ketken."
+  },
+  "718": {
+    "id": "718",
+    "text": "u qachan kélidu?"
+  },
+  "719": {
+    "id": "719",
+    "text": "men (uni) saqlap turay."
+  },
+  "720": {
+    "id": "720",
+    "text": "men ete qaytip kélimen."
+  },
+  "721": {
+    "id": "721",
+    "text": "muhim emes."
+  },
+  "722": {
+    "id": "722",
+    "text": "héchqisi yoq."
+  },
+  "724": {
+    "id": "724",
+    "text": "xxx"
+  },
+  "725": {
+    "id": "725",
+    "text": "xxx"
+  },
+  "726": {
+    "id": "726",
+    "text": "i ershtiki atimiz, séning naming ulughlan'ghay."
+  },
+  "727": {
+    "id": "727",
+    "text": "padishahliqing yer yüzide namayan bolghay."
+  },
+  "728": {
+    "id": "728",
+    "text": "iradeng ershtikidek yer yüzidimu emelge ashurulghay."
+  },
+  "729": {
+    "id": "729",
+    "text": "kündilik yémeklikimizni bergeysen."
+  },
+  "730": {
+    "id": "730",
+    "text": "bizge gunah qilghanlarni kechürginimizdek, senmu gunahlirimizni kechürgeysen."
+  },
+  "731": {
+    "id": "731",
+    "text": "bizni azdurulushlardin saqlap qalghaysen. bizni yamanliqtin yiraq qilghaysen."
+  },
+  "732": {
+    "id": "732",
+    "text": "xxx"
+  },
+  "733": {
+    "id": "733",
+    "text": "sen"
+  },
+  "734": {
+    "id": "734",
+    "text": "yehwa"
+  },
+  "735": {
+    "id": "735",
+    "text": "xuda"
+  },
+  "736": {
+    "id": "736",
+    "text": "xudayimiz; bizning xuda(yimiz)"
+  },
+  "737": {
+    "id": "737",
+    "text": "yehwa bizning xudayimiz"
+  },
+  "738": {
+    "id": "738",
+    "text": "yaratquchi, ijatkar"
+  },
+  "739": {
+    "id": "739",
+    "text": "bizning yaratquchimiz"
+  },
+  "740": {
+    "id": "740",
+    "text": "asman bilen yerning Ijatkari"
+  },
+  "741": {
+    "id": "741",
+    "text": "ata"
+  },
+  "742": {
+    "id": "742",
+    "text": "atimiz"
+  },
+  "743": {
+    "id": "743",
+    "text": "qédirliq"
+  },
+  "744": {
+    "id": "744",
+    "text": "méhriban"
+  },
+  "745": {
+    "id": "745",
+    "text": "rehimlik"
+  },
+  "746": {
+    "id": "746",
+    "text": "söyümlük"
+  },
+  "747": {
+    "id": "747",
+    "text": "söygüchi; sadiq"
+  },
+  "748": {
+    "id": "748",
+    "text": "ulugh"
+  },
+  "749": {
+    "id": "749",
+    "text": "hemmige qadir"
+  },
+  "750": {
+    "id": "750",
+    "text": "ershtiki, asmandiki"
+  },
+  "751": {
+    "id": "751",
+    "text": "ershtiki atimiz; asmandiki atimiz"
+  },
+  "752": {
+    "id": "752",
+    "text": "xxx"
+  },
+  "753": {
+    "id": "753",
+    "text": "eysa mesih"
+  },
+  "754": {
+    "id": "754",
+    "text": "biz eysaning ismi bilen du'a qilimiz."
+  },
+  "755": {
+    "id": "755",
+    "text": "eysa arqiliq du'a qilimiz."
+  },
+  "756": {
+    "id": "756",
+    "text": "biz eysaning ismi bilen du'a qilimiz."
+  },
+  "757": {
+    "id": "757",
+    "text": "qutquzghuchimiz"
+  },
+  "758": {
+    "id": "758",
+    "text": "oghlung"
+  },
+  "759": {
+    "id": "759",
+    "text": "padishahimiz"
+  },
+  "760": {
+    "id": "760",
+    "text": "bizning hökümran padishahimiz"
+  },
+  "761": {
+    "id": "761",
+    "text": "amin."
+  },
+  "762": {
+    "id": "762",
+    "text": "xxx"
+  },
+  "763": {
+    "id": "763",
+    "text": "biz séni söyümiz."
+  },
+  "764": {
+    "id": "764",
+    "text": "biz séni medhiyileymiz."
+  },
+  "765": {
+    "id": "765",
+    "text": "biz séni ulughlaymiz."
+  },
+  "766": {
+    "id": "766",
+    "text": "padishaliqing élip kélidighan beriketlerni taqetsizlik bilen kütimiz."
+  },
+  "767": {
+    "id": "767",
+    "text": "biz séning iradengni orunlashni xalaymiz."
+  },
+  "768": {
+    "id": "768",
+    "text": "biz séning ismingni medhiyileshni xalaymiz."
+  },
+  "769": {
+    "id": "769",
+    "text": "xxx"
+  },
+  "770": {
+    "id": "770",
+    "text": "… üchün xushalmiz."
+  },
+  "771": {
+    "id": "771",
+    "text": "bille yighilish imkaniyitimiz üchün xushalmiz."
+  },
+  "772": {
+    "id": "772",
+    "text": "bügün bille yighilghinimizgha xursenmiz."
+  },
+  "773": {
+    "id": "773",
+    "text": "… üchün minnetdarmiz."
+  },
+  "774": {
+    "id": "774",
+    "text": "yighilishlar üchün jayimiz barlighigha minnetdarmiz."
+  },
+  "775": {
+    "id": "775",
+    "text": "mushu mümkinchiliq üchün biz köp minnetdarmiz."
+  },
+  "776": {
+    "id": "776",
+    "text": "yighilishlar arqiliq bériwatqan bilimler üchün minnetdarmiz."
+  },
+  "777": {
+    "id": "777",
+    "text": "… üchün rexmet."
+  },
+  "778": {
+    "id": "778",
+    "text": "ajayip artuqchiliq üchün rexmet."
+  },
+  "779": {
+    "id": "779",
+    "text": "hayat üchün rexmet."
+  },
+  "780": {
+    "id": "780",
+    "text": "mushu duniyadin chiqarghining üchün rexmet."
+  },
+  "781": {
+    "id": "781",
+    "text": "séning sözüng muqeddes kitab üchün rexmet"
+  },
+  "782": {
+    "id": "782",
+    "text": "séni bilish imkaniyitimizge rexmet."
+  },
+  "783": {
+    "id": "783",
+    "text": "eysa mesihning tölem qurbanliqi üchün rexmet."
+  },
+  "784": {
+    "id": "784",
+    "text": "qérindashlirimiz üchün rexmet."
+  },
+  "785": {
+    "id": "785",
+    "text": "mushu yighilish üchün rexmet."
+  },
+  "786": {
+    "id": "786",
+    "text": "kélechekke bolghan ümidmiz üchün rexmet."
+  },
+  "787": {
+    "id": "787",
+    "text": "oghlungni yerge ewetkining üchün rexmet."
+  },
+  "788": {
+    "id": "788",
+    "text": "yighilish dawamida anglighan eskertmiler üchün rexmet."
+  },
+  "789": {
+    "id": "789",
+    "text": "xxx"
+  },
+  "790": {
+    "id": "790",
+    "text": "XXX-ni yétekle-"
+  },
+  "791": {
+    "id": "791",
+    "text": "bizni yétekle."
+  },
+  "792": {
+    "id": "792",
+    "text": "teshkilatingni yétekligin."
+  },
+  "793": {
+    "id": "793",
+    "text": "yétekchi kéngeshni yétekligin."
+  },
+  "794": {
+    "id": "794",
+    "text": "XXX-gha yardem ber-; XXX-gha yardemlesh-"
+  },
+  "795": {
+    "id": "795",
+    "text": "sanga xizmet qilishqa yardemleshkin."
+  },
+  "796": {
+    "id": "796",
+    "text": "bizge durus  ish qilishqa yardem bergin."
+  },
+  "797": {
+    "id": "797",
+    "text": "azdurushlargha qarshi turushimizgha yardemleshkin."
+  },
+  "798": {
+    "id": "798",
+    "text": "bizge chidamliq bergin."
+  },
+  "799": {
+    "id": "799",
+    "text": "yighilishimizgha qatnishishqa yardem bergin."
+  },
+  "800": {
+    "id": "800",
+    "text": "xizmitimizde semimiy ademlerni tépishqa yardem bergin."
+  },
+  "801": {
+    "id": "801",
+    "text": "biliwatqinimiz bilen bashqilar bilen bölüshüshke yardemleshkin."
+  },
+  "802": {
+    "id": "802",
+    "text": "yighilish waqtida diqqetlik bolushqa yardem bergin."
+  },
+  "803": {
+    "id": "803",
+    "text": "sözüng üstidin mulahize qilishqa yardemleshkin."
+  },
+  "804": {
+    "id": "804",
+    "text": "üginiwatqanlirimizni emelde qollinishqa yardem bergin."
+  },
+  "805": {
+    "id": "805",
+    "text": "éghirchiliqtiki qérindashlirimizgha yardem bergin."
+  },
+  "806": {
+    "id": "806",
+    "text": "qérindashlirimizning mohtajlirigha diqqetlik bolushqa yardemleshkin."
+  },
+  "807": {
+    "id": "807",
+    "text": "XXX-ni sözüngni üginishni dawamlashturushqa yardemleshkin."
+  },
+  "808": {
+    "id": "808",
+    "text": "XXX-gha jesur bolushqa yardemleshkin."
+  },
+  "809": {
+    "id": "809",
+    "text": "XXX-gha rohiy utuqlargha yétishke yardem bergin."
+  },
+  "810": {
+    "id": "810",
+    "text": "XXX-gha YYY-ni ber-"
+  },
+  "811": {
+    "id": "811",
+    "text": "bizge … bergin."
+  },
+  "812": {
+    "id": "812",
+    "text": "bizge muqeddes rohingni bergin."
+  },
+  "813": {
+    "id": "813",
+    "text": "bizge danaliq bergin."
+  },
+  "814": {
+    "id": "814",
+    "text": "hajetlik nersini qilishqa küch bergin."
+  },
+  "815": {
+    "id": "815",
+    "text": "XXX-ni sora-; XXX-ni tile-"
+  },
+  "816": {
+    "id": "816",
+    "text": "….ni tileymiz."
+  },
+  "817": {
+    "id": "817",
+    "text": "biz mushu qiyin (/eghir) zamanda séning yolbashchiliqingni soraymiz."
+  },
+  "818": {
+    "id": "818",
+    "text": "XXX-ni beriketle-"
+  },
+  "819": {
+    "id": "819",
+    "text": "… beriketligin."
+  },
+  "820": {
+    "id": "820",
+    "text": "bizni beriketligin."
+  },
+  "821": {
+    "id": "821",
+    "text": "bizning xizmitimizni beriketligin."
+  },
+  "822": {
+    "id": "822",
+    "text": "yighilishimizni beriketligin."
+  },
+  "823": {
+    "id": "823",
+    "text": "jama'etchilikimizni beriketligin."
+  },
+  "824": {
+    "id": "824",
+    "text": "XXX-ni himaye qil-; XXX-ni qoghda-"
+  },
+  "825": {
+    "id": "825",
+    "text": "bizni himaye qilghin."
+  },
+  "826": {
+    "id": "826",
+    "text": "mushu kechte kélelmigen qérindashlirimizni qoghdighin."
+  },
+  "827": {
+    "id": "827",
+    "text": "bashqa döletlerde ziyankeshliqqa uchrawatqan qérindashlirimizni qoghdighin."
+  },
+  "828": {
+    "id": "828",
+    "text": "öyge mang'ghanda bizni qoghdighin."
+  },
+  "829": {
+    "id": "829",
+    "text": "ötünimiz, …; -ghaysen."
+  },
+  "830": {
+    "id": "830",
+    "text": "yighilishimizni beriketligin."
+  },
+  "831": {
+    "id": "831",
+    "text": "ötünimiz, yighilishimizni beriketligin."
+  },
+  "832": {
+    "id": "832",
+    "text": "xxx"
+  },
+  "833": {
+    "id": "833",
+    "text": "Biz mukemmelsiz."
+  },
+  "834": {
+    "id": "834",
+    "text": "gunah qil-; gunah ötküz-"
+  },
+  "835": {
+    "id": "835",
+    "text": "biz köp guna ötküzimiz."
+  },
+  "836": {
+    "id": "836",
+    "text": "pushayman qilimiz. ; ökünimiz."
+  },
+  "837": {
+    "id": "837",
+    "text": "biz gunah qilghanliqimiz üchün ökünimiz (/pushayman qilimiz)."
+  },
+  "838": {
+    "id": "838",
+    "text": "biz gunahkar bolghanliqimiz üchün ökünimiz."
+  },
+  "839": {
+    "id": "839",
+    "text": "kechürüm"
+  },
+  "840": {
+    "id": "840",
+    "text": "biz séning kechürümingni soraymiz."
+  },
+  "841": {
+    "id": "841",
+    "text": "XXX-ni kechür-"
+  },
+  "842": {
+    "id": "842",
+    "text": "bizni kechürgin."
+  },
+  "843": {
+    "id": "843",
+    "text": "oghlungning tölem qurbanlighi asasida bizni kechürgin."
+  },
+  "844": {
+    "id": "844",
+    "text": "XXX-ni kechür-"
+  },
+  "845": {
+    "id": "845",
+    "text": "bizning gunahlirimizni kechürgin."
+  },
+  "846": {
+    "id": "846",
+    "text": "biz yaman duniyada yashawatimiz."
+  },
+  "847": {
+    "id": "847",
+    "text": "biz köpligen qiyinchiliqlar bilen uchrishiwatimiz."
+  }
+}

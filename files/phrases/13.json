@@ -1,0 +1,3391 @@
+{
+  "5": {
+    "id": "5",
+    "text": null
+  },
+  "7": {
+    "id": "7",
+    "text": "hindī"
+  },
+  "8": {
+    "id": "8",
+    "text": "Hindi (ISO 15919)"
+  },
+  "11": {
+    "id": "11",
+    "text": null
+  },
+  "12": {
+    "id": "12",
+    "text": null
+  },
+  "13": {
+    "id": "13",
+    "text": null
+  },
+  "14": {
+    "id": "14",
+    "text": null
+  },
+  "15": {
+    "id": "15",
+    "text": null
+  },
+  "16": {
+    "id": "16",
+    "text": null
+  },
+  "18": {
+    "id": "18",
+    "text": null
+  },
+  "19": {
+    "id": "19",
+    "text": null
+  },
+  "20": {
+    "id": "20",
+    "text": null
+  },
+  "21": {
+    "id": "21",
+    "text": null
+  },
+  "22": {
+    "id": "22",
+    "text": null
+  },
+  "23": {
+    "id": "23",
+    "text": null
+  },
+  "24": {
+    "id": "24",
+    "text": null
+  },
+  "25": {
+    "id": "25",
+    "text": null
+  },
+  "26": {
+    "id": "26",
+    "text": null
+  },
+  "27": {
+    "id": "27",
+    "text": null
+  },
+  "28": {
+    "id": "28",
+    "text": null
+  },
+  "29": {
+    "id": "29",
+    "text": null
+  },
+  "30": {
+    "id": "30",
+    "text": null
+  },
+  "31": {
+    "id": "31",
+    "text": null
+  },
+  "32": {
+    "id": "32",
+    "text": null
+  },
+  "33": {
+    "id": "33",
+    "text": null
+  },
+  "34": {
+    "id": "34",
+    "text": null
+  },
+  "35": {
+    "id": "35",
+    "text": null
+  },
+  "37": {
+    "id": "37",
+    "text": "śhabda sangraha aur vākyā̃nśh"
+  },
+  "38": {
+    "id": "38",
+    "text": "sanghaṭan saṁrachanā/ vyavasthāpan saṁrachanā"
+  },
+  "39": {
+    "id": "39",
+    "text": "yahōvā kē sākṣī"
+  },
+  "40": {
+    "id": "40",
+    "text": "yahōvā kē sākṣī"
+  },
+  "41": {
+    "id": "41",
+    "text": "ēk yahōvā kā sākṣī"
+  },
+  "42": {
+    "id": "42",
+    "text": "bāyabal vidyārthī",
+    "annotation": "(: iss nāam sē yahōvākē sākṣīyō̃ kō pahalē jānā jātā thā)"
+  },
+  "43": {
+    "id": "43",
+    "text": "bhāī",
+    "annotation": "(: ēk puruṣh saha upāsak)"
+  },
+  "44": {
+    "id": "44",
+    "text": "ēk prauḍha bhāī"
+  },
+  "45": {
+    "id": "45",
+    "text": "hamārē bhāī",
+    "annotation": "(: viśhvāsa mē̃)"
+  },
+  "46": {
+    "id": "46",
+    "text": "hamārē adhyātmik bhāīyō̃ kē bīch mē̃"
+  },
+  "47": {
+    "id": "47",
+    "text": "bahan",
+    "annotation": "(: ēk strī saha upāsak)"
+  },
+  "48": {
+    "id": "48",
+    "text": "praśhikṣita masīhī bahan",
+    "annotation": "(: bhāī kē anupasthitī mē̃ kām karanē kē liē praśhikṣita)"
+  },
+  "49": {
+    "id": "49",
+    "text": "hamārī masīhī bahanē"
+  },
+  "50": {
+    "id": "50",
+    "text": "hamārī bahanē"
+  },
+  "51": {
+    "id": "51",
+    "text": "āpakē adhyātmik bhāī aur bahanē"
+  },
+  "52": {
+    "id": "52",
+    "text": "abhiṣhikt"
+  },
+  "53": {
+    "id": "53",
+    "text": "vaha jinhē pṛthvī kī āśhā hai"
+  },
+  "54": {
+    "id": "54",
+    "text": "dusarī bhēḍa"
+  },
+  "55": {
+    "id": "55",
+    "text": "vaha jinhē svarga kī āśhā hai."
+  },
+  "56": {
+    "id": "56",
+    "text": "abhiṣhikta",
+    "annotation": "(: viśhēṣana)"
+  },
+  "57": {
+    "id": "57",
+    "text": "abhiṣhikta masīhī"
+  },
+  "58": {
+    "id": "58",
+    "text": "usakē abhiṣhikta śiṣyāō̃ kī dharatī para kī maṇḍalī"
+  },
+  "59": {
+    "id": "59",
+    "text": "viśhvāāsu buddhīmān dās"
+  },
+  "60": {
+    "id": "60",
+    "text": "śhāsī nikāy"
+  },
+  "61": {
+    "id": "61",
+    "text": "śhāsī nikāy kā sadasya"
+  },
+  "62": {
+    "id": "62",
+    "text": "baptismā"
+  },
+  "63": {
+    "id": "63",
+    "text": "baptismā lēnā"
+  },
+  "64": {
+    "id": "64",
+    "text": "mainnē 2006 mē̃ baptismā liyā"
+  },
+  "65": {
+    "id": "65",
+    "text": "XXX kō baptismā dēnā"
+  },
+  "66": {
+    "id": "66",
+    "text": "yuhannā nē yīśū kō baptismā diyā"
+  },
+  "67": {
+    "id": "67",
+    "text": "baptismā",
+    "annotation": "(: kāryakrama)"
+  },
+  "68": {
+    "id": "68",
+    "text": "vaha apanē bāyabal vidyārthī kē baptismē mē hājīr rahā"
+  },
+  "69": {
+    "id": "69",
+    "text": "prachārak"
+  },
+  "70": {
+    "id": "70",
+    "text": "baptismārahita prachārak"
+  },
+  "71": {
+    "id": "71",
+    "text": "vaha baptismārahita prachārak kab banā?"
+  },
+  "72": {
+    "id": "72",
+    "text": "baptismāprāpta prachārak"
+  },
+  "73": {
+    "id": "73",
+    "text": "aniyamita prachārak"
+  },
+  "74": {
+    "id": "74",
+    "text": "akriyāśhīl pracārak"
+  },
+  "75": {
+    "id": "75",
+    "text": "yahōvā kī sēvā karanā"
+  },
+  "76": {
+    "id": "76",
+    "text": "sēvā"
+  },
+  "77": {
+    "id": "77",
+    "text": "yahōvā kē liē hamārī sēvā"
+  },
+  "78": {
+    "id": "78",
+    "text": "purṇa samaya kī sēvā"
+  },
+  "79": {
+    "id": "79",
+    "text": "sēvā karanā"
+  },
+  "80": {
+    "id": "80",
+    "text": "XXX kē nātē sēvā karanā"
+  },
+  "81": {
+    "id": "81",
+    "text": "ēk prāchīn kē taur par sēvā karanā"
+  },
+  "82": {
+    "id": "82",
+    "text": "ēk pāyaniyar kē taur par sēvā karanā"
+  },
+  "83": {
+    "id": "83",
+    "text": "vaha hamārē kalasiyā mē̃ ēk prāchīn kē taur para sēvā karatā hai"
+  },
+  "84": {
+    "id": "84",
+    "text": "XXX aba sē ēk prāchīn kē taur par sēvā nahī karēngē"
+  },
+  "85": {
+    "id": "85",
+    "text": "yahōvā kī sēvā karanā"
+  },
+  "86": {
+    "id": "86",
+    "text": "sēvaka"
+  },
+  "87": {
+    "id": "87",
+    "text": "purṇa samaya sēvaka"
+  },
+  "88": {
+    "id": "88",
+    "text": "paramēśvara kē sēvaka"
+  },
+  "89": {
+    "id": "89",
+    "text": "svayaṁsēvaka",
+    "annotation": "(: apanī svēcchā sē kām karanēvālā)"
+  },
+  "90": {
+    "id": "90",
+    "text": "vināanudānit svayaṁsēvaka"
+  },
+  "91": {
+    "id": "91",
+    "text": "rājya sabhāgṛuha nirmāṇ kārya"
+  },
+  "92": {
+    "id": "92",
+    "text": "rāhata-samiti kārya"
+  },
+  "93": {
+    "id": "93",
+    "text": "jarūrata",
+    "annotation": "(: nāma)"
+  },
+  "94": {
+    "id": "94",
+    "text": "jahā̃ jarurata hai vahā̃ sēvā karanā"
+  },
+  "95": {
+    "id": "95",
+    "text": "jahā̃ jarurata hai vahā jānā"
+  },
+  "96": {
+    "id": "96",
+    "text": "pāyaniyar"
+  },
+  "97": {
+    "id": "97",
+    "text": "pāyaniyar sēvā skula mē̃ hājīra hōnā"
+  },
+  "98": {
+    "id": "98",
+    "text": "pāyaniyar"
+  },
+  "99": {
+    "id": "99",
+    "text": "sahayōgī pāyaniyar"
+  },
+  "100": {
+    "id": "100",
+    "text": "niyamita sahayōgī pāyaniyar",
+    "annotation": "(: har mahinē sahayōgī pāyaniyarīng karanēvālā kōī)"
+  },
+  "101": {
+    "id": "101",
+    "text": "khās pāyaniyar"
+  },
+  "102": {
+    "id": "102",
+    "text": "miśhanarī"
+  },
+  "103": {
+    "id": "103",
+    "text": "arjī aur niyuktī"
+  },
+  "104": {
+    "id": "104",
+    "text": "XXX kē liē arjī bharanā"
+  },
+  "105": {
+    "id": "105",
+    "text": "khās  sēvā kē liē arjī bharanā"
+  },
+  "106": {
+    "id": "106",
+    "text": "giliyaḍa skula kē liē arjī bharanā"
+  },
+  "107": {
+    "id": "107",
+    "text": "arjī"
+  },
+  "108": {
+    "id": "108",
+    "text": "arjī bharanā"
+  },
+  "109": {
+    "id": "109",
+    "text": "niyamita pāyaniyar kē liē arjī bharanā"
+  },
+  "110": {
+    "id": "110",
+    "text": "arjī dēnā"
+  },
+  "111": {
+    "id": "111",
+    "text": "siphāriśh karanā",
+    "annotation": "(: jab kisī kī siphāriśh kī jātī hai aisā prasanga)"
+  },
+  "112": {
+    "id": "112",
+    "text": "prāchīn kē taur par siphāriśh kiyē gayē"
+  },
+  "113": {
+    "id": "113",
+    "text": "prāchīn kē taur par XXX  kī siphāriśh karanā"
+  },
+  "114": {
+    "id": "114",
+    "text": "niyukta karanā",
+    "annotation": "(: jaba kisī kō niyukta kiyā jātā hai aisā prasanga)"
+  },
+  "115": {
+    "id": "115",
+    "text": "XXX kē taur par niyukta kiyē jānā"
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX prāchīn kē taur par niyukta kiyē gayē hai"
+  },
+  "117": {
+    "id": "117",
+    "text": "XXX kō sahāyyaka sēvaka kē taur par niyukta karanā"
+  },
+  "118": {
+    "id": "118",
+    "text": "yōgyatāē̃"
+  },
+  "119": {
+    "id": "119",
+    "text": "baptismā-rahit prachārak bananē kē liē yōgyatāō̃ pē charchā karanā"
+  },
+  "120": {
+    "id": "120",
+    "text": "baptismā lēnē kī yōgyatāō̃ kō purā karanā"
+  },
+  "121": {
+    "id": "121",
+    "text": "baptismā-rahit prachārak bananē kē liē yōgya"
+  },
+  "122": {
+    "id": "122",
+    "text": "niyukta puruṣh"
+  },
+  "123": {
+    "id": "123",
+    "text": "prāchīna"
+  },
+  "124": {
+    "id": "124",
+    "text": "adhyakṣh"
+  },
+  "125": {
+    "id": "125",
+    "text": "“manuṣyō̃ kē rūpa mē̃ dān” (Eph 4:8)"
+  },
+  "126": {
+    "id": "126",
+    "text": "sahāyyaka sēvaka"
+  },
+  "127": {
+    "id": "127",
+    "text": "prāchīnō̃ kā nikāya"
+  },
+  "128": {
+    "id": "128",
+    "text": "prāchīnō̃ kē nikāya kī sabhā lēnā"
+  },
+  "129": {
+    "id": "129",
+    "text": "kalasiyā kī sēvā samitī"
+  },
+  "130": {
+    "id": "130",
+    "text": "isa viṣhaya kē bārē mē̃ kalasiyā kē sēvā samitī kē mañjurī kī āvaśyakatā hai"
+  },
+  "131": {
+    "id": "131",
+    "text": "prāchīnō̃ kē nikāya kā adhyakṣa"
+  },
+  "132": {
+    "id": "132",
+    "text": "kalasiyā kē sachiva"
+  },
+  "133": {
+    "id": "133",
+    "text": "sēvā adhyakṣha"
+  },
+  "134": {
+    "id": "134",
+    "text": "praharīdurga adhyayana sañchālaka"
+  },
+  "135": {
+    "id": "135",
+    "text": "paramēśhvar kī sēvā skula adhyakṣha"
+  },
+  "136": {
+    "id": "136",
+    "text": "sahayōgī salāhagāra"
+  },
+  "137": {
+    "id": "137",
+    "text": "samuha nigarān"
+  },
+  "138": {
+    "id": "138",
+    "text": "nyāya-samitī"
+  },
+  "139": {
+    "id": "139",
+    "text": "nyāya-samitī ṭhaharānā"
+  },
+  "140": {
+    "id": "140",
+    "text": "adhyātmika charavāhē"
+  },
+  "141": {
+    "id": "141",
+    "text": "adhyātmika bhēḍē"
+  },
+  "142": {
+    "id": "142",
+    "text": "charavāhā bhēṭ"
+  },
+  "143": {
+    "id": "143",
+    "text": "charavāhā bhēṭ karanā"
+  },
+  "144": {
+    "id": "144",
+    "text": "sapharī nigarān"
+  },
+  "145": {
+    "id": "145",
+    "text": "sapharī nigarān"
+  },
+  "146": {
+    "id": "146",
+    "text": "sarkiṭ nigarān"
+  },
+  "147": {
+    "id": "147",
+    "text": "sarkiṭ"
+  },
+  "148": {
+    "id": "148",
+    "text": "sabasṭiṭyuṭa sarkiṭ nigarān"
+  },
+  "149": {
+    "id": "149",
+    "text": "maṇḍalī kā daurā karanē kē liē"
+  },
+  "150": {
+    "id": "150",
+    "text": "sarkiṭ nigarān kā daurā"
+  },
+  "151": {
+    "id": "151",
+    "text": "jilā adhyakṣha"
+  },
+  "152": {
+    "id": "152",
+    "text": "jilā"
+  },
+  "153": {
+    "id": "153",
+    "text": null
+  },
+  "154": {
+    "id": "154",
+    "text": "samuha aur kalasiyā"
+  },
+  "155": {
+    "id": "155",
+    "text": "kalasiyā",
+    "annotation": "(: ēk ṣhētra mē̃ viśvāsīyō̃ kā gaṭa)"
+  },
+  "156": {
+    "id": "156",
+    "text": "kalasiyā kā vibhājan hōnā"
+  },
+  "157": {
+    "id": "157",
+    "text": "nayī kalasiyā sthāpita karanā"
+  },
+  "158": {
+    "id": "158",
+    "text": "masihī kalasiyā",
+    "annotation": "(: ēk baḍī maṇḍalī jisamē̃ saba viśhvāsī hōtē hai)"
+  },
+  "159": {
+    "id": "159",
+    "text": "samuha"
+  },
+  "160": {
+    "id": "160",
+    "text": "alaga-thalaga samuha"
+  },
+  "161": {
+    "id": "161",
+    "text": "vidēśī bhāṣhā samuha"
+  },
+  "162": {
+    "id": "162",
+    "text": "śhākhā daphtara"
+  },
+  "163": {
+    "id": "163",
+    "text": "śhākhā"
+  },
+  "164": {
+    "id": "164",
+    "text": "yahōvā kē sākṣīyō̃ kā śhākhā daphtara"
+  },
+  "165": {
+    "id": "165",
+    "text": null
+  },
+  "166": {
+    "id": "166",
+    "text": "śākhā nikāya"
+  },
+  "167": {
+    "id": "167",
+    "text": "dēśh samitī"
+  },
+  "168": {
+    "id": "168",
+    "text": "bēthēl"
+  },
+  "169": {
+    "id": "169",
+    "text": "bēthēl sadasya",
+    "annotation": "(: bēthēl mē̃ kāma karanēvālō̃ kō bēthal sadasya kahatē hai)"
+  },
+  "170": {
+    "id": "170",
+    "text": "āpa bēthēl dēkhanā chāhēngē?"
+  },
+  "171": {
+    "id": "171",
+    "text": "daurā"
+  },
+  "172": {
+    "id": "172",
+    "text": "agalē haphtē hamārī kalasiyā śhākhā daphtara kā daurā karanē jāyēgī"
+  },
+  "173": {
+    "id": "173",
+    "text": "maĩ āpakā ṭur gāīḍ rahungā"
+  },
+  "174": {
+    "id": "174",
+    "text": "maĩ āpakō śhākhā daphtara dikhāungā"
+  },
+  "175": {
+    "id": "175",
+    "text": "sēvā vibhāga",
+    "annotation": "(: bēthēl mē̃)"
+  },
+  "176": {
+    "id": "176",
+    "text": "kṛupayā sēvā vibhāga kō likhiē."
+  },
+  "177": {
+    "id": "177",
+    "text": "viśhva mukhyālay"
+  },
+  "178": {
+    "id": "178",
+    "text": "kalasiyā kī jimmēdārīyā"
+  },
+  "179": {
+    "id": "179",
+    "text": "madadagāra bhāī/aṭēṇḍaṇṭ"
+  },
+  "180": {
+    "id": "180",
+    "text": "hājīra lōga",
+    "annotation": "(: sabhā mē̃ hājīra lōga)"
+  },
+  "181": {
+    "id": "181",
+    "text": "śhrōtā jana",
+    "annotation": "(: vē jō sabhā kō sunatē hai)"
+  },
+  "182": {
+    "id": "182",
+    "text": "hājīra lōgō̃ kō gīnanā"
+  },
+  "183": {
+    "id": "183",
+    "text": "hājīra lōga",
+    "annotation": "(: sabhā mē̃ hājīra lōgō̃ kā ānkaḍā)"
+  },
+  "184": {
+    "id": "184",
+    "text": "pichalē sāl sēvā sabhā kī hājarī lagabhaga 85 thī"
+  },
+  "185": {
+    "id": "185",
+    "text": "māyakrōphōna kā hênḍalar"
+  },
+  "186": {
+    "id": "186",
+    "text": "māyakrōphōna"
+  },
+  "187": {
+    "id": "187",
+    "text": "māyakrōphōna kā istēmāla karanā"
+  },
+  "188": {
+    "id": "188",
+    "text": "māyakrōphōna kō aḍajasṭa karanā"
+  },
+  "189": {
+    "id": "189",
+    "text": "māyakrōphōna kō śuru karanā"
+  },
+  "190": {
+    "id": "190",
+    "text": "māyakrōphōna kō banda karanā"
+  },
+  "191": {
+    "id": "191",
+    "text": "sāuṇḍ kā kāma dēkhanēvālā bhāī"
+  },
+  "192": {
+    "id": "192",
+    "text": "sāuṇḍ sisṭam"
+  },
+  "193": {
+    "id": "193",
+    "text": "sāuṇḍ sisṭam kō sañchalita karanā"
+  },
+  "194": {
+    "id": "194",
+    "text": "āvāja baḍhānā"
+  },
+  "195": {
+    "id": "195",
+    "text": "āvāja kama karanā"
+  },
+  "196": {
+    "id": "196",
+    "text": "mañcha kā kāma dēkhanēvālā bhāī"
+  },
+  "197": {
+    "id": "197",
+    "text": "mañcha"
+  },
+  "198": {
+    "id": "198",
+    "text": "rōsṭarama"
+  },
+  "199": {
+    "id": "199",
+    "text": "rōsṭarama aḍajasṭa karanā"
+  },
+  "200": {
+    "id": "200",
+    "text": "liṭarēchara kā kāma dēkhanēvālā bhāī"
+  },
+  "201": {
+    "id": "201",
+    "text": "liṭarēchara kāuṇṭara"
+  },
+  "202": {
+    "id": "202",
+    "text": "liṭarēchara kē liē ôḍara dēnā"
+  },
+  "203": {
+    "id": "203",
+    "text": "mêgajhīna kā kāma dēkhanēvālā bhāī"
+  },
+  "204": {
+    "id": "204",
+    "text": "mêgajhīna kāuṇṭara"
+  },
+  "205": {
+    "id": "205",
+    "text": "apanī mêgajhīna lēnā"
+  },
+  "206": {
+    "id": "206",
+    "text": "ṣhētra kā kām dēkhanēvālā bhāī"
+  },
+  "207": {
+    "id": "207",
+    "text": "ṣhētra (ṣhētrasēvā kē liē)"
+  },
+  "208": {
+    "id": "208",
+    "text": "ṣhētrasēvā kā ṭērēṭarī mêpa"
+  },
+  "209": {
+    "id": "209",
+    "text": "ṭērēṭarī kārḍa"
+  },
+  "210": {
+    "id": "210",
+    "text": "akāuṇṭa kā kāma dēkhanēvālā bhāī"
+  },
+  "211": {
+    "id": "211",
+    "text": "akāuṇṭsa"
+  },
+  "212": {
+    "id": "212",
+    "text": "kalasiyā kā akāuṇṭa"
+  },
+  "213": {
+    "id": "213",
+    "text": "kalasiyā kā akāuṇṭa rakhanā"
+  },
+  "214": {
+    "id": "214",
+    "text": "kalasiyā kē akāuṇṭa kō ôḍiṭa karanā"
+  },
+  "215": {
+    "id": "215",
+    "text": "dāan"
+  },
+  "216": {
+    "id": "216",
+    "text": "duniyābhara mē̃ hōnēvālē kārya kē liyē dāan",
+    "annotation": "(: mattī 24:14)"
+  },
+  "217": {
+    "id": "217",
+    "text": "kalasiyā kē liē dāan"
+  },
+  "218": {
+    "id": "218",
+    "text": "dāan kī ginatī karanā"
+  },
+  "219": {
+    "id": "219",
+    "text": "dāan karanā"
+  },
+  "220": {
+    "id": "220",
+    "text": "duniyābhara mē̃ hōnēvālē kārya kē liē dāan"
+  },
+  "221": {
+    "id": "221",
+    "text": "dāan pēṭī"
+  },
+  "222": {
+    "id": "222",
+    "text": "dāan pēṭī mē̃ dāan ḍālanā"
+  },
+  "223": {
+    "id": "223",
+    "text": "daravājē kē sāmanē dāanpēṭīyō̃ kō rakhā hai"
+  },
+  "225": {
+    "id": "225",
+    "text": "sabhāē̃"
+  },
+  "226": {
+    "id": "226",
+    "text": "hamārē upāsanā kē sthala"
+  },
+  "227": {
+    "id": "227",
+    "text": "bhavana"
+  },
+  "228": {
+    "id": "228",
+    "text": "hamārā upāsanā sthala"
+  },
+  "229": {
+    "id": "229",
+    "text": "svēcchā sē bāndhē huyē rājya sabhāgṛha"
+  },
+  "230": {
+    "id": "230",
+    "text": "rājya sabhāgṛha"
+  },
+  "231": {
+    "id": "231",
+    "text": "jalada nirmita rājyasabhāgṛha"
+  },
+  "232": {
+    "id": "232",
+    "text": "rājya sabhāgṛha kī dēkharēkha karanā"
+  },
+  "233": {
+    "id": "233",
+    "text": "rājya sabhāgṛha kī marramata karanā"
+  },
+  "234": {
+    "id": "234",
+    "text": "rājya sabhāgṛha kō sāpha karanā"
+  },
+  "235": {
+    "id": "235",
+    "text": "rājya sabhāgṛha kō sāpha karanē kī āja hamārī bārī hai"
+  },
+  "236": {
+    "id": "236",
+    "text": "sammēlan sabhāgṛha"
+  },
+  "237": {
+    "id": "237",
+    "text": "sabhāō̃ mē̃ hājīra hōnā"
+  },
+  "238": {
+    "id": "238",
+    "text": "sabhāē̃"
+  },
+  "239": {
+    "id": "239",
+    "text": "sabhā mē̃ upasthita rahanā"
+  },
+  "240": {
+    "id": "240",
+    "text": "sabhā kō chalānā"
+  },
+  "241": {
+    "id": "241",
+    "text": "taiyārī karanā",
+    "annotation": "(: khud kō tayāra karanā)"
+  },
+  "242": {
+    "id": "242",
+    "text": "sabhā kē liye taiyārī karanā"
+  },
+  "243": {
+    "id": "243",
+    "text": "XXX kī taiyārī karanā"
+  },
+  "244": {
+    "id": "244",
+    "text": "ṭippaṇī/javāb dēnē kī taiyārī karanā"
+  },
+  "245": {
+    "id": "245",
+    "text": "bhāṣhaṇ dēnē kī taiyārī karanā"
+  },
+  "246": {
+    "id": "246",
+    "text": "XXX kē sātha sangatī karanā"
+  },
+  "247": {
+    "id": "247",
+    "text": "sabhā kē bāda hama hamārē bhāī-bahanō̃ kē sātha sangatī kara sakatē hai."
+  },
+  "248": {
+    "id": "248",
+    "text": "XXX kō prōtsāhita karanā"
+  },
+  "249": {
+    "id": "249",
+    "text": "āpakē ṭippaṇīnē sachamucha mērā hausalā baḍhāyā./ āpakē javābasē mujhē bahōta prōtsāhana milā."
+  },
+  "250": {
+    "id": "250",
+    "text": "prōtsāhana dēnēvālī ṭippaṇī/prōtsāhana dēnēvālā javāba"
+  },
+  "251": {
+    "id": "251",
+    "text": "maṇḍalī kā pustaka adhyayana"
+  },
+  "252": {
+    "id": "252",
+    "text": "paramēśhvara kī sēvā skūla"
+  },
+  "253": {
+    "id": "253",
+    "text": "sēvā sabhā"
+  },
+  "254": {
+    "id": "254",
+    "text": "ṣhētrasēvā kī sabhā"
+  },
+  "255": {
+    "id": "255",
+    "text": "sammēlan"
+  },
+  "256": {
+    "id": "256",
+    "text": "vārṣhika adhivēśhana"
+  },
+  "257": {
+    "id": "257",
+    "text": "khās sammēlan din"
+  },
+  "258": {
+    "id": "258",
+    "text": "sarkiṭ sammēlan"
+  },
+  "259": {
+    "id": "259",
+    "text": "adhivēśhana"
+  },
+  "260": {
+    "id": "260",
+    "text": "jilā adhivēśhana"
+  },
+  "261": {
+    "id": "261",
+    "text": "3 divasīya jilā adhivēśhana"
+  },
+  "262": {
+    "id": "262",
+    "text": "sabhāō̃ kē bhāg"
+  },
+  "263": {
+    "id": "263",
+    "text": "bhāg",
+    "annotation": "(: sabhā kā ēk bhāg, udā. Bhāṣhaṇa, charchā, E.)"
+  },
+  "264": {
+    "id": "264",
+    "text": "agalē haphtē sabhā mē̃ mērā ēk bhāga hai."
+  },
+  "265": {
+    "id": "265",
+    "text": null
+  },
+  "266": {
+    "id": "266",
+    "text": "bhāṣhaṇ naṁ: 1"
+  },
+  "267": {
+    "id": "267",
+    "text": "bhāg milanā"
+  },
+  "268": {
+    "id": "268",
+    "text": "bhāg karanā"
+  },
+  "269": {
+    "id": "269",
+    "text": "salāha kā muddā",
+    "annotation": "(: sēvā skula kitāba sē)"
+  },
+  "270": {
+    "id": "270",
+    "text": "jisa salāha kē muddē para bahan XXX kām kar rahī thī vaha hai 23 nambara / bahan XXX 23 nambara kē salāha kē muddē par kāma kara rahī thī"
+  },
+  "271": {
+    "id": "271",
+    "text": "bhāṣhaṇ",
+    "annotation": "(: ”bhāṣhaṇa”)"
+  },
+  "272": {
+    "id": "272",
+    "text": "acchī tarahasē vikasit kiyā huā bhāṣhaṇ"
+  },
+  "273": {
+    "id": "273",
+    "text": "janabhāṣhaṇ"
+  },
+  "274": {
+    "id": "274",
+    "text": "pā̃ncha miniṭa kā bhāṣhaṇa"
+  },
+  "275": {
+    "id": "275",
+    "text": "bhāṣhaṇ dēnē kē liyē"
+  },
+  "276": {
+    "id": "276",
+    "text": "vaktā"
+  },
+  "277": {
+    "id": "277",
+    "text": "pradarśhana"
+  },
+  "278": {
+    "id": "278",
+    "text": "āiyē yaha pradarśhana dēkhatē hai"
+  },
+  "279": {
+    "id": "279",
+    "text": "XXX kō pradarśhita karanā.",
+    "annotation": "(: kucha chijē kaisē karatē hai yā kaisē hōtī hai yaha dikhānā)"
+  },
+  "280": {
+    "id": "280",
+    "text": "isa mahinē kē patrikā kī pēśhakaśha kaisē karanī hai yaha hamē bahan XXX dikhāēgī"
+  },
+  "281": {
+    "id": "281",
+    "text": "bāibal paṛhāī kī jhalakiyā̃",
+    "annotation": "(: paramēśhvara kī sēvā skūla mē̃ 10 minaṭa kā bhāg)"
+  },
+  "282": {
+    "id": "282",
+    "text": "bāībal paṛhāī"
+  },
+  "283": {
+    "id": "283",
+    "text": "sthānika jaruratē",
+    "annotation": "(: sthānika jaruratō̃ kē bārē mē̃ bhāṣhaṇ)"
+  },
+  "284": {
+    "id": "284",
+    "text": "praśhnapēṭī",
+    "annotation": "(: hamārī rāja-sēvā mē̃)"
+  },
+  "285": {
+    "id": "285",
+    "text": "gīt aur prārthanā"
+  },
+  "286": {
+    "id": "286",
+    "text": "gīt"
+  },
+  "287": {
+    "id": "287",
+    "text": "śhuruvāta kā gīt"
+  },
+  "288": {
+    "id": "288",
+    "text": "ākharī gīt"
+  },
+  "289": {
+    "id": "289",
+    "text": "gīt kā viṣhaya hai ..."
+  },
+  "290": {
+    "id": "290",
+    "text": "yaha gīt ādhārita hai ..."
+  },
+  "291": {
+    "id": "291",
+    "text": "yahōvā kē stutī kē liē gīt gākara ham sabhā kī śhuruvāta karēngē"
+  },
+  "292": {
+    "id": "292",
+    "text": "ham sabhā kī śhuruvāta gīt aur prārthanā sē karēngē"
+  },
+  "293": {
+    "id": "293",
+    "text": "yaha gīt hamārē vaktā nē chunā hai aur yaha bhāṣhaṇa kē viṣhaya sē mēla khātā hai/ milatā julatā hai"
+  },
+  "294": {
+    "id": "294",
+    "text": "yaha gīt bhāṣhaṇa kē viṣhaya sē mēla khātā hai,"
+  },
+  "295": {
+    "id": "295",
+    "text": "gīt gānē kē dvārā ham sabhā kī samāptī karēngē"
+  },
+  "296": {
+    "id": "296",
+    "text": "gīt nambara 20"
+  },
+  "297": {
+    "id": "297",
+    "text": "aba gīt nambara 20 kō suniē"
+  },
+  "298": {
+    "id": "298",
+    "text": "gīt kī kitāba / gītapustaka"
+  },
+  "299": {
+    "id": "299",
+    "text": "hamāre gīt kī kitāba meṃ 10 naṃbara kā gīt kholie"
+  },
+  "300": {
+    "id": "300",
+    "text": "gīt gānē kē liē"
+  },
+  "301": {
+    "id": "301",
+    "text": "āiyē aba gīt kramānka 30 gātē hai"
+  },
+  "302": {
+    "id": "302",
+    "text": "jaba ham yaha gīt gāyēngē taba isakē śhabdō̃ pē̃ dhyāna dijiē_x000D_"
+  },
+  "303": {
+    "id": "303",
+    "text": "prārthanā"
+  },
+  "304": {
+    "id": "304",
+    "text": "śhuruvāta kī prārthanā"
+  },
+  "305": {
+    "id": "305",
+    "text": "ākharī prārthanā"
+  },
+  "306": {
+    "id": "306",
+    "text": "prārthanā karanē kē liē"
+  },
+  "307": {
+    "id": "307",
+    "text": "bhāī XXX, āpa prārthanā karēngē̃?"
+  },
+  "308": {
+    "id": "308",
+    "text": "prārthanā karanē kē liē"
+  },
+  "309": {
+    "id": "309",
+    "text": "yahōvā kō prārthanā karanē kē liē"
+  },
+  "310": {
+    "id": "310",
+    "text": "gīt kē bāda ham yahōvā sē prārthanā karēngē"
+  },
+  "311": {
+    "id": "311",
+    "text": "ghōṣhaṇāē̃"
+  },
+  "312": {
+    "id": "312",
+    "text": "ghōṣhaṇāē̃",
+    "annotation": "(: udā. sēvā sabhā para)"
+  },
+  "313": {
+    "id": "313",
+    "text": "mujhē kucha ghōṣhaṇāē̃ karanī hai/mērē pāss kucha ghōṣhaṇāē̃ hai"
+  },
+  "314": {
+    "id": "314",
+    "text": "XXX kī ghōṣhaṇā karanā"
+  },
+  "315": {
+    "id": "315",
+    "text": "ṣhētrasabhā kī ghōṣhaṇā karanē kē liē"
+  },
+  "316": {
+    "id": "316",
+    "text": "hamē yaha ghōṣhaṇā karatē vakta ānanda hō rahā hai kī..."
+  },
+  "317": {
+    "id": "317",
+    "text": "hamē yaha ghōṣhaṇā karatē vakta du:kha hō rahā hai kī..."
+  },
+  "318": {
+    "id": "318",
+    "text": "patra",
+    "annotation": "(: udā. śhākhā sē āyā huā)"
+  },
+  "319": {
+    "id": "319",
+    "text": "śhākhā daphtara sē hamē ēk khata āyā hai"
+  },
+  "320": {
+    "id": "320",
+    "text": "maĩ bhāī XXX kō mañcha para āmantrita karungā tāki vaha sansthā sē āyē khata kō paḍhakara dikhāē"
+  },
+  "321": {
+    "id": "321",
+    "text": "prastāva"
+  },
+  "322": {
+    "id": "322",
+    "text": "prastāva sādara karanē kē liē"
+  },
+  "323": {
+    "id": "323",
+    "text": "hama yaha prastāva maṇḍalī kē sāmanē rakhanā chāhatē hai"
+  },
+  "324": {
+    "id": "324",
+    "text": "vōṭ dēnē kē liē"
+  },
+  "325": {
+    "id": "325",
+    "text": "apanā hātha upara karanā",
+    "annotation": "(: jaba vōṭ karē)"
+  },
+  "326": {
+    "id": "326",
+    "text": "agara āpa isa prastāva sē sahamata hai tō kṛupayā hātha upara kijiē"
+  },
+  "327": {
+    "id": "327",
+    "text": "agara āpa isa prastāva sē sahamata nahī hai tō kṛupayā hātha upara kijiē"
+  },
+  "328": {
+    "id": "328",
+    "text": "agara āpa vōṭ nahī karanā chāhatē tō kṛupayā apanā hātha upara kijiē"
+  },
+  "329": {
+    "id": "329",
+    "text": "aba āpa apanē hātha nīchē lē sakatē hai"
+  },
+  "330": {
+    "id": "330",
+    "text": "āpa śhāyada yaha nōṭe karanā chāhēngē"
+  },
+  "331": {
+    "id": "331",
+    "text": "āpakē gaṭa adhyakṣha kō kṛupayā apanī ṣhētrasēvā kī ripōrṭa dijiē"
+  },
+  "332": {
+    "id": "332",
+    "text": "isa haphtē gaṭa kramānka 2 rājya sabhāgṛha kī saphāī karēgā"
+  },
+  "333": {
+    "id": "333",
+    "text": "isa śhanivāra hama subaha 11 bajē ṣhētrasēvā kē liē bahan XXX kē ghara ikaṭhṭhē hōngē"
+  },
+  "334": {
+    "id": "334",
+    "text": "āja sabhā kī samāptī kē pāñcha minīṭa bāda ṣhētrasēvā kā intajāma kiyā jāyēgā"
+  },
+  "335": {
+    "id": "335",
+    "text": "ṣhētrasēvā kī sabhā dusarē skula mē̃ hōgī"
+  },
+  "336": {
+    "id": "336",
+    "text": "bhāī XXX ṣhētrasēvā kī sabhā lēngē"
+  },
+  "337": {
+    "id": "337",
+    "text": "ānēvālē jilā adhivēśhana kē bārē mē̃ hamārē pāss kucha ghōṣhaṇāai hai"
+  },
+  "338": {
+    "id": "338",
+    "text": "hamārā jilā adhivēśhana hōnēvālā hai.."
+  },
+  "339": {
+    "id": "339",
+    "text": "jilā adhivēśhana hōnēvālī jagaha hai...."
+  },
+  "340": {
+    "id": "340",
+    "text": "9:50 bajē adhivēśhana kā kāryakrama śuru hōgā"
+  },
+  "341": {
+    "id": "341",
+    "text": "adhivēśhana kā kāryakrama 3:45 bajē samāpta hōgā"
+  },
+  "342": {
+    "id": "342",
+    "text": "agara āpa kō basa mē̃ jagaha chāhīē, tō bhāī XXX sē miliē"
+  },
+  "343": {
+    "id": "343",
+    "text": "bahan XXX kā 12 mārcha kō nidhana huā hai"
+  },
+  "344": {
+    "id": "344",
+    "text": "unakā antēṣṭhī/ phyunōriyala agalē mangalavāra kō rājya sabhāgṛha mē̃ hōgā"
+  },
+  "345": {
+    "id": "345",
+    "text": "bhāī XXX nē khud maṇḍalī kī sangatī chōḍa dī hai"
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX masīhī sabhā sē bahiṣkṛta kiyē gayē hai"
+  },
+  "347": {
+    "id": "347",
+    "text": "svāgata aur prastāvanā"
+  },
+  "348": {
+    "id": "348",
+    "text": "adhyakṣha.",
+    "annotation": "(: janasabhā aur sammmēlanō̃ mē̃ bhāṣhaṇa dēnēvālē kō āmantrita karanēvālā bhāī)"
+  },
+  "349": {
+    "id": "349",
+    "text": "agalē bhāṣhaṇa kā parichaya dēnā"
+  },
+  "350": {
+    "id": "350",
+    "text": "tālī bajānā",
+    "annotation": "(: bhāṣhaṇa kī kadaradānī dikhānē kē liē hāthō̃ sē tālī bajānā)"
+  },
+  "351": {
+    "id": "351",
+    "text": "tālī bajānā"
+  },
+  "352": {
+    "id": "352",
+    "text": "tāliyō̃ sē yaha patā chalatā hai kī sunanēvālō̃ kō bhāṣhaṇa bahōta acchā lagā hai."
+  },
+  "353": {
+    "id": "353",
+    "text": "hamārī sabhā abhī dō miniṭō̃ mē̃ śhuru hōgī,"
+  },
+  "354": {
+    "id": "354",
+    "text": "āpakā svāgata hai !"
+  },
+  "355": {
+    "id": "355",
+    "text": "isa śhāma kī sabhā mē̃ ham āpakā svāgata karatē hai"
+  },
+  "356": {
+    "id": "356",
+    "text": "bhāīyō̃ aur bahanō̃ āpakā svāgata hai."
+  },
+  "357": {
+    "id": "357",
+    "text": "isa śhāma kī sabhā mē̃ āpakā svāgata hai."
+  },
+  "358": {
+    "id": "358",
+    "text": "kṛupayā apanī apanī jagaha para baiṭha jāīē."
+  },
+  "359": {
+    "id": "359",
+    "text": "kṛupayā baiṭhē rahē."
+  },
+  "360": {
+    "id": "360",
+    "text": "kṛupayā āpa apanī jagaha para baiṭhēngē."
+  },
+  "361": {
+    "id": "361",
+    "text": "agara hō sakē tō kṛupayā khaḍē rahīē"
+  },
+  "362": {
+    "id": "362",
+    "text": "aba hama 10 miniṭa kā brēka lēngē phira kṛupayā 3:15 bajē apanī sīṭa para vāpīsa ā jāīyē"
+  },
+  "363": {
+    "id": "363",
+    "text": "hamārī śhāma kī isa sabhā mē̃ dō bhāga hōngē."
+  },
+  "364": {
+    "id": "364",
+    "text": "hamārē sabhā kā agalā bhāga praharīdurga adhyayana hai."
+  },
+  "365": {
+    "id": "365",
+    "text": "mai bhāī XXX  kō mañcha para bulānā chāhũgā."
+  },
+  "366": {
+    "id": "366",
+    "text": "kṛupayā unapara dhyāna dijiē"
+  },
+  "367": {
+    "id": "367",
+    "text": "bhāī XXX yaha bhāga lēngē̃"
+  },
+  "368": {
+    "id": "368",
+    "text": "aba bhāī XXX maṇḍalī kā bāyabal adhyayana lēngē."
+  },
+  "369": {
+    "id": "369",
+    "text": "bhāī XXX adhyāya 5 mē̃ 12 sē 25 taka paḍhēngē"
+  },
+  "370": {
+    "id": "370",
+    "text": "“hamārī rājyasēvā” mē̃ di gaī ṣhētrasēvā kā dusarā pradarśhana bahan XXX dikhāēgī,"
+  },
+  "371": {
+    "id": "371",
+    "text": "aba dō bahanō̃ kō suniē jō nichē diyē gayē viṣhaya para charchā karēgī; “.....”"
+  },
+  "372": {
+    "id": "372",
+    "text": "bahan XXX charchā kā nētṛtva karēgī/charchā āgē baḍhāyēgī"
+  },
+  "373": {
+    "id": "373",
+    "text": "bahan XXX unakā sātha dēgī"
+  },
+  "374": {
+    "id": "374",
+    "text": "bahan YYY gharamālika banēgī"
+  },
+  "375": {
+    "id": "375",
+    "text": "isa bhāṣhaṇa kī sēṭinga hai"
+  },
+  "376": {
+    "id": "376",
+    "text": "āja hamē bēhada khuśhī hō rahī hai kyōnkī āja hamārē bīcha bhāṣhaṇa dēṇē kē liē ēk mēhamāna vaktā āyē hai"
+  },
+  "377": {
+    "id": "377",
+    "text": "YYY maṇḍalī kē bhāī XXX hamārē liē  bhāṣhaṇa dēngē"
+  },
+  "378": {
+    "id": "378",
+    "text": "unakē bhāṣhaṇa kā viṣaya hai...."
+  },
+  "379": {
+    "id": "379",
+    "text": "bhāī XXX. isa viṣhaya kē bārē mē̃ hamasē bāta karanē kē liē dhanyavāda"
+  },
+  "380": {
+    "id": "380",
+    "text": "sabhī upasthita  75 lōgō̃ nē āpakē bhāṣhaṇa kā ānanda  liyā hai"
+  },
+  "381": {
+    "id": "381",
+    "text": "hamārē vibhāgīya adhyakṣha aur unakī patnī hamē isa haphtē  milanē ānēvālē hai isakī hamē bēhada khuśhī hai."
+  },
+  "382": {
+    "id": "382",
+    "text": "hamārē vibhāgīya adhyakṣha kē pahalē sēvā bhāṣhaṇa kā viṣhaya hai"
+  },
+  "383": {
+    "id": "383",
+    "text": "maĩ bēthēl parivāra kā pyār āpakē liyē lāyā hũ."
+  },
+  "384": {
+    "id": "384",
+    "text": "kyā maĩ XXX maṇḍalī kō āpakā pyār bhēja sakatā hũ?"
+  },
+  "386": {
+    "id": "386",
+    "text": "sikhānā aur charchā karanā"
+  },
+  "387": {
+    "id": "387",
+    "text": "bāyabal kī kitābē"
+  },
+  "388": {
+    "id": "388",
+    "text": "ibrī dharmaśhāstra"
+  },
+  "389": {
+    "id": "389",
+    "text": "utpatī"
+  },
+  "390": {
+    "id": "390",
+    "text": "nirgamana"
+  },
+  "391": {
+    "id": "391",
+    "text": "Laivyavyavasthā"
+  },
+  "392": {
+    "id": "392",
+    "text": "ginatī"
+  },
+  "393": {
+    "id": "393",
+    "text": "vyavasthāvivaraṇa"
+  },
+  "394": {
+    "id": "394",
+    "text": "yahōśhū"
+  },
+  "395": {
+    "id": "395",
+    "text": "nyāyiyō̃"
+  },
+  "396": {
+    "id": "396",
+    "text": "rutha"
+  },
+  "397": {
+    "id": "397",
+    "text": "1 śamūēla"
+  },
+  "398": {
+    "id": "398",
+    "text": "2 śamūēla"
+  },
+  "399": {
+    "id": "399",
+    "text": "1 rājā"
+  },
+  "400": {
+    "id": "400",
+    "text": "2 rājā"
+  },
+  "401": {
+    "id": "401",
+    "text": "1 itihāsa"
+  },
+  "402": {
+    "id": "402",
+    "text": "2 itihāsa"
+  },
+  "403": {
+    "id": "403",
+    "text": "ējrā"
+  },
+  "404": {
+    "id": "404",
+    "text": "nahēmyāha"
+  },
+  "405": {
+    "id": "405",
+    "text": "ēstēr"
+  },
+  "406": {
+    "id": "406",
+    "text": "ayyūb"
+  },
+  "407": {
+    "id": "407",
+    "text": "bhajanasaṁhitā"
+  },
+  "408": {
+    "id": "408",
+    "text": "nitīvachana"
+  },
+  "409": {
+    "id": "409",
+    "text": "sabhōpadēśhaka"
+  },
+  "410": {
+    "id": "410",
+    "text": "śrēṣhṭhagīta"
+  },
+  "411": {
+    "id": "411",
+    "text": "yaśhayāha"
+  },
+  "412": {
+    "id": "412",
+    "text": "yirmayā"
+  },
+  "413": {
+    "id": "413",
+    "text": "vilāpagīt"
+  },
+  "414": {
+    "id": "414",
+    "text": "yahējakēl"
+  },
+  "415": {
+    "id": "415",
+    "text": "dāniēl"
+  },
+  "416": {
+    "id": "416",
+    "text": "hōśai"
+  },
+  "417": {
+    "id": "417",
+    "text": "yōēl"
+  },
+  "418": {
+    "id": "418",
+    "text": "āmōs"
+  },
+  "419": {
+    "id": "419",
+    "text": "ōbadyā"
+  },
+  "420": {
+    "id": "420",
+    "text": "yōnā"
+  },
+  "421": {
+    "id": "421",
+    "text": "mīkā"
+  },
+  "422": {
+    "id": "422",
+    "text": "nahum"
+  },
+  "423": {
+    "id": "423",
+    "text": "habakkūk"
+  },
+  "424": {
+    "id": "424",
+    "text": "sapanyāha"
+  },
+  "425": {
+    "id": "425",
+    "text": "haggai"
+  },
+  "426": {
+    "id": "426",
+    "text": "jakaryāha"
+  },
+  "427": {
+    "id": "427",
+    "text": "malākī"
+  },
+  "428": {
+    "id": "428",
+    "text": "grīka dharmaśhāstra"
+  },
+  "429": {
+    "id": "429",
+    "text": "mattī"
+  },
+  "430": {
+    "id": "430",
+    "text": "marakus"
+  },
+  "431": {
+    "id": "431",
+    "text": "lukā"
+  },
+  "432": {
+    "id": "432",
+    "text": "yūhannā"
+  },
+  "433": {
+    "id": "433",
+    "text": "prēṣhita"
+  },
+  "434": {
+    "id": "434",
+    "text": "rōmiyō̃"
+  },
+  "435": {
+    "id": "435",
+    "text": "1 kurinthiyō"
+  },
+  "436": {
+    "id": "436",
+    "text": "2 kurinthiyō"
+  },
+  "437": {
+    "id": "437",
+    "text": "galatiyō̃"
+  },
+  "438": {
+    "id": "438",
+    "text": "Ephisiyō̃"
+  },
+  "439": {
+    "id": "439",
+    "text": "philippiyō̃"
+  },
+  "440": {
+    "id": "440",
+    "text": "kulussiyō̃"
+  },
+  "441": {
+    "id": "441",
+    "text": "1 thissalunīkiyō̃"
+  },
+  "442": {
+    "id": "442",
+    "text": "2 thissalunīkiyō̃"
+  },
+  "443": {
+    "id": "443",
+    "text": "1 timuthiyus"
+  },
+  "444": {
+    "id": "444",
+    "text": "2 timuthiyus"
+  },
+  "445": {
+    "id": "445",
+    "text": "tītus"
+  },
+  "446": {
+    "id": "446",
+    "text": "philēmōn"
+  },
+  "447": {
+    "id": "447",
+    "text": "ibrāniyō̃"
+  },
+  "448": {
+    "id": "448",
+    "text": "yākūb"
+  },
+  "449": {
+    "id": "449",
+    "text": "1 patarasa"
+  },
+  "450": {
+    "id": "450",
+    "text": "2 patarasa"
+  },
+  "451": {
+    "id": "451",
+    "text": "1 yūhannā"
+  },
+  "452": {
+    "id": "452",
+    "text": "2 yūhannā"
+  },
+  "453": {
+    "id": "453",
+    "text": "3 yūhannā"
+  },
+  "454": {
+    "id": "454",
+    "text": "yahudā"
+  },
+  "455": {
+    "id": "455",
+    "text": "prakāśhitavākya"
+  },
+  "456": {
+    "id": "456",
+    "text": "bāyabal kā istēmāla karanā"
+  },
+  "457": {
+    "id": "457",
+    "text": "bāyabal"
+  },
+  "458": {
+    "id": "458",
+    "text": "āiyē, ham apanī bāyabal khōlatē hai"
+  },
+  "459": {
+    "id": "459",
+    "text": "hamārī bāyabal mē̃ yirmayā  10:23. khōlatē hai"
+  },
+  "460": {
+    "id": "460",
+    "text": "vivaraṇa (/kathā)"
+  },
+  "461": {
+    "id": "461",
+    "text": "isa bāyabal kē vivaraṇa kō dēkhiē"
+  },
+  "462": {
+    "id": "462",
+    "text": "vachana"
+  },
+  "463": {
+    "id": "463",
+    "text": "yaha vachana hamē kisa bārē mē̃ batātā hai?"
+  },
+  "464": {
+    "id": "464",
+    "text": "yaha vachana kyā darśhātā hai?"
+  },
+  "465": {
+    "id": "465",
+    "text": "yaha vachana kaisē sambandhit hai?"
+  },
+  "466": {
+    "id": "466",
+    "text": "isa vachana kā kyā artha hai?"
+  },
+  "467": {
+    "id": "467",
+    "text": "kṛupayā isa vachana para ṭippanī kijiē"
+  },
+  "468": {
+    "id": "468",
+    "text": "kṛupayā yaha vachana samajhāiyē."
+  },
+  "469": {
+    "id": "469",
+    "text": "isa vachana sē hama kyā sabaka sikhatē hai?"
+  },
+  "470": {
+    "id": "470",
+    "text": "mattī adhyāya sāt, vachana bārā"
+  },
+  "471": {
+    "id": "471",
+    "text": "mattī adhyāya pā̃ncha, vachana tēīs aur chaubīsa"
+  },
+  "472": {
+    "id": "472",
+    "text": "pahalā yōhāna adhyāya dō, vachana pandharā sē satarā"
+  },
+  "473": {
+    "id": "473",
+    "text": "sadatisavē bhajana kā gyārāha vachana, vachana gyārāha sadatisavē bhajana kā"
+  },
+  "474": {
+    "id": "474",
+    "text": "adhyayan kā sāhitya"
+  },
+  "475": {
+    "id": "475",
+    "text": "pannā"
+  },
+  "476": {
+    "id": "476",
+    "text": "kṛupayā apanī patrikā kē 20 vē pannē pē jō lēkha hai usē khōliē"
+  },
+  "477": {
+    "id": "477",
+    "text": "abhyāsa sāhitya kā 45 vā pannā khōliē."
+  },
+  "478": {
+    "id": "478",
+    "text": "dasa nambara kā pannā khōliē"
+  },
+  "479": {
+    "id": "479",
+    "text": "lēkha"
+  },
+  "480": {
+    "id": "480",
+    "text": "lēkha mālā",
+    "annotation": "(: udā. praharidurga maigajīna mē̃)"
+  },
+  "481": {
+    "id": "481",
+    "text": "isa haphtē ham tīna lēkhō̃ kī mālā sē pahalā lēkha dēkhēngē̃"
+  },
+  "482": {
+    "id": "482",
+    "text": "viṣhaya"
+  },
+  "483": {
+    "id": "483",
+    "text": "mūl vachana"
+  },
+  "484": {
+    "id": "484",
+    "text": "śhirṣhaka"
+  },
+  "485": {
+    "id": "485",
+    "text": "upaśhirṣhaka"
+  },
+  "486": {
+    "id": "486",
+    "text": "anucchēda"
+  },
+  "487": {
+    "id": "487",
+    "text": "pichalā anucchēda"
+  },
+  "488": {
+    "id": "488",
+    "text": "agalā anucchēda"
+  },
+  "489": {
+    "id": "489",
+    "text": "agalē dō anucchēda"
+  },
+  "490": {
+    "id": "490",
+    "text": "āiyē agalē dō anucchēda paḍhatē hai."
+  },
+  "491": {
+    "id": "491",
+    "text": "śhabda"
+  },
+  "492": {
+    "id": "492",
+    "text": "mōṭē priṇṭa kiyē gayē śhabda"
+  },
+  "493": {
+    "id": "493",
+    "text": "tirachē akṣharō̃ mē̃ diyē gayē śhabda"
+  },
+  "494": {
+    "id": "494",
+    "text": "pāṭhaṭippanī"
+  },
+  "495": {
+    "id": "495",
+    "text": "anukramaṇikā"
+  },
+  "496": {
+    "id": "496",
+    "text": "baksā/ pēṭī"
+  },
+  "497": {
+    "id": "497",
+    "text": "chitra"
+  },
+  "498": {
+    "id": "498",
+    "text": "bacchō, chitra mē̃ jō ādamī hai usakā nāam kyā hai?"
+  },
+  "499": {
+    "id": "499",
+    "text": "kêpśhana",
+    "annotation": "(: chitra kē nichē di gaī)"
+  },
+  "500": {
+    "id": "500",
+    "text": "charchā"
+  },
+  "501": {
+    "id": "501",
+    "text": "javāba"
+  },
+  "502": {
+    "id": "502",
+    "text": "javāba dēnā"
+  },
+  "503": {
+    "id": "503",
+    "text": "savāla"
+  },
+  "504": {
+    "id": "504",
+    "text": "punarvichāra praśhna",
+    "annotation": "(: udā.'bāyabal asala mē̃ kyā sikhātī hai kitāba' mē̃ )"
+  },
+  "505": {
+    "id": "505",
+    "text": "punarvichāra praśhna",
+    "annotation": "(: udā.praharīdurga adhyayana mē̃ )"
+  },
+  "506": {
+    "id": "506",
+    "text": "praśhna puchanā"
+  },
+  "507": {
+    "id": "507",
+    "text": "praśhna kā javāba dēnā"
+  },
+  "508": {
+    "id": "508",
+    "text": "ṭippanī"
+  },
+  "509": {
+    "id": "509",
+    "text": "ṭippanī dēnā"
+  },
+  "510": {
+    "id": "510",
+    "text": "kṛupayā usakī ṭippanī kā bhāṣhāntara kijiē."
+  },
+  "511": {
+    "id": "511",
+    "text": "aur kōī ṭippanī karanā chāhēgā?"
+  },
+  "512": {
+    "id": "512",
+    "text": "kṛupayā apanī ṭippanī kī maryādā (lambāī) 30 sēkanda rakhiē"
+  },
+  "513": {
+    "id": "513",
+    "text": "ṭippanī dēnā"
+  },
+  "514": {
+    "id": "514",
+    "text": "isa haphtē kē bāyabal paḍhāī para kaun ṭippanī karanā chāhēgā?"
+  },
+  "515": {
+    "id": "515",
+    "text": "chitra para ṭippanī karanā"
+  },
+  "516": {
+    "id": "516",
+    "text": "charchā"
+  },
+  "517": {
+    "id": "517",
+    "text": "savāla javāba charchā"
+  },
+  "518": {
+    "id": "518",
+    "text": "charchā karanē kē liē"
+  },
+  "519": {
+    "id": "519",
+    "text": "dainika vachana para charchā karanā"
+  },
+  "520": {
+    "id": "520",
+    "text": "aba ham sātha milakara isa lēkha para charchā karēngē"
+  },
+  "521": {
+    "id": "521",
+    "text": "sañchalana karanā  (charchā )"
+  },
+  "522": {
+    "id": "522",
+    "text": "charchā kā sañchalana karanē kē liē dhanyavāda bhāī XXX"
+  },
+  "523": {
+    "id": "523",
+    "text": "sañchālak"
+  },
+  "524": {
+    "id": "524",
+    "text": "praharīdurga sañchālak"
+  },
+  "525": {
+    "id": "525",
+    "text": "vichāra karanā",
+    "annotation": "(: charchā kī kisī bāat para dhyāna lagānā)"
+  },
+  "526": {
+    "id": "526",
+    "text": "aba hama ēk mahatvapurṇa praśhna para vichāra karēngē,"
+  },
+  "527": {
+    "id": "527",
+    "text": "paḍhanā",
+    "annotation": "(:  jōr sē, udā. sabhāō̃ mē̃)"
+  },
+  "528": {
+    "id": "528",
+    "text": "dusarā paricchēda kauna paḍhēgā?"
+  },
+  "529": {
+    "id": "529",
+    "text": "kṛupayā dusarā paricchēda paḍhiē"
+  },
+  "530": {
+    "id": "530",
+    "text": "bhāī XXX  dhanyavāda hamārē liē paḍhanē kē liē."
+  },
+  "531": {
+    "id": "531",
+    "text": "punarāvalōkan karanā"
+  },
+  "532": {
+    "id": "532",
+    "text": "āiyē isa lēkha kē mukhya muddō̃ para vāpīs punarāvalōkana karatē hai."
+  },
+  "533": {
+    "id": "533",
+    "text": "mukhya muddā"
+  },
+  "534": {
+    "id": "534",
+    "text": "isa haphtē kē sāhitya sē hamanē kaunasē mukhya muddē sikhē hai?"
+  },
+  "535": {
+    "id": "535",
+    "text": "XXX kō YYY lāgū karanā"
+  },
+  "536": {
+    "id": "536",
+    "text": "ham isē kaisē lāgū kara sakatē hai?"
+  },
+  "537": {
+    "id": "537",
+    "text": "yaha ham hamārī ṣhētrasēvā mē̃ kaisē lāgu kara sakatē hai?"
+  },
+  "538": {
+    "id": "538",
+    "text": "XXX kō sārā̃nśha rup mē̃ batānā"
+  },
+  "539": {
+    "id": "539",
+    "text": "ham in paricchēdō̃ kō sārā̃nśha rup mē̃ kaisē batā sakatē hai?"
+  },
+  "540": {
+    "id": "540",
+    "text": "bhāīyō̃ aur bahanō",
+    "annotation": "(: dhyān khiñchanē kē liē yā jaba lōgō̃sē bāta karanā śuru karatē hai  taba)"
+  },
+  "541": {
+    "id": "541",
+    "text": "bhāī XXX",
+    "annotation": "(: sabhāōmmē̃ javāba dēnē kē liē kisīkō kahatē hai taba)"
+  },
+  "542": {
+    "id": "542",
+    "text": "bahan XXX",
+    "annotation": "(: sabhāōmmē̃ javāba dēnē kē liē kisīkō kahatē hai taba)"
+  },
+  "543": {
+    "id": "543",
+    "text": "kṛupayā apanā hāta upara kijiē."
+  },
+  "544": {
+    "id": "544",
+    "text": "kṛupayā māīk kē liē rukiē."
+  },
+  "545": {
+    "id": "545",
+    "text": "kṛupayā māīk kō ghumāīyē"
+  },
+  "546": {
+    "id": "546",
+    "text": "kṛupayā māīk kō sahī tarīkē sē pakaḍīē."
+  },
+  "547": {
+    "id": "547",
+    "text": "bahōta acchā!",
+    "annotation": "(: kisīnē acchā bhāṣhana diyā yā ṭippanī dī taba yaha kahiyē.)"
+  },
+  "548": {
+    "id": "548",
+    "text": "kramik śhabda"
+  },
+  "549": {
+    "id": "549",
+    "text": "aba; āgē …"
+  },
+  "550": {
+    "id": "550",
+    "text": "aba tisarā paricchēda paḍhatē hai."
+  },
+  "551": {
+    "id": "551",
+    "text": "aba ham vichāra karēngē ..."
+  },
+  "552": {
+    "id": "552",
+    "text": "aba ham nichē diyē gayē praśhnōpara vichāra karēngē."
+  },
+  "553": {
+    "id": "553",
+    "text": "aba ham isa samasyāpara vichāra karēngē."
+  },
+  "554": {
+    "id": "554",
+    "text": "aba ham nicē diyē gayē viṣhaya para vichāra karēngē."
+  },
+  "555": {
+    "id": "555",
+    "text": "pahalā …"
+  },
+  "556": {
+    "id": "556",
+    "text": "bāda mē …"
+  },
+  "557": {
+    "id": "557",
+    "text": "ākhirakāra …"
+  },
+  "558": {
+    "id": "558",
+    "text": "pichalā haphtā"
+  },
+  "559": {
+    "id": "559",
+    "text": "isa haphtē"
+  },
+  "560": {
+    "id": "560",
+    "text": "isa haphtē ham paricchēda 10 sē 18 para vichāra karēngē"
+  },
+  "561": {
+    "id": "561",
+    "text": "isa haphtē hamārē liē bhāī XXX  paḍhēngē."
+  },
+  "562": {
+    "id": "562",
+    "text": "agalē haphtē"
+  },
+  "563": {
+    "id": "563",
+    "text": "ham agalē haphtē kyā charchā karēngē?"
+  },
+  "564": {
+    "id": "564",
+    "text": "pichalē vakta"
+  },
+  "565": {
+    "id": "565",
+    "text": "agalē samaya"
+  },
+  "566": {
+    "id": "566",
+    "text": "jārī rakhatē hai."
+  },
+  "567": {
+    "id": "567",
+    "text": "mujhē ḍara hai kī kahī samaya samāpta na hō jāyē."
+  },
+  "568": {
+    "id": "568",
+    "text": "samaya hō rahā hai ham āgē baḍhatē hai"
+  },
+  "569": {
+    "id": "569",
+    "text": "hamārē pāss itanā hī vakta thā."
+  },
+  "570": {
+    "id": "570",
+    "text": "hamē yahā para samāpta karanā chāhīē."
+  },
+  "572": {
+    "id": "572",
+    "text": "sākṣhakārya"
+  },
+  "573": {
+    "id": "573",
+    "text": "ṣhētrasēvā"
+  },
+  "574": {
+    "id": "574",
+    "text": "ṣhētrasēvā, sēvakāī"
+  },
+  "575": {
+    "id": "575",
+    "text": "XXX kē sātha ṣhētrasēvā kē liē jānā"
+  },
+  "576": {
+    "id": "576",
+    "text": "ham sēvakāī kē liē sātha mē̃ kaba jāyēgē ?"
+  },
+  "577": {
+    "id": "577",
+    "text": "prachār"
+  },
+  "578": {
+    "id": "578",
+    "text": "prachār kārya"
+  },
+  "579": {
+    "id": "579",
+    "text": "prachār karanā"
+  },
+  "580": {
+    "id": "580",
+    "text": "XXX kō prachār karanē kē liē"
+  },
+  "581": {
+    "id": "581",
+    "text": "XXX kō sākṣha dēnē kē liē"
+  },
+  "582": {
+    "id": "582",
+    "text": "XXX kō sākṣha dēnē kē liē"
+  },
+  "583": {
+    "id": "583",
+    "text": "sākṣha dēnā"
+  },
+  "584": {
+    "id": "584",
+    "text": "ghara ghara kā prachārkārya"
+  },
+  "585": {
+    "id": "585",
+    "text": "saḍaka gavāhī kārya"
+  },
+  "586": {
+    "id": "586",
+    "text": "anaupachārika sākṣhakārya"
+  },
+  "587": {
+    "id": "587",
+    "text": "bijanēs ṣhētra mē̃ sākṣha dēnā"
+  },
+  "588": {
+    "id": "588",
+    "text": "vāpasī bhēṇṭ"
+  },
+  "589": {
+    "id": "589",
+    "text": "āpa mērē sātha kala vāpasī bhēṇṭa  kē liyē āyēngē?"
+  },
+  "590": {
+    "id": "590",
+    "text": "vāpasī bhēṇṭa kē liyē jānā"
+  },
+  "591": {
+    "id": "591",
+    "text": "bāyabal adhyayana"
+  },
+  "592": {
+    "id": "592",
+    "text": "bāyabal adhyayana śhuru karanā"
+  },
+  "593": {
+    "id": "593",
+    "text": "bāyabal adhyayana chalānā"
+  },
+  "594": {
+    "id": "594",
+    "text": "agalē haphtē mērā ēk bāyabal adhyayana hai, āpa mērē sātha ānā chāhēngē̃?"
+  },
+  "595": {
+    "id": "595",
+    "text": "bāyabal śikṣhaka"
+  },
+  "596": {
+    "id": "596",
+    "text": "bāyabal vidyārthī"
+  },
+  "597": {
+    "id": "597",
+    "text": "āsthā dikhānēvālā vyaktī"
+  },
+  "598": {
+    "id": "598",
+    "text": "āsthā dikhānēvālē kē pāas jānā (jin lōgōnnē āsthā dikhāī hai unakē pāas vāpīsa jānā)"
+  },
+  "599": {
+    "id": "599",
+    "text": "ṣhētrasēvā kā samaya"
+  },
+  "600": {
+    "id": "600",
+    "text": "pichalē mahinē usanē ṣhētrasēvā mē̃ 14 ghaṇṭē bitāyē"
+  },
+  "601": {
+    "id": "601",
+    "text": "pichalē mahinē usanē ṣhētrasēvā  kē 14 ghaṇṭē aur ēk bāyabal adhyayana kā ripōrṭa ḍālā ."
+  },
+  "602": {
+    "id": "602",
+    "text": "prastāvanā  parichay"
+  },
+  "603": {
+    "id": "603",
+    "text": "kyā āpakō ēk acchī prastāvanā patā hai jisakā istēmāl ham ṣhētrasēvā mē̃ kara sakatē hai?"
+  },
+  "604": {
+    "id": "604",
+    "text": "anubhava (udā. sēvakāī mē̃ jō anubhava milā  hai)"
+  },
+  "605": {
+    "id": "605",
+    "text": "pichalē mahinē sēvākārya karatē vakta āpakō kōī acchā anubhava āyā hai?"
+  },
+  "606": {
+    "id": "606",
+    "text": "aba bhāī XXX hamē ēk rōchaka anubhava sunāyēngē."
+  },
+  "607": {
+    "id": "607",
+    "text": "hamārī rājyasēvā"
+  },
+  "608": {
+    "id": "608",
+    "text": "ĩnsarṭ"
+  },
+  "609": {
+    "id": "609",
+    "text": "kṛupayā ṣhētrasēvā kō ātē samaya disambara 2006 kī hamārī rāja-sēvā kā ĩnsarṭa lāīyē."
+  },
+  "610": {
+    "id": "610",
+    "text": "pēśhakaśa",
+    "annotation": "(: ēk prakāśhan jō sēvā karatē vakta ēk niyukta samaya para diyā jātā hai.)"
+  },
+  "611": {
+    "id": "611",
+    "text": "hamārī isa mahinē kī pēśakaśha kyā hai ?"
+  },
+  "612": {
+    "id": "612",
+    "text": "ham isa mahinē kaunasā prakāśhan dēnēvālē hai?"
+  },
+  "613": {
+    "id": "613",
+    "text": "abhiyāna (ēk gatividhī kā samaya jisamē̃ ēk khās ṭrackṭ kō jagabhara mē̃ diyā jātā hai)"
+  },
+  "614": {
+    "id": "614",
+    "text": "abhiyāna kaba śuru hōgā?"
+  },
+  "615": {
+    "id": "615",
+    "text": "sāthī ( ṣhētrasēvā mē̃)"
+  },
+  "616": {
+    "id": "616",
+    "text": "kisakē pāas jōḍī nahī hai?"
+  },
+  "617": {
+    "id": "617",
+    "text": "bhāī XXX, āpa bhāī XXX kē sātha kāma kara sakatē hai."
+  },
+  "618": {
+    "id": "618",
+    "text": "kisakō savārī chāhiē/ liphṭa chāhiē?",
+    "annotation": "(:ṣhētra mē̃ pahōchanē kē liyē kisē madata chāhīē)"
+  },
+  "619": {
+    "id": "619",
+    "text": "ilākā/ ṣhētra ( ṣhētrasēvā kē liyē)"
+  },
+  "620": {
+    "id": "620",
+    "text": "ṣhētra kisē chāhīyē?"
+  },
+  "621": {
+    "id": "621",
+    "text": "kōī samasyā?"
+  },
+  "622": {
+    "id": "622",
+    "text": "kōī savāla?"
+  },
+  "623": {
+    "id": "623",
+    "text": "chalō chalatē hai!( chalō saba milakara ṣhētrasēvā kē liyē nikalatē hai)"
+  },
+  "624": {
+    "id": "624",
+    "text": "prastāvanā"
+  },
+  "625": {
+    "id": "625",
+    "text": "namaskāra. mērā nāam XXX hai"
+  },
+  "626": {
+    "id": "626",
+    "text": "māpha kijiē. ( : sēvakāī mē̃ apanī tarapha kisīkā dhyāna namratāpurvaka khiñchanē kē liē isa vākya kā istēmāla kiyā jātā hai)"
+  },
+  "627": {
+    "id": "627",
+    "text": "mai XXX sīkh rahā/ rahī hũ",
+    "annotation": "(: XXX ēk bhāṣhā hai)"
+  },
+  "628": {
+    "id": "628",
+    "text": "āpa XXX bōlatē hai?",
+    "annotation": "(: XXX ēk bhāṣhā hai)"
+  },
+  "629": {
+    "id": "629",
+    "text": "mai XXX bōlanēvālē lōgō̃ kō ḍhuṇḍha rahā rahī hũ",
+    "annotation": "(: XXX ēk bhāṣhā hai)"
+  },
+  "630": {
+    "id": "630",
+    "text": "āpakō ghara mē̃ dēkhakara bahōta khuśī huī"
+  },
+  "631": {
+    "id": "631",
+    "text": "āpasē dubārā milakara acchā lagā"
+  },
+  "632": {
+    "id": "632",
+    "text": "yaha acchā hai kī maĩ āpasē vāpīsa bāat kara sakā"
+  },
+  "633": {
+    "id": "633",
+    "text": "mainnē āpakō galata samaya para phōna kiyā isaliē kṣhamā chāhatā hũ"
+  },
+  "634": {
+    "id": "634",
+    "text": "maĩ dēkha sakatā hũ kī āpa abhī vyasta hai"
+  },
+  "635": {
+    "id": "635",
+    "text": "maĩ sankṣhipta mē̃ bāat karungā."
+  },
+  "636": {
+    "id": "636",
+    "text": "ham isa ilākē mē̃ sabhī parivārō̃ sē mila rahē hai."
+  },
+  "637": {
+    "id": "637",
+    "text": "āja ham hamārē paḍōsīyō̃ kī sankṣhipta bhēṭ lē rahē hai ."
+  },
+  "638": {
+    "id": "638",
+    "text": "lōgō̃ sē bāat karatē vakta yaha bāat mērē najara mē̃ āyī kī…"
+  },
+  "639": {
+    "id": "639",
+    "text": "lōgō̃ sē bāat karatē vakta hamnē dēkhā kī…"
+  },
+  "640": {
+    "id": "640",
+    "text": "ham hamārē paḍōsīyō̃ sē bāat kara rahē hai kī jindagī kī samasyāō kē bārē mē̃ kahāsē vyavahārika madada mila sakatī hai."
+  },
+  "641": {
+    "id": "641",
+    "text": "ham hamārē paḍōsiyō̃ sē isa bārē mē̃ bāat kara rahē hai kī.."
+  },
+  "642": {
+    "id": "642",
+    "text": "ham lōgō̃ sē isa bārē mē̃ bāat kara rahē hai kī.... ."
+  },
+  "643": {
+    "id": "643",
+    "text": "ham sabhī sē isa bārē mē̃ bāat kara rahē hai kī...."
+  },
+  "644": {
+    "id": "644",
+    "text": "mai mērē paḍōsayīyō̃ sē ēk aisē muddē kē bārē mē̃ bāat kara rahā hũ jisakā hamē sāmanā karanā paḍēgā"
+  },
+  "645": {
+    "id": "645",
+    "text": "āja ham sabhī kō ēk savāla pucha rahē hai."
+  },
+  "646": {
+    "id": "646",
+    "text": "āja ham hamārē paḍōsiyō̃ sē yaha pucha rahē hai kī...."
+  },
+  "647": {
+    "id": "647",
+    "text": "maĩ ēk savāla āpakō puchanā cāhungā."
+  },
+  "648": {
+    "id": "648",
+    "text": "āpakō kabhī isa bāat kā āścharya lagā hai kī …?"
+  },
+  "649": {
+    "id": "649",
+    "text": "kyā āpanē kabhī sōcāh hai ki . . . jisa anyāya aur dukha kā sāmanā insāna karatē hai usakī paramēśvara chintā karatā hai ?"
+  },
+  "650": {
+    "id": "650",
+    "text": "samparka karanā"
+  },
+  "651": {
+    "id": "651",
+    "text": "kyā maĩ āpasē samparka kara sakatā hũ?"
+  },
+  "652": {
+    "id": "652",
+    "text": "kyā āpa mujhē apanā phōna nambara dē sakatē hai?"
+  },
+  "653": {
+    "id": "653",
+    "text": "yaha mērā phōna nambara hai"
+  },
+  "654": {
+    "id": "654",
+    "text": "maĩ ānē sē pahalē āpakō phōna karungā."
+  },
+  "655": {
+    "id": "655",
+    "text": "maĩ āpakō  maisēja bhējungā. (s.m.s)"
+  },
+  "656": {
+    "id": "656",
+    "text": "āpakō mērā ṭēxt mēsēja milā?"
+  },
+  "657": {
+    "id": "657",
+    "text": "ham dusarē kisī vakta milatē hai."
+  },
+  "658": {
+    "id": "658",
+    "text": "chaliē, milanē kā vakta taya karatē hai."
+  },
+  "659": {
+    "id": "659",
+    "text": "āpakō kaba samaya hai?"
+  },
+  "660": {
+    "id": "660",
+    "text": "āpakō milanē kē liē kaunasā vakta acchā rahēgā?"
+  },
+  "661": {
+    "id": "661",
+    "text": "māpha kijiē, para kala kā samaya mērē liē ṭhika nahī hōgā.."
+  },
+  "662": {
+    "id": "662",
+    "text": "āpakō phōna karanē kē liē kaunasā vakta acchā rahēgā?"
+  },
+  "663": {
+    "id": "663",
+    "text": "āpasē milanē kā kaunasā vakta acchā rahēgā?"
+  },
+  "664": {
+    "id": "664",
+    "text": "agalē haphta kaisē rahēgā?"
+  },
+  "665": {
+    "id": "665",
+    "text": "agalē mangalavāra, dōpahara kā vakta āpakē liē ṭhika rahēgā?"
+  },
+  "666": {
+    "id": "666",
+    "text": "āpa dukāna para rahēngē?"
+  },
+  "667": {
+    "id": "667",
+    "text": "āpa ghara para rahēngē?"
+  },
+  "668": {
+    "id": "668",
+    "text": "ham ēk kapa chāya pinē kē liyē mila sakatē hai. (/kooffe)"
+  },
+  "669": {
+    "id": "669",
+    "text": "ham bāatchīta karanē kē liyē mila sakatē hai."
+  },
+  "670": {
+    "id": "670",
+    "text": "agalē haphtē āpakē pāas vakta hai?"
+  },
+  "671": {
+    "id": "671",
+    "text": "āpakē pāas kala 10 miniṭa vakta hōgā?"
+  },
+  "672": {
+    "id": "672",
+    "text": "kyā ham thōḍā jaldī mila sakatē hai?"
+  },
+  "673": {
+    "id": "673",
+    "text": "kyā ham thōḍī dēra bāda mila sakatē hai?"
+  },
+  "674": {
+    "id": "674",
+    "text": "māpha karanā hamē hamārī bhēṭ kênsala karanī paḍēgī."
+  },
+  "675": {
+    "id": "675",
+    "text": "kyā ham hamārē milanē kā samaya kisī dusarē dina rakha sakatē hai?"
+  },
+  "676": {
+    "id": "676",
+    "text": "bāyabal sē paricihta karānā."
+  },
+  "677": {
+    "id": "677",
+    "text": "maĩ āpakō bāyabal mē sē ēk mahatvapurṇa vichār batānē āyā hũ."
+  },
+  "678": {
+    "id": "678",
+    "text": "bāyabal mē sē ēk āśhādāyaka vichāra mē̃ āpakō dikhānā chāhatā hũ."
+  },
+  "679": {
+    "id": "679",
+    "text": "mai hamārē paḍōsiyō̃ kō bāyabal mē sē ēk āśhādāyaka vichāra batā rahā hũ."
+  },
+  "680": {
+    "id": "680",
+    "text": "ham lōgō̃ kō yaha prōtsāhana dē rahē kī vē apanē bāyabal paḍhē"
+  },
+  "681": {
+    "id": "681",
+    "text": "bāyabal jaba mahatvapurṇa praśhnō̃ kī uttara dētī hai yaha dēkhakara lōga aksara āścharyachakit hō jātē hai udāharaṇārtha …"
+  },
+  "682": {
+    "id": "682",
+    "text": "kṛupayā dhyāna dijiē yahā̃ bāyabal kyā kahatī hai."
+  },
+  "683": {
+    "id": "683",
+    "text": "kyā āpa mērē sātha bāyabal kā adhyayana karanā chāhēngē?"
+  },
+  "684": {
+    "id": "684",
+    "text": "ham lōgō̃ kō vināmulya bāyabal adhyayana karanē kā nyōtā dē rahē hai."
+  },
+  "685": {
+    "id": "685",
+    "text": "sāhitya dikhānā."
+  },
+  "686": {
+    "id": "686",
+    "text": "maĩ āpakō yaha 'ṭrackt  dēnā chāhatā hũ"
+  },
+  "687": {
+    "id": "687",
+    "text": "yaha ṭrackt hamē batātī hai kī..."
+  },
+  "688": {
+    "id": "688",
+    "text": "yaha ṭrackt paḍhanē mē̃ jyādā samaya nahī lagēgā."
+  },
+  "689": {
+    "id": "689",
+    "text": "yaha bahōta rōchaka hai."
+  },
+  "690": {
+    "id": "690",
+    "text": "āpakō yaha brōśhara paḍhanā acchā lagēgā?"
+  },
+  "691": {
+    "id": "691",
+    "text": "kyā mai yaha maigajhīna āpakē liē rakhū?"
+  },
+  "692": {
+    "id": "692",
+    "text": "isa chitra kō dēkhiē."
+  },
+  "693": {
+    "id": "693",
+    "text": "mai yaha kitāba āpakō dikhānā chāhatā thā."
+  },
+  "694": {
+    "id": "694",
+    "text": "dēkhiē yaha kitāba yahā̃ kyā kahatī hai."
+  },
+  "695": {
+    "id": "695",
+    "text": "yaha vināmulya hai."
+  },
+  "696": {
+    "id": "696",
+    "text": "hamārē kārya kō svēcchā sē diyē gayē dāan sē chalāyā jātā hai."
+  },
+  "697": {
+    "id": "697",
+    "text": "āpa yaha kitāba lē sakatē hai."
+  },
+  "698": {
+    "id": "698",
+    "text": "mai āpakō mērī kitāba dē sakatā hũ."
+  },
+  "699": {
+    "id": "699",
+    "text": "mai āpakī apanī bhāṣhā mē̃ kucha jānakārī dēnā pasanda karungā."
+  },
+  "700": {
+    "id": "700",
+    "text": "rāya puchanā"
+  },
+  "701": {
+    "id": "701",
+    "text": "āpakō kyā lagatā hai usa bārē mē̃?",
+    "annotation": "(: āpanē kucha kahanē yā dikhānē kē bāda yaha kahiē)"
+  },
+  "702": {
+    "id": "702",
+    "text": "kyā āpakō yaha sahī laġtā hai?"
+  },
+  "703": {
+    "id": "703",
+    "text": "… kyā āpa isa sē sahamta hai?"
+  },
+  "704": {
+    "id": "704",
+    "text": "āpakō kyā lagatā hai isa bārē mē̃ ...?"
+  },
+  "705": {
+    "id": "705",
+    "text": "āpa kyā sōchatē hai?"
+  },
+  "706": {
+    "id": "706",
+    "text": "vāpisa jānā"
+  },
+  "707": {
+    "id": "707",
+    "text": "agalī bāar mē̃ isa viṣhaya para charchā karanā chāhungā kī....."
+  },
+  "708": {
+    "id": "708",
+    "text": "agalī bāar mē ēk mahatvapurṇa savāla kā javāva dēnā chāhungā kī....."
+  },
+  "709": {
+    "id": "709",
+    "text": "agalī bāar jaba maĩ āungā taba āpakē sāthā isa praśhna para charchā karanā chāhungā kī....."
+  },
+  "710": {
+    "id": "710",
+    "text": "agalī bāar ham isa kitāba kē pāṭha 2 mē̃ di gaī jānakārī para bāat karēngē ."
+  },
+  "711": {
+    "id": "711",
+    "text": "kyā āpakō yāda hai ....,"
+  },
+  "712": {
+    "id": "712",
+    "text": "pichalī bāar mainnē āpakō ēk savāla puchā thā."
+  },
+  "713": {
+    "id": "713",
+    "text": "isa bāar mē̃ usa savāla kā javāba dēnā chāhungā."
+  },
+  "714": {
+    "id": "714",
+    "text": "kisī kō ḍhuṇḍhanā"
+  },
+  "715": {
+    "id": "715",
+    "text": "kyā XXX ghara mē̃ hai?"
+  },
+  "716": {
+    "id": "716",
+    "text": "kyā XXX yahā̃ hai?"
+  },
+  "717": {
+    "id": "717",
+    "text": "vaha bāhara gayā hai."
+  },
+  "718": {
+    "id": "718",
+    "text": "vaha vāpisa kaba āyēgā?"
+  },
+  "719": {
+    "id": "719",
+    "text": "maĩ rāha dēkhatā hũ (usakī)."
+  },
+  "720": {
+    "id": "720",
+    "text": "maĩ kala phira āungā."
+  },
+  "721": {
+    "id": "721",
+    "text": "kōī bāat nahī."
+  },
+  "722": {
+    "id": "722",
+    "text": "kōī parēśhānī nahī."
+  },
+  "724": {
+    "id": "724",
+    "text": "prārthanā karanā"
+  },
+  "725": {
+    "id": "725",
+    "text": "namunā prārthanā (mattī 6)"
+  },
+  "726": {
+    "id": "726",
+    "text": "hē hamārē pitā tū jō svarga mē̃ hai, tērā nāam pavitra kiyā jāē"
+  },
+  "727": {
+    "id": "727",
+    "text": "tērā rāj āē."
+  },
+  "728": {
+    "id": "728",
+    "text": "tērī marazī, jaisē svarga mē̃ pūrī hō rahī hai, vaisē hī dharatī para bhī pūrī hō."
+  },
+  "729": {
+    "id": "729",
+    "text": "āja kē isa dina kī rōṭī hamē̃ dē;"
+  },
+  "730": {
+    "id": "730",
+    "text": "jaisē hamanē apanē khilāpha pāp karanēvālō̃  kō māpha kiyā hai, vaisē hī tū bhī hamārē pāpō̃  kō māpha kara."
+  },
+  "731": {
+    "id": "731",
+    "text": "jaba ham para parīkṣhā āē tō hamē̃ giranē na dē, magara hamē̃ usa duṣhṭa śaitān sē bachā.’"
+  },
+  "732": {
+    "id": "732",
+    "text": "yahōvā kō darśhānā"
+  },
+  "733": {
+    "id": "733",
+    "text": "āpa",
+    "annotation": "(: hindī bhāṣhā mē̃ yahōvā kō darśhānē kē liē yaha vyaktīgata sarvanāma istēmāl kiyā jātā hai )"
+  },
+  "734": {
+    "id": "734",
+    "text": "yahōvā"
+  },
+  "735": {
+    "id": "735",
+    "text": "paramēśhvara"
+  },
+  "736": {
+    "id": "736",
+    "text": "hamārē paramēśhvara"
+  },
+  "737": {
+    "id": "737",
+    "text": "yahōvā hamārē paramēśhvara"
+  },
+  "738": {
+    "id": "738",
+    "text": "sṛuṣhṭikartā"
+  },
+  "739": {
+    "id": "739",
+    "text": "hamārē sṛuṣhṭīkartā"
+  },
+  "740": {
+    "id": "740",
+    "text": "svarga aur pṛthvī kē nirmāṇakartā"
+  },
+  "741": {
+    "id": "741",
+    "text": "pitā"
+  },
+  "742": {
+    "id": "742",
+    "text": "hamārā pitā"
+  },
+  "743": {
+    "id": "743",
+    "text": "pyārā"
+  },
+  "744": {
+    "id": "744",
+    "text": "dayālu"
+  },
+  "745": {
+    "id": "745",
+    "text": "Kr̥upālu"
+  },
+  "746": {
+    "id": "746",
+    "text": "pyārā"
+  },
+  "747": {
+    "id": "747",
+    "text": "māyālu"
+  },
+  "748": {
+    "id": "748",
+    "text": "śhaktimāan"
+  },
+  "749": {
+    "id": "749",
+    "text": "sarvaśhaktimāan"
+  },
+  "750": {
+    "id": "750",
+    "text": "svarga mē̃; svargīya"
+  },
+  "751": {
+    "id": "751",
+    "text": "hamārē svargīya pitā"
+  },
+  "752": {
+    "id": "752",
+    "text": "yīśhu masīha"
+  },
+  "753": {
+    "id": "753",
+    "text": "yīśhu masīha"
+  },
+  "754": {
+    "id": "754",
+    "text": "ham yē prārthanā yīśhu kē nāam sē māngatē hai"
+  },
+  "755": {
+    "id": "755",
+    "text": "ham yē prārthanā yīśhu kē nāam dvārā karatē hai"
+  },
+  "756": {
+    "id": "756",
+    "text": "kṛupā karakē yē prārthanā yīśhu kē nāam sē svikāra kijiē"
+  },
+  "757": {
+    "id": "757",
+    "text": "hamārā tāraṇahāra"
+  },
+  "758": {
+    "id": "758",
+    "text": "āpakā bēṭā"
+  },
+  "759": {
+    "id": "759",
+    "text": "hamārā rājā"
+  },
+  "760": {
+    "id": "760",
+    "text": "hamārā  rāj karanēvālā rājā"
+  },
+  "761": {
+    "id": "761",
+    "text": "āmēn"
+  },
+  "762": {
+    "id": "762",
+    "text": "stutī"
+  },
+  "763": {
+    "id": "763",
+    "text": "ham āpasē pyār karatē hai."
+  },
+  "764": {
+    "id": "764",
+    "text": "ham āpakī stutī karatē hai."
+  },
+  "765": {
+    "id": "765",
+    "text": "ham āpakā gaurava karatē hai"
+  },
+  "766": {
+    "id": "766",
+    "text": "āpakā rājya jō āśhīṣē lāyēgā usakī ham bāṭ jōhatē hai ."
+  },
+  "767": {
+    "id": "767",
+    "text": "ham āpakī icchā purī karanā chāhatē hai"
+  },
+  "768": {
+    "id": "768",
+    "text": "ham āpakē nāam kī stutī karatē hai."
+  },
+  "769": {
+    "id": "769",
+    "text": "ēhasānamandī"
+  },
+  "770": {
+    "id": "770",
+    "text": "hamē bēhada khuśī hai kī …"
+  },
+  "771": {
+    "id": "771",
+    "text": "hamē isa bāat kī khuśhī hai kī hama ikaṭhṭhā mila sakatē hai ."
+  },
+  "772": {
+    "id": "772",
+    "text": "hamē isa bāta kī khuśī hai kī hama āja ikaṭhṭhā mila sakatē hai"
+  },
+  "773": {
+    "id": "773",
+    "text": "ham isa maukē kē liyē āpakē ēhasānamand hai kī...."
+  },
+  "774": {
+    "id": "774",
+    "text": "hamārē pāas ikaṭhṭhā hōnē kē liya yaha jagaha hai isaliyē ham ēhasānamand hai"
+  },
+  "775": {
+    "id": "775",
+    "text": "āpanē hamē yaha maukā diyā isakē liyē ham āpakē ēhasānamand hai"
+  },
+  "776": {
+    "id": "776",
+    "text": "sabhāō̃ kē dvārā āpa jō gyāna hamē dētē hai isaliyē ham āpakē  ēhasānamand hai."
+  },
+  "777": {
+    "id": "777",
+    "text": "....kē liē śhukriyā."
+  },
+  "778": {
+    "id": "778",
+    "text": "… isa baḍhiyā maukē kē liē śhukriyā."
+  },
+  "779": {
+    "id": "779",
+    "text": "hamārī jindagī kē liē śhukriyā."
+  },
+  "780": {
+    "id": "780",
+    "text": "isa duniyā mē̃ hamē rāha dikhānē kē liē śhukriyā."
+  },
+  "781": {
+    "id": "781",
+    "text": "āpakā vacana bāyabal hamē dēnē kē liē śhukriyā."
+  },
+  "782": {
+    "id": "782",
+    "text": "āpakō jānanē kā maukā hamē dēnē kē liyē śhukriyā."
+  },
+  "783": {
+    "id": "783",
+    "text": "yīśhu masīha kā balidāna dēnē kē liyē śhukriyā."
+  },
+  "784": {
+    "id": "784",
+    "text": "hamārē bhāī-bahanō̃ kē liyē śhukriyā."
+  },
+  "785": {
+    "id": "785",
+    "text": "isa sabhā kē liē śhukriyā."
+  },
+  "786": {
+    "id": "786",
+    "text": "bhaviṣya kē liyē hamē āśā dēnē kē liyē śhukriyā."
+  },
+  "787": {
+    "id": "787",
+    "text": "āpakē bēṭē kō dharatīpara bhējanē kē liyē śhukriyā."
+  },
+  "788": {
+    "id": "788",
+    "text": "isa sabhāmē̃ jō chitauniyā̃ hamē sunanē milī hai unakē liyē śhukriyā."
+  },
+  "789": {
+    "id": "789",
+    "text": "binatīyā̃"
+  },
+  "790": {
+    "id": "790",
+    "text": "XXX kō mārgadarśhit karanā"
+  },
+  "791": {
+    "id": "791",
+    "text": "hamē mārgadarśhan dijiē."
+  },
+  "792": {
+    "id": "792",
+    "text": "āpakē sanghaṭana kō mārgadarśhita kijiē."
+  },
+  "793": {
+    "id": "793",
+    "text": "śhāsī nikāya kō mārgadarśhita kijiē."
+  },
+  "794": {
+    "id": "794",
+    "text": "XXX  kī madada karanā"
+  },
+  "795": {
+    "id": "795",
+    "text": "āpakī sēvā ham kara pāyē isaliē hamārī madada kijiē."
+  },
+  "796": {
+    "id": "796",
+    "text": "jō sahī hai vaha karanē kē liyē hamārī madada kijiē."
+  },
+  "797": {
+    "id": "797",
+    "text": "parīkṣhā mē̃ na paḍanē kē liē hamārī madada kijiē."
+  },
+  "798": {
+    "id": "798",
+    "text": "hamē sēhan karanē kī tākata dijiē"
+  },
+  "799": {
+    "id": "799",
+    "text": "sabhāō̃ mē hama hamēśā upasthita rahē isaliē madada dijiē."
+  },
+  "800": {
+    "id": "800",
+    "text": "sēvā mē̃ hamē namra hrudaya kē lōg milē isaliē madada dijiē"
+  },
+  "801": {
+    "id": "801",
+    "text": "jō bātē hamanē sikhī hai vaha ham dusarō̃ kō bhī batāyē isaliē hamē madada kijiē."
+  },
+  "802": {
+    "id": "802",
+    "text": "sabhāmē̃ ham purā dhyāna lagākar sunē isaliē hamē madada kijiē."
+  },
+  "803": {
+    "id": "803",
+    "text": "āpakē vachana para manana karanē kē liē hamē madada kijiē.."
+  },
+  "804": {
+    "id": "804",
+    "text": "jō bātē hamanē sikhī hai unhē ham apanī jīndagī mē̃ lāgu kara sakē isaliē hamē madada kijiē."
+  },
+  "805": {
+    "id": "805",
+    "text": "hamārē jō bhāī takaliph mē̃ hai unakī madada kijiē."
+  },
+  "806": {
+    "id": "806",
+    "text": "hamārē bhāīyō̃ kī jaruratē hamē najara āyē isaliyē hamē madada kijiē."
+  },
+  "807": {
+    "id": "807",
+    "text": "XXX kī madada kijiē tākī vaha āpakē vachana kā adhyāyana jārī rakha sakē"
+  },
+  "808": {
+    "id": "808",
+    "text": "XXX  kō himmata dijiē."
+  },
+  "809": {
+    "id": "809",
+    "text": "XXX kī madada kijiē tāki vaha acchī adhyātmika tarakkī kara sakē."
+  },
+  "810": {
+    "id": "810",
+    "text": "YYY kō XXX dēnē kē liē"
+  },
+  "811": {
+    "id": "811",
+    "text": "hamē dijiē"
+  },
+  "812": {
+    "id": "812",
+    "text": "āpakī pavitra śhaktī hamē dijiē."
+  },
+  "813": {
+    "id": "813",
+    "text": "hamē buddhī dijiē."
+  },
+  "814": {
+    "id": "814",
+    "text": "hamasē jisakī mānga kī jātī hai vaha ham kara pāyē isaliē hamē tākata dijiē."
+  },
+  "815": {
+    "id": "815",
+    "text": "XXX kō mānganā"
+  },
+  "816": {
+    "id": "816",
+    "text": "ham māngatē hai..."
+  },
+  "817": {
+    "id": "817",
+    "text": "isa kaṭhina samaya para ham āpasē mārgadarśhan māngatē hai"
+  },
+  "818": {
+    "id": "818",
+    "text": "XXX kō āśhiṣh dēnā"
+  },
+  "819": {
+    "id": "819",
+    "text": "āśhiṣh…"
+  },
+  "820": {
+    "id": "820",
+    "text": "hamē āśhiṣh dijiē."
+  },
+  "821": {
+    "id": "821",
+    "text": "hamārī sēvakāī para āpakī āśhiṣh dijiē."
+  },
+  "822": {
+    "id": "822",
+    "text": "isa sabhā para āpakī āśhiṣh rahanē dijiē."
+  },
+  "823": {
+    "id": "823",
+    "text": "hamārī maṇḍalī para āpakī āśhiṣh rahanē dijiē."
+  },
+  "824": {
+    "id": "824",
+    "text": "XXX kī rakṣhā karanē kē liē"
+  },
+  "825": {
+    "id": "825",
+    "text": "hamārī rakṣhā kijiē"
+  },
+  "826": {
+    "id": "826",
+    "text": "isa śhām kē vakta jō upasthit nahī raha pāyē una bhāīyō̃ kī rakṣā kijiē."
+  },
+  "827": {
+    "id": "827",
+    "text": "dusarē ilākō̃ mē̃ jō hamārē bhāī satāhaṭa kā sāmanā kara rahē hai unakī rakṣā karanā."
+  },
+  "828": {
+    "id": "828",
+    "text": "hama jaba rāta kō apanē ghara jāyēngē taba hamārī rakṣā kijiē."
+  },
+  "829": {
+    "id": "829",
+    "text": "kṛupā karakē...",
+    "annotation": "(: yaha śhabda yā sañdñyā  prārthanā mē̃  binatī namratāpurvaka karanē kē liē istēmāl kar sakatē hai)"
+  },
+  "830": {
+    "id": "830",
+    "text": "isa sabhāpara āpakī āśiṣa hōnē dijiē."
+  },
+  "831": {
+    "id": "831",
+    "text": "kṛupā karakē isa sabhāpara āpakī āśhiṣh hōnē dijiē."
+  },
+  "832": {
+    "id": "832",
+    "text": "pāp aur samasyāyē"
+  },
+  "833": {
+    "id": "833",
+    "text": "ham pāpī hai ."
+  },
+  "834": {
+    "id": "834",
+    "text": "pāp karanā"
+  },
+  "835": {
+    "id": "835",
+    "text": "ham hamēśā pāp karatē hai"
+  },
+  "836": {
+    "id": "836",
+    "text": "ham māphī chāhatē hai ."
+  },
+  "837": {
+    "id": "837",
+    "text": "ham bēhada  śharmindā hai kī hamanē pāp kiyā hai."
+  },
+  "838": {
+    "id": "838",
+    "text": "ham bahōta khēdīt hai kī hamanē pāp kiyē hai."
+  },
+  "839": {
+    "id": "839",
+    "text": "kṣhamā"
+  },
+  "840": {
+    "id": "840",
+    "text": "ham līn hōkē āpasē kṣhamā māgatē hai ."
+  },
+  "841": {
+    "id": "841",
+    "text": "XXX  kō māpha karanā",
+    "annotation": "(: XXX ēk vyaktī hai)"
+  },
+  "842": {
+    "id": "842",
+    "text": "kṛupā karakē hamē kṣhamā kijiē."
+  },
+  "843": {
+    "id": "843",
+    "text": "āpakē bēṭē kē balidān kē ādhāra para kṛupā karakē hamārē pāpō̃ kī kṣhamā kijiē."
+  },
+  "844": {
+    "id": "844",
+    "text": "XXX  kī kṣhamā karanā",
+    "annotation": "(: XXX ēk pāp hai)"
+  },
+  "845": {
+    "id": "845",
+    "text": "kṛupā karakē hamārī pāpō̃ kī kṣamā kijiē."
+  },
+  "846": {
+    "id": "846",
+    "text": "ham ēk duṣhṭa saṁsāra mē̃ rahatē hai ."
+  },
+  "847": {
+    "id": "847",
+    "text": "ham kāphī takaliphō̃ kā sāmanā karatē hai ."
+  }
+}

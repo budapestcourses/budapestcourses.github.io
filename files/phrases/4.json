@@ -1,0 +1,3398 @@
+{
+  "5": {
+    "id": "5",
+    "text": "UNIVERSEEL TAALHULPMIDDEL"
+  },
+  "7": {
+    "id": "7",
+    "text": "Nederlands"
+  },
+  "8": {
+    "id": "8",
+    "text": "Dutch | .nl"
+  },
+  "11": {
+    "id": "11",
+    "text": "Dit document bestaat uit diverse taalleerhulpmiddelen, samengesteld uitsluitend ten behoeve van gebruik door Jehovah's Getuigen."
+  },
+  "12": {
+    "id": "12",
+    "text": "De trefwoorden, definities en overige hierin opgenomen informatie kunnen gemakkelijk worden vertaald in bijna elke taal. Nieuwe uitgaven van dit hulpmiddel kunnen vervolgens worden vervaardigd door het simpelweg combineren van twee willekeurige vertalingen. We hopen dat deze opzet de werklast van taaldocenten zal verminderen en zal bijdragen aan de effectiviteit van getuigen die wereldwijd dienen in anderstalige gebieden."
+  },
+  "13": {
+    "id": "13",
+    "text": "Dit taalhulpmiddel mag kosteloos worden verspreid onder actieve Getuigen. Het mag niet worden weggegeven of uitgeleend in enig ander formaat."
+  },
+  "14": {
+    "id": "14",
+    "text": null
+  },
+  "15": {
+    "id": "15",
+    "text": null
+  },
+  "16": {
+    "id": "16",
+    "text": null
+  },
+  "18": {
+    "id": "18",
+    "text": "Notatie"
+  },
+  "19": {
+    "id": "19",
+    "text": "\"Algebraïsche\" notatie welke wordt gebruikt om aan te geven waar aanvullende woorden kunnen worden geplaatst in verband met de uitdrukking die wordt gedefinieerd."
+  },
+  "20": {
+    "id": "20",
+    "text": "Woorden die mogelijk toegevoegd dienen te worden in bepaalde situaties omdat de taal dit vereist."
+  },
+  "21": {
+    "id": "21",
+    "text": "Een alternatief woord dat in bepaalde gevallen een deel van de uitdrukking vervangt omdat de taal dit vereist."
+  },
+  "22": {
+    "id": "22",
+    "text": "Optionele bewoording die gewoonlijk aan deze uitdrukking wordt toegevoegd zonder dat de betekenis daardoor ingrijpend verandert."
+  },
+  "23": {
+    "id": "23",
+    "text": "Alternatieve bewoording die gewoonlijk een deel van de uitdrukking vervangt zonder dat de betekenis daardoor ingrijpend verandert."
+  },
+  "24": {
+    "id": "24",
+    "text": "De puntkomma scheidt meerdere uitdrukkingen die dezelfde betekenis hebben."
+  },
+  "25": {
+    "id": "25",
+    "text": "Een uitgebreid zinsdeel (bv. met een werkwoord en andere woorden) kan op dit punt worden ingevoegd."
+  },
+  "26": {
+    "id": "26",
+    "text": "Extra omschrijving of voorbeelden die de lezer helpen om het te omschrijven woord te begrijpen. Deze informatie verschijnt alleen in definities en kan van taal tot taal verschillen."
+  },
+  "27": {
+    "id": "27",
+    "text": "Accolades bevatten extra taalspecifieke informatie over de uitdrukking in de doeltaal. Dit kan grammaticale informatie omvatten of de hieronder genoemde symbolen. "
+  },
+  "28": {
+    "id": "28",
+    "text": "Dit woord (of deze zegswijze) dient met voorzichtigheid te worden gebruikt om culturele of andere redenen."
+  },
+  "29": {
+    "id": "29",
+    "text": "Dit is slechts bij benadering een vertaling van de definitie."
+  },
+  "30": {
+    "id": "30",
+    "text": "Dit woord (of deze uitdrukking) wordt zelden gebruikt in de doeltaal."
+  },
+  "31": {
+    "id": "31",
+    "text": "Onze vertalers hebben niet in een vertaling van dit woord voorzien."
+  },
+  "32": {
+    "id": "32",
+    "text": "Dit is een vorm van het woord dat of de uitdrukking die gewoonlijk wordt gebruikt in een andere regio dan de regio waar deze taal voornamelijk wordt gesproken (er wordt gebruik gemaakt van \"internet\"-stijl notatie, bv. .hk = Hongkong)."
+  },
+  "33": {
+    "id": "33",
+    "text": "Het te definiëren theocratische begrip heeft in deze taal geen duidelijk equivalent in publicaties van het Wachttoren Genootschap. (Dit symbool zal doorgaans worden gebruikt in combinatie met andere symbolen)"
+  },
+  "34": {
+    "id": "34",
+    "text": "Dit is de poging van onze vertalers om tot een nauwkeurige vertaling van de term te komen. (Dit symbool wordt gewoonlijk enkel gebruikt voor theocratische begrippen die momenteel geen duidelijk equivalent in de doeltaal hebben)"
+  },
+  "35": {
+    "id": "35",
+    "text": "Dit is de corresponderende term die gewoonlijk wordt gebruikt door broeders tijdens vergaderingen. (Dit symbool wordt gewoonlijk slechts gebruikt voor theocratische begrippen die momenteel geen duidelijk equivalent in de doeltaal hebben)"
+  },
+  "37": {
+    "id": "37",
+    "text": "Woorden en uitdrukkingen"
+  },
+  "38": {
+    "id": "38",
+    "text": "Organisatiestructuur"
+  },
+  "39": {
+    "id": "39",
+    "text": "Jehovah's Getuigen"
+  },
+  "40": {
+    "id": "40",
+    "text": "Jehovah's Getuigen"
+  },
+  "41": {
+    "id": "41",
+    "text": "een Getuige van Jehovah"
+  },
+  "42": {
+    "id": "42",
+    "text": "De Bijbelonderzoekers",
+    "annotation": "(: de naam waaronder Jehovah's Getuigen vroeger bekend stonden)"
+  },
+  "43": {
+    "id": "43",
+    "text": "een broeder",
+    "annotation": "(: een mannelijke geloofsgenoot)"
+  },
+  "44": {
+    "id": "44",
+    "text": "een rijpe broeder"
+  },
+  "45": {
+    "id": "45",
+    "text": "onze broeders",
+    "annotation": "(: in het geloof)"
+  },
+  "46": {
+    "id": "46",
+    "text": "onder onze geestelijke broeders"
+  },
+  "47": {
+    "id": "47",
+    "text": "een zuster",
+    "annotation": "(: een vrouwelijke geloofsgenoot)"
+  },
+  "48": {
+    "id": "48",
+    "text": "een bekwame zuster",
+    "annotation": "(: bekwaam om in te vallen bij afwezigheid van een broeder)"
+  },
+  "49": {
+    "id": "49",
+    "text": "onze christelijke zusters"
+  },
+  "50": {
+    "id": "50",
+    "text": "onze zusters"
+  },
+  "51": {
+    "id": "51",
+    "text": "je [/jullie] geestelijke broeders en zusters"
+  },
+  "52": {
+    "id": "52",
+    "text": "De gezalfden"
+  },
+  "53": {
+    "id": "53",
+    "text": "degenen met een aardse hoop"
+  },
+  "54": {
+    "id": "54",
+    "text": "andere schapen"
+  },
+  "55": {
+    "id": "55",
+    "text": "degenen met een hemelse hoop"
+  },
+  "56": {
+    "id": "56",
+    "text": "gezalfd(e)",
+    "annotation": "(: bijvoeglijk naamwoord)"
+  },
+  "57": {
+    "id": "57",
+    "text": "gezalfde christenen"
+  },
+  "58": {
+    "id": "58",
+    "text": "de gemeente van zijn gezalfde volgelingen op aarde"
+  },
+  "59": {
+    "id": "59",
+    "text": "de getrouwe en beleidvolle slaaf"
+  },
+  "60": {
+    "id": "60",
+    "text": "Besturende Lichaam"
+  },
+  "61": {
+    "id": "61",
+    "text": "een lid van het Besturende Lichaam"
+  },
+  "62": {
+    "id": "62",
+    "text": "Doop"
+  },
+  "63": {
+    "id": "63",
+    "text": "gedoopt zijn (/worden)"
+  },
+  "64": {
+    "id": "64",
+    "text": "I ben gedoopt in 2006."
+  },
+  "65": {
+    "id": "65",
+    "text": "XXX dopen"
+  },
+  "66": {
+    "id": "66",
+    "text": "Johannes doopte Jezus."
+  },
+  "67": {
+    "id": "67",
+    "text": "doop",
+    "annotation": "(: de gebeurtenis)"
+  },
+  "68": {
+    "id": "68",
+    "text": "Hij was aanwezig bij de doop van zijn student."
+  },
+  "69": {
+    "id": "69",
+    "text": "verkondiger"
+  },
+  "70": {
+    "id": "70",
+    "text": "ongedoopte verkondiger"
+  },
+  "71": {
+    "id": "71",
+    "text": "Wanneer is hij een ongedoopte verkondiger geworden?"
+  },
+  "72": {
+    "id": "72",
+    "text": "gedoopte verkondiger"
+  },
+  "73": {
+    "id": "73",
+    "text": "ongeregelde verkondiger"
+  },
+  "74": {
+    "id": "74",
+    "text": "inactieve verkondiger"
+  },
+  "75": {
+    "id": "75",
+    "text": "Het dienen van Jehovah"
+  },
+  "76": {
+    "id": "76",
+    "text": "dienst"
+  },
+  "77": {
+    "id": "77",
+    "text": "onze dienst voor Jehovah"
+  },
+  "78": {
+    "id": "78",
+    "text": "volletijddienst"
+  },
+  "79": {
+    "id": "79",
+    "text": "dienen"
+  },
+  "80": {
+    "id": "80",
+    "text": "dienen als XXX"
+  },
+  "81": {
+    "id": "81",
+    "text": "dienen als ouderling"
+  },
+  "82": {
+    "id": "82",
+    "text": "dienen als pionier"
+  },
+  "83": {
+    "id": "83",
+    "text": "Hij dient als ouderling in onze gemeente."
+  },
+  "84": {
+    "id": "84",
+    "text": "XXX dient niet langer als ouderling."
+  },
+  "85": {
+    "id": "85",
+    "text": "Jehovah dienen"
+  },
+  "86": {
+    "id": "86",
+    "text": "dienaar"
+  },
+  "87": {
+    "id": "87",
+    "text": "volletijddienaar"
+  },
+  "88": {
+    "id": "88",
+    "text": "Gods dienaren"
+  },
+  "89": {
+    "id": "89",
+    "text": "vrijwilliger",
+    "annotation": "(: iemand die vrijwilligerswerk doet)"
+  },
+  "90": {
+    "id": "90",
+    "text": "onbetaald vrijwilliger"
+  },
+  "91": {
+    "id": "91",
+    "text": "de bouw van Koninkrijkszalen"
+  },
+  "92": {
+    "id": "92",
+    "text": "hulpacties na rampen"
+  },
+  "93": {
+    "id": "93",
+    "text": "behoefte"
+  },
+  "94": {
+    "id": "94",
+    "text": "dienen waar de behoefte groter is"
+  },
+  "95": {
+    "id": "95",
+    "text": "verhuizen naar waar de behoefte groter is"
+  },
+  "96": {
+    "id": "96",
+    "text": "pionier"
+  },
+  "97": {
+    "id": "97",
+    "text": "de pioniersschool bijwonen"
+  },
+  "98": {
+    "id": "98",
+    "text": "gewone pionier"
+  },
+  "99": {
+    "id": "99",
+    "text": "hulppionier"
+  },
+  "100": {
+    "id": "100",
+    "text": "vaste hulppionier",
+    "annotation": "(: iemand die elke maand als hulppionier dient)"
+  },
+  "101": {
+    "id": "101",
+    "text": "speciale pionier"
+  },
+  "102": {
+    "id": "102",
+    "text": "zendeling"
+  },
+  "103": {
+    "id": "103",
+    "text": "Aanmeldingen en aanbevelingen"
+  },
+  "104": {
+    "id": "104",
+    "text": "zich aanmelden voor XXX"
+  },
+  "105": {
+    "id": "105",
+    "text": "zich voor speciale dienst aanmelden"
+  },
+  "106": {
+    "id": "106",
+    "text": "zich voor de Gileadschool aanmelden"
+  },
+  "107": {
+    "id": "107",
+    "text": "aanmeldingsformulier"
+  },
+  "108": {
+    "id": "108",
+    "text": "een aanmeldingsformulier invullen"
+  },
+  "109": {
+    "id": "109",
+    "text": "een aanmeldingsformulier voor de gewone pioniersdienst invullen"
+  },
+  "110": {
+    "id": "110",
+    "text": "een aanmeldingsformulier indienen"
+  },
+  "111": {
+    "id": "111",
+    "text": "aanbeveling",
+    "annotation": "(: een geval waarin iemand wordt aanbevolen)"
+  },
+  "112": {
+    "id": "112",
+    "text": "als ouderling aanbevolen worden"
+  },
+  "113": {
+    "id": "113",
+    "text": "XXX aanbevelen als ouderling"
+  },
+  "114": {
+    "id": "114",
+    "text": "aanstelling"
+  },
+  "115": {
+    "id": "115",
+    "text": "aangesteld worden als xxx"
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX is aangesteld als ouderling."
+  },
+  "117": {
+    "id": "117",
+    "text": "XXX aanstellen als dienaar in de bediening"
+  },
+  "118": {
+    "id": "118",
+    "text": "bekwaamheid"
+  },
+  "119": {
+    "id": "119",
+    "text": "[zijn] bekwaamheid om een ongedoopt verkondiger te worden bespreken"
+  },
+  "120": {
+    "id": "120",
+    "text": "aan de vereisten voor de doop voldoen"
+  },
+  "121": {
+    "id": "121",
+    "text": "in aanmerking komen om een ongedoopte verkondiger te zijn"
+  },
+  "122": {
+    "id": "122",
+    "text": "Aangestelde mannen"
+  },
+  "123": {
+    "id": "123",
+    "text": "ouderling"
+  },
+  "124": {
+    "id": "124",
+    "text": "opziener"
+  },
+  "125": {
+    "id": "125",
+    "text": "\"gaven in mensen\"",
+    "annotation": "(: Ef. 4:8)"
+  },
+  "126": {
+    "id": "126",
+    "text": "dienaar in de bediening"
+  },
+  "127": {
+    "id": "127",
+    "text": "lichaam van ouderlingen"
+  },
+  "128": {
+    "id": "128",
+    "text": "een vergadering van het lichaam van ouderlingen houden"
+  },
+  "129": {
+    "id": "129",
+    "text": "gemeente dienstcomité"
+  },
+  "130": {
+    "id": "130",
+    "text": "Deze zaak moet goedgekeurd worden door het dienstcomité."
+  },
+  "131": {
+    "id": "131",
+    "text": "coördinator van het lichaam van ouderlingen"
+  },
+  "132": {
+    "id": "132",
+    "text": "gemeentesecretaris"
+  },
+  "133": {
+    "id": "133",
+    "text": "dienstopziener"
+  },
+  "134": {
+    "id": "134",
+    "text": "Wachttoren-studieleider"
+  },
+  "135": {
+    "id": "135",
+    "text": "opziener van de theocratische bedieningsschool"
+  },
+  "136": {
+    "id": "136",
+    "text": "toegevoegd raadgever"
+  },
+  "137": {
+    "id": "137",
+    "text": "groepsopziener"
+  },
+  "138": {
+    "id": "138",
+    "text": "rechterlijk comité"
+  },
+  "139": {
+    "id": "139",
+    "text": "een rechterlijk comité vormen"
+  },
+  "140": {
+    "id": "140",
+    "text": "geestelijke herders"
+  },
+  "141": {
+    "id": "141",
+    "text": "geestelijke schapen"
+  },
+  "142": {
+    "id": "142",
+    "text": "herderlijk bezoek"
+  },
+  "143": {
+    "id": "143",
+    "text": "een herderlijk bezoek brengen aan XXX"
+  },
+  "144": {
+    "id": "144",
+    "text": "Reizende opzieners"
+  },
+  "145": {
+    "id": "145",
+    "text": "reizende opziener"
+  },
+  "146": {
+    "id": "146",
+    "text": "kringopziener"
+  },
+  "147": {
+    "id": "147",
+    "text": "kring"
+  },
+  "148": {
+    "id": "148",
+    "text": "vervangende kringopziener"
+  },
+  "149": {
+    "id": "149",
+    "text": "de gemeente bezoeken"
+  },
+  "150": {
+    "id": "150",
+    "text": "het bezoek van de kringopziener"
+  },
+  "151": {
+    "id": "151",
+    "text": "districtsopziener"
+  },
+  "152": {
+    "id": "152",
+    "text": "district"
+  },
+  "153": {
+    "id": "153",
+    "text": "zone-opziener"
+  },
+  "154": {
+    "id": "154",
+    "text": "Groepen en gemeenten"
+  },
+  "155": {
+    "id": "155",
+    "text": "gemeente",
+    "annotation": "(: een groep gelovigen in een bepaald gebied)"
+  },
+  "156": {
+    "id": "156",
+    "text": "de gemeente splitsen"
+  },
+  "157": {
+    "id": "157",
+    "text": "een nieuwe gemeente vormen"
+  },
+  "158": {
+    "id": "158",
+    "text": "de christelijke gemeente",
+    "annotation": "(: de ene \"grote\" gemeente waarin alle gelovigen zijn begrepen)"
+  },
+  "159": {
+    "id": "159",
+    "text": "groep"
+  },
+  "160": {
+    "id": "160",
+    "text": "geïsoleerde groep"
+  },
+  "161": {
+    "id": "161",
+    "text": "anderstalige groep"
+  },
+  "162": {
+    "id": "162",
+    "text": "Bijkantoren"
+  },
+  "163": {
+    "id": "163",
+    "text": "het bijkantoor"
+  },
+  "164": {
+    "id": "164",
+    "text": "het bijkantoor van Jehovah's Getuigen"
+  },
+  "165": {
+    "id": "165",
+    "text": "bijkantoorcoördinator"
+  },
+  "166": {
+    "id": "166",
+    "text": "bijkantoorcomité"
+  },
+  "167": {
+    "id": "167",
+    "text": "landscomité"
+  },
+  "168": {
+    "id": "168",
+    "text": "Bethel"
+  },
+  "169": {
+    "id": "169",
+    "text": "Betheliet",
+    "annotation": "(: een persoon die op Bethel dient)"
+  },
+  "170": {
+    "id": "170",
+    "text": "Zou je [/u] Bethel willen bezoeken?"
+  },
+  "171": {
+    "id": "171",
+    "text": "rondleiding"
+  },
+  "172": {
+    "id": "172",
+    "text": "Onze gemeente gaat volgende week voor een rondleiding naar Bethel."
+  },
+  "173": {
+    "id": "173",
+    "text": "Ik ben jullie gids."
+  },
+  "174": {
+    "id": "174",
+    "text": "Ik zal jullie het bijkantoor laten zien."
+  },
+  "175": {
+    "id": "175",
+    "text": "dienstafdeling",
+    "annotation": "(: op Bethel)"
+  },
+  "176": {
+    "id": "176",
+    "text": "Schrijf alsjeblieft aan de dienstafdeling."
+  },
+  "177": {
+    "id": "177",
+    "text": "het hoofdbureau"
+  },
+  "178": {
+    "id": "178",
+    "text": "Gemeentelijke taken"
+  },
+  "179": {
+    "id": "179",
+    "text": "zaalwacht"
+  },
+  "180": {
+    "id": "180",
+    "text": "aanwezigen",
+    "annotation": "(: mensen die de vergadering bijwonen)"
+  },
+  "181": {
+    "id": "181",
+    "text": "de toehoorders",
+    "annotation": "(: personen die luisteren naar een vergadering)"
+  },
+  "182": {
+    "id": "182",
+    "text": "de aanwezigen tellen"
+  },
+  "183": {
+    "id": "183",
+    "text": "aanwezigenaantal",
+    "annotation": "(: het aantal aanwezigen op een vergadering etc.)"
+  },
+  "184": {
+    "id": "184",
+    "text": "Afgelopen jaar was het gemiddelde aanwezigenaantal tijdens de dienstvergadering 85."
+  },
+  "185": {
+    "id": "185",
+    "text": "microfoonloper"
+  },
+  "186": {
+    "id": "186",
+    "text": "microfoon"
+  },
+  "187": {
+    "id": "187",
+    "text": "het bedienen van een microfoon"
+  },
+  "188": {
+    "id": "188",
+    "text": "het afstellen van de microfoon"
+  },
+  "189": {
+    "id": "189",
+    "text": "de microfoon aanzetten"
+  },
+  "190": {
+    "id": "190",
+    "text": "de microfoon uitzetten"
+  },
+  "191": {
+    "id": "191",
+    "text": "broeder verantwoordelijk voor het geluid"
+  },
+  "192": {
+    "id": "192",
+    "text": "geluidssysteem"
+  },
+  "193": {
+    "id": "193",
+    "text": "het geluidssysteem bedienen"
+  },
+  "194": {
+    "id": "194",
+    "text": "het volume verhogen"
+  },
+  "195": {
+    "id": "195",
+    "text": "het volume verlagen"
+  },
+  "196": {
+    "id": "196",
+    "text": "broeder verantwoordelijk voor het podium"
+  },
+  "197": {
+    "id": "197",
+    "text": "podium"
+  },
+  "198": {
+    "id": "198",
+    "text": "katheder"
+  },
+  "199": {
+    "id": "199",
+    "text": "de katheder afstellen"
+  },
+  "200": {
+    "id": "200",
+    "text": "broeder verantwoordelijk voor de lectuur"
+  },
+  "201": {
+    "id": "201",
+    "text": "lectuurbalie"
+  },
+  "202": {
+    "id": "202",
+    "text": "lectuur bestellen"
+  },
+  "203": {
+    "id": "203",
+    "text": "broeder verantwoordelijk voor de tijdschriften"
+  },
+  "204": {
+    "id": "204",
+    "text": "tijdschriftenbalie"
+  },
+  "205": {
+    "id": "205",
+    "text": "[je] tijdschriften afhalen"
+  },
+  "206": {
+    "id": "206",
+    "text": "broeder verantwoordelijk voor het gebied"
+  },
+  "207": {
+    "id": "207",
+    "text": "gebied (voor de velddienst)"
+  },
+  "208": {
+    "id": "208",
+    "text": "velddienstgebiedskaart"
+  },
+  "209": {
+    "id": "209",
+    "text": "gebiedskaartje"
+  },
+  "210": {
+    "id": "210",
+    "text": "broeder verantwoordelijk voor de boekhouding"
+  },
+  "211": {
+    "id": "211",
+    "text": "boekhouding"
+  },
+  "212": {
+    "id": "212",
+    "text": "gemeenteboekhouding"
+  },
+  "213": {
+    "id": "213",
+    "text": "het financieel verslag voorbereiden"
+  },
+  "214": {
+    "id": "214",
+    "text": "de gemeenteboekhouding controleren"
+  },
+  "215": {
+    "id": "215",
+    "text": "vrijwillige bijdrage"
+  },
+  "216": {
+    "id": "216",
+    "text": "vrijwillige bijdragen voor het wereldomvattende werk",
+    "annotation": "(: Matth. 24:14)"
+  },
+  "217": {
+    "id": "217",
+    "text": "vrijwillige bijdragen voor de gemeente"
+  },
+  "218": {
+    "id": "218",
+    "text": "de vrijwillige bijdragen (op-)tellen"
+  },
+  "219": {
+    "id": "219",
+    "text": "een vrijwillige bijdrage doen"
+  },
+  "220": {
+    "id": "220",
+    "text": "een vrijwillige bijdrage doen aan het wereldomvattende werk"
+  },
+  "221": {
+    "id": "221",
+    "text": "vrijwillige bijdragenbus"
+  },
+  "222": {
+    "id": "222",
+    "text": "een vrijwillige bijdrage in de bijdragenbus doen"
+  },
+  "223": {
+    "id": "223",
+    "text": "De vrijwillige bijdragenbussen bevinden zich naast de deur."
+  },
+  "225": {
+    "id": "225",
+    "text": "Vergaderingen"
+  },
+  "226": {
+    "id": "226",
+    "text": "Plaatsen van aanbidding"
+  },
+  "227": {
+    "id": "227",
+    "text": "zaal"
+  },
+  "228": {
+    "id": "228",
+    "text": "onze plaats van aanbidding"
+  },
+  "229": {
+    "id": "229",
+    "text": "vrijwillig gebouwd"
+  },
+  "230": {
+    "id": "230",
+    "text": "Koninkrijkszaal"
+  },
+  "231": {
+    "id": "231",
+    "text": "snelbouw Koninkrijkszaal"
+  },
+  "232": {
+    "id": "232",
+    "text": "de Koninkrijkszaal onderhouden"
+  },
+  "233": {
+    "id": "233",
+    "text": "reparaties verrichten aan de Koninkrijkszaal"
+  },
+  "234": {
+    "id": "234",
+    "text": "de Koninkrijkszaal schoonmaken"
+  },
+  "235": {
+    "id": "235",
+    "text": "Het is onze beurt om de zaal schoon te maken."
+  },
+  "236": {
+    "id": "236",
+    "text": "congreshal"
+  },
+  "237": {
+    "id": "237",
+    "text": "Vergaderingen bijwonen"
+  },
+  "238": {
+    "id": "238",
+    "text": "vergadering"
+  },
+  "239": {
+    "id": "239",
+    "text": "een vergadering bijwonen"
+  },
+  "240": {
+    "id": "240",
+    "text": "een vergadering houden"
+  },
+  "241": {
+    "id": "241",
+    "text": "voorbereiden",
+    "annotation": "(:zichzelf voorbereiden)"
+  },
+  "242": {
+    "id": "242",
+    "text": "zich voorbereiden op de vergadering"
+  },
+  "243": {
+    "id": "243",
+    "text": "XXX voorbereiden"
+  },
+  "244": {
+    "id": "244",
+    "text": "een commentaar voorbereiden"
+  },
+  "245": {
+    "id": "245",
+    "text": "een lezing voorbereiden"
+  },
+  "246": {
+    "id": "246",
+    "text": "omgang hebben met XXX"
+  },
+  "247": {
+    "id": "247",
+    "text": "We kunnen omgang hebben met onze broeders en zusters na de vergadering."
+  },
+  "248": {
+    "id": "248",
+    "text": "XXX aanmoedigen"
+  },
+  "249": {
+    "id": "249",
+    "text": "Jouw commentaar heeft me echt aangemoedigd!"
+  },
+  "250": {
+    "id": "250",
+    "text": "een aanmoedigend commentaar"
+  },
+  "251": {
+    "id": "251",
+    "text": "gemeentebijbelstudie"
+  },
+  "252": {
+    "id": "252",
+    "text": "theocratische bedieningsschool"
+  },
+  "253": {
+    "id": "253",
+    "text": "dienstvergadering"
+  },
+  "254": {
+    "id": "254",
+    "text": "velddienstbijeenkomst"
+  },
+  "255": {
+    "id": "255",
+    "text": "grote vergadering"
+  },
+  "256": {
+    "id": "256",
+    "text": "jaarlijkse grote vergaderingen"
+  },
+  "257": {
+    "id": "257",
+    "text": "speciale dagvergadering"
+  },
+  "258": {
+    "id": "258",
+    "text": "kringvergadering"
+  },
+  "259": {
+    "id": "259",
+    "text": "congres"
+  },
+  "260": {
+    "id": "260",
+    "text": "districtscongres"
+  },
+  "261": {
+    "id": "261",
+    "text": "3-daags districtscongres"
+  },
+  "262": {
+    "id": "262",
+    "text": "Inhoud van de vergaderingen"
+  },
+  "263": {
+    "id": "263",
+    "text": "onderdeel",
+    "annotation": "(: een onderdeel van de vergadering: bv. lezing, bespreking, etc.)"
+  },
+  "264": {
+    "id": "264",
+    "text": "Ik behartig volgende week een onderdeel op de vergadering."
+  },
+  "265": {
+    "id": "265",
+    "text": "toewijzing",
+    "annotation": "(: bv. op de theocratische bedieningsschool)"
+  },
+  "266": {
+    "id": "266",
+    "text": "toewijzing nummer 1"
+  },
+  "267": {
+    "id": "267",
+    "text": "een toewijzing ontvangen"
+  },
+  "268": {
+    "id": "268",
+    "text": "een toewijzing behartigen"
+  },
+  "269": {
+    "id": "269",
+    "text": "punt van raadgeving",
+    "annotation": "(: uit het Bedieningsschool boek)"
+  },
+  "270": {
+    "id": "270",
+    "text": "Het punt van raadgeving waar zuster XXX aan werkte is nummer 23."
+  },
+  "271": {
+    "id": "271",
+    "text": "lezing",
+    "annotation": "(: een \"toespraak\")"
+  },
+  "272": {
+    "id": "272",
+    "text": "een goed opgebouwde lezing"
+  },
+  "273": {
+    "id": "273",
+    "text": "een openbare lezing"
+  },
+  "274": {
+    "id": "274",
+    "text": "een vijf minuten lezing"
+  },
+  "275": {
+    "id": "275",
+    "text": "een lezing houden"
+  },
+  "276": {
+    "id": "276",
+    "text": "spreker"
+  },
+  "277": {
+    "id": "277",
+    "text": "demonstratie"
+  },
+  "278": {
+    "id": "278",
+    "text": "Laten we naar deze demonstratie kijken."
+  },
+  "279": {
+    "id": "279",
+    "text": "XXX demonstreren",
+    "annotation": "(: laten zien hoe iets gaat of gedaan wordt)"
+  },
+  "280": {
+    "id": "280",
+    "text": "Zuster XXX zal demonstreren hoe de tijdschriften van deze maand kunnen worden aangeboden."
+  },
+  "281": {
+    "id": "281",
+    "text": "Bijbelse hoogtepunten",
+    "annotation": "(: een 10 minuten durend onderdeel van de theocratische bedieningsschool)"
+  },
+  "282": {
+    "id": "282",
+    "text": "bijbellezen"
+  },
+  "283": {
+    "id": "283",
+    "text": "Plaatselijke behoeften",
+    "annotation": "(: een lezing over plaatselijke behoeften)"
+  },
+  "284": {
+    "id": "284",
+    "text": "Vragenbus",
+    "annotation": "(: in Onze Koninkrijksdienst)"
+  },
+  "285": {
+    "id": "285",
+    "text": "Liederen en gebeden"
+  },
+  "286": {
+    "id": "286",
+    "text": "lied"
+  },
+  "287": {
+    "id": "287",
+    "text": "openingslied"
+  },
+  "288": {
+    "id": "288",
+    "text": "slotlied"
+  },
+  "289": {
+    "id": "289",
+    "text": "De titel van het lied is ..."
+  },
+  "290": {
+    "id": "290",
+    "text": "Het lied is gebaseerd op ..."
+  },
+  "291": {
+    "id": "291",
+    "text": "Onze vergadering zal beginnen met een lofzang voor Jehovah."
+  },
+  "292": {
+    "id": "292",
+    "text": "We zullen de vergadering beginnen met een lied, gevolgd door gebed."
+  },
+  "293": {
+    "id": "293",
+    "text": "Het lied is uitgekozen door de spreker. Het sluit aan bij het thema van zijn lezing."
+  },
+  "294": {
+    "id": "294",
+    "text": "Dit lied sluit aan bij het thema van de lezing."
+  },
+  "295": {
+    "id": "295",
+    "text": "We zullen de vergadering besluiten met een lied."
+  },
+  "296": {
+    "id": "296",
+    "text": "lied nummer 20"
+  },
+  "297": {
+    "id": "297",
+    "text": "Laten we luisteren naar lied nummer 20."
+  },
+  "298": {
+    "id": "298",
+    "text": "liederenbundel"
+  },
+  "299": {
+    "id": "299",
+    "text": "Laten we onze liederenbundel opslaan bij lied nummer 10."
+  },
+  "300": {
+    "id": "300",
+    "text": "een lied zingen"
+  },
+  "301": {
+    "id": "301",
+    "text": "Laten we lied nummer 30 zingen."
+  },
+  "302": {
+    "id": "302",
+    "text": "Laten we tijdens het zingen de woorden van dit lied overdenken."
+  },
+  "303": {
+    "id": "303",
+    "text": "gebed"
+  },
+  "304": {
+    "id": "304",
+    "text": "openingsgebed"
+  },
+  "305": {
+    "id": "305",
+    "text": "slotgebed"
+  },
+  "306": {
+    "id": "306",
+    "text": "een gebed uitspreken"
+  },
+  "307": {
+    "id": "307",
+    "text": "Broeder XXX, zou jij alsjeblieft het gebed willen uitspreken?"
+  },
+  "308": {
+    "id": "308",
+    "text": "bidden"
+  },
+  "309": {
+    "id": "309",
+    "text": "tot Jehovah bidden"
+  },
+  "310": {
+    "id": "310",
+    "text": "Na het lied willen we tot Jehovah bidden."
+  },
+  "311": {
+    "id": "311",
+    "text": "Mededelingen"
+  },
+  "312": {
+    "id": "312",
+    "text": "mededelingen",
+    "annotation": "(: bv. op de dienstvergadering)"
+  },
+  "313": {
+    "id": "313",
+    "text": "Ik heb enkele mededelingen."
+  },
+  "314": {
+    "id": "314",
+    "text": "XXX mededelen"
+  },
+  "315": {
+    "id": "315",
+    "text": "de velddienstbijeenkomsten mededelen"
+  },
+  "316": {
+    "id": "316",
+    "text": "We zijn verheugd mede te delen dat ..."
+  },
+  "317": {
+    "id": "317",
+    "text": "Het bedroeft ons te moeten mededelen dat ..."
+  },
+  "318": {
+    "id": "318",
+    "text": "brief",
+    "annotation": "(: bv. van het bijkantoor)"
+  },
+  "319": {
+    "id": "319",
+    "text": "We hebben een brief van het bijkantoor ontvangen."
+  },
+  "320": {
+    "id": "320",
+    "text": "Ik zou graag broeder XXX op het podium willen uitnodigen om een brief van het Genootschap voor te lezen."
+  },
+  "321": {
+    "id": "321",
+    "text": "resolutie"
+  },
+  "322": {
+    "id": "322",
+    "text": "een resolutie voorleggen"
+  },
+  "323": {
+    "id": "323",
+    "text": "We zouden de gemeente de volgende resolutie willen voorleggen."
+  },
+  "324": {
+    "id": "324",
+    "text": "stemmen",
+    "annotation": "(: het werkwoord)"
+  },
+  "325": {
+    "id": "325",
+    "text": "[je] hand opsteken",
+    "annotation": "(: bij het stemmen)"
+  },
+  "326": {
+    "id": "326",
+    "text": "Steek alsjeblieft je hand op als je vóór de resolutie bent."
+  },
+  "327": {
+    "id": "327",
+    "text": "Steek alsjeblieft je hand op als je tegen de resolutie bent."
+  },
+  "328": {
+    "id": "328",
+    "text": "Steek alsjeblieft je hand op als je je onthoudt van stemming."
+  },
+  "329": {
+    "id": "329",
+    "text": "Jullie kunnen nu de handen laten zakken."
+  },
+  "330": {
+    "id": "330",
+    "text": "Jullie willen misschien enkele aantekeningen maken."
+  },
+  "331": {
+    "id": "331",
+    "text": "Lever alsjeblieft je velddienstrapport in bij je groepsopziener."
+  },
+  "332": {
+    "id": "332",
+    "text": "Deze week is groep 2 aan de beurt om de zaal schoon te maken."
+  },
+  "333": {
+    "id": "333",
+    "text": "Aanstaande zaterdag is de velddienstbijeenkomst om 11:00 uur op het adres van zuster XXX."
+  },
+  "334": {
+    "id": "334",
+    "text": "Er zal zodadelijk, vijf minuten na het einde van de vergadering, een velddienstbijeenkomst zijn."
+  },
+  "335": {
+    "id": "335",
+    "text": "De velddienstbijeenkomst zal gehouden worden in de tweede school."
+  },
+  "336": {
+    "id": "336",
+    "text": "Broeder XXX zal de velddienstbijeenkomst leiden."
+  },
+  "337": {
+    "id": "337",
+    "text": "We hebben enkele mededelingen met betrekking tot ons naderende districtscongres."
+  },
+  "338": {
+    "id": "338",
+    "text": "Ons districtscongres zal gehouden worden op ..."
+  },
+  "339": {
+    "id": "339",
+    "text": "De plaats van het districtscongres zal zijn ..."
+  },
+  "340": {
+    "id": "340",
+    "text": "Het congresprogramma vangt aan om 9:50 uur."
+  },
+  "341": {
+    "id": "341",
+    "text": "Het congresprogramma eindigt om 15:45 uur."
+  },
+  "342": {
+    "id": "342",
+    "text": "Als je een zitplaats in de bus wilt reserveren, vervoeg je dan alsjeblieft bij broeder XXX."
+  },
+  "343": {
+    "id": "343",
+    "text": "Zuster XXX is op 12 maart overleden."
+  },
+  "344": {
+    "id": "344",
+    "text": "Haar begrafenisdienst zal volgende week dinsdag worden gehouden in de Koninkrijkszaal."
+  },
+  "345": {
+    "id": "345",
+    "text": "XXX heeft zich teruggetrokken uit de christelijke gemeente"
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX is uit de christelijke gemeente gesloten"
+  },
+  "347": {
+    "id": "347",
+    "text": "Welkomstwoorden en inleiding"
+  },
+  "348": {
+    "id": "348",
+    "text": "voorzitter",
+    "annotation": "(: een broeder die sprekers introduceert op openbare vergaderingen en grote vergaderingen)"
+  },
+  "349": {
+    "id": "349",
+    "text": "de volgende lezing aankondigen"
+  },
+  "350": {
+    "id": "350",
+    "text": "applaudisseren",
+    "annotation": "(: in de handen klappen uit waardering voor een lezing, etc.)"
+  },
+  "351": {
+    "id": "351",
+    "text": "applaus"
+  },
+  "352": {
+    "id": "352",
+    "text": "Uit het applaus blijkt dat de toehoorders van de lezing hebben genoten."
+  },
+  "353": {
+    "id": "353",
+    "text": "Onze vergadering vangt aan over twee minuten."
+  },
+  "354": {
+    "id": "354",
+    "text": "Welkom!"
+  },
+  "355": {
+    "id": "355",
+    "text": "We heten deze avond iedereen van harte welkom op de vergadering."
+  },
+  "356": {
+    "id": "356",
+    "text": "Welkom broeders en zusters."
+  },
+  "357": {
+    "id": "357",
+    "text": "Welkom op de vergadering deze avond."
+  },
+  "358": {
+    "id": "358",
+    "text": "Willen jullie alsjeblieft jullie plaatsen opzoeken?"
+  },
+  "359": {
+    "id": "359",
+    "text": "Jullie mogen gaan zitten."
+  },
+  "360": {
+    "id": "360",
+    "text": "Willen jullie alsjeblieft jullie plaatsen innemen?"
+  },
+  "361": {
+    "id": "361",
+    "text": "Willen jullie, indien mogelijk, gaan staan?"
+  },
+  "362": {
+    "id": "362",
+    "text": "We willen nu 10 minuten pauzeren. Willen jullie alsjeblieft weer gaan zitten om 15:15 uur?"
+  },
+  "363": {
+    "id": "363",
+    "text": "De vergadering van vanavond bestaat uit twee gedeelten."
+  },
+  "364": {
+    "id": "364",
+    "text": "Het tweede gedeelte van de vergadering is de Wachttoren-studie."
+  },
+  "365": {
+    "id": "365",
+    "text": "Ik zou graag broeder XXX op het podium willen uitnodigen."
+  },
+  "366": {
+    "id": "366",
+    "text": "Laten we aandachtig naar hem luisteren."
+  },
+  "367": {
+    "id": "367",
+    "text": "Broeder XXX zal deze bespreking leiden."
+  },
+  "368": {
+    "id": "368",
+    "text": "Nu volgt de gemeentebijbelstudie welke onder leiding zal staan van broeder XXX."
+  },
+  "369": {
+    "id": "369",
+    "text": "Broeder XXX zal van hoofdstuk 5 de verzen 12 tot en met 25 lezen."
+  },
+  "370": {
+    "id": "370",
+    "text": "Zuster XXX zal de tweede velddienstpresentatie uit \"Onze Koninkrijksdienst\" demonstreren."
+  },
+  "371": {
+    "id": "371",
+    "text": "Laten we nu luisteren naar twee zusters die het volgende thema bespreken: \"...\""
+  },
+  "372": {
+    "id": "372",
+    "text": "Zuster XXX zal het gesprek leiden."
+  },
+  "373": {
+    "id": "373",
+    "text": "Haar assistente is zuster YYY."
+  },
+  "374": {
+    "id": "374",
+    "text": "Zuster YYY zal de rol van huisbewoonster spelen."
+  },
+  "375": {
+    "id": "375",
+    "text": "De setting voor deze toewijzing is ..."
+  },
+  "376": {
+    "id": "376",
+    "text": "We zijn blij vandaag een gastspreker in ons midden te hebben die de lezing zal uitspreken."
+  },
+  "377": {
+    "id": "377",
+    "text": "Broeder XXX uit de gemeente YYY zal voor ons de lezing uitspreken."
+  },
+  "378": {
+    "id": "378",
+    "text": "Het thema van deze lezing is ..."
+  },
+  "379": {
+    "id": "379",
+    "text": "Broeder XXX, dankjewel dat je tot ons over dit onderwerp hebt willen spreken."
+  },
+  "380": {
+    "id": "380",
+    "text": "Alle 75 aanwezigen in de zaal hebben van je lezing genoten."
+  },
+  "381": {
+    "id": "381",
+    "text": "We zijn erg blij deze week de kringopziener en zijn vrouw als gasten in ons midden te hebben."
+  },
+  "382": {
+    "id": "382",
+    "text": "De titel van de eerste dienstlezing van onze kringopziener is ..."
+  },
+  "383": {
+    "id": "383",
+    "text": "Ik breng de liefdevolle groeten over van de Bethelfamilie in XXX."
+  },
+  "384": {
+    "id": "384",
+    "text": "Mag ik jullie liefdevolle groeten overbrengen aan de gemeente XXX?"
+  },
+  "386": {
+    "id": "386",
+    "text": "Onderwijs en bespreking"
+  },
+  "387": {
+    "id": "387",
+    "text": "Bijbelboeken"
+  },
+  "388": {
+    "id": "388",
+    "text": "de Hebreeuwse Geschriften"
+  },
+  "389": {
+    "id": "389",
+    "text": "Genesis"
+  },
+  "390": {
+    "id": "390",
+    "text": "Exodus"
+  },
+  "391": {
+    "id": "391",
+    "text": "Leviticus"
+  },
+  "392": {
+    "id": "392",
+    "text": "Numeri"
+  },
+  "393": {
+    "id": "393",
+    "text": "Deuteronomium"
+  },
+  "394": {
+    "id": "394",
+    "text": "Jozua"
+  },
+  "395": {
+    "id": "395",
+    "text": "Rechters"
+  },
+  "396": {
+    "id": "396",
+    "text": "Ruth"
+  },
+  "397": {
+    "id": "397",
+    "text": "1 Samuël"
+  },
+  "398": {
+    "id": "398",
+    "text": "2 Samuël"
+  },
+  "399": {
+    "id": "399",
+    "text": "1 Koningen"
+  },
+  "400": {
+    "id": "400",
+    "text": "2 Koningen"
+  },
+  "401": {
+    "id": "401",
+    "text": "1 Kronieken"
+  },
+  "402": {
+    "id": "402",
+    "text": "2 Kronieken"
+  },
+  "403": {
+    "id": "403",
+    "text": "Ezra"
+  },
+  "404": {
+    "id": "404",
+    "text": "Nehemía"
+  },
+  "405": {
+    "id": "405",
+    "text": "Esther"
+  },
+  "406": {
+    "id": "406",
+    "text": "Job"
+  },
+  "407": {
+    "id": "407",
+    "text": "Psalmen"
+  },
+  "408": {
+    "id": "408",
+    "text": "Spreuken"
+  },
+  "409": {
+    "id": "409",
+    "text": "Prediker"
+  },
+  "410": {
+    "id": "410",
+    "text": "Hooglied"
+  },
+  "411": {
+    "id": "411",
+    "text": "Jesaja"
+  },
+  "412": {
+    "id": "412",
+    "text": "Jeremia"
+  },
+  "413": {
+    "id": "413",
+    "text": "Klaagliederen"
+  },
+  "414": {
+    "id": "414",
+    "text": "Ezechiël"
+  },
+  "415": {
+    "id": "415",
+    "text": "Daniël"
+  },
+  "416": {
+    "id": "416",
+    "text": "Hosea"
+  },
+  "417": {
+    "id": "417",
+    "text": "Joël"
+  },
+  "418": {
+    "id": "418",
+    "text": "Amos"
+  },
+  "419": {
+    "id": "419",
+    "text": "Obadja"
+  },
+  "420": {
+    "id": "420",
+    "text": "Jona"
+  },
+  "421": {
+    "id": "421",
+    "text": "Micha"
+  },
+  "422": {
+    "id": "422",
+    "text": "Nahum"
+  },
+  "423": {
+    "id": "423",
+    "text": "Habakuk"
+  },
+  "424": {
+    "id": "424",
+    "text": "Zefanja"
+  },
+  "425": {
+    "id": "425",
+    "text": "Haggaï"
+  },
+  "426": {
+    "id": "426",
+    "text": "Zacharia"
+  },
+  "427": {
+    "id": "427",
+    "text": "Maleachi"
+  },
+  "428": {
+    "id": "428",
+    "text": "de Griekse Geschriften"
+  },
+  "429": {
+    "id": "429",
+    "text": "Mattheüs"
+  },
+  "430": {
+    "id": "430",
+    "text": "Markus"
+  },
+  "431": {
+    "id": "431",
+    "text": "Lukas"
+  },
+  "432": {
+    "id": "432",
+    "text": "Johannes"
+  },
+  "433": {
+    "id": "433",
+    "text": "Handelingen"
+  },
+  "434": {
+    "id": "434",
+    "text": "Romeinen"
+  },
+  "435": {
+    "id": "435",
+    "text": "1 Korinthiërs"
+  },
+  "436": {
+    "id": "436",
+    "text": "2 Korinthiërs"
+  },
+  "437": {
+    "id": "437",
+    "text": "Galaten"
+  },
+  "438": {
+    "id": "438",
+    "text": "Efeziërs"
+  },
+  "439": {
+    "id": "439",
+    "text": "Filippenzen"
+  },
+  "440": {
+    "id": "440",
+    "text": "Kolossenzen"
+  },
+  "441": {
+    "id": "441",
+    "text": "1 Thessalonicenzen"
+  },
+  "442": {
+    "id": "442",
+    "text": "2 Thessalonicenzen"
+  },
+  "443": {
+    "id": "443",
+    "text": "1 Timótheüs"
+  },
+  "444": {
+    "id": "444",
+    "text": "2 Timótheüs"
+  },
+  "445": {
+    "id": "445",
+    "text": "Titus"
+  },
+  "446": {
+    "id": "446",
+    "text": "Filémon"
+  },
+  "447": {
+    "id": "447",
+    "text": "Hebreeën"
+  },
+  "448": {
+    "id": "448",
+    "text": "Jakobus"
+  },
+  "449": {
+    "id": "449",
+    "text": "1 Petrus"
+  },
+  "450": {
+    "id": "450",
+    "text": "2 Petrus"
+  },
+  "451": {
+    "id": "451",
+    "text": "1 Johannes"
+  },
+  "452": {
+    "id": "452",
+    "text": "2 Johannes"
+  },
+  "453": {
+    "id": "453",
+    "text": "3 Johannes"
+  },
+  "454": {
+    "id": "454",
+    "text": "Judas"
+  },
+  "455": {
+    "id": "455",
+    "text": "Openbaring"
+  },
+  "456": {
+    "id": "456",
+    "text": "De Bijbel gebruiken"
+  },
+  "457": {
+    "id": "457",
+    "text": "de Bijbel"
+  },
+  "458": {
+    "id": "458",
+    "text": "Laten we onze Bijbel opslaan."
+  },
+  "459": {
+    "id": "459",
+    "text": "Sla alsjeblieft je Bijbel op bij Jeremia 10:23."
+  },
+  "460": {
+    "id": "460",
+    "text": "verslag (/verhaal)"
+  },
+  "461": {
+    "id": "461",
+    "text": "Laten we dit bijbelverslag eens opzoeken."
+  },
+  "462": {
+    "id": "462",
+    "text": "schriftplaats"
+  },
+  "463": {
+    "id": "463",
+    "text": "Wat vertelt deze schriftplaats ons over ...?"
+  },
+  "464": {
+    "id": "464",
+    "text": "Wat onthult deze schriftplaats over ...?"
+  },
+  "465": {
+    "id": "465",
+    "text": "Hoe houdt deze schriftplaats verband met ...?"
+  },
+  "466": {
+    "id": "466",
+    "text": "Wat betekent deze schriftplaats?"
+  },
+  "467": {
+    "id": "467",
+    "text": "Geef alsjeblieft commentaar op deze schriftplaats."
+  },
+  "468": {
+    "id": "468",
+    "text": "Hoe zou je deze schriftplaats uitleggen?"
+  },
+  "469": {
+    "id": "469",
+    "text": "Welke les kunnen we leren uit deze schriftplaats?"
+  },
+  "470": {
+    "id": "470",
+    "text": "Matthéüs hoofdstuk zeven, vers twaalf"
+  },
+  "471": {
+    "id": "471",
+    "text": "Matthéüs hoofdstuk vijf, de verzen drieëntwintig en vierentwintig"
+  },
+  "472": {
+    "id": "472",
+    "text": "1 Johannes hoofdstuk twee, de verzen vijftien tot en met zeventien"
+  },
+  "473": {
+    "id": "473",
+    "text": "Psalm zevenendertig vers elf; vers elf van het zevenendertigste Psalm"
+  },
+  "474": {
+    "id": "474",
+    "text": "Studiemateriaal"
+  },
+  "475": {
+    "id": "475",
+    "text": "pagina"
+  },
+  "476": {
+    "id": "476",
+    "text": "Sla alsjeblieft je tijdschrift op bij het artikel op pagina 20."
+  },
+  "477": {
+    "id": "477",
+    "text": "Sla alsjeblieft het studiemateriaal op bij pagina 45."
+  },
+  "478": {
+    "id": "478",
+    "text": "Laten we omslaan naar pagina 10."
+  },
+  "479": {
+    "id": "479",
+    "text": "artikel"
+  },
+  "480": {
+    "id": "480",
+    "text": "een serie artikelen",
+    "annotation": "(: bv. in het tijdschrift De Wachttoren)"
+  },
+  "481": {
+    "id": "481",
+    "text": "Deze week gaan we de eerste van een serie van drie artikelen beschouwen."
+  },
+  "482": {
+    "id": "482",
+    "text": "thema"
+  },
+  "483": {
+    "id": "483",
+    "text": "thematekst"
+  },
+  "484": {
+    "id": "484",
+    "text": "koptekst"
+  },
+  "485": {
+    "id": "485",
+    "text": "onderkopje"
+  },
+  "486": {
+    "id": "486",
+    "text": "paragraaf"
+  },
+  "487": {
+    "id": "487",
+    "text": "de vorige paragraaf"
+  },
+  "488": {
+    "id": "488",
+    "text": "de volgende paragraaf"
+  },
+  "489": {
+    "id": "489",
+    "text": "de volgende twee paragrafen"
+  },
+  "490": {
+    "id": "490",
+    "text": "Laten we de volgende twee paragrafen lezen."
+  },
+  "491": {
+    "id": "491",
+    "text": "woord"
+  },
+  "492": {
+    "id": "492",
+    "text": "vetgedrukte woorden"
+  },
+  "493": {
+    "id": "493",
+    "text": "schuingedrukte woorden"
+  },
+  "494": {
+    "id": "494",
+    "text": "voetnoot"
+  },
+  "495": {
+    "id": "495",
+    "text": "appendix"
+  },
+  "496": {
+    "id": "496",
+    "text": "kader"
+  },
+  "497": {
+    "id": "497",
+    "text": "afbeelding; plaatje"
+  },
+  "498": {
+    "id": "498",
+    "text": "Jongeren, wat is de naam van de man op het plaatje?"
+  },
+  "499": {
+    "id": "499",
+    "text": "onderschrift",
+    "annotation": "(: bij een afbeelding)"
+  },
+  "500": {
+    "id": "500",
+    "text": "Bespreking"
+  },
+  "501": {
+    "id": "501",
+    "text": "antwoord"
+  },
+  "502": {
+    "id": "502",
+    "text": "een antwoord geven"
+  },
+  "503": {
+    "id": "503",
+    "text": "vraag"
+  },
+  "504": {
+    "id": "504",
+    "text": "vragen vooraf",
+    "annotation": "(: bv. in het boek \"Wat leert de Bijbel echt?\")"
+  },
+  "505": {
+    "id": "505",
+    "text": "overzichtsvragen",
+    "annotation": "(: bv. in de Wachttoren-studie)"
+  },
+  "506": {
+    "id": "506",
+    "text": "een vraag stellen"
+  },
+  "507": {
+    "id": "507",
+    "text": "een vraag beantwoorden"
+  },
+  "508": {
+    "id": "508",
+    "text": "commentaar"
+  },
+  "509": {
+    "id": "509",
+    "text": "een commentaar geven"
+  },
+  "510": {
+    "id": "510",
+    "text": "Vertaal alsjeblieft zijn commentaar."
+  },
+  "511": {
+    "id": "511",
+    "text": "Iemand nog commentaar?"
+  },
+  "512": {
+    "id": "512",
+    "text": "Beperk alsjeblieft (de lengte van) je commentaar tot 30 seconden."
+  },
+  "513": {
+    "id": "513",
+    "text": "commentaar geven"
+  },
+  "514": {
+    "id": "514",
+    "text": "Wie zou commentaar willen geven op het bijbelleesprogramma van deze week?"
+  },
+  "515": {
+    "id": "515",
+    "text": "commentaar geven op de afbeelding"
+  },
+  "516": {
+    "id": "516",
+    "text": "bespreking"
+  },
+  "517": {
+    "id": "517",
+    "text": "vraag en antwoord bespreking"
+  },
+  "518": {
+    "id": "518",
+    "text": "bespreken"
+  },
+  "519": {
+    "id": "519",
+    "text": "de dagtekst bespreken"
+  },
+  "520": {
+    "id": "520",
+    "text": "We zullen nu dit artikel samen bespreken."
+  },
+  "521": {
+    "id": "521",
+    "text": "(een bespreking) leiden"
+  },
+  "522": {
+    "id": "522",
+    "text": "Dankjewel broeder XXX voor het leiden van die bespreking."
+  },
+  "523": {
+    "id": "523",
+    "text": "leider"
+  },
+  "524": {
+    "id": "524",
+    "text": "Wachttoren-studieleider"
+  },
+  "525": {
+    "id": "525",
+    "text": "beschouwen",
+    "annotation": "(: iets belichten in een bespreking)"
+  },
+  "526": {
+    "id": "526",
+    "text": "We zullen nu een belangrijke vraag beschouwen."
+  },
+  "527": {
+    "id": "527",
+    "text": "voorlezen",
+    "annotation": "(: hardop, bv. tijdens een vergadering)"
+  },
+  "528": {
+    "id": "528",
+    "text": "Wie wil paragraaf 2 voorlezen?"
+  },
+  "529": {
+    "id": "529",
+    "text": "Lees alsjeblieft paragraaf 2."
+  },
+  "530": {
+    "id": "530",
+    "text": "Dankjewel voor het voorlezen broeder XXX."
+  },
+  "531": {
+    "id": "531",
+    "text": "nabeschouwen"
+  },
+  "532": {
+    "id": "532",
+    "text": "Laten we de hoofdpunten van dit artikel eens nabeschouwen."
+  },
+  "533": {
+    "id": "533",
+    "text": "hoofdpunt"
+  },
+  "534": {
+    "id": "534",
+    "text": "Wat zijn de hoofdpunten die we uit het materiaal van deze week hebben geleerd?"
+  },
+  "535": {
+    "id": "535",
+    "text": "XXX toepassen bij/in YYY"
+  },
+  "536": {
+    "id": "536",
+    "text": "Hoe kunnen we dit toepassen bij ...?"
+  },
+  "537": {
+    "id": "537",
+    "text": "Hoe kunnen we dit toepassen in onze dienst?"
+  },
+  "538": {
+    "id": "538",
+    "text": "XXX samenvatten"
+  },
+  "539": {
+    "id": "539",
+    "text": "Hoe kunnen we deze paragrafen samenvatten?"
+  },
+  "540": {
+    "id": "540",
+    "text": "broeders en zusters",
+    "annotation": "(: om aandacht te krijgen, of als eerste woorden richting de toehoorders)"
+  },
+  "541": {
+    "id": "541",
+    "text": "broeder XXX",
+    "annotation": "(: als je iemand de beurt geeft voor commentaar op de vergadering)"
+  },
+  "542": {
+    "id": "542",
+    "text": "zuster XXX",
+    "annotation": "(: als je iemand de beurt geeft voor commentaar op de vergadering)"
+  },
+  "543": {
+    "id": "543",
+    "text": "Steek alsjeblieft je hand op."
+  },
+  "544": {
+    "id": "544",
+    "text": "Wacht even op de microfoon alsjeblieft."
+  },
+  "545": {
+    "id": "545",
+    "text": "Wil je de microfoon aanzetten?"
+  },
+  "546": {
+    "id": "546",
+    "text": "Wil je de microfoon op de juiste manier vasthouden?"
+  },
+  "547": {
+    "id": "547",
+    "text": "Goed gedaan!",
+    "annotation": "(: Zeg dit nadat iemand een goede lezing of een goed commentaar heeft gegeven, etc.)"
+  },
+  "548": {
+    "id": "548",
+    "text": "Tijdsvolgorde"
+  },
+  "549": {
+    "id": "549",
+    "text": "nu; volgend"
+  },
+  "550": {
+    "id": "550",
+    "text": "Laten we nu paragraaf 3 lezen."
+  },
+  "551": {
+    "id": "551",
+    "text": "We gaan nu ... beschouwen."
+  },
+  "552": {
+    "id": "552",
+    "text": "We gaan nu de volgende vraag beschouwen."
+  },
+  "553": {
+    "id": "553",
+    "text": "We gaan nu het volgende probleem beschouwen."
+  },
+  "554": {
+    "id": "554",
+    "text": "We gaan nu het volgende onderwerp beschouwen."
+  },
+  "555": {
+    "id": "555",
+    "text": "Eerst ..."
+  },
+  "556": {
+    "id": "556",
+    "text": "Later ..."
+  },
+  "557": {
+    "id": "557",
+    "text": "Tenslotte ..."
+  },
+  "558": {
+    "id": "558",
+    "text": "vorige week"
+  },
+  "559": {
+    "id": "559",
+    "text": "deze week"
+  },
+  "560": {
+    "id": "560",
+    "text": "Deze week zullen we de paragrafen 10 tot en met 18 beschouwen."
+  },
+  "561": {
+    "id": "561",
+    "text": "Deze week is broeder XXX degene die voorleest."
+  },
+  "562": {
+    "id": "562",
+    "text": "volgende week"
+  },
+  "563": {
+    "id": "563",
+    "text": "Wat gaan we volgende week bespreken?"
+  },
+  "564": {
+    "id": "564",
+    "text": "vorige keer"
+  },
+  "565": {
+    "id": "565",
+    "text": "volgende keer"
+  },
+  "566": {
+    "id": "566",
+    "text": "Laten we verder gaan."
+  },
+  "567": {
+    "id": "567",
+    "text": "Ik vrees dat we in tijdnood komen."
+  },
+  "568": {
+    "id": "568",
+    "text": "In verband met de tijd gaan we nu verder."
+  },
+  "569": {
+    "id": "569",
+    "text": "Dat was het."
+  },
+  "570": {
+    "id": "570",
+    "text": "We moeten hier stoppen."
+  },
+  "572": {
+    "id": "572",
+    "text": "Getuigenis geven"
+  },
+  "573": {
+    "id": "573",
+    "text": "Velddienst"
+  },
+  "574": {
+    "id": "574",
+    "text": "velddienst"
+  },
+  "575": {
+    "id": "575",
+    "text": "in de dienst gaan met XXX"
+  },
+  "576": {
+    "id": "576",
+    "text": "Wanneer kunnen wij samen in de dienst gaan?"
+  },
+  "577": {
+    "id": "577",
+    "text": "prediking"
+  },
+  "578": {
+    "id": "578",
+    "text": "predikingswerk"
+  },
+  "579": {
+    "id": "579",
+    "text": "prediken"
+  },
+  "580": {
+    "id": "580",
+    "text": "prediken tot XXX"
+  },
+  "581": {
+    "id": "581",
+    "text": "getuigenis geven aan XXX"
+  },
+  "582": {
+    "id": "582",
+    "text": "een getuigenis geven aan XXX"
+  },
+  "583": {
+    "id": "583",
+    "text": "getuigenis geven"
+  },
+  "584": {
+    "id": "584",
+    "text": "van huis-tot-huis prediking"
+  },
+  "585": {
+    "id": "585",
+    "text": "straatwerk"
+  },
+  "586": {
+    "id": "586",
+    "text": "informeel getuigenis"
+  },
+  "587": {
+    "id": "587",
+    "text": "getuigenis geven in zakengebied"
+  },
+  "588": {
+    "id": "588",
+    "text": "nabezoek"
+  },
+  "589": {
+    "id": "589",
+    "text": "Wil jij morgen met mij naar een nabezoek gaan?"
+  },
+  "590": {
+    "id": "590",
+    "text": "een nabezoek brengen"
+  },
+  "591": {
+    "id": "591",
+    "text": "Bijbelstudie"
+  },
+  "592": {
+    "id": "592",
+    "text": "een Bijbelstudie beginnen"
+  },
+  "593": {
+    "id": "593",
+    "text": "een Bijbelstudie leiden"
+  },
+  "594": {
+    "id": "594",
+    "text": "Volgende week heb ik een Bijbelstudie. Wil jij met me meegaan?"
+  },
+  "595": {
+    "id": "595",
+    "text": "bijbelonderwijzer"
+  },
+  "596": {
+    "id": "596",
+    "text": "bijbelstudent"
+  },
+  "597": {
+    "id": "597",
+    "text": "geïnteresseerde"
+  },
+  "598": {
+    "id": "598",
+    "text": "belangstelling nagaan",
+    "annotation": "(: teruggaan naar mensen die belangstelling hebben getoond)"
+  },
+  "599": {
+    "id": "599",
+    "text": "velddiensttijd"
+  },
+  "600": {
+    "id": "600",
+    "text": "Afgelopen maand heeft hij 14 uur velddiensttijd gerapporteerd."
+  },
+  "601": {
+    "id": "601",
+    "text": "Afgelopen maand heeft hij 14 uur en 1 Bijbelstudie gerapporteerd."
+  },
+  "602": {
+    "id": "602",
+    "text": "presentatie; inleiding"
+  },
+  "603": {
+    "id": "603",
+    "text": "Weet jij een goede inleiding voor de velddienst?"
+  },
+  "604": {
+    "id": "604",
+    "text": "ervaring",
+    "annotation": "(: bv. iets dat in de dienst is voorgevallen)"
+  },
+  "605": {
+    "id": "605",
+    "text": "Heb jij de afgelopen maand interessante ervaringen opgedaan in de dienst?"
+  },
+  "606": {
+    "id": "606",
+    "text": "Broeder XXX wil ons nu een interessante ervaring vertellen."
+  },
+  "607": {
+    "id": "607",
+    "text": "Onze Koninkrijksdienst"
+  },
+  "608": {
+    "id": "608",
+    "text": "inlegvel"
+  },
+  "609": {
+    "id": "609",
+    "text": "Neem alsjeblieft het inlegvel van Onze Koninkrijksdienst van december 2006 mee naar de velddienstbijeenkomst."
+  },
+  "610": {
+    "id": "610",
+    "text": "aanbieding",
+    "annotation": "(: een publicatie die op een bepaald moment onder de aandacht wordt gebracht in de dienst)"
+  },
+  "611": {
+    "id": "611",
+    "text": "Wat is de aanbieding van deze maand?"
+  },
+  "612": {
+    "id": "612",
+    "text": "Welke lectuur brengen we deze maand onder de aandacht?"
+  },
+  "613": {
+    "id": "613",
+    "text": "campagne",
+    "annotation": "(: een periode van activiteit waarin een speciaal tractaat grootschalig wordt verspreid)"
+  },
+  "614": {
+    "id": "614",
+    "text": "Wanneer begint de campagne?"
+  },
+  "615": {
+    "id": "615",
+    "text": "partner",
+    "annotation": "(: bv. in de dienst)"
+  },
+  "616": {
+    "id": "616",
+    "text": "Wie heeft er geen partner?"
+  },
+  "617": {
+    "id": "617",
+    "text": "Broeder XXX, jij kunt met broeder YYY werken."
+  },
+  "618": {
+    "id": "618",
+    "text": "Wie heeft er vervoer nodig?",
+    "annotation": "(: Wie heeft hulp nodig om in het gebied te komen?)"
+  },
+  "619": {
+    "id": "619",
+    "text": "gebied (voor de velddienst)"
+  },
+  "620": {
+    "id": "620",
+    "text": "Wie heeft er gebied nodig?"
+  },
+  "621": {
+    "id": "621",
+    "text": "Zijn er nog problemen?"
+  },
+  "622": {
+    "id": "622",
+    "text": "Zijn er nog vragen?"
+  },
+  "623": {
+    "id": "623",
+    "text": "Laten we gaan!",
+    "annotation": "(: Laten we nu uittrekken in de dienst.)"
+  },
+  "624": {
+    "id": "624",
+    "text": "Inleidingen"
+  },
+  "625": {
+    "id": "625",
+    "text": "Hallo, mijn naam is XXX."
+  },
+  "626": {
+    "id": "626",
+    "text": "Neem me niet kwalijk.",
+    "annotation": "(: een uitdrukking om beleefd iemands aandacht te trekken in de dienst)"
+  },
+  "627": {
+    "id": "627",
+    "text": "Ik ben XXX aan het leren.",
+    "annotation": "(: XXX is een taal)"
+  },
+  "628": {
+    "id": "628",
+    "text": "Spreekt u XXX?",
+    "annotation": "(: XXX is een taal)"
+  },
+  "629": {
+    "id": "629",
+    "text": "Ik ben op zoek naar personen die XXX spreken.",
+    "annotation": "(: XXX is een taal)"
+  },
+  "630": {
+    "id": "630",
+    "text": "Ik ben blij u thuis te treffen."
+  },
+  "631": {
+    "id": "631",
+    "text": "Het is goed u weer te zien."
+  },
+  "632": {
+    "id": "632",
+    "text": "Het is goed u weer te kunnen spreken."
+  },
+  "633": {
+    "id": "633",
+    "text": "Het spijt me dat ik op een ongelegen moment heb aangebeld."
+  },
+  "634": {
+    "id": "634",
+    "text": "Ik zie dat u momenteel druk bezig bent."
+  },
+  "635": {
+    "id": "635",
+    "text": "Ik zal het kort houden."
+  },
+  "636": {
+    "id": "636",
+    "text": "We bezoeken alle gezinnen in dit gebied."
+  },
+  "637": {
+    "id": "637",
+    "text": "We brengen vandaag een kort bezoekje bij de mensen hier in de buurt."
+  },
+  "638": {
+    "id": "638",
+    "text": "Bij mijn gesprekken met mensen heb ik gemerkt dat ..."
+  },
+  "639": {
+    "id": "639",
+    "text": "Bij onze gesprekken met mensen bemerken we dat ..."
+  },
+  "640": {
+    "id": "640",
+    "text": "Wij praten er met onze medemensen over hoe wij praktische hulp kunnen vinden voor het oplossen van de problemen van het leven."
+  },
+  "641": {
+    "id": "641",
+    "text": "Wij praten met onze medemensen over ..."
+  },
+  "642": {
+    "id": "642",
+    "text": "Wij praten met mensen over ..."
+  },
+  "643": {
+    "id": "643",
+    "text": "Wij hebben met iedereen gepraat over ..."
+  },
+  "644": {
+    "id": "644",
+    "text": "Ik bespreek met mijn medemensen een probleem waarmee wij allen worden geconfronteerd."
+  },
+  "645": {
+    "id": "645",
+    "text": "Wij stellen vandaag iedereen een vraag."
+  },
+  "646": {
+    "id": "646",
+    "text": "Vandaag stellen wij de mensen hier in de buurt de vraag ..."
+  },
+  "647": {
+    "id": "647",
+    "text": "Ik zou u graag een vraag stellen."
+  },
+  "648": {
+    "id": "648",
+    "text": "Heeft u zich ooit afgevraagd: . . . ?"
+  },
+  "649": {
+    "id": "649",
+    "text": "Heeft u u zich ooit afgevraagd: Geeft God echt om het onrecht en lijden waar mensen onder gebukt gaan?"
+  },
+  "650": {
+    "id": "650",
+    "text": "Contact leggen"
+  },
+  "651": {
+    "id": "651",
+    "text": "Kan ik op één of andere wijze contact met u opnemen?"
+  },
+  "652": {
+    "id": "652",
+    "text": "Mag ik misschien uw telefoonnummer?"
+  },
+  "653": {
+    "id": "653",
+    "text": "Mijn mobiele telefoonnummer is ..."
+  },
+  "654": {
+    "id": "654",
+    "text": "Ik zal u bellen voordat ik kom."
+  },
+  "655": {
+    "id": "655",
+    "text": "Ik zal u een sms sturen."
+  },
+  "656": {
+    "id": "656",
+    "text": "Heeft u mijn sms ontvangen?"
+  },
+  "657": {
+    "id": "657",
+    "text": "We kunnen een andere keer afspreken."
+  },
+  "658": {
+    "id": "658",
+    "text": "Laten we een afspraak maken."
+  },
+  "659": {
+    "id": "659",
+    "text": "Wanneer schikt het u?"
+  },
+  "660": {
+    "id": "660",
+    "text": "Wanneer schikt het om elkaar te treffen?"
+  },
+  "661": {
+    "id": "661",
+    "text": "Het spijt me, morgen komt het mij niet uit."
+  },
+  "662": {
+    "id": "662",
+    "text": "Wanneer kan ik u het beste opbellen?"
+  },
+  "663": {
+    "id": "663",
+    "text": "Wanneer kan ik u het beste bezoeken?"
+  },
+  "664": {
+    "id": "664",
+    "text": "Schikt het volgende week?"
+  },
+  "665": {
+    "id": "665",
+    "text": "Schikt het u aanstaande dinsdagmiddag?"
+  },
+  "666": {
+    "id": "666",
+    "text": "Bent u dan in de winkel?"
+  },
+  "667": {
+    "id": "667",
+    "text": "Bent u dan thuis?"
+  },
+  "668": {
+    "id": "668",
+    "text": "We kunnen ergens afspreken om een kopje thee (/koffie) te drinken."
+  },
+  "669": {
+    "id": "669",
+    "text": "We kunnen afspreken voor een gesprekje."
+  },
+  "670": {
+    "id": "670",
+    "text": "Heeft u volgende week tijd?"
+  },
+  "671": {
+    "id": "671",
+    "text": "Heeft u morgen 10 minuutjes tijd?"
+  },
+  "672": {
+    "id": "672",
+    "text": "Kunnen we iets vroeger afspreken?"
+  },
+  "673": {
+    "id": "673",
+    "text": "Kunnen we iets later afspreken?"
+  },
+  "674": {
+    "id": "674",
+    "text": "Het spijt me, ik moet helaas onze afspraak afzeggen."
+  },
+  "675": {
+    "id": "675",
+    "text": "Kunnen we een nieuwe afspraak maken voor een andere dag?"
+  },
+  "676": {
+    "id": "676",
+    "text": "De Bijbel introduceren"
+  },
+  "677": {
+    "id": "677",
+    "text": "Ik ben gekomen om een belangrijke gedachte uit de Bijbel met u te delen."
+  },
+  "678": {
+    "id": "678",
+    "text": "Ik zou graag een aanmoedigende gedachte uit de Bijbel met u willen delen."
+  },
+  "679": {
+    "id": "679",
+    "text": "Ik deel momenteel met mijn medemensen een aanmoedigende gedachte uit de Bijbel."
+  },
+  "680": {
+    "id": "680",
+    "text": "Wij moedigen mensen aan om hun Bijbel te lezen."
+  },
+  "681": {
+    "id": "681",
+    "text": "Mensen zijn vaak verrast over de antwoorden die de Bijbel verschaft op belangrijke vragen. Bijvoorbeeld: . . ."
+  },
+  "682": {
+    "id": "682",
+    "text": "Kijkt u eens wat de bijbel hier zegt."
+  },
+  "683": {
+    "id": "683",
+    "text": "Wilt u samen met mij de Bijbel bestuderen?"
+  },
+  "684": {
+    "id": "684",
+    "text": "Wij bieden mensen een gratis bijbelcursus aan huis aan."
+  },
+  "685": {
+    "id": "685",
+    "text": "Lectuur aanbieden"
+  },
+  "686": {
+    "id": "686",
+    "text": "Ik wil u graag dit tractaat geven."
+  },
+  "687": {
+    "id": "687",
+    "text": "Dit tractaat spreekt over ..."
+  },
+  "688": {
+    "id": "688",
+    "text": "Het kost u weinig tijd om dit tractaat te lezen."
+  },
+  "689": {
+    "id": "689",
+    "text": "Het is zeer interessant."
+  },
+  "690": {
+    "id": "690",
+    "text": "Zou u deze brochure willen lezen?"
+  },
+  "691": {
+    "id": "691",
+    "text": "Mag ik deze tijdschriften bij u achterlaten?"
+  },
+  "692": {
+    "id": "692",
+    "text": "Kijkt u eens naar deze afbeelding."
+  },
+  "693": {
+    "id": "693",
+    "text": "Ik wilde u dit boek graag laten zien."
+  },
+  "694": {
+    "id": "694",
+    "text": "Kijkt u eens wat er in dit boek staat."
+  },
+  "695": {
+    "id": "695",
+    "text": "Het is kosteloos."
+  },
+  "696": {
+    "id": "696",
+    "text": "Ons werk wordt ondersteund door vrijwillige bijdragen."
+  },
+  "697": {
+    "id": "697",
+    "text": "U kunt dit boek lenen."
+  },
+  "698": {
+    "id": "698",
+    "text": "Ik kan u mijn boek lenen."
+  },
+  "699": {
+    "id": "699",
+    "text": "Ik zou u graag wat informatie in uw eigen taal geven."
+  },
+  "700": {
+    "id": "700",
+    "text": "Om een mening vragen"
+  },
+  "701": {
+    "id": "701",
+    "text": "Hoe denkt u daarover?",
+    "annotation": "(: Zeg dit nadat je iets hebt gezegd of hebt laten zien.)"
+  },
+  "702": {
+    "id": "702",
+    "text": "Klinkt u dat goed in de oren?"
+  },
+  "703": {
+    "id": "703",
+    "text": "Bent u het eens met ...?"
+  },
+  "704": {
+    "id": "704",
+    "text": "Wat vindt u van ...?"
+  },
+  "705": {
+    "id": "705",
+    "text": "Hoe denkt u over ...?"
+  },
+  "706": {
+    "id": "706",
+    "text": "Nabezoeken"
+  },
+  "707": {
+    "id": "707",
+    "text": "De volgende keer zou ik het graag hebben over ..."
+  },
+  "708": {
+    "id": "708",
+    "text": "De volgende keer zou ik graag een belangrijke vraag beantwoorden, nl. ..."
+  },
+  "709": {
+    "id": "709",
+    "text": "De volgende keer dat ik kom zou ik graag deze vraag met u bespreken."
+  },
+  "710": {
+    "id": "710",
+    "text": "De volgende keer kunnen we praten over de informatie in hoofdstuk 2 van dit boek."
+  },
+  "711": {
+    "id": "711",
+    "text": "Herinnert u zich ..."
+  },
+  "712": {
+    "id": "712",
+    "text": "De vorige keer stelde ik u een vraag."
+  },
+  "713": {
+    "id": "713",
+    "text": "Dit keer zou ik die vraag graag beantwoorden."
+  },
+  "714": {
+    "id": "714",
+    "text": "Op zoek zijn naar iemand"
+  },
+  "715": {
+    "id": "715",
+    "text": "Is XXX thuis?"
+  },
+  "716": {
+    "id": "716",
+    "text": "Is XXX aanwezig?"
+  },
+  "717": {
+    "id": "717",
+    "text": "Hij is er niet."
+  },
+  "718": {
+    "id": "718",
+    "text": "Wanneer komt hij terug?"
+  },
+  "719": {
+    "id": "719",
+    "text": "Ik wacht wel (op hem)."
+  },
+  "720": {
+    "id": "720",
+    "text": "Ik kom morgen terug."
+  },
+  "721": {
+    "id": "721",
+    "text": "Geeft niets."
+  },
+  "722": {
+    "id": "722",
+    "text": "Geen probleem."
+  },
+  "724": {
+    "id": "724",
+    "text": "Bidden"
+  },
+  "725": {
+    "id": "725",
+    "text": "Modelgebed (Mattheüs 6)"
+  },
+  "726": {
+    "id": "726",
+    "text": "Onze Vader in de hemelen, uw naam worde geheiligd."
+  },
+  "727": {
+    "id": "727",
+    "text": "Uw koninkrijk kome."
+  },
+  "728": {
+    "id": "728",
+    "text": "Uw wil geschiede, gelijk in de hemel, zo ook op aarde."
+  },
+  "729": {
+    "id": "729",
+    "text": "Geef ons heden ons brood voor vandaag;"
+  },
+  "730": {
+    "id": "730",
+    "text": "en vergeef ons onze schulden, zoals ook wij onze schuldenaars hebben vergeven."
+  },
+  "731": {
+    "id": "731",
+    "text": "En breng ons niet in verzoeking, maar bevrijd ons van de goddeloze."
+  },
+  "732": {
+    "id": "732",
+    "text": "Jehovah aanroepen"
+  },
+  "733": {
+    "id": "733",
+    "text": "u",
+    "annotation": "(: het persoonlijke voornaamwoord dat algemeen gebruikt wordt om Jehovah aan te roepen in de doeltaal)"
+  },
+  "734": {
+    "id": "734",
+    "text": "Jehovah"
+  },
+  "735": {
+    "id": "735",
+    "text": "God"
+  },
+  "736": {
+    "id": "736",
+    "text": "onze God"
+  },
+  "737": {
+    "id": "737",
+    "text": "Jehovan onze God"
+  },
+  "738": {
+    "id": "738",
+    "text": "Schepper"
+  },
+  "739": {
+    "id": "739",
+    "text": "onze Schepper"
+  },
+  "740": {
+    "id": "740",
+    "text": "Schepper van hemel en aarde"
+  },
+  "741": {
+    "id": "741",
+    "text": "vader"
+  },
+  "742": {
+    "id": "742",
+    "text": "onze Vader"
+  },
+  "743": {
+    "id": "743",
+    "text": "dierbaar"
+  },
+  "744": {
+    "id": "744",
+    "text": "vriendelijk"
+  },
+  "745": {
+    "id": "745",
+    "text": "barmhartig"
+  },
+  "746": {
+    "id": "746",
+    "text": "geliefd"
+  },
+  "747": {
+    "id": "747",
+    "text": "liefhebbend"
+  },
+  "748": {
+    "id": "748",
+    "text": "machtig"
+  },
+  "749": {
+    "id": "749",
+    "text": "almachtig"
+  },
+  "750": {
+    "id": "750",
+    "text": "in de hemel(en); hemels"
+  },
+  "751": {
+    "id": "751",
+    "text": "onze Vader in de hemelen"
+  },
+  "752": {
+    "id": "752",
+    "text": "Jezus Christus"
+  },
+  "753": {
+    "id": "753",
+    "text": "Jezus Christus"
+  },
+  "754": {
+    "id": "754",
+    "text": "Wij leggen dit gebed voor in Jezus' naam."
+  },
+  "755": {
+    "id": "755",
+    "text": "Wij leggen dit gebed voor door bemiddeling van Jezus."
+  },
+  "756": {
+    "id": "756",
+    "text": "Aanvaard alstublieft dit gebed in naam van Jezus Christus."
+  },
+  "757": {
+    "id": "757",
+    "text": "onze redder"
+  },
+  "758": {
+    "id": "758",
+    "text": "uw zoon"
+  },
+  "759": {
+    "id": "759",
+    "text": "onze koning"
+  },
+  "760": {
+    "id": "760",
+    "text": "onze regerende koning"
+  },
+  "761": {
+    "id": "761",
+    "text": "Amen."
+  },
+  "762": {
+    "id": "762",
+    "text": "Lofprijzing"
+  },
+  "763": {
+    "id": "763",
+    "text": "Wij houden van u."
+  },
+  "764": {
+    "id": "764",
+    "text": "Wij loven u."
+  },
+  "765": {
+    "id": "765",
+    "text": "Wij verheerlijken u."
+  },
+  "766": {
+    "id": "766",
+    "text": "Wij zien uit naar de zegeningen die uw Koninkrijk zal brengen."
+  },
+  "767": {
+    "id": "767",
+    "text": "Wij willen uw wil doen."
+  },
+  "768": {
+    "id": "768",
+    "text": "Wij willen uw naam loven."
+  },
+  "769": {
+    "id": "769",
+    "text": "Dankbaarheid"
+  },
+  "770": {
+    "id": "770",
+    "text": "We zijn blij dat ..."
+  },
+  "771": {
+    "id": "771",
+    "text": "We zijn blij dat we bijeen kunnen zijn."
+  },
+  "772": {
+    "id": "772",
+    "text": "We zijn blij dat we vandaag bijeen kunnen zijn."
+  },
+  "773": {
+    "id": "773",
+    "text": "We zijn dankbaar dat ..."
+  },
+  "774": {
+    "id": "774",
+    "text": "We zijn dankbaar voor deze vergaderplaats."
+  },
+  "775": {
+    "id": "775",
+    "text": "We zijn u dankbaar voor deze gelegenheid."
+  },
+  "776": {
+    "id": "776",
+    "text": "We zijn dankbaar voor de kennis die u ons verschaft door middel van de vergaderingen."
+  },
+  "777": {
+    "id": "777",
+    "text": "Dank u voor ..."
+  },
+  "778": {
+    "id": "778",
+    "text": "Dank u voor dit geweldige voorrecht."
+  },
+  "779": {
+    "id": "779",
+    "text": "Dank u voor het leven."
+  },
+  "780": {
+    "id": "780",
+    "text": "Dank u dat u ons uit deze wereld leidt."
+  },
+  "781": {
+    "id": "781",
+    "text": "Dank u voor uw Woord de Bijbel."
+  },
+  "782": {
+    "id": "782",
+    "text": "Dank u voor de gelegenheid die wij hebben om u te kennen."
+  },
+  "783": {
+    "id": "783",
+    "text": "Dank u voor het loskoopoffer van uw zoon Jezus Christus."
+  },
+  "784": {
+    "id": "784",
+    "text": "Dank u voor onze broeders en zusters."
+  },
+  "785": {
+    "id": "785",
+    "text": "Dank u voor deze vergadering."
+  },
+  "786": {
+    "id": "786",
+    "text": "Dank u voor de hoop die u ons voor de toekomst verschaft."
+  },
+  "787": {
+    "id": "787",
+    "text": "Dank u dat u uw zoon naar de aarde heeft gezonden."
+  },
+  "788": {
+    "id": "788",
+    "text": "Dank u voor de vermaningen die we deze vergadering gehoord hebben."
+  },
+  "789": {
+    "id": "789",
+    "text": "Verzoeken"
+  },
+  "790": {
+    "id": "790",
+    "text": "leiding geven aan XXX"
+  },
+  "791": {
+    "id": "791",
+    "text": "Geef ons leiding."
+  },
+  "792": {
+    "id": "792",
+    "text": "Geef alstublieft leiding aan uw organisatie."
+  },
+  "793": {
+    "id": "793",
+    "text": "Geef alstublieft leiding aan het besturende lichaam."
+  },
+  "794": {
+    "id": "794",
+    "text": "XXX helpen"
+  },
+  "795": {
+    "id": "795",
+    "text": "Help ons om u te dienen."
+  },
+  "796": {
+    "id": "796",
+    "text": "Help ons het juiste te doen."
+  },
+  "797": {
+    "id": "797",
+    "text": "Help ons verleidingen te weerstaan."
+  },
+  "798": {
+    "id": "798",
+    "text": "Help ons om te volharden."
+  },
+  "799": {
+    "id": "799",
+    "text": "Help ons om de vergaderingen te blijven bezoeken."
+  },
+  "800": {
+    "id": "800",
+    "text": "Help ons om in de dienst oprechte mensen te vinden."
+  },
+  "801": {
+    "id": "801",
+    "text": "Help ons anderen de dingen te vertellen die wij hebben geleerd."
+  },
+  "802": {
+    "id": "802",
+    "text": "Help ons onszelf te concentreren op deze vergadering."
+  },
+  "803": {
+    "id": "803",
+    "text": "Help ons over uw Woord te mediteren."
+  },
+  "804": {
+    "id": "804",
+    "text": "Help ons de dingen die we hebben geleerd toe te passen."
+  },
+  "805": {
+    "id": "805",
+    "text": "Help onze broeders en zusters die het momenteel moeilijk hebben."
+  },
+  "806": {
+    "id": "806",
+    "text": "Help ons opmerkzaam te zijn op de behoeften van onze broeders en zusters."
+  },
+  "807": {
+    "id": "807",
+    "text": "Help XXX uw Woord te blijven bestuderen."
+  },
+  "808": {
+    "id": "808",
+    "text": "Help XXX moedig te zijn."
+  },
+  "809": {
+    "id": "809",
+    "text": "Help XXX om fijne geestelijke vorderingen te blijven maken."
+  },
+  "810": {
+    "id": "810",
+    "text": "XXX geven aan YYY"
+  },
+  "811": {
+    "id": "811",
+    "text": "Geef ons ..."
+  },
+  "812": {
+    "id": "812",
+    "text": "Geef ons uw Heilige Geest."
+  },
+  "813": {
+    "id": "813",
+    "text": "Geef ons wijsheid."
+  },
+  "814": {
+    "id": "814",
+    "text": "Geef ons de kracht om datgene te doen wat van ons verlangd wordt."
+  },
+  "815": {
+    "id": "815",
+    "text": "vragen om XXX"
+  },
+  "816": {
+    "id": "816",
+    "text": "Wij vragen om ..."
+  },
+  "817": {
+    "id": "817",
+    "text": "Wij vragen om leiding in deze moeilijke tijd."
+  },
+  "818": {
+    "id": "818",
+    "text": "XXX zegenen"
+  },
+  "819": {
+    "id": "819",
+    "text": "Zegen ..."
+  },
+  "820": {
+    "id": "820",
+    "text": "Zegen ons."
+  },
+  "821": {
+    "id": "821",
+    "text": "Zegen onze dienst."
+  },
+  "822": {
+    "id": "822",
+    "text": "Zegen deze vergadering."
+  },
+  "823": {
+    "id": "823",
+    "text": "Zegen onze gemeente."
+  },
+  "824": {
+    "id": "824",
+    "text": "XXX beschermen"
+  },
+  "825": {
+    "id": "825",
+    "text": "Bescherm ons."
+  },
+  "826": {
+    "id": "826",
+    "text": "Bescherm de broeders en zusters die hier vanavond niet konden zijn."
+  },
+  "827": {
+    "id": "827",
+    "text": "Bescherm onze broeders en zusters die vervolgd worden in andere landen."
+  },
+  "828": {
+    "id": "828",
+    "text": "Bescherm ons als we vanavond weer naar huis gaan."
+  },
+  "829": {
+    "id": "829",
+    "text": "Alstublieft ...",
+    "annotation": "(: een woord of uitdrukking om in een gebed een verzoek beleefder of intenser te maken)"
+  },
+  "830": {
+    "id": "830",
+    "text": "Zegen deze vergadering."
+  },
+  "831": {
+    "id": "831",
+    "text": "Zegent u alstublieft deze vergadering."
+  },
+  "832": {
+    "id": "832",
+    "text": "Zonden & Problemen"
+  },
+  "833": {
+    "id": "833",
+    "text": "Wij zijn onvolmaakt."
+  },
+  "834": {
+    "id": "834",
+    "text": "zondigen"
+  },
+  "835": {
+    "id": "835",
+    "text": "Wij zondigen vele malen."
+  },
+  "836": {
+    "id": "836",
+    "text": "Het spijt ons."
+  },
+  "837": {
+    "id": "837",
+    "text": "Het spijt ons zeer dat wij gezondigd hebben."
+  },
+  "838": {
+    "id": "838",
+    "text": "Het spijt ons dat wij zondaars zijn."
+  },
+  "839": {
+    "id": "839",
+    "text": "vergeving"
+  },
+  "840": {
+    "id": "840",
+    "text": "Wij vragen u nederig om vergeving."
+  },
+  "841": {
+    "id": "841",
+    "text": "XXX vergeven",
+    "annotation": "(: XXX is een persoon)"
+  },
+  "842": {
+    "id": "842",
+    "text": "Vergeeft u ons alstublieft."
+  },
+  "843": {
+    "id": "843",
+    "text": "Vergeeft u ons alstublieft op basis van het loskoopoffer van Uw zoon."
+  },
+  "844": {
+    "id": "844",
+    "text": "XXX vergeven",
+    "annotation": "(: XXX is een zonde)"
+  },
+  "845": {
+    "id": "845",
+    "text": "Vergeeft u alstublieft onze zonden."
+  },
+  "846": {
+    "id": "846",
+    "text": "Wij leven in een goddeloze wereld."
+  },
+  "847": {
+    "id": "847",
+    "text": "Wij ervaren vele problemen."
+  }
+}

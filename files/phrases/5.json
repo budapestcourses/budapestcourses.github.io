@@ -1,0 +1,4234 @@
+{
+  "5": {
+    "id": "5",
+    "text": "UNIVERSAL LANGUAGE MATERIALS",
+    "Comments for translators": "Here \"universal\" means \"can be used anywhere/in any situation\""
+  },
+  "7": {
+    "id": "7",
+    "text": "English",
+    "Comments for translators": "The language you are translating into: AS IT REFERS TO ITSELF (using its own alphabet/character set),. e.g. Deutsch, 汉语"
+  },
+  "8": {
+    "id": "8",
+    "text": "English | .uk",
+    "Comments for translators": "The language you are translating into: AS IT IS REFERRED TO IN ENGLISH e.g. German， Chinese"
+  },
+  "11": {
+    "id": "11",
+    "text": "This document is a set of language learning materials compiled exclusively for use by Jehovah’s Witnesses.",
+    "Comments for translators": null
+  },
+  "12": {
+    "id": "12",
+    "text": "The entries, definitions and other information contained herein can be easily translated into almost any language. New editions of these materials can then be produced simply by combining any two translations. It is hoped that this framework will reduce the workload of language instructors, and contribute to the effectiveness of Witnesses serving in foreign language fields around the world.",
+    "Comments for translators": null
+  },
+  "13": {
+    "id": "13",
+    "text": "These language materials may be circulated free of charge among active Witnesses. They may not be given or lent to others in any format.",
+    "Comments for translators": null
+  },
+  "14": {
+    "id": "14",
+    "text": null,
+    "Comments for translators": null
+  },
+  "15": {
+    "id": "15",
+    "text": null,
+    "Comments for translators": null
+  },
+  "16": {
+    "id": "16",
+    "text": null,
+    "Comments for translators": null
+  },
+  "18": {
+    "id": "18",
+    "text": "Notation",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "19": {
+    "id": "19",
+    "text": "“Algebraic” notation used to show where additional words can be placed in relation to the expression that is being defined.",
+    "Comments for translators": null
+  },
+  "20": {
+    "id": "20",
+    "text": "Words that might need to be added to the expression in certain situations because the language requires it.",
+    "Comments for translators": null
+  },
+  "21": {
+    "id": "21",
+    "text": "An alternative word that might need to be substituted for part of the expression in certain situations because the language requires it.",
+    "Comments for translators": null
+  },
+  "22": {
+    "id": "22",
+    "text": "An optional word or phrase that is commonly added to this expression without changing its meaning significantly.",
+    "Comments for translators": null
+  },
+  "23": {
+    "id": "23",
+    "text": "An alternative word or phrase that is commonly substituted for part of the expression without changing its meaning significantly.",
+    "Comments for translators": null
+  },
+  "24": {
+    "id": "24",
+    "text": "The semicolon separates multiple expressions that have similar meanings.",
+    "Comments for translators": null
+  },
+  "25": {
+    "id": "25",
+    "text": "A complex phrase (e.g. involving a verb and other words) can be inserted at this point.",
+    "Comments for translators": null
+  },
+  "26": {
+    "id": "26",
+    "text": "Additional description or examples to help the reader understand the sense of the word being defined. This information only appears in definitions and may vary from language to language.",
+    "Comments for translators": null
+  },
+  "27": {
+    "id": "27",
+    "text": "Curly brackets contain extra language-specific information about the target expression. This may include grammatical information or the symbols shown below.",
+    "Comments for translators": null
+  },
+  "28": {
+    "id": "28",
+    "text": "This word or phrase should be used with caution for cultural or other reasons.",
+    "Comments for translators": null
+  },
+  "29": {
+    "id": "29",
+    "text": "This is only an approximate translation of the definition.",
+    "Comments for translators": null
+  },
+  "30": {
+    "id": "30",
+    "text": "This word or phrase is rarely used in the target language.",
+    "Comments for translators": null
+  },
+  "31": {
+    "id": "31",
+    "text": "No translation has been provided for this word by our translators.",
+    "Comments for translators": null
+  },
+  "32": {
+    "id": "32",
+    "text": "This is a form of the word or phrase that is commonly used in a region other than the main territory where this language is spoken (\"internet\"-style notation has been used, e.g. .hk = Hong Kong)",
+    "Comments for translators": null
+  },
+  "33": {
+    "id": "33",
+    "text": "The theocratic term being defined currently has no clear equivalent in Watch Tower Society publications in this language. (This symbol will usually be used in conjunction with other symbols)",
+    "Comments for translators": null
+  },
+  "34": {
+    "id": "34",
+    "text": "This is our translators’ attempt at an accurate translation of the term. (This symbol is normally only used for theocratic terms that currently have no clear equivalent in the target language)",
+    "Comments for translators": null
+  },
+  "35": {
+    "id": "35",
+    "text": "This is the corresponding term that is commonly used by brothers during meetings. (This symbol is normally only used for theocratic terms that currently have no clear equivalent in the target language)",
+    "Comments for translators": null
+  },
+  "37": {
+    "id": "37",
+    "text": "Vocabulary & Phrases",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "38": {
+    "id": "38",
+    "text": "Organizational Structure",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "39": {
+    "id": "39",
+    "text": "Jehovah's Witnesses",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "40": {
+    "id": "40",
+    "text": "Jehovah's Witnesses",
+    "Comments for translators": null
+  },
+  "41": {
+    "id": "41",
+    "text": "a Jehovah's Witness",
+    "Comments for translators": null
+  },
+  "42": {
+    "id": "42",
+    "text": "The Bible Students",
+    "Comments for translators": "Remember to keep the (:  ) notation. It is designed to help learners who read the DEFINITIONS  in your language to understand the word being defined better, so you can modify the content of the (: ) according to what is needed for readers of your language",
+    "annotation": "(: the name by which Jehovah's Witnesses used to be known)"
+  },
+  "43": {
+    "id": "43",
+    "text": "brother",
+    "Comments for translators": null,
+    "annotation": "(: a male fellow believer)"
+  },
+  "44": {
+    "id": "44",
+    "text": "a mature brother",
+    "Comments for translators": null
+  },
+  "45": {
+    "id": "45",
+    "text": "our brothers",
+    "Comments for translators": null,
+    "annotation": "(: in the faith)"
+  },
+  "46": {
+    "id": "46",
+    "text": "among our spiritual brothers",
+    "Comments for translators": null
+  },
+  "47": {
+    "id": "47",
+    "text": "sister",
+    "Comments for translators": null,
+    "annotation": "(: a female fellow believer)"
+  },
+  "48": {
+    "id": "48",
+    "text": "qualified Christian sister",
+    "Comments for translators": null,
+    "annotation": "(: qualified to fill in for absent brother)"
+  },
+  "49": {
+    "id": "49",
+    "text": "our Christian sisters",
+    "Comments for translators": null
+  },
+  "50": {
+    "id": "50",
+    "text": "our sisters",
+    "Comments for translators": null
+  },
+  "51": {
+    "id": "51",
+    "text": "your spiritual brothers and sisters",
+    "Comments for translators": null
+  },
+  "52": {
+    "id": "52",
+    "text": "The Anointed",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "53": {
+    "id": "53",
+    "text": "those with the Earthly hope",
+    "Comments for translators": null
+  },
+  "54": {
+    "id": "54",
+    "text": "other sheep",
+    "Comments for translators": null
+  },
+  "55": {
+    "id": "55",
+    "text": "those with the heavenly hope",
+    "Comments for translators": null
+  },
+  "56": {
+    "id": "56",
+    "text": "anointed",
+    "Comments for translators": null,
+    "annotation": "(: adjective)"
+  },
+  "57": {
+    "id": "57",
+    "text": "anointed Christians",
+    "Comments for translators": null
+  },
+  "58": {
+    "id": "58",
+    "text": "the Congregation of his anointed followers on Earth",
+    "Comments for translators": null
+  },
+  "59": {
+    "id": "59",
+    "text": "the Faithful and Discreet Slave",
+    "Comments for translators": null
+  },
+  "60": {
+    "id": "60",
+    "text": "the Governing Body",
+    "Comments for translators": null
+  },
+  "61": {
+    "id": "61",
+    "text": "a member of the Governing Body",
+    "Comments for translators": null
+  },
+  "62": {
+    "id": "62",
+    "text": "Baptism",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "63": {
+    "id": "63",
+    "text": "to be (/get) baptized",
+    "Comments for translators": null
+  },
+  "64": {
+    "id": "64",
+    "text": "I was baptized in 2006.",
+    "Comments for translators": null
+  },
+  "65": {
+    "id": "65",
+    "text": "to baptize XXX",
+    "Comments for translators": null
+  },
+  "66": {
+    "id": "66",
+    "text": "John baptized Jesus.",
+    "Comments for translators": null
+  },
+  "67": {
+    "id": "67",
+    "text": "baptism",
+    "Comments for translators": null,
+    "annotation": "(: the occasion)"
+  },
+  "68": {
+    "id": "68",
+    "text": "He attended his student's baptism.",
+    "Comments for translators": null
+  },
+  "69": {
+    "id": "69",
+    "text": "publisher",
+    "Comments for translators": null
+  },
+  "70": {
+    "id": "70",
+    "text": "unbaptized publisher",
+    "Comments for translators": null
+  },
+  "71": {
+    "id": "71",
+    "text": "When did he become an unbaptized publisher?",
+    "Comments for translators": null
+  },
+  "72": {
+    "id": "72",
+    "text": "baptized publisher",
+    "Comments for translators": null
+  },
+  "73": {
+    "id": "73",
+    "text": "irregular publisher",
+    "Comments for translators": null
+  },
+  "74": {
+    "id": "74",
+    "text": "inactive publisher",
+    "Comments for translators": null
+  },
+  "75": {
+    "id": "75",
+    "text": "Serving Jehovah",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "76": {
+    "id": "76",
+    "text": "service",
+    "Comments for translators": null
+  },
+  "77": {
+    "id": "77",
+    "text": "our service to Jehovah",
+    "Comments for translators": null
+  },
+  "78": {
+    "id": "78",
+    "text": "full-time service",
+    "Comments for translators": null
+  },
+  "79": {
+    "id": "79",
+    "text": "to serve",
+    "Comments for translators": null
+  },
+  "80": {
+    "id": "80",
+    "text": "to serve as XXX",
+    "Comments for translators": null
+  },
+  "81": {
+    "id": "81",
+    "text": "to serve as an elder",
+    "Comments for translators": null
+  },
+  "82": {
+    "id": "82",
+    "text": "to serve as a pioneer",
+    "Comments for translators": null
+  },
+  "83": {
+    "id": "83",
+    "text": "He serves as an elder in our congregation.",
+    "Comments for translators": null
+  },
+  "84": {
+    "id": "84",
+    "text": "XXX no longer serves as an elder.",
+    "Comments for translators": null
+  },
+  "85": {
+    "id": "85",
+    "text": "to serve Jehovah",
+    "Comments for translators": null
+  },
+  "86": {
+    "id": "86",
+    "text": "servant",
+    "Comments for translators": null
+  },
+  "87": {
+    "id": "87",
+    "text": "full-time servant",
+    "Comments for translators": null
+  },
+  "88": {
+    "id": "88",
+    "text": "God's servants",
+    "Comments for translators": null
+  },
+  "89": {
+    "id": "89",
+    "text": "volunteer",
+    "Comments for translators": null,
+    "annotation": "(: someone who does volunteer work)"
+  },
+  "90": {
+    "id": "90",
+    "text": "unpaid volunteer",
+    "Comments for translators": null
+  },
+  "91": {
+    "id": "91",
+    "text": "Kingdom Hall construction work",
+    "Comments for translators": null
+  },
+  "92": {
+    "id": "92",
+    "text": "disaster relief work",
+    "Comments for translators": null
+  },
+  "93": {
+    "id": "93",
+    "text": "need",
+    "Comments for translators": null,
+    "annotation": "(: noun)"
+  },
+  "94": {
+    "id": "94",
+    "text": "to serve where the need is greater",
+    "Comments for translators": null
+  },
+  "95": {
+    "id": "95",
+    "text": "to move to where the need is greater",
+    "Comments for translators": null
+  },
+  "96": {
+    "id": "96",
+    "text": "pioneer",
+    "Comments for translators": null
+  },
+  "97": {
+    "id": "97",
+    "text": "to attend pioneer school",
+    "Comments for translators": null
+  },
+  "98": {
+    "id": "98",
+    "text": "regular pioneer",
+    "Comments for translators": null
+  },
+  "99": {
+    "id": "99",
+    "text": "auxiliary pioneer",
+    "Comments for translators": null
+  },
+  "100": {
+    "id": "100",
+    "text": "regular auxiliary pioneer",
+    "Comments for translators": null,
+    "annotation": "(: someone who serves as an auxiliary pioneer every month)"
+  },
+  "101": {
+    "id": "101",
+    "text": "special pioneer",
+    "Comments for translators": null
+  },
+  "102": {
+    "id": "102",
+    "text": "missionary",
+    "Comments for translators": null
+  },
+  "103": {
+    "id": "103",
+    "text": "Applications & Appointments",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "104": {
+    "id": "104",
+    "text": "to apply for XXX",
+    "Comments for translators": null
+  },
+  "105": {
+    "id": "105",
+    "text": "to apply for special service",
+    "Comments for translators": null
+  },
+  "106": {
+    "id": "106",
+    "text": "to apply for Gilead school",
+    "Comments for translators": null
+  },
+  "107": {
+    "id": "107",
+    "text": "application form",
+    "Comments for translators": null
+  },
+  "108": {
+    "id": "108",
+    "text": "to fill in an application form",
+    "Comments for translators": null
+  },
+  "109": {
+    "id": "109",
+    "text": "to fill in a regular pioneer application form",
+    "Comments for translators": null
+  },
+  "110": {
+    "id": "110",
+    "text": "to submit an application form",
+    "Comments for translators": null
+  },
+  "111": {
+    "id": "111",
+    "text": "recommendation",
+    "Comments for translators": null,
+    "annotation": "(: an instance when someone is recommended)"
+  },
+  "112": {
+    "id": "112",
+    "text": "to be recommended as an elder",
+    "Comments for translators": null
+  },
+  "113": {
+    "id": "113",
+    "text": "to recommend XXX as an elder",
+    "Comments for translators": null
+  },
+  "114": {
+    "id": "114",
+    "text": "appointment",
+    "Comments for translators": null,
+    "annotation": "(: an instance when someone is appointed)"
+  },
+  "115": {
+    "id": "115",
+    "text": "to be appointed as XXX",
+    "Comments for translators": null
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX has been appointed as an elder.",
+    "Comments for translators": null
+  },
+  "117": {
+    "id": "117",
+    "text": "to appoint XXX as a ministerial servant",
+    "Comments for translators": null
+  },
+  "118": {
+    "id": "118",
+    "text": "qualification",
+    "Comments for translators": null
+  },
+  "119": {
+    "id": "119",
+    "text": "to discuss [his] qualifications for becoming an unbaptized publisher",
+    "Comments for translators": null
+  },
+  "120": {
+    "id": "120",
+    "text": "to meet the qualifications for baptism",
+    "Comments for translators": null
+  },
+  "121": {
+    "id": "121",
+    "text": "to qualify to be an unbaptized publisher",
+    "Comments for translators": null
+  },
+  "122": {
+    "id": "122",
+    "text": "Appointed Men",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "123": {
+    "id": "123",
+    "text": "elder",
+    "Comments for translators": null
+  },
+  "124": {
+    "id": "124",
+    "text": "overseer",
+    "Comments for translators": null
+  },
+  "125": {
+    "id": "125",
+    "text": "\"gifts in men\"",
+    "Comments for translators": null,
+    "annotation": "(: Eph 4:8)"
+  },
+  "126": {
+    "id": "126",
+    "text": "ministerial servant",
+    "Comments for translators": null
+  },
+  "127": {
+    "id": "127",
+    "text": "body of elders",
+    "Comments for translators": null
+  },
+  "128": {
+    "id": "128",
+    "text": "to hold a meeting of the body of elders",
+    "Comments for translators": null
+  },
+  "129": {
+    "id": "129",
+    "text": "congregation service committee",
+    "Comments for translators": null
+  },
+  "130": {
+    "id": "130",
+    "text": "This matter needs to be approved by the congregation service committee.",
+    "Comments for translators": null
+  },
+  "131": {
+    "id": "131",
+    "text": "coordinator of the body of elders",
+    "Comments for translators": null
+  },
+  "132": {
+    "id": "132",
+    "text": "congregation secretary",
+    "Comments for translators": null
+  },
+  "133": {
+    "id": "133",
+    "text": "service overseer",
+    "Comments for translators": null
+  },
+  "134": {
+    "id": "134",
+    "text": "Watchtower (study) conductor",
+    "Comments for translators": null
+  },
+  "135": {
+    "id": "135",
+    "text": "theocratic ministry school overseer",
+    "Comments for translators": null
+  },
+  "136": {
+    "id": "136",
+    "text": "auxiliary counselor",
+    "Comments for translators": null
+  },
+  "137": {
+    "id": "137",
+    "text": "group overseer",
+    "Comments for translators": null
+  },
+  "138": {
+    "id": "138",
+    "text": "judicial committee",
+    "Comments for translators": null
+  },
+  "139": {
+    "id": "139",
+    "text": "to form a judicial committee",
+    "Comments for translators": null
+  },
+  "140": {
+    "id": "140",
+    "text": "spiritual shepherds",
+    "Comments for translators": null
+  },
+  "141": {
+    "id": "141",
+    "text": "spiritual sheep",
+    "Comments for translators": null
+  },
+  "142": {
+    "id": "142",
+    "text": "shepherding visit",
+    "Comments for translators": null
+  },
+  "143": {
+    "id": "143",
+    "text": "to make a shepherding visit on XXX",
+    "Comments for translators": null
+  },
+  "144": {
+    "id": "144",
+    "text": "Travelling Overseers",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "145": {
+    "id": "145",
+    "text": "travelling overseer",
+    "Comments for translators": null
+  },
+  "146": {
+    "id": "146",
+    "text": "circuit overseer",
+    "Comments for translators": null
+  },
+  "147": {
+    "id": "147",
+    "text": "circuit",
+    "Comments for translators": null
+  },
+  "148": {
+    "id": "148",
+    "text": "substitute circuit overseer",
+    "Comments for translators": null
+  },
+  "149": {
+    "id": "149",
+    "text": "to visit the congregations",
+    "Comments for translators": null
+  },
+  "150": {
+    "id": "150",
+    "text": "the circuit overseer's visit",
+    "Comments for translators": null
+  },
+  "151": {
+    "id": "151",
+    "text": "district overseer",
+    "Comments for translators": null
+  },
+  "152": {
+    "id": "152",
+    "text": "district",
+    "Comments for translators": null
+  },
+  "153": {
+    "id": "153",
+    "text": "zone overseer",
+    "Comments for translators": null
+  },
+  "154": {
+    "id": "154",
+    "text": "Groups & Congregations",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "155": {
+    "id": "155",
+    "text": "congregation",
+    "Comments for translators": null,
+    "annotation": "(: a group of believers in one locality)"
+  },
+  "156": {
+    "id": "156",
+    "text": "to split the congregation",
+    "Comments for translators": null
+  },
+  "157": {
+    "id": "157",
+    "text": "to form a new congregation",
+    "Comments for translators": null
+  },
+  "158": {
+    "id": "158",
+    "text": "the Christian congregation",
+    "Comments for translators": null,
+    "annotation": "(: the one \"big\" congregation that contains all believers)"
+  },
+  "159": {
+    "id": "159",
+    "text": "group",
+    "Comments for translators": null
+  },
+  "160": {
+    "id": "160",
+    "text": "isolated group",
+    "Comments for translators": null
+  },
+  "161": {
+    "id": "161",
+    "text": "foreign language group",
+    "Comments for translators": null
+  },
+  "162": {
+    "id": "162",
+    "text": "Branch Offices",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "163": {
+    "id": "163",
+    "text": "the branch",
+    "Comments for translators": null
+  },
+  "164": {
+    "id": "164",
+    "text": "the branch office of Jehovah's Witnesses",
+    "Comments for translators": null
+  },
+  "165": {
+    "id": "165",
+    "text": "branch coordinator",
+    "Comments for translators": null
+  },
+  "166": {
+    "id": "166",
+    "text": "branch committee",
+    "Comments for translators": null
+  },
+  "167": {
+    "id": "167",
+    "text": "country committee",
+    "Comments for translators": null
+  },
+  "168": {
+    "id": "168",
+    "text": "Bethel",
+    "Comments for translators": null
+  },
+  "169": {
+    "id": "169",
+    "text": "Bethelite",
+    "Comments for translators": null,
+    "annotation": "(: a person who serves at Bethel)"
+  },
+  "170": {
+    "id": "170",
+    "text": "Would you like to visit Bethel?",
+    "Comments for translators": null
+  },
+  "171": {
+    "id": "171",
+    "text": "tour",
+    "Comments for translators": null,
+    "annotation": "(:noun)"
+  },
+  "172": {
+    "id": "172",
+    "text": "Our congregation will go on a tour of Bethel next week.",
+    "Comments for translators": null
+  },
+  "173": {
+    "id": "173",
+    "text": "I will be your tour guide.",
+    "Comments for translators": null
+  },
+  "174": {
+    "id": "174",
+    "text": "I will show you around the Branch.",
+    "Comments for translators": null
+  },
+  "175": {
+    "id": "175",
+    "text": "service department",
+    "Comments for translators": null,
+    "annotation": "(: in Bethel)"
+  },
+  "176": {
+    "id": "176",
+    "text": "Please write to the service department.",
+    "Comments for translators": null
+  },
+  "177": {
+    "id": "177",
+    "text": "the world headquarters",
+    "Comments for translators": null
+  },
+  "178": {
+    "id": "178",
+    "text": "Congregation Duties",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "179": {
+    "id": "179",
+    "text": "attendant",
+    "Comments for translators": null
+  },
+  "180": {
+    "id": "180",
+    "text": "attendees",
+    "Comments for translators": null,
+    "annotation": "(: people attending the meeting)"
+  },
+  "181": {
+    "id": "181",
+    "text": "the audience",
+    "Comments for translators": null,
+    "annotation": "(: those who are listening to a meeting)"
+  },
+  "182": {
+    "id": "182",
+    "text": "to count those in attendance",
+    "Comments for translators": null
+  },
+  "183": {
+    "id": "183",
+    "text": "attendance",
+    "Comments for translators": null,
+    "annotation": "(: the number of people who attended a meeting etc)"
+  },
+  "184": {
+    "id": "184",
+    "text": "Last year the average attendance for the service meeting was 85.",
+    "Comments for translators": null
+  },
+  "185": {
+    "id": "185",
+    "text": "microphone handler",
+    "Comments for translators": null
+  },
+  "186": {
+    "id": "186",
+    "text": "microphone",
+    "Comments for translators": null
+  },
+  "187": {
+    "id": "187",
+    "text": "to handle a microphone",
+    "Comments for translators": null
+  },
+  "188": {
+    "id": "188",
+    "text": "to adjust the microphone",
+    "Comments for translators": null
+  },
+  "189": {
+    "id": "189",
+    "text": "to turn on the microphone",
+    "Comments for translators": null
+  },
+  "190": {
+    "id": "190",
+    "text": "to turn off the microphone",
+    "Comments for translators": null
+  },
+  "191": {
+    "id": "191",
+    "text": "brother responsible for sound",
+    "Comments for translators": null
+  },
+  "192": {
+    "id": "192",
+    "text": "sound system",
+    "Comments for translators": null
+  },
+  "193": {
+    "id": "193",
+    "text": "to operate the sound system",
+    "Comments for translators": null
+  },
+  "194": {
+    "id": "194",
+    "text": "to turn up the volume",
+    "Comments for translators": null
+  },
+  "195": {
+    "id": "195",
+    "text": "to turn down the volume",
+    "Comments for translators": null
+  },
+  "196": {
+    "id": "196",
+    "text": "brother responsible for the platform",
+    "Comments for translators": null
+  },
+  "197": {
+    "id": "197",
+    "text": "platform",
+    "Comments for translators": "this is where the speaker stands"
+  },
+  "198": {
+    "id": "198",
+    "text": "rostrum",
+    "Comments for translators": "this is the little stand/table where the speaker puts his notes"
+  },
+  "199": {
+    "id": "199",
+    "text": "to adjust the rostrum",
+    "Comments for translators": null
+  },
+  "200": {
+    "id": "200",
+    "text": "brother responsible for literature",
+    "Comments for translators": null
+  },
+  "201": {
+    "id": "201",
+    "text": "literature counter",
+    "Comments for translators": null
+  },
+  "202": {
+    "id": "202",
+    "text": "to place an order for literature",
+    "Comments for translators": null
+  },
+  "203": {
+    "id": "203",
+    "text": "brother responsible for magazines",
+    "Comments for translators": null
+  },
+  "204": {
+    "id": "204",
+    "text": "magazine counter",
+    "Comments for translators": null
+  },
+  "205": {
+    "id": "205",
+    "text": "to collect [your] magazines",
+    "Comments for translators": null
+  },
+  "206": {
+    "id": "206",
+    "text": "brother responsible for territory",
+    "Comments for translators": null
+  },
+  "207": {
+    "id": "207",
+    "text": "territory (for field service)",
+    "Comments for translators": null
+  },
+  "208": {
+    "id": "208",
+    "text": "field service territory map",
+    "Comments for translators": null
+  },
+  "209": {
+    "id": "209",
+    "text": "territory card",
+    "Comments for translators": null
+  },
+  "210": {
+    "id": "210",
+    "text": "brother responsible for accounts",
+    "Comments for translators": null
+  },
+  "211": {
+    "id": "211",
+    "text": "accounts",
+    "Comments for translators": null
+  },
+  "212": {
+    "id": "212",
+    "text": "congregation accounts",
+    "Comments for translators": null
+  },
+  "213": {
+    "id": "213",
+    "text": "to prepare the congregation accounts",
+    "Comments for translators": null
+  },
+  "214": {
+    "id": "214",
+    "text": "to audit the congregation accounts",
+    "Comments for translators": null
+  },
+  "215": {
+    "id": "215",
+    "text": "contribution",
+    "Comments for translators": null
+  },
+  "216": {
+    "id": "216",
+    "text": "contributions for the worldwide work",
+    "Comments for translators": null,
+    "annotation": "(: Matt. 24:14)"
+  },
+  "217": {
+    "id": "217",
+    "text": "contributions for the congregation",
+    "Comments for translators": null
+  },
+  "218": {
+    "id": "218",
+    "text": "to count up (/add up) the contributions",
+    "Comments for translators": null
+  },
+  "219": {
+    "id": "219",
+    "text": "to make a contribution",
+    "Comments for translators": null
+  },
+  "220": {
+    "id": "220",
+    "text": "to contribute toward the worldwide work",
+    "Comments for translators": null
+  },
+  "221": {
+    "id": "221",
+    "text": "contribution box",
+    "Comments for translators": null
+  },
+  "222": {
+    "id": "222",
+    "text": "to put a contribution into the contribution box",
+    "Comments for translators": null
+  },
+  "223": {
+    "id": "223",
+    "text": "The contribution boxes are located next to the door.",
+    "Comments for translators": null
+  },
+  "225": {
+    "id": "225",
+    "text": "Meetings",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "226": {
+    "id": "226",
+    "text": "Places of Worship",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "227": {
+    "id": "227",
+    "text": "hall",
+    "Comments for translators": null
+  },
+  "228": {
+    "id": "228",
+    "text": "our place of worship",
+    "Comments for translators": null
+  },
+  "229": {
+    "id": "229",
+    "text": "voluntarily built",
+    "Comments for translators": null
+  },
+  "230": {
+    "id": "230",
+    "text": "Kingdom Hall",
+    "Comments for translators": null
+  },
+  "231": {
+    "id": "231",
+    "text": "quick-build Kingdom Hall",
+    "Comments for translators": null
+  },
+  "232": {
+    "id": "232",
+    "text": "to maintain the Kingdom Hall",
+    "Comments for translators": null
+  },
+  "233": {
+    "id": "233",
+    "text": "to repair the Kingdom Hall",
+    "Comments for translators": null
+  },
+  "234": {
+    "id": "234",
+    "text": "to clean the Kingdom Hall",
+    "Comments for translators": null
+  },
+  "235": {
+    "id": "235",
+    "text": "It is our turn to clean the Kingdom Hall.",
+    "Comments for translators": null
+  },
+  "236": {
+    "id": "236",
+    "text": "Assembly Hall",
+    "Comments for translators": null
+  },
+  "237": {
+    "id": "237",
+    "text": "Attending Meetings",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "238": {
+    "id": "238",
+    "text": "meeting",
+    "Comments for translators": null
+  },
+  "239": {
+    "id": "239",
+    "text": "to attend a meeting",
+    "Comments for translators": null
+  },
+  "240": {
+    "id": "240",
+    "text": "to hold a meeting",
+    "Comments for translators": null
+  },
+  "241": {
+    "id": "241",
+    "text": "to prepare",
+    "Comments for translators": null,
+    "annotation": "(: to prepare oneself)"
+  },
+  "242": {
+    "id": "242",
+    "text": "to prepare for the meeting",
+    "Comments for translators": null
+  },
+  "243": {
+    "id": "243",
+    "text": "to prepare XXX",
+    "Comments for translators": null
+  },
+  "244": {
+    "id": "244",
+    "text": "to prepare a comment",
+    "Comments for translators": null
+  },
+  "245": {
+    "id": "245",
+    "text": "to prepare a talk",
+    "Comments for translators": null
+  },
+  "246": {
+    "id": "246",
+    "text": "to associate with XXX",
+    "Comments for translators": null
+  },
+  "247": {
+    "id": "247",
+    "text": "We can associate with our brothers and sisters after the meeting.",
+    "Comments for translators": null
+  },
+  "248": {
+    "id": "248",
+    "text": "to encourage XXX",
+    "Comments for translators": null
+  },
+  "249": {
+    "id": "249",
+    "text": "Your comment really encouraged me!",
+    "Comments for translators": null
+  },
+  "250": {
+    "id": "250",
+    "text": "an encouraging comment",
+    "Comments for translators": null
+  },
+  "251": {
+    "id": "251",
+    "text": "congregation Bible study",
+    "Comments for translators": null
+  },
+  "252": {
+    "id": "252",
+    "text": "theocratic ministry school",
+    "Comments for translators": null
+  },
+  "253": {
+    "id": "253",
+    "text": "service meeting",
+    "Comments for translators": null
+  },
+  "254": {
+    "id": "254",
+    "text": "meeting for field service",
+    "Comments for translators": null
+  },
+  "255": {
+    "id": "255",
+    "text": "assembly",
+    "Comments for translators": null
+  },
+  "256": {
+    "id": "256",
+    "text": "annual assemblies",
+    "Comments for translators": null
+  },
+  "257": {
+    "id": "257",
+    "text": "special assembly day",
+    "Comments for translators": null
+  },
+  "258": {
+    "id": "258",
+    "text": "circuit assembly",
+    "Comments for translators": null
+  },
+  "259": {
+    "id": "259",
+    "text": "convention",
+    "Comments for translators": null
+  },
+  "260": {
+    "id": "260",
+    "text": "district convention",
+    "Comments for translators": null
+  },
+  "261": {
+    "id": "261",
+    "text": "3-day district convention",
+    "Comments for translators": null
+  },
+  "262": {
+    "id": "262",
+    "text": "Meeting Content",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "263": {
+    "id": "263",
+    "text": "item",
+    "Comments for translators": null,
+    "annotation": "(: a part on the meeting: e.g. talk, discussion, etc.)"
+  },
+  "264": {
+    "id": "264",
+    "text": "I will have an item at the meeting next week.",
+    "Comments for translators": null
+  },
+  "265": {
+    "id": "265",
+    "text": "assignment",
+    "Comments for translators": null,
+    "annotation": "(: e.g. on Theocratic Ministry School)"
+  },
+  "266": {
+    "id": "266",
+    "text": "assignment number 1",
+    "Comments for translators": null
+  },
+  "267": {
+    "id": "267",
+    "text": "to receive an assignment",
+    "Comments for translators": null
+  },
+  "268": {
+    "id": "268",
+    "text": "to carry out an assignment",
+    "Comments for translators": null
+  },
+  "269": {
+    "id": "269",
+    "text": "point of counsel",
+    "Comments for translators": null,
+    "annotation": "(: from Ministry School Guidebook)"
+  },
+  "270": {
+    "id": "270",
+    "text": "the point of counsel that Sister XXX was working on is number 23.",
+    "Comments for translators": null
+  },
+  "271": {
+    "id": "271",
+    "text": "talk",
+    "Comments for translators": null,
+    "annotation": "(: a \"speech\")"
+  },
+  "272": {
+    "id": "272",
+    "text": "a well-developed talk",
+    "Comments for translators": null
+  },
+  "273": {
+    "id": "273",
+    "text": "public talk",
+    "Comments for translators": null
+  },
+  "274": {
+    "id": "274",
+    "text": "five-minute talk",
+    "Comments for translators": null
+  },
+  "275": {
+    "id": "275",
+    "text": "to give a talk",
+    "Comments for translators": null
+  },
+  "276": {
+    "id": "276",
+    "text": "speaker",
+    "Comments for translators": null
+  },
+  "277": {
+    "id": "277",
+    "text": "demonstration",
+    "Comments for translators": null
+  },
+  "278": {
+    "id": "278",
+    "text": "Let's watch this demonstration.",
+    "Comments for translators": null
+  },
+  "279": {
+    "id": "279",
+    "text": "to demonstrate XXX",
+    "Comments for translators": null,
+    "annotation": "(: to show how something is done or happens)"
+  },
+  "280": {
+    "id": "280",
+    "text": "Sister XXX will demonstrate how to introduce this month's magazines.",
+    "Comments for translators": null
+  },
+  "281": {
+    "id": "281",
+    "text": "Bible highlights",
+    "Comments for translators": null,
+    "annotation": "(: a 10 minute item on the theocratic ministry school)"
+  },
+  "282": {
+    "id": "282",
+    "text": "Bible reading",
+    "Comments for translators": null
+  },
+  "283": {
+    "id": "283",
+    "text": "Local Needs",
+    "Comments for translators": null,
+    "annotation": "(: a talk about local needs)"
+  },
+  "284": {
+    "id": "284",
+    "text": "Question Box",
+    "Comments for translators": null,
+    "annotation": "(: in Our Kingdom Ministry)"
+  },
+  "285": {
+    "id": "285",
+    "text": "Songs & Prayers",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "286": {
+    "id": "286",
+    "text": "song",
+    "Comments for translators": null
+  },
+  "287": {
+    "id": "287",
+    "text": "opening song",
+    "Comments for translators": null
+  },
+  "288": {
+    "id": "288",
+    "text": "closing song",
+    "Comments for translators": null
+  },
+  "289": {
+    "id": "289",
+    "text": "The title of this song is …",
+    "Comments for translators": null
+  },
+  "290": {
+    "id": "290",
+    "text": "The song is based on …",
+    "Comments for translators": null
+  },
+  "291": {
+    "id": "291",
+    "text": "Our meeting will begin with a song of praise to Jehovah.",
+    "Comments for translators": null
+  },
+  "292": {
+    "id": "292",
+    "text": "We will begin the meeting with a song which will be followed by a prayer.",
+    "Comments for translators": null
+  },
+  "293": {
+    "id": "293",
+    "text": "This song has been selected by our speaker. It harmonizes with the theme of his talk.",
+    "Comments for translators": null
+  },
+  "294": {
+    "id": "294",
+    "text": "This song harmonizes with the theme of the talk.",
+    "Comments for translators": null
+  },
+  "295": {
+    "id": "295",
+    "text": "We will finish the meeting with a song.",
+    "Comments for translators": null
+  },
+  "296": {
+    "id": "296",
+    "text": "song number 20",
+    "Comments for translators": null
+  },
+  "297": {
+    "id": "297",
+    "text": "Let's listen to song number 20.",
+    "Comments for translators": null
+  },
+  "298": {
+    "id": "298",
+    "text": "songbook",
+    "Comments for translators": null
+  },
+  "299": {
+    "id": "299",
+    "text": "Let's open our songbook to song number 10.",
+    "Comments for translators": null
+  },
+  "300": {
+    "id": "300",
+    "text": "to sing a song",
+    "Comments for translators": null
+  },
+  "301": {
+    "id": "301",
+    "text": "Let's sing song number 30",
+    "Comments for translators": null
+  },
+  "302": {
+    "id": "302",
+    "text": "As we sing this song, we can think about its words.",
+    "Comments for translators": null
+  },
+  "303": {
+    "id": "303",
+    "text": "prayer",
+    "Comments for translators": null
+  },
+  "304": {
+    "id": "304",
+    "text": "opening prayer",
+    "Comments for translators": null
+  },
+  "305": {
+    "id": "305",
+    "text": "closing prayer",
+    "Comments for translators": null
+  },
+  "306": {
+    "id": "306",
+    "text": "to say a prayer",
+    "Comments for translators": null
+  },
+  "307": {
+    "id": "307",
+    "text": "Brother XXX, would you please say the prayer?",
+    "Comments for translators": null
+  },
+  "308": {
+    "id": "308",
+    "text": "to pray",
+    "Comments for translators": null
+  },
+  "309": {
+    "id": "309",
+    "text": "to pray to Jehovah",
+    "Comments for translators": null
+  },
+  "310": {
+    "id": "310",
+    "text": "After the song we will pray to Jehovah.",
+    "Comments for translators": null
+  },
+  "311": {
+    "id": "311",
+    "text": "Announcements",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "312": {
+    "id": "312",
+    "text": "announcements",
+    "Comments for translators": null,
+    "annotation": "(: e.g, on service meeting)"
+  },
+  "313": {
+    "id": "313",
+    "text": "I have some announcements.",
+    "Comments for translators": null
+  },
+  "314": {
+    "id": "314",
+    "text": "to announce XXX",
+    "Comments for translators": null
+  },
+  "315": {
+    "id": "315",
+    "text": "to announce the meetings for field service",
+    "Comments for translators": null
+  },
+  "316": {
+    "id": "316",
+    "text": "We are happy to announce that …",
+    "Comments for translators": null
+  },
+  "317": {
+    "id": "317",
+    "text": "We are sad to announce that …",
+    "Comments for translators": null
+  },
+  "318": {
+    "id": "318",
+    "text": "letter",
+    "Comments for translators": null,
+    "annotation": "(: e.g. from the branch)"
+  },
+  "319": {
+    "id": "319",
+    "text": "We have received a letter from the branch.",
+    "Comments for translators": null
+  },
+  "320": {
+    "id": "320",
+    "text": "I would like to invite Brother XXX to the platform to read a letter from the Society.",
+    "Comments for translators": null
+  },
+  "321": {
+    "id": "321",
+    "text": "resolution",
+    "Comments for translators": null
+  },
+  "322": {
+    "id": "322",
+    "text": "to present a resolution",
+    "Comments for translators": null
+  },
+  "323": {
+    "id": "323",
+    "text": "We would like to present the following resolution to the congregation.",
+    "Comments for translators": null
+  },
+  "324": {
+    "id": "324",
+    "text": "to vote",
+    "Comments for translators": null
+  },
+  "325": {
+    "id": "325",
+    "text": "to raise [your] hand",
+    "Comments for translators": null,
+    "annotation": "(: when voting)"
+  },
+  "326": {
+    "id": "326",
+    "text": "Please raise your hand if you are in favour of the resolution.",
+    "Comments for translators": null
+  },
+  "327": {
+    "id": "327",
+    "text": "Please raise your hand if you are against the resolution",
+    "Comments for translators": null
+  },
+  "328": {
+    "id": "328",
+    "text": "Please raise your hand if you abstain.",
+    "Comments for translators": null
+  },
+  "329": {
+    "id": "329",
+    "text": "You can put your hands down now.",
+    "Comments for translators": null
+  },
+  "330": {
+    "id": "330",
+    "text": "You may want to take some notes.",
+    "Comments for translators": null
+  },
+  "331": {
+    "id": "331",
+    "text": "Please hand in your field service report to your Group Overseer.",
+    "Comments for translators": null
+  },
+  "332": {
+    "id": "332",
+    "text": "This week Group 2 will clean the Kingdom Hall.",
+    "Comments for translators": null
+  },
+  "333": {
+    "id": "333",
+    "text": "This Saturday we will meet for field service at 11 a.m. at the home of Sister XXX.",
+    "Comments for translators": null
+  },
+  "334": {
+    "id": "334",
+    "text": "There will be a field service arrangement 5 minutes after the end of today's meeting.",
+    "Comments for translators": null
+  },
+  "335": {
+    "id": "335",
+    "text": "The meeting for field service will be held in the second school.",
+    "Comments for translators": null
+  },
+  "336": {
+    "id": "336",
+    "text": "Brother XXX will conduct the meeting for field service.",
+    "Comments for translators": null
+  },
+  "337": {
+    "id": "337",
+    "text": "We have some announcements regarding our upcoming District Convention.",
+    "Comments for translators": null
+  },
+  "338": {
+    "id": "338",
+    "text": "Our District Convention will be held on …",
+    "Comments for translators": null
+  },
+  "339": {
+    "id": "339",
+    "text": "The venue for the District convention will be …",
+    "Comments for translators": null
+  },
+  "340": {
+    "id": "340",
+    "text": "The convention programme starts at 9:50 am.",
+    "Comments for translators": null
+  },
+  "341": {
+    "id": "341",
+    "text": "The convention programme finishes at 3:45 pm.",
+    "Comments for translators": null
+  },
+  "342": {
+    "id": "342",
+    "text": "If you want to reserve a seat on the bus please see Brother XXX.",
+    "Comments for translators": null
+  },
+  "343": {
+    "id": "343",
+    "text": "Sister XXX passed away on 12 March.",
+    "Comments for translators": null
+  },
+  "344": {
+    "id": "344",
+    "text": "Her funeral service will be held next Tuesday at the Kingdom Hall.",
+    "Comments for translators": null
+  },
+  "345": {
+    "id": "345",
+    "text": "XXX has disassociated [himself] from the Christian congregation",
+    "Comments for translators": null
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX has been disfellowshipped from the Christian congregation",
+    "Comments for translators": null
+  },
+  "347": {
+    "id": "347",
+    "text": "Welcome & Introduction",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "348": {
+    "id": "348",
+    "text": "chairman",
+    "Comments for translators": null,
+    "annotation": "(: a brother who introduces speakers at public meetings and assemblies)"
+  },
+  "349": {
+    "id": "349",
+    "text": "to introduce the next talk",
+    "Comments for translators": null
+  },
+  "350": {
+    "id": "350",
+    "text": "to applaud",
+    "Comments for translators": null,
+    "annotation": "(: to clap your hands in appreciation for a talk, etc)"
+  },
+  "351": {
+    "id": "351",
+    "text": "applause",
+    "Comments for translators": null
+  },
+  "352": {
+    "id": "352",
+    "text": "The applause shows that the audience enjoyed the talk.",
+    "Comments for translators": null
+  },
+  "353": {
+    "id": "353",
+    "text": "Our meeting will begin in two minutes.",
+    "Comments for translators": null
+  },
+  "354": {
+    "id": "354",
+    "text": "Welcome!",
+    "Comments for translators": null
+  },
+  "355": {
+    "id": "355",
+    "text": "We welcome you to this evening's meeting.",
+    "Comments for translators": null
+  },
+  "356": {
+    "id": "356",
+    "text": "Welcome Brothers and Sisters.",
+    "Comments for translators": null
+  },
+  "357": {
+    "id": "357",
+    "text": "Welcome to this evening's meeting.",
+    "Comments for translators": null
+  },
+  "358": {
+    "id": "358",
+    "text": "Please make your way to your seats.",
+    "Comments for translators": null
+  },
+  "359": {
+    "id": "359",
+    "text": "Please be seated.",
+    "Comments for translators": null
+  },
+  "360": {
+    "id": "360",
+    "text": "Would you please take your seats.",
+    "Comments for translators": null
+  },
+  "361": {
+    "id": "361",
+    "text": "If possible, please stand.",
+    "Comments for translators": null
+  },
+  "362": {
+    "id": "362",
+    "text": "We will  now have a 10 minute break. Please be back in your seats by 3:15.",
+    "Comments for translators": null
+  },
+  "363": {
+    "id": "363",
+    "text": "Our meeting this evening consists of two sections.",
+    "Comments for translators": null
+  },
+  "364": {
+    "id": "364",
+    "text": "The next section of our meeting is the Watchtower study.",
+    "Comments for translators": null
+  },
+  "365": {
+    "id": "365",
+    "text": "I would like to invite Brother XXX to the platform.",
+    "Comments for translators": null
+  },
+  "366": {
+    "id": "366",
+    "text": "Let's pay close attention to him.",
+    "Comments for translators": null
+  },
+  "367": {
+    "id": "367",
+    "text": "Brother XXX will conduct this discussion.",
+    "Comments for translators": null
+  },
+  "368": {
+    "id": "368",
+    "text": "Now, Brother XXX will conduct the congregation Bible study.",
+    "Comments for translators": null
+  },
+  "369": {
+    "id": "369",
+    "text": "Brother XXX will read from chapter 5 verse 12 to verse 25.",
+    "Comments for translators": null
+  },
+  "370": {
+    "id": "370",
+    "text": "Sister XXX will demonstrate the second field service presentation in \"Our Kingdom Ministry\".",
+    "Comments for translators": null
+  },
+  "371": {
+    "id": "371",
+    "text": "Now let's listen to two sisters discussing the following theme: \"…\"",
+    "Comments for translators": null
+  },
+  "372": {
+    "id": "372",
+    "text": "Sister XXX will lead the discussion.",
+    "Comments for translators": null
+  },
+  "373": {
+    "id": "373",
+    "text": "Her assistant is Sister YYY.",
+    "Comments for translators": null
+  },
+  "374": {
+    "id": "374",
+    "text": "Sister YYY will play the role of the householder.",
+    "Comments for translators": null
+  },
+  "375": {
+    "id": "375",
+    "text": "The setting for this assignment is …",
+    "Comments for translators": null
+  },
+  "376": {
+    "id": "376",
+    "text": "Today we are very happy to have a visiting speaker come to give us a talk.",
+    "Comments for translators": null
+  },
+  "377": {
+    "id": "377",
+    "text": "Brother XXX, from YYY congregation will give us a talk.",
+    "Comments for translators": null
+  },
+  "378": {
+    "id": "378",
+    "text": "The theme of his talk is …",
+    "Comments for translators": null
+  },
+  "379": {
+    "id": "379",
+    "text": "Brother XXX. Thank you for talking to us about this subject.",
+    "Comments for translators": null
+  },
+  "380": {
+    "id": "380",
+    "text": "All 75 people in attendance enjoyed listening to your talk.",
+    "Comments for translators": null
+  },
+  "381": {
+    "id": "381",
+    "text": "We are very happy to have our Circuit Overseer and his wife visiting us this week.",
+    "Comments for translators": null
+  },
+  "382": {
+    "id": "382",
+    "text": "The title of our Circuit Overseer's first service talk is …",
+    "Comments for translators": null
+  },
+  "383": {
+    "id": "383",
+    "text": "I bring the love of the Bethel family in XXX.",
+    "Comments for translators": null
+  },
+  "384": {
+    "id": "384",
+    "text": "Can I send your love to XXX congregation?",
+    "Comments for translators": null
+  },
+  "386": {
+    "id": "386",
+    "text": "Teaching & Discussing",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "387": {
+    "id": "387",
+    "text": "Bible Books",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "388": {
+    "id": "388",
+    "text": "the Hebrew Scriptures",
+    "Comments for translators": null
+  },
+  "389": {
+    "id": "389",
+    "text": "Genesis",
+    "Comments for translators": "For these Bible books, please use a simpler, common form of the name that can be used by brothers when they introduce scriptures. (For example \"Paul's Second Letter to the Corinthians\" is longer than is necessary here). "
+  },
+  "390": {
+    "id": "390",
+    "text": "Exodus",
+    "Comments for translators": null
+  },
+  "391": {
+    "id": "391",
+    "text": "Leviticus",
+    "Comments for translators": null
+  },
+  "392": {
+    "id": "392",
+    "text": "Numbers",
+    "Comments for translators": null
+  },
+  "393": {
+    "id": "393",
+    "text": "Deuteronomy",
+    "Comments for translators": null
+  },
+  "394": {
+    "id": "394",
+    "text": "Joshua",
+    "Comments for translators": null
+  },
+  "395": {
+    "id": "395",
+    "text": "Judges",
+    "Comments for translators": null
+  },
+  "396": {
+    "id": "396",
+    "text": "Ruth",
+    "Comments for translators": null
+  },
+  "397": {
+    "id": "397",
+    "text": "1 Samuel",
+    "Comments for translators": null
+  },
+  "398": {
+    "id": "398",
+    "text": "2 Samuel",
+    "Comments for translators": null
+  },
+  "399": {
+    "id": "399",
+    "text": "1 Kings",
+    "Comments for translators": null
+  },
+  "400": {
+    "id": "400",
+    "text": "2 Kings",
+    "Comments for translators": null
+  },
+  "401": {
+    "id": "401",
+    "text": "1 Chronicles",
+    "Comments for translators": null
+  },
+  "402": {
+    "id": "402",
+    "text": "2 Chronicles",
+    "Comments for translators": null
+  },
+  "403": {
+    "id": "403",
+    "text": "Ezra",
+    "Comments for translators": null
+  },
+  "404": {
+    "id": "404",
+    "text": "Nehemiah",
+    "Comments for translators": null
+  },
+  "405": {
+    "id": "405",
+    "text": "Esther",
+    "Comments for translators": null
+  },
+  "406": {
+    "id": "406",
+    "text": "Job",
+    "Comments for translators": null
+  },
+  "407": {
+    "id": "407",
+    "text": "Psalm",
+    "Comments for translators": null
+  },
+  "408": {
+    "id": "408",
+    "text": "Proverbs",
+    "Comments for translators": null
+  },
+  "409": {
+    "id": "409",
+    "text": "Ecclesiastes",
+    "Comments for translators": null
+  },
+  "410": {
+    "id": "410",
+    "text": "Song of Solomon",
+    "Comments for translators": null
+  },
+  "411": {
+    "id": "411",
+    "text": "Isaiah",
+    "Comments for translators": null
+  },
+  "412": {
+    "id": "412",
+    "text": "Jeremiah",
+    "Comments for translators": null
+  },
+  "413": {
+    "id": "413",
+    "text": "Lamentations",
+    "Comments for translators": null
+  },
+  "414": {
+    "id": "414",
+    "text": "Ezekiel",
+    "Comments for translators": null
+  },
+  "415": {
+    "id": "415",
+    "text": "Daniel",
+    "Comments for translators": null
+  },
+  "416": {
+    "id": "416",
+    "text": "Hosea",
+    "Comments for translators": null
+  },
+  "417": {
+    "id": "417",
+    "text": "Joel",
+    "Comments for translators": null
+  },
+  "418": {
+    "id": "418",
+    "text": "Amos",
+    "Comments for translators": null
+  },
+  "419": {
+    "id": "419",
+    "text": "Obadiah",
+    "Comments for translators": null
+  },
+  "420": {
+    "id": "420",
+    "text": "Jonah",
+    "Comments for translators": null
+  },
+  "421": {
+    "id": "421",
+    "text": "Micah",
+    "Comments for translators": null
+  },
+  "422": {
+    "id": "422",
+    "text": "Nahum",
+    "Comments for translators": null
+  },
+  "423": {
+    "id": "423",
+    "text": "Habakkuk",
+    "Comments for translators": null
+  },
+  "424": {
+    "id": "424",
+    "text": "Zephaniah",
+    "Comments for translators": null
+  },
+  "425": {
+    "id": "425",
+    "text": "Haggai",
+    "Comments for translators": null
+  },
+  "426": {
+    "id": "426",
+    "text": "Zecharaiah",
+    "Comments for translators": null
+  },
+  "427": {
+    "id": "427",
+    "text": "Malachi",
+    "Comments for translators": null
+  },
+  "428": {
+    "id": "428",
+    "text": "the Greek Scriptures",
+    "Comments for translators": null
+  },
+  "429": {
+    "id": "429",
+    "text": "Matthew",
+    "Comments for translators": null
+  },
+  "430": {
+    "id": "430",
+    "text": "Mark",
+    "Comments for translators": null
+  },
+  "431": {
+    "id": "431",
+    "text": "Luke",
+    "Comments for translators": null
+  },
+  "432": {
+    "id": "432",
+    "text": "John",
+    "Comments for translators": null
+  },
+  "433": {
+    "id": "433",
+    "text": "Acts",
+    "Comments for translators": null
+  },
+  "434": {
+    "id": "434",
+    "text": "Romans",
+    "Comments for translators": null
+  },
+  "435": {
+    "id": "435",
+    "text": "1 Corinthians",
+    "Comments for translators": null
+  },
+  "436": {
+    "id": "436",
+    "text": "2 Corinthians",
+    "Comments for translators": null
+  },
+  "437": {
+    "id": "437",
+    "text": "Galatians",
+    "Comments for translators": null
+  },
+  "438": {
+    "id": "438",
+    "text": "Ephesians",
+    "Comments for translators": null
+  },
+  "439": {
+    "id": "439",
+    "text": "Philippians",
+    "Comments for translators": null
+  },
+  "440": {
+    "id": "440",
+    "text": "Colossians",
+    "Comments for translators": null
+  },
+  "441": {
+    "id": "441",
+    "text": "1 Thessalonians",
+    "Comments for translators": null
+  },
+  "442": {
+    "id": "442",
+    "text": "2 Thessalonians",
+    "Comments for translators": null
+  },
+  "443": {
+    "id": "443",
+    "text": "1 Timothy",
+    "Comments for translators": null
+  },
+  "444": {
+    "id": "444",
+    "text": "2 Timothy",
+    "Comments for translators": null
+  },
+  "445": {
+    "id": "445",
+    "text": "Titus",
+    "Comments for translators": null
+  },
+  "446": {
+    "id": "446",
+    "text": "Philemon",
+    "Comments for translators": null
+  },
+  "447": {
+    "id": "447",
+    "text": "Hebrews",
+    "Comments for translators": null
+  },
+  "448": {
+    "id": "448",
+    "text": "James",
+    "Comments for translators": null
+  },
+  "449": {
+    "id": "449",
+    "text": "1 Peter",
+    "Comments for translators": null
+  },
+  "450": {
+    "id": "450",
+    "text": "2 Peter",
+    "Comments for translators": null
+  },
+  "451": {
+    "id": "451",
+    "text": "1 John",
+    "Comments for translators": null
+  },
+  "452": {
+    "id": "452",
+    "text": "2 John",
+    "Comments for translators": null
+  },
+  "453": {
+    "id": "453",
+    "text": "3 John",
+    "Comments for translators": null
+  },
+  "454": {
+    "id": "454",
+    "text": "Jude",
+    "Comments for translators": null
+  },
+  "455": {
+    "id": "455",
+    "text": "Revelation",
+    "Comments for translators": null
+  },
+  "456": {
+    "id": "456",
+    "text": "Using the Bible",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "457": {
+    "id": "457",
+    "text": "the Bible",
+    "Comments for translators": null
+  },
+  "458": {
+    "id": "458",
+    "text": "Let's open our Bibles.",
+    "Comments for translators": null
+  },
+  "459": {
+    "id": "459",
+    "text": "Let's open our Bibles to Jeremiah 10:23.",
+    "Comments for translators": null
+  },
+  "460": {
+    "id": "460",
+    "text": "account (/story)",
+    "Comments for translators": null
+  },
+  "461": {
+    "id": "461",
+    "text": "Let's look up this Bible account.",
+    "Comments for translators": null
+  },
+  "462": {
+    "id": "462",
+    "text": "scripture",
+    "Comments for translators": null
+  },
+  "463": {
+    "id": "463",
+    "text": "What does this scripture tell us about …?",
+    "Comments for translators": null
+  },
+  "464": {
+    "id": "464",
+    "text": "What does this scripture reveal about …?",
+    "Comments for translators": null
+  },
+  "465": {
+    "id": "465",
+    "text": "How is this scripture related to …?",
+    "Comments for translators": null
+  },
+  "466": {
+    "id": "466",
+    "text": "What does this scripture mean?",
+    "Comments for translators": null
+  },
+  "467": {
+    "id": "467",
+    "text": "Please comment on this scripture.",
+    "Comments for translators": null
+  },
+  "468": {
+    "id": "468",
+    "text": "Please explain this scripture.",
+    "Comments for translators": null
+  },
+  "469": {
+    "id": "469",
+    "text": "What lesson can we learn from this scripture?",
+    "Comments for translators": null
+  },
+  "470": {
+    "id": "470",
+    "text": "Matthew chapter seven, verse twelve",
+    "Comments for translators": "Please write these scriptures out in words as they are spoken in your language (i.e. don't just write numbers)"
+  },
+  "471": {
+    "id": "471",
+    "text": "Matthew chapter five, verses twenty-three and twenty-four",
+    "Comments for translators": null
+  },
+  "472": {
+    "id": "472",
+    "text": "First John chapter two, verses fifteen to seventeen",
+    "Comments for translators": null
+  },
+  "473": {
+    "id": "473",
+    "text": "the thirty-seventh Psalm verse eleven; verse eleven of the thirty-seventh Psalm",
+    "Comments for translators": null
+  },
+  "474": {
+    "id": "474",
+    "text": "Study Materials",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "475": {
+    "id": "475",
+    "text": "page",
+    "Comments for translators": null
+  },
+  "476": {
+    "id": "476",
+    "text": "Please open your magazines to the article on page 20.",
+    "Comments for translators": null
+  },
+  "477": {
+    "id": "477",
+    "text": "Please turn to page 45 of the study material.",
+    "Comments for translators": null
+  },
+  "478": {
+    "id": "478",
+    "text": "Let's turn to page 10.",
+    "Comments for translators": null
+  },
+  "479": {
+    "id": "479",
+    "text": "article",
+    "Comments for translators": null
+  },
+  "480": {
+    "id": "480",
+    "text": "a series of articles",
+    "Comments for translators": null,
+    "annotation": "(: e.g. in the Watchtower magazine)"
+  },
+  "481": {
+    "id": "481",
+    "text": "This week we will look at the first in a series of three articles.",
+    "Comments for translators": null
+  },
+  "482": {
+    "id": "482",
+    "text": "theme",
+    "Comments for translators": null
+  },
+  "483": {
+    "id": "483",
+    "text": "theme scripture",
+    "Comments for translators": null
+  },
+  "484": {
+    "id": "484",
+    "text": "heading",
+    "Comments for translators": null
+  },
+  "485": {
+    "id": "485",
+    "text": "subheading",
+    "Comments for translators": null
+  },
+  "486": {
+    "id": "486",
+    "text": "paragraph",
+    "Comments for translators": null
+  },
+  "487": {
+    "id": "487",
+    "text": "the previous paragraph",
+    "Comments for translators": null
+  },
+  "488": {
+    "id": "488",
+    "text": "the next paragraph",
+    "Comments for translators": null
+  },
+  "489": {
+    "id": "489",
+    "text": "the next two paragraphs",
+    "Comments for translators": null
+  },
+  "490": {
+    "id": "490",
+    "text": "Let's read the next two paragraphs.",
+    "Comments for translators": null
+  },
+  "491": {
+    "id": "491",
+    "text": "word",
+    "Comments for translators": null
+  },
+  "492": {
+    "id": "492",
+    "text": "words in bold print",
+    "Comments for translators": null
+  },
+  "493": {
+    "id": "493",
+    "text": "italicized words",
+    "Comments for translators": null
+  },
+  "494": {
+    "id": "494",
+    "text": "footnote",
+    "Comments for translators": null
+  },
+  "495": {
+    "id": "495",
+    "text": "appendix",
+    "Comments for translators": null
+  },
+  "496": {
+    "id": "496",
+    "text": "box",
+    "Comments for translators": null
+  },
+  "497": {
+    "id": "497",
+    "text": "picture",
+    "Comments for translators": null
+  },
+  "498": {
+    "id": "498",
+    "text": "Children, what is the name of the man in the picture?",
+    "Comments for translators": null
+  },
+  "499": {
+    "id": "499",
+    "text": "caption",
+    "Comments for translators": null,
+    "annotation": "(: to a picture)"
+  },
+  "500": {
+    "id": "500",
+    "text": "Discussion",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "501": {
+    "id": "501",
+    "text": "answer",
+    "Comments for translators": null
+  },
+  "502": {
+    "id": "502",
+    "text": "to give an answer",
+    "Comments for translators": null
+  },
+  "503": {
+    "id": "503",
+    "text": "question",
+    "Comments for translators": null
+  },
+  "504": {
+    "id": "504",
+    "text": "preview questions",
+    "Comments for translators": null,
+    "annotation": "(: e.g. in \"What Does the Bible Really Teach?\" book)"
+  },
+  "505": {
+    "id": "505",
+    "text": "review questions",
+    "Comments for translators": null,
+    "annotation": "(: e.g. in Watchtower study)"
+  },
+  "506": {
+    "id": "506",
+    "text": "to ask a question",
+    "Comments for translators": null
+  },
+  "507": {
+    "id": "507",
+    "text": "to answer a question",
+    "Comments for translators": null
+  },
+  "508": {
+    "id": "508",
+    "text": "comment",
+    "Comments for translators": null
+  },
+  "509": {
+    "id": "509",
+    "text": "to give a comment",
+    "Comments for translators": null
+  },
+  "510": {
+    "id": "510",
+    "text": "Please translate his comment.",
+    "Comments for translators": null
+  },
+  "511": {
+    "id": "511",
+    "text": "Any more comments?",
+    "Comments for translators": null
+  },
+  "512": {
+    "id": "512",
+    "text": "Please limit (the length of) your comments to 30 seconds.",
+    "Comments for translators": null
+  },
+  "513": {
+    "id": "513",
+    "text": "to comment",
+    "Comments for translators": null
+  },
+  "514": {
+    "id": "514",
+    "text": "Who would like to comment on this week's Bible reading?",
+    "Comments for translators": null
+  },
+  "515": {
+    "id": "515",
+    "text": "to comment on the picture",
+    "Comments for translators": null
+  },
+  "516": {
+    "id": "516",
+    "text": "discussion",
+    "Comments for translators": null
+  },
+  "517": {
+    "id": "517",
+    "text": "question and answer discussion",
+    "Comments for translators": null
+  },
+  "518": {
+    "id": "518",
+    "text": "to discuss",
+    "Comments for translators": null
+  },
+  "519": {
+    "id": "519",
+    "text": "to discuss the daily text",
+    "Comments for translators": null
+  },
+  "520": {
+    "id": "520",
+    "text": "Now we will discuss this article together.",
+    "Comments for translators": null
+  },
+  "521": {
+    "id": "521",
+    "text": "to conduct (a discussion)",
+    "Comments for translators": null
+  },
+  "522": {
+    "id": "522",
+    "text": "Thank you Brother XXX for conducting that discussion.",
+    "Comments for translators": null
+  },
+  "523": {
+    "id": "523",
+    "text": "conductor",
+    "Comments for translators": null
+  },
+  "524": {
+    "id": "524",
+    "text": "Watchtower study conductor",
+    "Comments for translators": null
+  },
+  "525": {
+    "id": "525",
+    "text": "to consider",
+    "Comments for translators": null,
+    "annotation": "(: to focus on something in a discussion)"
+  },
+  "526": {
+    "id": "526",
+    "text": "Now we will consider an important question.",
+    "Comments for translators": null
+  },
+  "527": {
+    "id": "527",
+    "text": "to read",
+    "Comments for translators": null,
+    "annotation": "(: aloud, e.g. at a meeting)"
+  },
+  "528": {
+    "id": "528",
+    "text": "Who can read paragraph 2?",
+    "Comments for translators": null
+  },
+  "529": {
+    "id": "529",
+    "text": "Please read paragraph 2.",
+    "Comments for translators": null
+  },
+  "530": {
+    "id": "530",
+    "text": "Thank you brother XXX for reading for us.",
+    "Comments for translators": null
+  },
+  "531": {
+    "id": "531",
+    "text": "to review",
+    "Comments for translators": null
+  },
+  "532": {
+    "id": "532",
+    "text": "Let's review the main points of this article.",
+    "Comments for translators": null
+  },
+  "533": {
+    "id": "533",
+    "text": "main point",
+    "Comments for translators": null
+  },
+  "534": {
+    "id": "534",
+    "text": "What are the main points that we learnt from this week's material?",
+    "Comments for translators": null
+  },
+  "535": {
+    "id": "535",
+    "text": "to apply XXX to YYY",
+    "Comments for translators": null
+  },
+  "536": {
+    "id": "536",
+    "text": "How can we apply this to … ?",
+    "Comments for translators": null
+  },
+  "537": {
+    "id": "537",
+    "text": "How can we apply this to our ministry?",
+    "Comments for translators": null
+  },
+  "538": {
+    "id": "538",
+    "text": "to summarize XXX",
+    "Comments for translators": null
+  },
+  "539": {
+    "id": "539",
+    "text": "How can we summarize these paragraphs?",
+    "Comments for translators": null
+  },
+  "540": {
+    "id": "540",
+    "text": "Brothers and Sisters",
+    "Comments for translators": null,
+    "annotation": "(: when attracting attention, or when first starting to speak to the audience)"
+  },
+  "541": {
+    "id": "541",
+    "text": "Brother XXX",
+    "Comments for translators": null,
+    "annotation": "(: when calling on someone to give a comment in the meeting)"
+  },
+  "542": {
+    "id": "542",
+    "text": "Sister XXX",
+    "Comments for translators": null,
+    "annotation": "(: when calling on someone to give a comment in the meeting)"
+  },
+  "543": {
+    "id": "543",
+    "text": "Please raise your hand.",
+    "Comments for translators": null
+  },
+  "544": {
+    "id": "544",
+    "text": "Please wait for the microphone.",
+    "Comments for translators": null
+  },
+  "545": {
+    "id": "545",
+    "text": "Please turn on the microphone.",
+    "Comments for translators": null
+  },
+  "546": {
+    "id": "546",
+    "text": "Please hold the microphone correctly.",
+    "Comments for translators": null
+  },
+  "547": {
+    "id": "547",
+    "text": "Well done!",
+    "Comments for translators": null,
+    "annotation": "(: Say this after someone gives a good talk or comment, etc.)"
+  },
+  "548": {
+    "id": "548",
+    "text": "Sequence Words",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "549": {
+    "id": "549",
+    "text": "Now; Next …",
+    "Comments for translators": null
+  },
+  "550": {
+    "id": "550",
+    "text": "Now let's read paragraph 3.",
+    "Comments for translators": null
+  },
+  "551": {
+    "id": "551",
+    "text": "We will now consider …",
+    "Comments for translators": null
+  },
+  "552": {
+    "id": "552",
+    "text": "We will now consider the following question.",
+    "Comments for translators": null
+  },
+  "553": {
+    "id": "553",
+    "text": "We will now consider the following problem.",
+    "Comments for translators": null
+  },
+  "554": {
+    "id": "554",
+    "text": "We will now consider the following subject.",
+    "Comments for translators": null
+  },
+  "555": {
+    "id": "555",
+    "text": "First …",
+    "Comments for translators": null
+  },
+  "556": {
+    "id": "556",
+    "text": "Later …",
+    "Comments for translators": null
+  },
+  "557": {
+    "id": "557",
+    "text": "Finally…",
+    "Comments for translators": null
+  },
+  "558": {
+    "id": "558",
+    "text": "last week",
+    "Comments for translators": null
+  },
+  "559": {
+    "id": "559",
+    "text": "this week",
+    "Comments for translators": null
+  },
+  "560": {
+    "id": "560",
+    "text": "This week we will consider paragraphs 10 to 18.",
+    "Comments for translators": null
+  },
+  "561": {
+    "id": "561",
+    "text": "This week our reader is Brother XXX.",
+    "Comments for translators": null
+  },
+  "562": {
+    "id": "562",
+    "text": "next week",
+    "Comments for translators": null
+  },
+  "563": {
+    "id": "563",
+    "text": "What will we discuss next week?",
+    "Comments for translators": null
+  },
+  "564": {
+    "id": "564",
+    "text": "last time",
+    "Comments for translators": null
+  },
+  "565": {
+    "id": "565",
+    "text": "next time",
+    "Comments for translators": null
+  },
+  "566": {
+    "id": "566",
+    "text": "Let's continue.",
+    "Comments for translators": null
+  },
+  "567": {
+    "id": "567",
+    "text": "I am afraid that we are running out of time.",
+    "Comments for translators": null
+  },
+  "568": {
+    "id": "568",
+    "text": "Time is running out, so we will move on.",
+    "Comments for translators": null
+  },
+  "569": {
+    "id": "569",
+    "text": "That's all we have time for.",
+    "Comments for translators": null
+  },
+  "570": {
+    "id": "570",
+    "text": "We must finish here.",
+    "Comments for translators": null
+  },
+  "572": {
+    "id": "572",
+    "text": "Witnessing",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "573": {
+    "id": "573",
+    "text": "Field Service",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "574": {
+    "id": "574",
+    "text": "field service; field ministry",
+    "Comments for translators": null
+  },
+  "575": {
+    "id": "575",
+    "text": "to go on the service with XXX",
+    "Comments for translators": null
+  },
+  "576": {
+    "id": "576",
+    "text": "When can we go on the service together?",
+    "Comments for translators": null
+  },
+  "577": {
+    "id": "577",
+    "text": "preaching",
+    "Comments for translators": null
+  },
+  "578": {
+    "id": "578",
+    "text": "preaching work",
+    "Comments for translators": null
+  },
+  "579": {
+    "id": "579",
+    "text": "to preach",
+    "Comments for translators": null
+  },
+  "580": {
+    "id": "580",
+    "text": "to preach to XXX",
+    "Comments for translators": null
+  },
+  "581": {
+    "id": "581",
+    "text": "to witness to XXX",
+    "Comments for translators": null
+  },
+  "582": {
+    "id": "582",
+    "text": "to give a witness to XXX",
+    "Comments for translators": null
+  },
+  "583": {
+    "id": "583",
+    "text": "witnessing",
+    "Comments for translators": null
+  },
+  "584": {
+    "id": "584",
+    "text": "house-to-house witnessing",
+    "Comments for translators": null
+  },
+  "585": {
+    "id": "585",
+    "text": "street witnessing",
+    "Comments for translators": null
+  },
+  "586": {
+    "id": "586",
+    "text": "informal witnessing",
+    "Comments for translators": null
+  },
+  "587": {
+    "id": "587",
+    "text": "witnessing in business territory",
+    "Comments for translators": null
+  },
+  "588": {
+    "id": "588",
+    "text": "return visit",
+    "Comments for translators": null
+  },
+  "589": {
+    "id": "589",
+    "text": "Would you come on a return visit with me tomorrow?",
+    "Comments for translators": null
+  },
+  "590": {
+    "id": "590",
+    "text": "to go on a return visit",
+    "Comments for translators": null
+  },
+  "591": {
+    "id": "591",
+    "text": "Bible study",
+    "Comments for translators": null
+  },
+  "592": {
+    "id": "592",
+    "text": "to start a Bible study",
+    "Comments for translators": null
+  },
+  "593": {
+    "id": "593",
+    "text": "to conduct a Bible study",
+    "Comments for translators": null
+  },
+  "594": {
+    "id": "594",
+    "text": "Next week I have a Bible study. Would you like to accompany me?",
+    "Comments for translators": null
+  },
+  "595": {
+    "id": "595",
+    "text": "Bible teacher",
+    "Comments for translators": null
+  },
+  "596": {
+    "id": "596",
+    "text": "Bible student",
+    "Comments for translators": null
+  },
+  "597": {
+    "id": "597",
+    "text": "interested person",
+    "Comments for translators": null
+  },
+  "598": {
+    "id": "598",
+    "text": "to follow up interest",
+    "Comments for translators": null,
+    "annotation": "(: to go back to people who showed interest)"
+  },
+  "599": {
+    "id": "599",
+    "text": "field service time",
+    "Comments for translators": null
+  },
+  "600": {
+    "id": "600",
+    "text": "Last month he counted 14 hours of field service time.",
+    "Comments for translators": null
+  },
+  "601": {
+    "id": "601",
+    "text": "Last month he reported 14 hours and 1 bible study.",
+    "Comments for translators": null
+  },
+  "602": {
+    "id": "602",
+    "text": "presentation; introduction",
+    "Comments for translators": null
+  },
+  "603": {
+    "id": "603",
+    "text": "Do you know a good field service presentation?",
+    "Comments for translators": null
+  },
+  "604": {
+    "id": "604",
+    "text": "experience",
+    "Comments for translators": null,
+    "annotation": "(: e.g. something that happened in the ministry)"
+  },
+  "605": {
+    "id": "605",
+    "text": "Did you have any interesting experiences in the ministry last month?",
+    "Comments for translators": null
+  },
+  "606": {
+    "id": "606",
+    "text": "Brother XXX will now tell us an interesting experience.",
+    "Comments for translators": null
+  },
+  "607": {
+    "id": "607",
+    "text": "Our Kingdom Ministry",
+    "Comments for translators": null
+  },
+  "608": {
+    "id": "608",
+    "text": "insert",
+    "Comments for translators": null
+  },
+  "609": {
+    "id": "609",
+    "text": "Please bring the December 2006 Our Kingdom Ministry insert with you to the field service arrangement.",
+    "Comments for translators": null
+  },
+  "610": {
+    "id": "610",
+    "text": "offer",
+    "Comments for translators": null,
+    "annotation": "(: a publication which is being featured in the ministry at a particular time)"
+  },
+  "611": {
+    "id": "611",
+    "text": "What is this month's offer?",
+    "Comments for translators": null
+  },
+  "612": {
+    "id": "612",
+    "text": "What literature are we featuring this month?",
+    "Comments for translators": null
+  },
+  "613": {
+    "id": "613",
+    "text": "campaign",
+    "Comments for translators": null,
+    "annotation": "(: a period of activity in which a special tract is being widely circulated)"
+  },
+  "614": {
+    "id": "614",
+    "text": "When does the campaign begin?",
+    "Comments for translators": null
+  },
+  "615": {
+    "id": "615",
+    "text": "partner",
+    "Comments for translators": null,
+    "annotation": "(: e.g. in the ministry)"
+  },
+  "616": {
+    "id": "616",
+    "text": "Who does not have a partner?",
+    "Comments for translators": null
+  },
+  "617": {
+    "id": "617",
+    "text": "Brother XXX, you can work with brother YYY.",
+    "Comments for translators": null
+  },
+  "618": {
+    "id": "618",
+    "text": "Who needs transport?",
+    "Comments for translators": null,
+    "annotation": "(: Who needs help in order to reach the territory?)"
+  },
+  "619": {
+    "id": "619",
+    "text": "territory (for field service)",
+    "Comments for translators": null
+  },
+  "620": {
+    "id": "620",
+    "text": "Who needs territory?",
+    "Comments for translators": null
+  },
+  "621": {
+    "id": "621",
+    "text": "Any problems?",
+    "Comments for translators": null
+  },
+  "622": {
+    "id": "622",
+    "text": "Any questions?",
+    "Comments for translators": null
+  },
+  "623": {
+    "id": "623",
+    "text": "Let's go!",
+    "Comments for translators": null,
+    "annotation": "(: Let's go out into the ministry together now.)"
+  },
+  "624": {
+    "id": "624",
+    "text": "Introductions",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "625": {
+    "id": "625",
+    "text": "Hello. My name is XXX",
+    "Comments for translators": "For these ministry phrases, please use what is NATURAL in your language."
+  },
+  "626": {
+    "id": "626",
+    "text": "Excuse me.",
+    "Comments for translators": null,
+    "annotation": "(: an expression used to politely get someone's attention in the ministry)"
+  },
+  "627": {
+    "id": "627",
+    "text": "I am learning XXX.",
+    "Comments for translators": null,
+    "annotation": "(: XXX is a language)"
+  },
+  "628": {
+    "id": "628",
+    "text": "Do you speak XXX?",
+    "Comments for translators": null,
+    "annotation": "(: XXX is a language)"
+  },
+  "629": {
+    "id": "629",
+    "text": "I am looking for people who speak XXX.",
+    "Comments for translators": null,
+    "annotation": "(: XXX is a language)"
+  },
+  "630": {
+    "id": "630",
+    "text": "I am happy to find you home.",
+    "Comments for translators": null
+  },
+  "631": {
+    "id": "631",
+    "text": "It's good to see you again.",
+    "Comments for translators": null
+  },
+  "632": {
+    "id": "632",
+    "text": "It's good that I can talk to you again.",
+    "Comments for translators": null
+  },
+  "633": {
+    "id": "633",
+    "text": "I am sorry that I called at an inconvenient time.",
+    "Comments for translators": null
+  },
+  "634": {
+    "id": "634",
+    "text": "I can see that you are very busy at the moment.",
+    "Comments for translators": null
+  },
+  "635": {
+    "id": "635",
+    "text": "I will be brief.",
+    "Comments for translators": null
+  },
+  "636": {
+    "id": "636",
+    "text": "We are visiting all the families in this area.",
+    "Comments for translators": null
+  },
+  "637": {
+    "id": "637",
+    "text": "We’re making just a brief visit on our neighbors today.",
+    "Comments for translators": null
+  },
+  "638": {
+    "id": "638",
+    "text": "In speaking with people, I have observed that …",
+    "Comments for translators": null
+  },
+  "639": {
+    "id": "639",
+    "text": "In speaking with people, we find that …",
+    "Comments for translators": null
+  },
+  "640": {
+    "id": "640",
+    "text": "We’re talking to our neighbors about where to find practical help to cope with problems of life.",
+    "Comments for translators": null
+  },
+  "641": {
+    "id": "641",
+    "text": "We're talking to our neighbors about …",
+    "Comments for translators": null
+  },
+  "642": {
+    "id": "642",
+    "text": "We're talking to people about …",
+    "Comments for translators": null
+  },
+  "643": {
+    "id": "643",
+    "text": "We've been talking with everyone about …",
+    "Comments for translators": null
+  },
+  "644": {
+    "id": "644",
+    "text": "I'm discussing an issue with my neighbors that we must all face.",
+    "Comments for translators": null
+  },
+  "645": {
+    "id": "645",
+    "text": "Today we have been asking everyone a question.",
+    "Comments for translators": null
+  },
+  "646": {
+    "id": "646",
+    "text": "Today we are asking our neighbors …",
+    "Comments for translators": null
+  },
+  "647": {
+    "id": "647",
+    "text": "I'd like to ask you a question.",
+    "Comments for translators": null
+  },
+  "648": {
+    "id": "648",
+    "text": "Have you ever wondered: …?",
+    "Comments for translators": null
+  },
+  "649": {
+    "id": "649",
+    "text": "Have you ever wondered: Does God really care about the injustice and suffering that humans experience?",
+    "Comments for translators": null
+  },
+  "650": {
+    "id": "650",
+    "text": "Establishing Contact",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "651": {
+    "id": "651",
+    "text": "Is there any way I can contact you?",
+    "Comments for translators": null
+  },
+  "652": {
+    "id": "652",
+    "text": "Could you leave me your telephone number?",
+    "Comments for translators": null
+  },
+  "653": {
+    "id": "653",
+    "text": "My mobile telephone number is …",
+    "Comments for translators": null
+  },
+  "654": {
+    "id": "654",
+    "text": "I will call you before I come.",
+    "Comments for translators": null
+  },
+  "655": {
+    "id": "655",
+    "text": "I will send you a text message (/s.m.s).",
+    "Comments for translators": null
+  },
+  "656": {
+    "id": "656",
+    "text": "Did you receive my text message?",
+    "Comments for translators": null
+  },
+  "657": {
+    "id": "657",
+    "text": "We can meet another time.",
+    "Comments for translators": null
+  },
+  "658": {
+    "id": "658",
+    "text": "Let's make an appointment.",
+    "Comments for translators": null
+  },
+  "659": {
+    "id": "659",
+    "text": "When would be convenient for you?",
+    "Comments for translators": null
+  },
+  "660": {
+    "id": "660",
+    "text": "When would it be convenient to meet?",
+    "Comments for translators": null
+  },
+  "661": {
+    "id": "661",
+    "text": "I'm sorry, tomorrow is not convenient for me.",
+    "Comments for translators": null
+  },
+  "662": {
+    "id": "662",
+    "text": "When is the best time for me to phone you?",
+    "Comments for translators": null
+  },
+  "663": {
+    "id": "663",
+    "text": "When is the best time for me to visit you?",
+    "Comments for translators": null
+  },
+  "664": {
+    "id": "664",
+    "text": "How about next week?",
+    "Comments for translators": null
+  },
+  "665": {
+    "id": "665",
+    "text": "Is next Tuesday afternoon convenient for you?",
+    "Comments for translators": null
+  },
+  "666": {
+    "id": "666",
+    "text": "Will you be in the shop?",
+    "Comments for translators": null
+  },
+  "667": {
+    "id": "667",
+    "text": "Will you be at home?",
+    "Comments for translators": null
+  },
+  "668": {
+    "id": "668",
+    "text": "We can meet for a cup of tea (/coffee).",
+    "Comments for translators": null
+  },
+  "669": {
+    "id": "669",
+    "text": "We can meet for a chat.",
+    "Comments for translators": null
+  },
+  "670": {
+    "id": "670",
+    "text": "Do you have time next week?",
+    "Comments for translators": null
+  },
+  "671": {
+    "id": "671",
+    "text": "Do you have 10 minutes tomorrow?",
+    "Comments for translators": null
+  },
+  "672": {
+    "id": "672",
+    "text": "Can we meet a bit earlier?",
+    "Comments for translators": null
+  },
+  "673": {
+    "id": "673",
+    "text": "Can we meet a bit later?",
+    "Comments for translators": null
+  },
+  "674": {
+    "id": "674",
+    "text": "I'm sorry, I will have to cancel our appointment.",
+    "Comments for translators": null
+  },
+  "675": {
+    "id": "675",
+    "text": "Can we reschedule our appointment for another day?",
+    "Comments for translators": null
+  },
+  "676": {
+    "id": "676",
+    "text": "Introducing the Bible",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "677": {
+    "id": "677",
+    "text": "I came to share an important thought with you from the Bible.",
+    "Comments for translators": null
+  },
+  "678": {
+    "id": "678",
+    "text": "I would like to share an encouraging thought with you from the Bible.",
+    "Comments for translators": null
+  },
+  "679": {
+    "id": "679",
+    "text": "I’m sharing with my neighbors an encouraging thought from the Bible.",
+    "Comments for translators": null
+  },
+  "680": {
+    "id": "680",
+    "text": "We’re encouraging people to read their Bible.",
+    "Comments for translators": null
+  },
+  "681": {
+    "id": "681",
+    "text": "The answers that the Bible gives to important questions often surprise people. For example: . . .",
+    "Comments for translators": null
+  },
+  "682": {
+    "id": "682",
+    "text": "Please note, what it says here in the Bible.",
+    "Comments for translators": null
+  },
+  "683": {
+    "id": "683",
+    "text": "Would you like to study the Bible with me?",
+    "Comments for translators": null
+  },
+  "684": {
+    "id": "684",
+    "text": "We are offering people a free home Bible Study course.",
+    "Comments for translators": null
+  },
+  "685": {
+    "id": "685",
+    "text": "Introducing Literature",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "686": {
+    "id": "686",
+    "text": "I would like to give you this tract.",
+    "Comments for translators": null
+  },
+  "687": {
+    "id": "687",
+    "text": "This tract talks about …",
+    "Comments for translators": null
+  },
+  "688": {
+    "id": "688",
+    "text": "Reading this tract won't take much of your time.",
+    "Comments for translators": null
+  },
+  "689": {
+    "id": "689",
+    "text": "It is very interesting.",
+    "Comments for translators": null
+  },
+  "690": {
+    "id": "690",
+    "text": "Would you like to read this brochure?",
+    "Comments for translators": null
+  },
+  "691": {
+    "id": "691",
+    "text": "Can I leave you with these magazines?",
+    "Comments for translators": null
+  },
+  "692": {
+    "id": "692",
+    "text": "Look at this picture.",
+    "Comments for translators": null
+  },
+  "693": {
+    "id": "693",
+    "text": "I wanted to show you this book.",
+    "Comments for translators": null
+  },
+  "694": {
+    "id": "694",
+    "text": "Please look at what it says in this book.",
+    "Comments for translators": null
+  },
+  "695": {
+    "id": "695",
+    "text": "It is free of charge.",
+    "Comments for translators": null
+  },
+  "696": {
+    "id": "696",
+    "text": "Our work is supported by voluntary donations.",
+    "Comments for translators": null
+  },
+  "697": {
+    "id": "697",
+    "text": "You can borrow this book.",
+    "Comments for translators": null
+  },
+  "698": {
+    "id": "698",
+    "text": "I can lend you my book.",
+    "Comments for translators": null
+  },
+  "699": {
+    "id": "699",
+    "text": "I would like to give you some information in your own language.",
+    "Comments for translators": null
+  },
+  "700": {
+    "id": "700",
+    "text": "Asking for Opinions",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "701": {
+    "id": "701",
+    "text": "What do you think of that?",
+    "Comments for translators": null,
+    "annotation": "(: Say this after you have said or shown something)"
+  },
+  "702": {
+    "id": "702",
+    "text": "Does it sound good to you?",
+    "Comments for translators": null
+  },
+  "703": {
+    "id": "703",
+    "text": "Do you agree with …?",
+    "Comments for translators": null
+  },
+  "704": {
+    "id": "704",
+    "text": "How do you feel about …?",
+    "Comments for translators": null
+  },
+  "705": {
+    "id": "705",
+    "text": "What do you think of …?",
+    "Comments for translators": null
+  },
+  "706": {
+    "id": "706",
+    "text": "Returning",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "707": {
+    "id": "707",
+    "text": "Next time, I'd like to discuss…",
+    "Comments for translators": null
+  },
+  "708": {
+    "id": "708",
+    "text": "Next time, I'd like to answer an important question…",
+    "Comments for translators": null
+  },
+  "709": {
+    "id": "709",
+    "text": "Next time I come, I'd like to discuss this question with you.",
+    "Comments for translators": null
+  },
+  "710": {
+    "id": "710",
+    "text": "Next time, we can talk about the information in chapter 2 of this book.",
+    "Comments for translators": null
+  },
+  "711": {
+    "id": "711",
+    "text": "Do you remember, …",
+    "Comments for translators": null
+  },
+  "712": {
+    "id": "712",
+    "text": "Last time I asked you a question.",
+    "Comments for translators": null
+  },
+  "713": {
+    "id": "713",
+    "text": "This time I'd like to answer that question.",
+    "Comments for translators": null
+  },
+  "714": {
+    "id": "714",
+    "text": "Searching for someone",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "715": {
+    "id": "715",
+    "text": "Is XXX home?",
+    "Comments for translators": null
+  },
+  "716": {
+    "id": "716",
+    "text": "Is XXX here?",
+    "Comments for translators": null
+  },
+  "717": {
+    "id": "717",
+    "text": "He has gone out.",
+    "Comments for translators": null
+  },
+  "718": {
+    "id": "718",
+    "text": "When will he come back?",
+    "Comments for translators": null
+  },
+  "719": {
+    "id": "719",
+    "text": "I will wait (for him).",
+    "Comments for translators": null
+  },
+  "720": {
+    "id": "720",
+    "text": "I will come back tomorrow.",
+    "Comments for translators": null
+  },
+  "721": {
+    "id": "721",
+    "text": "Never mind.",
+    "Comments for translators": null
+  },
+  "722": {
+    "id": "722",
+    "text": "No problem.",
+    "Comments for translators": null
+  },
+  "724": {
+    "id": "724",
+    "text": "Saying Prayers",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "725": {
+    "id": "725",
+    "text": "Model Prayer (Matt 6)",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "726": {
+    "id": "726",
+    "text": "Our Father in the heavens, let your name be sanctified.",
+    "Comments for translators": "Please copy the Model Prayer from the Bible."
+  },
+  "727": {
+    "id": "727",
+    "text": "Let your kingdom come.",
+    "Comments for translators": null
+  },
+  "728": {
+    "id": "728",
+    "text": "Let your will take place, as in heaven, also upon earth.",
+    "Comments for translators": null
+  },
+  "729": {
+    "id": "729",
+    "text": "Give us today our bread for this day;",
+    "Comments for translators": null
+  },
+  "730": {
+    "id": "730",
+    "text": "and forgive us our debts, as we also have forgiven our debtors.",
+    "Comments for translators": null
+  },
+  "731": {
+    "id": "731",
+    "text": "And do not bring us into temptation, but deliver us from the wicked one.",
+    "Comments for translators": null
+  },
+  "732": {
+    "id": "732",
+    "text": "Addressing Jehovah",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "733": {
+    "id": "733",
+    "text": "you",
+    "Comments for translators": null,
+    "annotation": "(: the personal pronouns commonly used to address Jehovah in the target language)"
+  },
+  "734": {
+    "id": "734",
+    "text": "Jehovah",
+    "Comments for translators": null
+  },
+  "735": {
+    "id": "735",
+    "text": "God",
+    "Comments for translators": null
+  },
+  "736": {
+    "id": "736",
+    "text": "Our God",
+    "Comments for translators": null
+  },
+  "737": {
+    "id": "737",
+    "text": "Jehovah Our God",
+    "Comments for translators": null
+  },
+  "738": {
+    "id": "738",
+    "text": "Creator",
+    "Comments for translators": null
+  },
+  "739": {
+    "id": "739",
+    "text": "Our Creator",
+    "Comments for translators": null
+  },
+  "740": {
+    "id": "740",
+    "text": "Creator of Heaven and Earth",
+    "Comments for translators": null
+  },
+  "741": {
+    "id": "741",
+    "text": "father",
+    "Comments for translators": null
+  },
+  "742": {
+    "id": "742",
+    "text": "our Father",
+    "Comments for translators": null
+  },
+  "743": {
+    "id": "743",
+    "text": "dear",
+    "Comments for translators": null
+  },
+  "744": {
+    "id": "744",
+    "text": "kind",
+    "Comments for translators": null
+  },
+  "745": {
+    "id": "745",
+    "text": "merciful",
+    "Comments for translators": null
+  },
+  "746": {
+    "id": "746",
+    "text": "beloved",
+    "Comments for translators": null
+  },
+  "747": {
+    "id": "747",
+    "text": "loving",
+    "Comments for translators": null
+  },
+  "748": {
+    "id": "748",
+    "text": "mighty",
+    "Comments for translators": null
+  },
+  "749": {
+    "id": "749",
+    "text": "almighty",
+    "Comments for translators": null
+  },
+  "750": {
+    "id": "750",
+    "text": "in the heavens; heavenly",
+    "Comments for translators": null
+  },
+  "751": {
+    "id": "751",
+    "text": "Our Father in the heavens",
+    "Comments for translators": null
+  },
+  "752": {
+    "id": "752",
+    "text": "Jesus Christ",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "753": {
+    "id": "753",
+    "text": "Jesus Christ",
+    "Comments for translators": null
+  },
+  "754": {
+    "id": "754",
+    "text": "We ask this prayer in Jesus name.",
+    "Comments for translators": null
+  },
+  "755": {
+    "id": "755",
+    "text": "We ask this prayer through Jesus.",
+    "Comments for translators": null
+  },
+  "756": {
+    "id": "756",
+    "text": "Please accept our prayer in the name of Jesus Christ.",
+    "Comments for translators": null
+  },
+  "757": {
+    "id": "757",
+    "text": "our saviour",
+    "Comments for translators": null
+  },
+  "758": {
+    "id": "758",
+    "text": "your son",
+    "Comments for translators": null
+  },
+  "759": {
+    "id": "759",
+    "text": "our king",
+    "Comments for translators": null
+  },
+  "760": {
+    "id": "760",
+    "text": "our reigning king",
+    "Comments for translators": null
+  },
+  "761": {
+    "id": "761",
+    "text": "Amen.",
+    "Comments for translators": null
+  },
+  "762": {
+    "id": "762",
+    "text": "Praise",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "763": {
+    "id": "763",
+    "text": "We love you.",
+    "Comments for translators": null
+  },
+  "764": {
+    "id": "764",
+    "text": "We praise you.",
+    "Comments for translators": null
+  },
+  "765": {
+    "id": "765",
+    "text": "We glorify you.",
+    "Comments for translators": null
+  },
+  "766": {
+    "id": "766",
+    "text": "We look forward to the blessings your Kingdom will bring.",
+    "Comments for translators": null
+  },
+  "767": {
+    "id": "767",
+    "text": "We want to do your will.",
+    "Comments for translators": null
+  },
+  "768": {
+    "id": "768",
+    "text": "We want to praise your name.",
+    "Comments for translators": null
+  },
+  "769": {
+    "id": "769",
+    "text": "Gratitude",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "770": {
+    "id": "770",
+    "text": "We are happy that …",
+    "Comments for translators": null
+  },
+  "771": {
+    "id": "771",
+    "text": "We are happy that we can meet together.",
+    "Comments for translators": null
+  },
+  "772": {
+    "id": "772",
+    "text": "We are happy that we can meet together today.",
+    "Comments for translators": null
+  },
+  "773": {
+    "id": "773",
+    "text": "We are grateful that…",
+    "Comments for translators": null
+  },
+  "774": {
+    "id": "774",
+    "text": "We are grateful that we have this meeting place.",
+    "Comments for translators": null
+  },
+  "775": {
+    "id": "775",
+    "text": "We are grateful to you for this opportunity.",
+    "Comments for translators": null
+  },
+  "776": {
+    "id": "776",
+    "text": "We are grateful for the knowledge you give to us through the meetings.",
+    "Comments for translators": null
+  },
+  "777": {
+    "id": "777",
+    "text": "Thank you for …",
+    "Comments for translators": null
+  },
+  "778": {
+    "id": "778",
+    "text": "Thank you for this wonderful privilege.",
+    "Comments for translators": null
+  },
+  "779": {
+    "id": "779",
+    "text": "Thank you for life.",
+    "Comments for translators": null
+  },
+  "780": {
+    "id": "780",
+    "text": "Thank you for leading us out of this world.",
+    "Comments for translators": null
+  },
+  "781": {
+    "id": "781",
+    "text": "Thank you for your word the Bible.",
+    "Comments for translators": null
+  },
+  "782": {
+    "id": "782",
+    "text": "Thank you for the opportunity we have to know you.",
+    "Comments for translators": null
+  },
+  "783": {
+    "id": "783",
+    "text": "Thank you for the ransom sacrifice of Jesus Christ.",
+    "Comments for translators": null
+  },
+  "784": {
+    "id": "784",
+    "text": "Thank you for our brothers and sisters.",
+    "Comments for translators": null
+  },
+  "785": {
+    "id": "785",
+    "text": "Thank you for this meeting.",
+    "Comments for translators": null
+  },
+  "786": {
+    "id": "786",
+    "text": "Thank you for the hope you give us for the future.",
+    "Comments for translators": null
+  },
+  "787": {
+    "id": "787",
+    "text": "Thank you for sending your Son to the Earth.",
+    "Comments for translators": null
+  },
+  "788": {
+    "id": "788",
+    "text": "Thank you for the reminders we heard during this meeting.",
+    "Comments for translators": null
+  },
+  "789": {
+    "id": "789",
+    "text": "Requests",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "790": {
+    "id": "790",
+    "text": "to guide XXX",
+    "Comments for translators": "I have deliberately not included the word \"Please\" in the following phrases, because it is not always necessary when we are praying in English. You should not translate these phrases literally if it is not appropriate or natural in your language. I have included separate entries for the word \"Please\" later on. Let me know if this arrangement is not appropriate for your language."
+  },
+  "791": {
+    "id": "791",
+    "text": "Guide us.",
+    "Comments for translators": null
+  },
+  "792": {
+    "id": "792",
+    "text": "Guide your organization.",
+    "Comments for translators": null
+  },
+  "793": {
+    "id": "793",
+    "text": "Guide the governing body.",
+    "Comments for translators": null
+  },
+  "794": {
+    "id": "794",
+    "text": "to help XXX",
+    "Comments for translators": null
+  },
+  "795": {
+    "id": "795",
+    "text": "Help us to serve you.",
+    "Comments for translators": null
+  },
+  "796": {
+    "id": "796",
+    "text": "Help us to do what is right.",
+    "Comments for translators": null
+  },
+  "797": {
+    "id": "797",
+    "text": "Help us to resist temptation.",
+    "Comments for translators": null
+  },
+  "798": {
+    "id": "798",
+    "text": "Help us to endure.",
+    "Comments for translators": null
+  },
+  "799": {
+    "id": "799",
+    "text": "Help us to continue attending meetings.",
+    "Comments for translators": null
+  },
+  "800": {
+    "id": "800",
+    "text": "Help us to find honesthearted people in the ministry.",
+    "Comments for translators": null
+  },
+  "801": {
+    "id": "801",
+    "text": "Help us to tell others the things we have learned.",
+    "Comments for translators": null
+  },
+  "802": {
+    "id": "802",
+    "text": "Help us to concentrate during this meeting.",
+    "Comments for translators": null
+  },
+  "803": {
+    "id": "803",
+    "text": "Help us to meditate on your Word.",
+    "Comments for translators": null
+  },
+  "804": {
+    "id": "804",
+    "text": "Help us to apply the things we have learned.",
+    "Comments for translators": null
+  },
+  "805": {
+    "id": "805",
+    "text": "Help our brothers who have difficulties at this time.",
+    "Comments for translators": null
+  },
+  "806": {
+    "id": "806",
+    "text": "Help us to notice the needs of our brothers.",
+    "Comments for translators": null
+  },
+  "807": {
+    "id": "807",
+    "text": "Help XXX to continue studying your Word.",
+    "Comments for translators": null
+  },
+  "808": {
+    "id": "808",
+    "text": "Help XXX to be brave.",
+    "Comments for translators": null
+  },
+  "809": {
+    "id": "809",
+    "text": "Help XXX to continue to make good spiritual progress.",
+    "Comments for translators": null
+  },
+  "810": {
+    "id": "810",
+    "text": "to give XXX to YYY",
+    "Comments for translators": null
+  },
+  "811": {
+    "id": "811",
+    "text": "Give us …",
+    "Comments for translators": null
+  },
+  "812": {
+    "id": "812",
+    "text": "Give us your Holy Spirit.",
+    "Comments for translators": null
+  },
+  "813": {
+    "id": "813",
+    "text": "Give us wisdom.",
+    "Comments for translators": null
+  },
+  "814": {
+    "id": "814",
+    "text": "Give us the strength to do all that is required of us.",
+    "Comments for translators": null
+  },
+  "815": {
+    "id": "815",
+    "text": "to ask for XXX",
+    "Comments for translators": null
+  },
+  "816": {
+    "id": "816",
+    "text": "We ask for …",
+    "Comments for translators": null
+  },
+  "817": {
+    "id": "817",
+    "text": "We ask for your guidance at this difficult time.",
+    "Comments for translators": null
+  },
+  "818": {
+    "id": "818",
+    "text": "to bless XXX",
+    "Comments for translators": null
+  },
+  "819": {
+    "id": "819",
+    "text": "Bless …",
+    "Comments for translators": null
+  },
+  "820": {
+    "id": "820",
+    "text": "Bless us.",
+    "Comments for translators": null
+  },
+  "821": {
+    "id": "821",
+    "text": "Bless our ministry.",
+    "Comments for translators": null
+  },
+  "822": {
+    "id": "822",
+    "text": "Bless this meeting.",
+    "Comments for translators": null
+  },
+  "823": {
+    "id": "823",
+    "text": "Bless our congregation.",
+    "Comments for translators": null
+  },
+  "824": {
+    "id": "824",
+    "text": "to protect XXX",
+    "Comments for translators": null
+  },
+  "825": {
+    "id": "825",
+    "text": "Protect us.",
+    "Comments for translators": null
+  },
+  "826": {
+    "id": "826",
+    "text": "Protect the brothers who could not be here this evening.",
+    "Comments for translators": null
+  },
+  "827": {
+    "id": "827",
+    "text": "Protect our brothers who are being persecuted in other lands.",
+    "Comments for translators": null
+  },
+  "828": {
+    "id": "828",
+    "text": "Protect us as we go to our homes this evening.",
+    "Comments for translators": null
+  },
+  "829": {
+    "id": "829",
+    "text": "Please …",
+    "Comments for translators": "If this is difficult to translate, please try to explain to me what the problem is.",
+    "annotation": "(: a word or phrase that can be used in prayer to make a request more polite or intense)"
+  },
+  "830": {
+    "id": "830",
+    "text": "Bless this meeting.",
+    "Comments for translators": null
+  },
+  "831": {
+    "id": "831",
+    "text": "Please bless this meeting.",
+    "Comments for translators": null
+  },
+  "832": {
+    "id": "832",
+    "text": "Sins & Problems",
+    "Comments for translators": "This is a heading. Please translate it."
+  },
+  "833": {
+    "id": "833",
+    "text": "We are imperfect.",
+    "Comments for translators": null
+  },
+  "834": {
+    "id": "834",
+    "text": "to sin",
+    "Comments for translators": null
+  },
+  "835": {
+    "id": "835",
+    "text": "We sin many times.",
+    "Comments for translators": null
+  },
+  "836": {
+    "id": "836",
+    "text": "We are sorry.",
+    "Comments for translators": null
+  },
+  "837": {
+    "id": "837",
+    "text": "We are very sorry that we have sinned.",
+    "Comments for translators": null
+  },
+  "838": {
+    "id": "838",
+    "text": "We are sorry that we are sinners.",
+    "Comments for translators": null
+  },
+  "839": {
+    "id": "839",
+    "text": "forgiveness",
+    "Comments for translators": null
+  },
+  "840": {
+    "id": "840",
+    "text": "We humbly ask for your forgiveness.",
+    "Comments for translators": null
+  },
+  "841": {
+    "id": "841",
+    "text": "to forgive XXX",
+    "Comments for translators": null,
+    "annotation": "(: XXX is a person)"
+  },
+  "842": {
+    "id": "842",
+    "text": "Please forgive us.",
+    "Comments for translators": null
+  },
+  "843": {
+    "id": "843",
+    "text": "Please forgive us on the basis of your Son's ransom sacrifice.",
+    "Comments for translators": null
+  },
+  "844": {
+    "id": "844",
+    "text": "to forgive XXX",
+    "Comments for translators": null,
+    "annotation": "(: XXX is a sin)"
+  },
+  "845": {
+    "id": "845",
+    "text": "Please forgive our sins.",
+    "Comments for translators": null
+  },
+  "846": {
+    "id": "846",
+    "text": "We live in a wicked world.",
+    "Comments for translators": null
+  },
+  "847": {
+    "id": "847",
+    "text": "We experience many problems.",
+    "Comments for translators": null
+  }
+}

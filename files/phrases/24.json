@@ -1,0 +1,3396 @@
+{
+  "5": {
+    "id": "5",
+    "text": null
+  },
+  "7": {
+    "id": "7",
+    "text": "nepaalii"
+  },
+  "8": {
+    "id": "8",
+    "text": "Nepali (Latin) | .np"
+  },
+  "11": {
+    "id": "11",
+    "text": null
+  },
+  "12": {
+    "id": "12",
+    "text": null
+  },
+  "13": {
+    "id": "13",
+    "text": null
+  },
+  "14": {
+    "id": "14",
+    "text": null
+  },
+  "15": {
+    "id": "15",
+    "text": null
+  },
+  "16": {
+    "id": "16",
+    "text": null
+  },
+  "18": {
+    "id": "18",
+    "text": null
+  },
+  "19": {
+    "id": "19",
+    "text": null
+  },
+  "20": {
+    "id": "20",
+    "text": null
+  },
+  "21": {
+    "id": "21",
+    "text": null
+  },
+  "22": {
+    "id": "22",
+    "text": null
+  },
+  "23": {
+    "id": "23",
+    "text": null
+  },
+  "24": {
+    "id": "24",
+    "text": null
+  },
+  "25": {
+    "id": "25",
+    "text": null
+  },
+  "26": {
+    "id": "26",
+    "text": null
+  },
+  "27": {
+    "id": "27",
+    "text": null
+  },
+  "28": {
+    "id": "28",
+    "text": null
+  },
+  "29": {
+    "id": "29",
+    "text": null
+  },
+  "30": {
+    "id": "30",
+    "text": null
+  },
+  "31": {
+    "id": "31",
+    "text": null
+  },
+  "32": {
+    "id": "32",
+    "text": null
+  },
+  "33": {
+    "id": "33",
+    "text": null
+  },
+  "34": {
+    "id": "34",
+    "text": null
+  },
+  "35": {
+    "id": "35",
+    "text": null
+  },
+  "37": {
+    "id": "37",
+    "text": "shabdakosh ra vaakyaharuu"
+  },
+  "38": {
+    "id": "38",
+    "text": "sangathanaatmak sanrachnaa"
+  },
+  "39": {
+    "id": "39",
+    "text": "yehovaakaa saakchhiiharuu"
+  },
+  "40": {
+    "id": "40",
+    "text": "yehovaakaa saakchhiiharuu"
+  },
+  "41": {
+    "id": "41",
+    "text": "yek janaa yehovaako saakchhii"
+  },
+  "42": {
+    "id": "42",
+    "text": "baaibal viddyaarthiiharu (yehovaakaa saakchhiiharulaaii pahilo chinaaune naam)"
+  },
+  "43": {
+    "id": "43",
+    "text": "yek janaa bhaaii",
+    "annotation": "(: yek janaa vishwaashii purush)"
+  },
+  "44": {
+    "id": "44",
+    "text": "yek janaa paripakwa bhaaii"
+  },
+  "45": {
+    "id": "45",
+    "text": "haamro bhaatritwa (vishwaashmaa rahekaa)"
+  },
+  "46": {
+    "id": "46",
+    "text": "haamro aadhyaatmik bhaaiiharuu maajh"
+  },
+  "47": {
+    "id": "47",
+    "text": "yek janaa bahinii",
+    "annotation": "(: mahilaa sangii vishwaashii)"
+  },
+  "48": {
+    "id": "48",
+    "text": "yogye khriisTyaan bahinii",
+    "annotation": "(: bhaaiiko anupasthitmaa kaam garna sakne)"
+  },
+  "49": {
+    "id": "49",
+    "text": "haamraa khriisTyaan bahiniiharuu"
+  },
+  "50": {
+    "id": "50",
+    "text": "haamraa bahiniiharuu"
+  },
+  "51": {
+    "id": "51",
+    "text": "tapaaiikaa aadhyaatmik bhaaii bahiniiharuu"
+  },
+  "52": {
+    "id": "52",
+    "text": "abhisikta janharuu"
+  },
+  "53": {
+    "id": "53",
+    "text": "prithviimaa baanchne aashaa bhayekaaharuu"
+  },
+  "54": {
+    "id": "54",
+    "text": "aru bheDaa"
+  },
+  "55": {
+    "id": "55",
+    "text": "swargiiye aashaa bhayekaaharuu"
+  },
+  "56": {
+    "id": "56",
+    "text": "abhisikta",
+    "annotation": "(: visheshan)"
+  },
+  "57": {
+    "id": "57",
+    "text": "abhisikta khriisTyaanharuu"
+  },
+  "58": {
+    "id": "58",
+    "text": "prithviimaa bhayekaa chelaaharuuko manDalii"
+  },
+  "59": {
+    "id": "59",
+    "text": "vishwaasii ra buddhimaan baas"
+  },
+  "60": {
+    "id": "60",
+    "text": "parichaalak nikaaye"
+  },
+  "61": {
+    "id": "61",
+    "text": "parichaalak nikaayeko sadasye"
+  },
+  "62": {
+    "id": "62",
+    "text": "baptismaa"
+  },
+  "63": {
+    "id": "63",
+    "text": "baptismaa garnu"
+  },
+  "64": {
+    "id": "64",
+    "text": "maile duii hajaar chha maa baptismaa gare."
+  },
+  "65": {
+    "id": "65",
+    "text": "XXX laaii baptismaa garaunu"
+  },
+  "66": {
+    "id": "66",
+    "text": "yuuhannaale yeshulaaii baptismaa garaaye"
+  },
+  "67": {
+    "id": "67",
+    "text": "baptismaa",
+    "annotation": "(: awasar)"
+  },
+  "68": {
+    "id": "68",
+    "text": "uhaan aaphno viddyaarthiiko baptismaamaa upasthit hunubhayo."
+  },
+  "69": {
+    "id": "69",
+    "text": "prakaashak"
+  },
+  "70": {
+    "id": "70",
+    "text": "baptismaa apraapta prakaashak"
+  },
+  "71": {
+    "id": "71",
+    "text": "unii kahile baptismaa apraapta prakaashak bhaye?"
+  },
+  "72": {
+    "id": "72",
+    "text": "baptismaa praapta prakaashak"
+  },
+  "73": {
+    "id": "73",
+    "text": "aniyemit prakaashak"
+  },
+  "74": {
+    "id": "74",
+    "text": "niskriye prakaashak"
+  },
+  "75": {
+    "id": "75",
+    "text": "yehovaako sewaa garnu"
+  },
+  "76": {
+    "id": "76",
+    "text": "sewaa"
+  },
+  "77": {
+    "id": "77",
+    "text": "yehovaaprati haamro sewaa"
+  },
+  "78": {
+    "id": "78",
+    "text": "puurnasamaye sewaa"
+  },
+  "79": {
+    "id": "79",
+    "text": "sewaa garnu"
+  },
+  "80": {
+    "id": "80",
+    "text": "XXX ko ruupmaa sewaa garnu"
+  },
+  "81": {
+    "id": "81",
+    "text": "yelDarko ruupmaa sewaa garnu"
+  },
+  "82": {
+    "id": "82",
+    "text": "agragaamiiko ruupmaa sewaa garnu"
+  },
+  "83": {
+    "id": "83",
+    "text": "uhaan haamro manDaliimaa yelDarko ruupmaa sewaa garnuhunchha."
+  },
+  "84": {
+    "id": "84",
+    "text": "XXX abadekhi yelDarko ruupmaa sewaa garnuhune chhaina."
+  },
+  "85": {
+    "id": "85",
+    "text": "yehovaalaaii sewaa garnu"
+  },
+  "86": {
+    "id": "86",
+    "text": "sewak"
+  },
+  "87": {
+    "id": "87",
+    "text": "puurna samaye sewak"
+  },
+  "88": {
+    "id": "88",
+    "text": "parmeshwarko sewak"
+  },
+  "89": {
+    "id": "89",
+    "text": "swayem sewak",
+    "annotation": "(: swayam sewaa garne maanchhe)"
+  },
+  "90": {
+    "id": "90",
+    "text": "nishulka swayem sewak"
+  },
+  "91": {
+    "id": "91",
+    "text": "raajye vawan nirmaan kaarye"
+  },
+  "92": {
+    "id": "92",
+    "text": "praakritik prakop bachauu kaarye"
+  },
+  "93": {
+    "id": "93",
+    "text": "aawashyektaa",
+    "annotation": "(: naam)"
+  },
+  "94": {
+    "id": "94",
+    "text": "aawashyektaa baDhii bhayeko Thaaunmaa sewaa garnu"
+  },
+  "95": {
+    "id": "95",
+    "text": "aawashyektaa baDhii bhayeko Thaaunmaa sarnu"
+  },
+  "96": {
+    "id": "96",
+    "text": "agragaamii"
+  },
+  "97": {
+    "id": "97",
+    "text": "agragaamii skuulmaa upasthit hunu"
+  },
+  "98": {
+    "id": "98",
+    "text": "niyemit agragaamii"
+  },
+  "99": {
+    "id": "99",
+    "text": "sahaayek agragaamii"
+  },
+  "100": {
+    "id": "100",
+    "text": "niyemit sahaayek agragaamii",
+    "annotation": "(: jasle niyemit ruupmaa sahaayek agragaamii garchha)"
+  },
+  "101": {
+    "id": "101",
+    "text": "vishes agragaamii"
+  },
+  "102": {
+    "id": "102",
+    "text": "misanarii"
+  },
+  "103": {
+    "id": "103",
+    "text": "aavedan tathaa niyukti"
+  },
+  "104": {
+    "id": "104",
+    "text": "XXX ko laagi aavedan garnu"
+  },
+  "105": {
+    "id": "105",
+    "text": "vishes sewaako laagi aavedan garnu"
+  },
+  "106": {
+    "id": "106",
+    "text": "giliyaD skuulko laagi"
+  },
+  "107": {
+    "id": "107",
+    "text": "aavedan phaaram"
+  },
+  "108": {
+    "id": "108",
+    "text": "aavedan phaaram bharnu"
+  },
+  "109": {
+    "id": "109",
+    "text": "niyemit agragaamiiko aavedan phaaram bharnu"
+  },
+  "110": {
+    "id": "110",
+    "text": "aavedan phaaram bujhaaunu"
+  },
+  "111": {
+    "id": "111",
+    "text": "shiphaarish",
+    "annotation": "(: kasaiko shiphaarish garnu parne belaa)"
+  },
+  "112": {
+    "id": "112",
+    "text": "elDar hunako laagi"
+  },
+  "113": {
+    "id": "113",
+    "text": "elDar hunako laagi shiphaarish garnu"
+  },
+  "114": {
+    "id": "114",
+    "text": "niyukti",
+    "annotation": "(: kohii niyukta bhayeko belaa)"
+  },
+  "115": {
+    "id": "115",
+    "text": "XXX ko ruupmaa niyukta hunu"
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX elDarko ruupmaa niyukta hunubhayeko chha."
+  },
+  "117": {
+    "id": "117",
+    "text": "XXX laaii sewakaii sewakko ruupmaa niyukta garnu"
+  },
+  "118": {
+    "id": "118",
+    "text": "yogyetaa"
+  },
+  "119": {
+    "id": "119",
+    "text": "baptismaa apraapta prakaashak hunako laagi (uhaanko) yogyetaa chhalphal garinu"
+  },
+  "120": {
+    "id": "120",
+    "text": "baptismaa garna hunuparne yogyetaaharuu haasil garnu"
+  },
+  "121": {
+    "id": "121",
+    "text": "baptismaa apraapta prakaashak hunako laagi yogye hunu"
+  },
+  "122": {
+    "id": "122",
+    "text": "niyukta gariyeko purush"
+  },
+  "123": {
+    "id": "123",
+    "text": "elDar"
+  },
+  "124": {
+    "id": "124",
+    "text": "nirikchhek"
+  },
+  "125": {
+    "id": "125",
+    "text": "\"varadaanko ruupmaa purusharuu\"",
+    "annotation": "(: yephisii 4:8)"
+  },
+  "126": {
+    "id": "126",
+    "text": "sewakaai sewak"
+  },
+  "127": {
+    "id": "127",
+    "text": "elDarharuuko nikaaye"
+  },
+  "128": {
+    "id": "128",
+    "text": "elDarharuuko sabhaa aayojahaa garnu"
+  },
+  "129": {
+    "id": "129",
+    "text": "manDalii sewaa samiti"
+  },
+  "130": {
+    "id": "130",
+    "text": "yo visayemaa manDalii sewaa samitiko anumati chahinchha."
+  },
+  "131": {
+    "id": "131",
+    "text": "elDarharuuko nikaayeko sanyojak"
+  },
+  "132": {
+    "id": "132",
+    "text": "manDaliiko sachiv"
+  },
+  "133": {
+    "id": "133",
+    "text": "sewaa niriikchhek"
+  },
+  "134": {
+    "id": "134",
+    "text": "praharidharaharaa (addhyayen) sanchaalak"
+  },
+  "135": {
+    "id": "135",
+    "text": "ishwartaantrik sewaa skuul nirikchhek"
+  },
+  "136": {
+    "id": "136",
+    "text": "sahaayek sallaahakaar"
+  },
+  "137": {
+    "id": "137",
+    "text": "samuuha niriikchhek"
+  },
+  "138": {
+    "id": "138",
+    "text": "nyaayik samiti"
+  },
+  "139": {
+    "id": "139",
+    "text": "nyaayik samiti raakhnu"
+  },
+  "140": {
+    "id": "140",
+    "text": "aadhyaatmik goThaalaaharuu"
+  },
+  "141": {
+    "id": "141",
+    "text": "aadhyaatmik bheDaa"
+  },
+  "142": {
+    "id": "142",
+    "text": "goThaalo bheT"
+  },
+  "143": {
+    "id": "143",
+    "text": "XXX laaii goThaalo bheT garnu"
+  },
+  "144": {
+    "id": "144",
+    "text": "bhraman niriikchhekharuu"
+  },
+  "145": {
+    "id": "145",
+    "text": "bhraman niriikchhek"
+  },
+  "146": {
+    "id": "146",
+    "text": "kchhettriiye niriikchhek"
+  },
+  "147": {
+    "id": "147",
+    "text": "kchhetra"
+  },
+  "148": {
+    "id": "148",
+    "text": "kchhettriiye niriikchhekko pratinidhi"
+  },
+  "149": {
+    "id": "149",
+    "text": "manDaliiharuuko bhraman garnu"
+  },
+  "150": {
+    "id": "150",
+    "text": "kchhettriiye niriikchhekko bhraman"
+  },
+  "151": {
+    "id": "151",
+    "text": "jillaa niriikchhek"
+  },
+  "152": {
+    "id": "152",
+    "text": "jillaa"
+  },
+  "153": {
+    "id": "153",
+    "text": "praangiiye niriikchhek"
+  },
+  "154": {
+    "id": "154",
+    "text": "samuuha ra manDaliiharuu"
+  },
+  "155": {
+    "id": "155",
+    "text": "manDalii",
+    "annotation": "(: yeuTai vishwaas bhayeko maanisharuuko samuuha)"
+  },
+  "156": {
+    "id": "156",
+    "text": "manDaliiko vibhaajan garnu"
+  },
+  "157": {
+    "id": "157",
+    "text": "nyaan manDaliiko sthaapnaa garnu"
+  },
+  "158": {
+    "id": "158",
+    "text": "khriisTyaan manDalii",
+    "annotation": "(: sabai janaa bhayeko yeuTai \"Thulo\" manDalii)"
+  },
+  "159": {
+    "id": "159",
+    "text": "samuuha"
+  },
+  "160": {
+    "id": "160",
+    "text": "prithak samuuha"
+  },
+  "161": {
+    "id": "161",
+    "text": "bideshii bhaashaako samuuha"
+  },
+  "162": {
+    "id": "162",
+    "text": "shaakhaa kaaryelayeharuu"
+  },
+  "163": {
+    "id": "163",
+    "text": "shaakhaa kaaryelaye"
+  },
+  "164": {
+    "id": "164",
+    "text": "yehovaakaa saakchhiiharuuko shaakhaa kaaryelaye"
+  },
+  "165": {
+    "id": "165",
+    "text": "shaakhaa sanyojak"
+  },
+  "166": {
+    "id": "166",
+    "text": "shaakhaa samiti"
+  },
+  "167": {
+    "id": "167",
+    "text": "upashaakhaa samiti"
+  },
+  "168": {
+    "id": "168",
+    "text": "bethel"
+  },
+  "169": {
+    "id": "169",
+    "text": "bethelaaiT / bethel sewak",
+    "annotation": "(: bethelmaa sewaa garne vyekti)"
+  },
+  "170": {
+    "id": "170",
+    "text": "ke tapaain bethelko bhraman garna chaahanuhunchha?"
+  },
+  "171": {
+    "id": "171",
+    "text": "bhraman",
+    "annotation": "(: naam)"
+  },
+  "172": {
+    "id": "172",
+    "text": "haamro manDaliile arko haptaa bethel bhraman garnechha."
+  },
+  "173": {
+    "id": "173",
+    "text": "ma tapaainko Tuur gaaiD hunechhu."
+  },
+  "174": {
+    "id": "174",
+    "text": "ma tapaainlaaii shaakhaa kaaryelaye dekhaaunechhu."
+  },
+  "175": {
+    "id": "175",
+    "text": "sewaa vibhaag",
+    "annotation": "(: bethelko)"
+  },
+  "176": {
+    "id": "176",
+    "text": "kripayaa sewaa vibhaaglaaii lekhnuhos."
+  },
+  "177": {
+    "id": "177",
+    "text": "vishwa mukhye kaaryelaye"
+  },
+  "178": {
+    "id": "178",
+    "text": "manDaliiko suawasarharuu"
+  },
+  "179": {
+    "id": "179",
+    "text": "parichaarak"
+  },
+  "180": {
+    "id": "180",
+    "text": "upasthit vyaktiharuu",
+    "annotation": "(: sabhaamaa upasthit vyektiharuu)"
+  },
+  "181": {
+    "id": "181",
+    "text": "shrotaa",
+    "annotation": "(: sabhaamaa basera sunirahekaaharuu)"
+  },
+  "182": {
+    "id": "182",
+    "text": "upasthit maanchheharuuko gantii garne"
+  },
+  "183": {
+    "id": "183",
+    "text": "upasthiti",
+    "annotation": "(: sabhaamaa upasthit maanchheharuuko sankhyaa)"
+  },
+  "184": {
+    "id": "184",
+    "text": "aghillo varsako ausat sewaa sabhaa upasthiti 85 thiyo."
+  },
+  "185": {
+    "id": "185",
+    "text": "maaik Doryaaune"
+  },
+  "186": {
+    "id": "186",
+    "text": "maaik"
+  },
+  "187": {
+    "id": "187",
+    "text": "maaik Doryaaunu"
+  },
+  "188": {
+    "id": "188",
+    "text": "maaik milaaunu"
+  },
+  "189": {
+    "id": "189",
+    "text": "maaik an garnu"
+  },
+  "190": {
+    "id": "190",
+    "text": "maaik aph garnu"
+  },
+  "191": {
+    "id": "191",
+    "text": "whvaniko laagi jimmewaar bhaai"
+  },
+  "192": {
+    "id": "192",
+    "text": "saaunD sisTam"
+  },
+  "193": {
+    "id": "193",
+    "text": "saaunD sisTam chalaanu"
+  },
+  "194": {
+    "id": "194",
+    "text": "aawaaj baDhaaunu"
+  },
+  "195": {
+    "id": "195",
+    "text": "aawaaj ghaTaaunu"
+  },
+  "196": {
+    "id": "196",
+    "text": "manchko laagi jimmewaar bhaai"
+  },
+  "197": {
+    "id": "197",
+    "text": "manch"
+  },
+  "198": {
+    "id": "198",
+    "text": "poDyaam"
+  },
+  "199": {
+    "id": "199",
+    "text": "poDyaam milaaunu"
+  },
+  "200": {
+    "id": "200",
+    "text": "saahityeko laagi jimmewaar bhaai"
+  },
+  "201": {
+    "id": "201",
+    "text": "saahitye vibhaag"
+  },
+  "202": {
+    "id": "202",
+    "text": "saahityeharuu magaaunu"
+  },
+  "203": {
+    "id": "203",
+    "text": "pattrikaaharuuko laagi jimmewaar bhaai"
+  },
+  "204": {
+    "id": "204",
+    "text": "pattrikaa vibhaag"
+  },
+  "205": {
+    "id": "205",
+    "text": "(aaphno) pattrikaaharuu sankalan garnu"
+  },
+  "206": {
+    "id": "206",
+    "text": "ilaakaako laagi jimmewaar bhaai"
+  },
+  "207": {
+    "id": "207",
+    "text": "ilaakaa (prachaarko laagi)"
+  },
+  "208": {
+    "id": "208",
+    "text": "ilaakaako nakshaa"
+  },
+  "209": {
+    "id": "209",
+    "text": "ilaakaako kaarD"
+  },
+  "210": {
+    "id": "210",
+    "text": "lekhaako laagi jimmewaar bhaai"
+  },
+  "211": {
+    "id": "211",
+    "text": "lekhaa"
+  },
+  "212": {
+    "id": "212",
+    "text": "manDaliiko lekhaa"
+  },
+  "213": {
+    "id": "213",
+    "text": "manDaliiko lekhaa tayaar paarnu"
+  },
+  "214": {
+    "id": "214",
+    "text": "manDaliiko lekhaa pariikchhen garnu"
+  },
+  "215": {
+    "id": "215",
+    "text": "anudaan"
+  },
+  "216": {
+    "id": "216",
+    "text": "vishwavyaakii kaaryeko laagi anudaan",
+    "annotation": "(: mattii 24:14)"
+  },
+  "217": {
+    "id": "217",
+    "text": "manDaliiko laagi anudaan"
+  },
+  "218": {
+    "id": "218",
+    "text": "anudaanharuu gantii (/ joD) garnu"
+  },
+  "219": {
+    "id": "219",
+    "text": "anudaan garnu (/ dinu)"
+  },
+  "220": {
+    "id": "220",
+    "text": "vishwavyaapii kaaryeko laagi anudaan garnu"
+  },
+  "221": {
+    "id": "221",
+    "text": "anudaan baakas"
+  },
+  "222": {
+    "id": "222",
+    "text": "anudaan baakasmaa anudaan khasaalnu"
+  },
+  "223": {
+    "id": "223",
+    "text": "anudaan baakasharuu Dhokaa sangai raakhiyeko hunchha."
+  },
+  "225": {
+    "id": "225",
+    "text": "sabhaaharuu"
+  },
+  "226": {
+    "id": "226",
+    "text": "upaasnaa sthalharuu"
+  },
+  "227": {
+    "id": "227",
+    "text": "bhawan"
+  },
+  "228": {
+    "id": "228",
+    "text": "hamroo upaasnaa"
+  },
+  "229": {
+    "id": "229",
+    "text": "swayem sewaa nirmaan"
+  },
+  "230": {
+    "id": "230",
+    "text": "raajye bhawan"
+  },
+  "231": {
+    "id": "231",
+    "text": "raajhe bhawan chhiTo nirmaan"
+  },
+  "232": {
+    "id": "232",
+    "text": "raajhe bhawan rekhdekh garnu"
+  },
+  "233": {
+    "id": "233",
+    "text": "raajhe bhawanko marmat garnu"
+  },
+  "234": {
+    "id": "234",
+    "text": "raajhe bhawanko sarsaphaai garnu"
+  },
+  "235": {
+    "id": "235",
+    "text": "raajhe bhawanko saphaai garne paalo haamro ho."
+  },
+  "236": {
+    "id": "236",
+    "text": "sammelan bhawan"
+  },
+  "237": {
+    "id": "237",
+    "text": "sabhaaharuumaa upasthit hunu"
+  },
+  "238": {
+    "id": "238",
+    "text": "sabhaa"
+  },
+  "239": {
+    "id": "239",
+    "text": "sabhaamaa upasthit hunu"
+  },
+  "240": {
+    "id": "240",
+    "text": "sabhaa sanchaalan garnu"
+  },
+  "241": {
+    "id": "241",
+    "text": "tayaarii garnu",
+    "annotation": "(: vyaktigat tayaarii garnu)"
+  },
+  "242": {
+    "id": "242",
+    "text": "sabhaako laagi tayaarii garnu"
+  },
+  "243": {
+    "id": "243",
+    "text": "XXX ko tayaarii garnu"
+  },
+  "244": {
+    "id": "244",
+    "text": "Tipaniiko tayaar garnu"
+  },
+  "245": {
+    "id": "245",
+    "text": "bhaashanko tayaarii garnu"
+  },
+  "246": {
+    "id": "246",
+    "text": "XXX sanga sangat garnu"
+  },
+  "247": {
+    "id": "247",
+    "text": "sabhaa pachi haamro bhaai bahinniiharuu sanga sangat garna sakchhaun."
+  },
+  "248": {
+    "id": "248",
+    "text": "XXX laaii protsaahan dinu"
+  },
+  "249": {
+    "id": "249",
+    "text": "tapaainko Tipanii mero laagi dherai protsaahanjanak thiyo !"
+  },
+  "250": {
+    "id": "250",
+    "text": "yeuTa protsaahanjanak Tipanii"
+  },
+  "251": {
+    "id": "251",
+    "text": "mandalii baaibal addhyayen"
+  },
+  "252": {
+    "id": "252",
+    "text": "iswartaantrik sewaa skuul"
+  },
+  "253": {
+    "id": "253",
+    "text": "sewaa sabhaa"
+  },
+  "254": {
+    "id": "254",
+    "text": "kchhettri sewaako sabhaa"
+  },
+  "255": {
+    "id": "255",
+    "text": "sammelan"
+  },
+  "256": {
+    "id": "256",
+    "text": "vaarshik sammelan"
+  },
+  "257": {
+    "id": "257",
+    "text": "vishes sammelan din"
+  },
+  "258": {
+    "id": "258",
+    "text": "kchhettriye sammelan"
+  },
+  "259": {
+    "id": "259",
+    "text": "adhiveshan"
+  },
+  "260": {
+    "id": "260",
+    "text": "jillaa adhiveshan"
+  },
+  "261": {
+    "id": "261",
+    "text": "tin dine jillaa adhiveshan"
+  },
+  "262": {
+    "id": "262",
+    "text": "sabhaako visaye suchii"
+  },
+  "263": {
+    "id": "263",
+    "text": "bhaag",
+    "annotation": "(: sabhaamaa yeuTaa bhaag: udaaharanko laagi, bhaashan, chhalphal, aadi.)"
+  },
+  "264": {
+    "id": "264",
+    "text": "arko haptaako sabhaamaa mero yeutaa bhaag chha."
+  },
+  "265": {
+    "id": "265",
+    "text": "bhaakhan",
+    "annotation": "(: udaaharanko laagi, iswartaantrik sewaa skuulmaa)"
+  },
+  "266": {
+    "id": "266",
+    "text": "bhaashan nambar yek"
+  },
+  "267": {
+    "id": "267",
+    "text": "bhaashan paaunu"
+  },
+  "268": {
+    "id": "268",
+    "text": "bhaakhan dinu"
+  },
+  "269": {
+    "id": "269",
+    "text": "kaam garne bundaa",
+    "annotation": "(: iswartaantrik sewaa skuul kitaabbaaTa)"
+  },
+  "270": {
+    "id": "270",
+    "text": "bahinii XXX le bundaa nambar teismaa kaam garnubhayeko thiyo."
+  },
+  "271": {
+    "id": "271",
+    "text": "bhaashan"
+  },
+  "272": {
+    "id": "272",
+    "text": "raamrarii prastut gariyeko bhaashan"
+  },
+  "273": {
+    "id": "273",
+    "text": "janabhaashan"
+  },
+  "274": {
+    "id": "274",
+    "text": "paanch mineTko bhaashan"
+  },
+  "275": {
+    "id": "275",
+    "text": "bhaashan dinu"
+  },
+  "276": {
+    "id": "276",
+    "text": "vaktaa"
+  },
+  "277": {
+    "id": "277",
+    "text": "pradarshan"
+  },
+  "278": {
+    "id": "278",
+    "text": "yo pradarshan heraun."
+  },
+  "279": {
+    "id": "279",
+    "text": "pradarshan dekhaaunu",
+    "annotation": "(: kunai kuraa kasarii garinchha bhanera dekhaauna)"
+  },
+  "280": {
+    "id": "280",
+    "text": "yo mahinaako pattrikaa kasarii vitaran garne bhanera bahinii XXX le pradarshan dekhaaunuhunchha."
+  },
+  "281": {
+    "id": "281",
+    "text": "baaibalko vishestaa",
+    "annotation": "(: iswartaangtrik sewaa skuulmaa das mineTko bhaag)"
+  },
+  "282": {
+    "id": "282",
+    "text": "baaibal paDhaaii"
+  },
+  "283": {
+    "id": "283",
+    "text": "sthaaniiye aawashyektaa",
+    "annotation": "(: sthaaniiye aawashyektaabaare bhaashan)"
+  },
+  "284": {
+    "id": "284",
+    "text": "prasna peTii",
+    "annotation": "(: haamro raajye sewaa)"
+  },
+  "285": {
+    "id": "285",
+    "text": "giitharuu ani praarthanaaharuu"
+  },
+  "286": {
+    "id": "286",
+    "text": "giit"
+  },
+  "287": {
+    "id": "287",
+    "text": "suruuko giit"
+  },
+  "288": {
+    "id": "288",
+    "text": "antim giit"
+  },
+  "289": {
+    "id": "289",
+    "text": "yo giitko visaye chha."
+  },
+  "290": {
+    "id": "290",
+    "text": "yo giit ~maa aadhaarit chha."
+  },
+  "291": {
+    "id": "291",
+    "text": "yeuTaa prasamsaako giit gaayera haamro sabhaa suruu garnechhaun."
+  },
+  "292": {
+    "id": "292",
+    "text": "yeuTaa prasamsaako giit gaayera ani tyaspachhi praarthanaa garera haamro sabhaa suruu garnechhaun."
+  },
+  "293": {
+    "id": "293",
+    "text": "yo giit haamro vastaale chhaannubhayeko ho. Yo giit bhaashanko visaye sanga suhaaunchha."
+  },
+  "294": {
+    "id": "294",
+    "text": "yo giit bhaashanko visaye sanga suhaaunchha."
+  },
+  "295": {
+    "id": "295",
+    "text": "haamii yeuTaa giit gaayera sabhaa samaapan garnechhaun."
+  },
+  "296": {
+    "id": "296",
+    "text": "giit nambar bis"
+  },
+  "297": {
+    "id": "297",
+    "text": "aba haamii giit nambar bis sunaun."
+  },
+  "298": {
+    "id": "298",
+    "text": "giitko kitaab"
+  },
+  "299": {
+    "id": "299",
+    "text": "aba haamii giitko kitaab nambar das kholera heraun."
+  },
+  "300": {
+    "id": "300",
+    "text": "yeuTaa giit gaaunu"
+  },
+  "301": {
+    "id": "301",
+    "text": "aba giit bambar tis gaaoun."
+  },
+  "302": {
+    "id": "302",
+    "text": "haamiile yes giit gaaundaa, shabdaharuumaa pani dhyaan dina sakchhaun."
+  },
+  "303": {
+    "id": "303",
+    "text": "praathanaa"
+  },
+  "304": {
+    "id": "304",
+    "text": "suruuko praarthanaa"
+  },
+  "305": {
+    "id": "305",
+    "text": "antim praarthanaa"
+  },
+  "306": {
+    "id": "306",
+    "text": "praarthanaa garnu"
+  },
+  "307": {
+    "id": "307",
+    "text": "bhaai XXX, praarthanaa garidinuhunchha ki?"
+  },
+  "308": {
+    "id": "308",
+    "text": "praarthanaa garnu"
+  },
+  "309": {
+    "id": "309",
+    "text": "yehovaalaaii praarthanaa garnu"
+  },
+  "310": {
+    "id": "310",
+    "text": "giit pachhi haamii yehovaalaaii praarthanaa garnechaaun."
+  },
+  "311": {
+    "id": "311",
+    "text": "ghoshanaaharuu"
+  },
+  "312": {
+    "id": "312",
+    "text": "ghoshanaaharuu",
+    "annotation": "(: sewaa sabhaamaa)"
+  },
+  "313": {
+    "id": "313",
+    "text": "hehii ghoshanaaharuu chhan."
+  },
+  "314": {
+    "id": "314",
+    "text": "XXX ko ghoshanaa garnu"
+  },
+  "315": {
+    "id": "315",
+    "text": "kchettra sewaako sabhaako ghoshanaaharuu garnu"
+  },
+  "316": {
+    "id": "316",
+    "text": "~ko ghoshanaa garna kaaundaa haami khusii chhaun."
+  },
+  "317": {
+    "id": "317",
+    "text": "~ko ghoshanaa garnu pardaa haamiilaaii duhkha laagchha."
+  },
+  "318": {
+    "id": "318",
+    "text": "chiTThii",
+    "annotation": "(: udaaharanko laagi, shaakhaa kaaryelayebaaTa)"
+  },
+  "319": {
+    "id": "319",
+    "text": "haamiile shaakhaa kaaryelayebaaTa yeuTaa chiTThii paayeka chhaun."
+  },
+  "320": {
+    "id": "320",
+    "text": "ma bhaai XXX laaii sosaaiTiibaaTa aayeko chiTThii paDhna manchmaa bolaauna chaahanchhu."
+  },
+  "321": {
+    "id": "321",
+    "text": "prastaavanaa"
+  },
+  "322": {
+    "id": "322",
+    "text": "prastaavanaa raakhnu"
+  },
+  "323": {
+    "id": "323",
+    "text": "haamii manDaliiko saamuu nimna prastaavanaa raakhna chaahanchhaun."
+  },
+  "324": {
+    "id": "324",
+    "text": "bhoT garnu"
+  },
+  "325": {
+    "id": "325",
+    "text": "(aaphno) haat uThaaunu",
+    "annotation": "(: bhoT gardaa)"
+  },
+  "326": {
+    "id": "326",
+    "text": "yes prastaavanaasanga sahamat hunuhunchha bhane kripayaa haat uThaaunuhos."
+  },
+  "327": {
+    "id": "327",
+    "text": "yes prastaavanaasanga sahamat hunuhunna bhane kripayaa haat uThaaunuhos."
+  },
+  "328": {
+    "id": "328",
+    "text": "taTastha rahana chaahanuhunchha bhane kripayaa haat uThaaunuhos."
+  },
+  "329": {
+    "id": "329",
+    "text": "aba haat utaarna (/ jhaarna) saknuhunchha."
+  },
+  "330": {
+    "id": "330",
+    "text": "tapaainharuu yesko TipoT lina saknuhunchha."
+  },
+  "331": {
+    "id": "331",
+    "text": "kripayaa aaphno kchhettra sewaa riporT aaphnaa samuuhakaa niriikchheklaaii bujhaaunu holaa."
+  },
+  "332": {
+    "id": "332",
+    "text": "yes haptaa saphaaiko paalo samuuha buiiko ho."
+  },
+  "333": {
+    "id": "333",
+    "text": "yo shanivaar kchhettra sewaako laagi bihaana yeghaara baje bahinii XXX ko gharmaa haamii bhelaa hunechhaun."
+  },
+  "334": {
+    "id": "334",
+    "text": "aajako sabhaa sakiyeko paanch mineT pachhi kchhettra sewaako laagi sabhaa hunuchha."
+  },
+  "335": {
+    "id": "335",
+    "text": "kchhettra sewaako laagi sabhaa bosro halmaa hunechha."
+  },
+  "336": {
+    "id": "336",
+    "text": "bhaai XXX le kchhettra sewaako laagi sabhaa sanchaalan garnuhunechha."
+  },
+  "337": {
+    "id": "337",
+    "text": "aaune jillaa adhiveshanko baaremaa hehii ghoshanaaharuu chhan."
+  },
+  "338": {
+    "id": "338",
+    "text": "haamro jillaa adhiveshan ~maa hunechha."
+  },
+  "339": {
+    "id": "339",
+    "text": "haamro jillaa adhiveshan hune sthal ~ho."
+  },
+  "340": {
+    "id": "340",
+    "text": "jillaa adhiveshanko kaaryekram bihaan nau bajera pachaas mineT dekhi suruu hunechha."
+  },
+  "341": {
+    "id": "341",
+    "text": "jillaa adhiveshanko kaaryekram saanjha tiin bajera paintaliis mineT maa samaapta hunechha."
+  },
+  "342": {
+    "id": "342",
+    "text": "yedii basmaa siiT rijarbh garna chaahanuhunchha bhane bhaai XXX laaii samparka garnu holaa."
+  },
+  "343": {
+    "id": "343",
+    "text": "bahinii XXX maarch baahra maa bitisaknubhayo."
+  },
+  "344": {
+    "id": "344",
+    "text": "uhaanko anThesTi kaaryekram arko mangalvaar raajye bhawanmaa hunechha."
+  },
+  "345": {
+    "id": "345",
+    "text": "XXX le aaphuulaaii khriisTyaan manDaliibaaTa alagyaaunu bhayeko chha."
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX laaii khriisTyaan manDaliibaata bahiskrit gariyeko chha."
+  },
+  "347": {
+    "id": "347",
+    "text": "swaagat ani parichaye"
+  },
+  "348": {
+    "id": "348",
+    "text": "sanchaalak",
+    "annotation": "(: yekjanaa bhaai jasle vaktaalaaii janabhaashanko laagi manchmaa bolaaunchhan.)"
+  },
+  "349": {
+    "id": "349",
+    "text": "arko bhaashanko jaankaarii garaaunu (arko bhaashantira laagnu)"
+  },
+  "350": {
+    "id": "350",
+    "text": "tāli bajāunu",
+    "annotation": "(: bhāṣaṇa pratī kritajñatā jāhēra gardai tāli bajāunu)"
+  },
+  "351": {
+    "id": "351",
+    "text": "taali bajaaunu"
+  },
+  "352": {
+    "id": "352",
+    "text": "taali bajemaa shrotaaharuulaaii bhaashan raamro laagyo bhanne kuraa bujhinchha."
+  },
+  "353": {
+    "id": "353",
+    "text": "haamro sabhaa aba duii mineTbhittrai suruu hunechha."
+  },
+  "354": {
+    "id": "354",
+    "text": "swaagat chha !"
+  },
+  "355": {
+    "id": "355",
+    "text": "tapaainharuulaaii yes saanjhako sabhaamaa swaagat garna chaanchhaun."
+  },
+  "356": {
+    "id": "356",
+    "text": "swaagat chha bhaai bahiniiharuu"
+  },
+  "357": {
+    "id": "357",
+    "text": "yes saanjhako sabhaamaa swaagat chha."
+  },
+  "358": {
+    "id": "358",
+    "text": "kripayaa aaphno siTmaa basidinu holaa."
+  },
+  "359": {
+    "id": "359",
+    "text": "kripayaa basnuhos."
+  },
+  "360": {
+    "id": "360",
+    "text": "kripayaa basnuhos."
+  },
+  "361": {
+    "id": "361",
+    "text": "apThyaaro chhaina bhane kripayaa ubhinuhos."
+  },
+  "362": {
+    "id": "362",
+    "text": "aba haamii das mineTko madhyaantar linechhaun. kripayaa tiin bajera pandhra mineTbhittrai aaphno siTmaa basidinuholaa."
+  },
+  "363": {
+    "id": "363",
+    "text": "aajako sabhaamaa duiiwaTaa bhaag chhan."
+  },
+  "364": {
+    "id": "364",
+    "text": "haamro sabhaako arko bhaag ho, prahariidharaharaa addhyayen"
+  },
+  "365": {
+    "id": "365",
+    "text": "ma bhaai XXX laaii manchmaa bolaauna chaahanchhu."
+  },
+  "366": {
+    "id": "366",
+    "text": "aba haamii uhaanlaaii dhyaan dioun."
+  },
+  "367": {
+    "id": "367",
+    "text": "bhaai XXX le yo chhalphal sanchaalan garnuhunechha."
+  },
+  "368": {
+    "id": "368",
+    "text": "aba bhaai XXX le manDalii baaibal addhyayen"
+  },
+  "369": {
+    "id": "369",
+    "text": "bhaai XXX le adhyaaye paanch ko pad baahra dekhi pachchiis samma paDhnuhunechha."
+  },
+  "370": {
+    "id": "370",
+    "text": "bahinii XXX le \"haamro raajye sewaa\"ko dosro pradarshan bekhaaunuhunechha."
+  },
+  "371": {
+    "id": "371",
+    "text": "aba duii janaa bahiniile ~visayemaa garnuhune chhalphal sunaun."
+  },
+  "372": {
+    "id": "372",
+    "text": "bahinii XXX le chhalphalmaa prastut garnuhunchha."
+  },
+  "373": {
+    "id": "373",
+    "text": "bahinii XXX le uhaanlaaii sahayog garnuhunechha."
+  },
+  "374": {
+    "id": "374",
+    "text": "bahinii YYY le ghardhaniiko bhumikaa nibhaaunuhunechha."
+  },
+  "375": {
+    "id": "375",
+    "text": "yes bhaashanko bhumikaa raheko chha ~."
+  },
+  "376": {
+    "id": "376",
+    "text": "aaja bhashan dina haamiimaajh atithi vaktaa aaidinubhayeko dekhdaa haamii saahrai khushii chhaun."
+  },
+  "377": {
+    "id": "377",
+    "text": "YYY manDaliika bhaai XXX le bhashan dinuhunechha."
+  },
+  "378": {
+    "id": "378",
+    "text": "yes bhaashanko visaye ho ~ ."
+  },
+  "379": {
+    "id": "379",
+    "text": "bhaai XXX. yes visayemaa bhaashan dinubhayekomaa dhanyavaad chha."
+  },
+  "380": {
+    "id": "380",
+    "text": "yahaan upasthit pachattar janaasamet hami sabaile tapaainko bhashanbaata aananda uThaauna sakyaun."
+  },
+  "381": {
+    "id": "381",
+    "text": "haamro chhettriiye niriikchhek ani uhaankii shriimatii haamro manDalii bhraman garna aaunubhayeko haami dherai khushii chhaun."
+  },
+  "382": {
+    "id": "382",
+    "text": "haamro chhettriiye niriikchhekko pahilo sewaa bhashanko visaye ho~."
+  },
+  "383": {
+    "id": "383",
+    "text": "ma XXX bethel pariwaarle paThaayeko prem dina chaahanchhu."
+  },
+  "384": {
+    "id": "384",
+    "text": "ke ma tapaainharuuko prem XXX manDaliilaaii paThaaidiun?"
+  },
+  "386": {
+    "id": "386",
+    "text": "sikchhen ra chhalphal"
+  },
+  "387": {
+    "id": "387",
+    "text": "baaibalkaa kitaabharuu"
+  },
+  "388": {
+    "id": "388",
+    "text": "hibruu dharmashaastra"
+  },
+  "389": {
+    "id": "389",
+    "text": "utpatti"
+  },
+  "390": {
+    "id": "390",
+    "text": "prasthaan"
+  },
+  "391": {
+    "id": "391",
+    "text": "levii"
+  },
+  "392": {
+    "id": "392",
+    "text": "gantii"
+  },
+  "393": {
+    "id": "393",
+    "text": "vyavasthaa"
+  },
+  "394": {
+    "id": "394",
+    "text": "yehoshuu"
+  },
+  "395": {
+    "id": "395",
+    "text": "nyaayekartaa"
+  },
+  "396": {
+    "id": "396",
+    "text": "ruuth"
+  },
+  "397": {
+    "id": "397",
+    "text": "pahilo shamuuyel"
+  },
+  "398": {
+    "id": "398",
+    "text": "dosro shamuuyel"
+  },
+  "399": {
+    "id": "399",
+    "text": "paihlo raajaa"
+  },
+  "400": {
+    "id": "400",
+    "text": "dosto raajaa"
+  },
+  "401": {
+    "id": "401",
+    "text": "pahilo ithihaas"
+  },
+  "402": {
+    "id": "402",
+    "text": "dosro itihaas"
+  },
+  "403": {
+    "id": "403",
+    "text": "yejraa"
+  },
+  "404": {
+    "id": "404",
+    "text": "nehamyaaha"
+  },
+  "405": {
+    "id": "405",
+    "text": "yestar"
+  },
+  "406": {
+    "id": "406",
+    "text": "ayyuub"
+  },
+  "407": {
+    "id": "407",
+    "text": "bhajansangraha"
+  },
+  "408": {
+    "id": "408",
+    "text": "hitopadesh"
+  },
+  "409": {
+    "id": "409",
+    "text": "upadeshak"
+  },
+  "410": {
+    "id": "410",
+    "text": "shresThagiit"
+  },
+  "411": {
+    "id": "411",
+    "text": "yeshaiya"
+  },
+  "412": {
+    "id": "412",
+    "text": "yermiyaa"
+  },
+  "413": {
+    "id": "413",
+    "text": "vilaap"
+  },
+  "414": {
+    "id": "414",
+    "text": "ijakiyel"
+  },
+  "415": {
+    "id": "415",
+    "text": "daaniyel"
+  },
+  "416": {
+    "id": "416",
+    "text": "hoshe"
+  },
+  "417": {
+    "id": "417",
+    "text": "yoyel"
+  },
+  "418": {
+    "id": "418",
+    "text": "aamos"
+  },
+  "419": {
+    "id": "419",
+    "text": "obadiyaa"
+  },
+  "420": {
+    "id": "420",
+    "text": "yonaa"
+  },
+  "421": {
+    "id": "421",
+    "text": "miikaa"
+  },
+  "422": {
+    "id": "422",
+    "text": "nahuum"
+  },
+  "423": {
+    "id": "423",
+    "text": "habakuuk"
+  },
+  "424": {
+    "id": "424",
+    "text": "sapanyaaha"
+  },
+  "425": {
+    "id": "425",
+    "text": "haaggai"
+  },
+  "426": {
+    "id": "426",
+    "text": "jakariyaa"
+  },
+  "427": {
+    "id": "427",
+    "text": "malaakii"
+  },
+  "428": {
+    "id": "428",
+    "text": "griik dharmashaastra"
+  },
+  "429": {
+    "id": "429",
+    "text": "mattii"
+  },
+  "430": {
+    "id": "430",
+    "text": "markuus"
+  },
+  "431": {
+    "id": "431",
+    "text": "luukaa"
+  },
+  "432": {
+    "id": "432",
+    "text": "yuuhannaa"
+  },
+  "433": {
+    "id": "433",
+    "text": "preshit"
+  },
+  "434": {
+    "id": "434",
+    "text": "romii"
+  },
+  "435": {
+    "id": "435",
+    "text": "pahilo korinthii"
+  },
+  "436": {
+    "id": "436",
+    "text": "dosro korinthii"
+  },
+  "437": {
+    "id": "437",
+    "text": "galaatii"
+  },
+  "438": {
+    "id": "438",
+    "text": "yephisii"
+  },
+  "439": {
+    "id": "439",
+    "text": "philippii"
+  },
+  "440": {
+    "id": "440",
+    "text": "salassii"
+  },
+  "441": {
+    "id": "441",
+    "text": "pahilo thissalonikii"
+  },
+  "442": {
+    "id": "442",
+    "text": "dosro thissalonikii"
+  },
+  "443": {
+    "id": "443",
+    "text": "pahilo timothii"
+  },
+  "444": {
+    "id": "444",
+    "text": "dosro timothii"
+  },
+  "445": {
+    "id": "445",
+    "text": "tiitas"
+  },
+  "446": {
+    "id": "446",
+    "text": "philemon"
+  },
+  "447": {
+    "id": "447",
+    "text": "hibruu"
+  },
+  "448": {
+    "id": "448",
+    "text": "yaakuub"
+  },
+  "449": {
+    "id": "449",
+    "text": "pahilo pattrus"
+  },
+  "450": {
+    "id": "450",
+    "text": "dosro pattrus"
+  },
+  "451": {
+    "id": "451",
+    "text": "pahilo yuuhannaa"
+  },
+  "452": {
+    "id": "452",
+    "text": "dosro yuuhannaa"
+  },
+  "453": {
+    "id": "453",
+    "text": "tesro yuuhannaa"
+  },
+  "454": {
+    "id": "454",
+    "text": "yehuudaa"
+  },
+  "455": {
+    "id": "455",
+    "text": "prakaash"
+  },
+  "456": {
+    "id": "456",
+    "text": "baaibal prayog garne"
+  },
+  "457": {
+    "id": "457",
+    "text": "baaibal"
+  },
+  "458": {
+    "id": "458",
+    "text": "aba haamii aa-aaphnaa baaibal kholera heraun."
+  },
+  "459": {
+    "id": "459",
+    "text": "aba haamii aa-aaphnaa baaibal palTaayera yermiyaa adhyaaye dasko pad teis heraun."
+  },
+  "460": {
+    "id": "460",
+    "text": "vivraan (/ kathaa)"
+  },
+  "461": {
+    "id": "461",
+    "text": "yes baaibal vivraanlaaii heraun."
+  },
+  "462": {
+    "id": "462",
+    "text": "pad"
+  },
+  "463": {
+    "id": "463",
+    "text": "yes padle haamilaaii ~baare ke sikaaunchha?"
+  },
+  "464": {
+    "id": "464",
+    "text": "yes padle ~baare kasto kura prakaT garchha?"
+  },
+  "465": {
+    "id": "465",
+    "text": "yo pad ~sanga kasarii sambandhit chha?"
+  },
+  "466": {
+    "id": "466",
+    "text": "yes padko artha ke ho?"
+  },
+  "467": {
+    "id": "467",
+    "text": "yes padmaa tapaainko kehii Tippanii chha ki?"
+  },
+  "468": {
+    "id": "468",
+    "text": "kripayaa yo padko vyaakhyaa garnuholaa."
+  },
+  "469": {
+    "id": "469",
+    "text": "yes padbaaTa haamii ke paaTh sikna sakchhaun?"
+  },
+  "470": {
+    "id": "470",
+    "text": "mattii adhyaaye saatko pad baahra"
+  },
+  "471": {
+    "id": "471",
+    "text": "mattii adhyaaye paanchko pad teis ra chaubiis"
+  },
+  "472": {
+    "id": "472",
+    "text": "pahilo yuuhannaa adhyaaye duiiko pad pandhra dekhi sattra"
+  },
+  "473": {
+    "id": "473",
+    "text": "teisaun bhajanako eghaaraun pad"
+  },
+  "474": {
+    "id": "474",
+    "text": "addhyayenko saamagriiharuu"
+  },
+  "475": {
+    "id": "475",
+    "text": "prisTha / paanaa"
+  },
+  "476": {
+    "id": "476",
+    "text": "aa-aaphnaa pattrikaa palTaayera prisTha biis heraun."
+  },
+  "477": {
+    "id": "477",
+    "text": "yes addhyayen lekhko prisTha paintaliis palTaaun."
+  },
+  "478": {
+    "id": "478",
+    "text": "prisTha das palTaaun."
+  },
+  "479": {
+    "id": "479",
+    "text": "lekh"
+  },
+  "480": {
+    "id": "480",
+    "text": "shrinkhalaa lekhharuu",
+    "annotation": "(: udaaharanko laagi prahariidharaharaa pattrikaamaa)"
+  },
+  "481": {
+    "id": "481",
+    "text": "tiin haptaako laagi tayaar pariyeko yeuTai visayemaa pahilo lekh aaja haamii hernechhaun."
+  },
+  "482": {
+    "id": "482",
+    "text": "visaye"
+  },
+  "483": {
+    "id": "483",
+    "text": "muul pad"
+  },
+  "484": {
+    "id": "484",
+    "text": "shirshak"
+  },
+  "485": {
+    "id": "485",
+    "text": "upashirshak"
+  },
+  "486": {
+    "id": "486",
+    "text": "anuchchhed"
+  },
+  "487": {
+    "id": "487",
+    "text": "aghillo anuchchhed"
+  },
+  "488": {
+    "id": "488",
+    "text": "pachhillo anuchchhed"
+  },
+  "489": {
+    "id": "489",
+    "text": "arko buiiwaTaa anuchchhedharuu"
+  },
+  "490": {
+    "id": "490",
+    "text": "arko buiiwaTaa anuchchhedharuu paDhaun."
+  },
+  "491": {
+    "id": "491",
+    "text": "shabda"
+  },
+  "492": {
+    "id": "492",
+    "text": "moTo akchhermaa chhaapiyekaa shabdaharuu"
+  },
+  "493": {
+    "id": "493",
+    "text": "terso shabdaharuu"
+  },
+  "494": {
+    "id": "494",
+    "text": "paad Tippanii"
+  },
+  "495": {
+    "id": "495",
+    "text": "parishisTa"
+  },
+  "496": {
+    "id": "496",
+    "text": "baakas; peTii"
+  },
+  "497": {
+    "id": "497",
+    "text": "chittra"
+  },
+  "498": {
+    "id": "498",
+    "text": "naaniibaabuharuu ho, yes chittramaa bhayeko manchheko naam ke ho?"
+  },
+  "499": {
+    "id": "499",
+    "text": "kyaapshan ; Tippanii",
+    "annotation": "(: citrakō)"
+  },
+  "500": {
+    "id": "500",
+    "text": "chhalphal"
+  },
+  "501": {
+    "id": "501",
+    "text": "jawaaph ; uttar"
+  },
+  "502": {
+    "id": "502",
+    "text": "jawaaph (/ uttar) dinu"
+  },
+  "503": {
+    "id": "503",
+    "text": "prasna"
+  },
+  "504": {
+    "id": "504",
+    "text": "punaraavrittiko laagi prasnaharuu",
+    "annotation": "(: udaaharanko laagi \"baaiballe vaastavmaa ke sikaaunchha\" pustakko)"
+  },
+  "505": {
+    "id": "505",
+    "text": "punaraavrittiko laagi prasnaharuu",
+    "annotation": "(: udaaharanko laagi prahariidharaharaa addhyayenmaa)"
+  },
+  "506": {
+    "id": "506",
+    "text": "prasna sodhnu"
+  },
+  "507": {
+    "id": "507",
+    "text": "prasnako jawaaph dinu"
+  },
+  "508": {
+    "id": "508",
+    "text": "Tippanii"
+  },
+  "509": {
+    "id": "509",
+    "text": "Tippanii dinu"
+  },
+  "510": {
+    "id": "510",
+    "text": "kripayaa uhaanko Tippanii anuvaab garidinuholaa."
+  },
+  "511": {
+    "id": "511",
+    "text": "aruu kehii Tippanii chha ki?"
+  },
+  "512": {
+    "id": "512",
+    "text": "kripayaa tapaainko Tippanii tiis sekenD bhittramaa dinuhos."
+  },
+  "513": {
+    "id": "513",
+    "text": "Tippanii garnu"
+  },
+  "514": {
+    "id": "514",
+    "text": "yes paaliiko baaibal paDhaaiimaa kasaile Tippanii garna chahanuhunchha?"
+  },
+  "515": {
+    "id": "515",
+    "text": "chittrabaare Tippanii garnu"
+  },
+  "516": {
+    "id": "516",
+    "text": "chhalphal"
+  },
+  "517": {
+    "id": "517",
+    "text": "prasna uttar chhalphal"
+  },
+  "518": {
+    "id": "518",
+    "text": "chhalphal garnu"
+  },
+  "519": {
+    "id": "519",
+    "text": "dinahun dharmashaastra pustak chhalphal garnu"
+  },
+  "520": {
+    "id": "520",
+    "text": "aba haamii yo lekh chhalphal garnechhaun."
+  },
+  "521": {
+    "id": "521",
+    "text": "(yeuTaa chhalphal) sanchaalan garnu"
+  },
+  "522": {
+    "id": "522",
+    "text": "tyo chhalphal sanchaalan garidinubhayekomaa dhanyavaad bhaai XXX."
+  },
+  "523": {
+    "id": "523",
+    "text": "sanchaalak"
+  },
+  "524": {
+    "id": "524",
+    "text": "prahariidharaharaa sanchaalak"
+  },
+  "525": {
+    "id": "525",
+    "text": "vichaar garnu",
+    "annotation": "(: yeuTaa chhalphalmaa kunai kuraalaaii vishes dhyaan dinu)"
+  },
+  "526": {
+    "id": "526",
+    "text": "aba haamii yeuTaa mahattwapuurna prashnabaare vichaar garaun."
+  },
+  "527": {
+    "id": "527",
+    "text": "paDhnu",
+    "annotation": "(: aawaaj nikaalera, udaaharanko laagi sabhaamaa)"
+  },
+  "528": {
+    "id": "528",
+    "text": "anuchchhed duii kasle paDhna saknuhunchha?"
+  },
+  "529": {
+    "id": "529",
+    "text": "kripayaa anuchchhed duii paDhidinuholaa."
+  },
+  "530": {
+    "id": "530",
+    "text": "paDhidinubhayekomaa dhanyavaad bhaai XXX."
+  },
+  "531": {
+    "id": "531",
+    "text": "punaraavalokan garnu"
+  },
+  "532": {
+    "id": "532",
+    "text": "yo lekhko mukhye bundaaharuulaaii punaraavalokan garaun."
+  },
+  "533": {
+    "id": "533",
+    "text": "mukhye bundaa"
+  },
+  "534": {
+    "id": "534",
+    "text": "yes haptaako bhaagbaata haamiile ke sikyaun?"
+  },
+  "535": {
+    "id": "535",
+    "text": "XXX laaii YYY maa laaguu garnu"
+  },
+  "536": {
+    "id": "536",
+    "text": "haamii yeslaaii ~maa kasarii laaguu garna sakchhaun?"
+  },
+  "537": {
+    "id": "537",
+    "text": "haamii yeslaaii kchhettra sewaamaa kasarii laaguu garna sakchhaun?"
+  },
+  "538": {
+    "id": "538",
+    "text": "XXX ko saaraamshamaa"
+  },
+  "539": {
+    "id": "539",
+    "text": "haamii yii anuchchhedharuuko kasto saaraamsha nikaalna sakchhaun?"
+  },
+  "540": {
+    "id": "540",
+    "text": "he bhaai bahiniiharuu",
+    "annotation": "(: dhyaan khichdaa waa suuruumaa shrotaaharuusanga sambodhan gardaa)"
+  },
+  "541": {
+    "id": "541",
+    "text": "bhaai (/ bradar) XXX",
+    "annotation": "(:sabhaamaa Tippanii dine belaa)"
+  },
+  "542": {
+    "id": "542",
+    "text": "bahinii (/ sisTar) XXX",
+    "annotation": "(:sabhaamaa Tippanii dine belaa)"
+  },
+  "543": {
+    "id": "543",
+    "text": "kripayaa haat uThaaunuholaa."
+  },
+  "544": {
+    "id": "544",
+    "text": "kripayaa maaiklaai parkhanuholaa."
+  },
+  "545": {
+    "id": "545",
+    "text": "kripayaa maaik an garnuholaa."
+  },
+  "546": {
+    "id": "546",
+    "text": "kripayaa maaik Thiiksita samaaunuholaa."
+  },
+  "547": {
+    "id": "547",
+    "text": "dherai raamro (bhayo) !",
+    "annotation": "(:raamro bhaashan waa Tippanii garepachhi bhanne)"
+  },
+  "548": {
+    "id": "548",
+    "text": "silsilaa ra shabdaharuu"
+  },
+  "549": {
+    "id": "549",
+    "text": "aba; yes pachhi"
+  },
+  "550": {
+    "id": "550",
+    "text": "aba haamii anuchchhed tiin paDhaun."
+  },
+  "551": {
+    "id": "551",
+    "text": "aba haamii … vichaar garnechhaun."
+  },
+  "552": {
+    "id": "552",
+    "text": "aba haamii nimna prasnalaaii vichhar garnechhaun."
+  },
+  "553": {
+    "id": "553",
+    "text": "aba haamii nimna samasyaabaare vichaar garnechhaun."
+  },
+  "554": {
+    "id": "554",
+    "text": "aba haamii nimna visayelaaii vichaar garnechhaun."
+  },
+  "555": {
+    "id": "555",
+    "text": "pahilaa"
+  },
+  "556": {
+    "id": "556",
+    "text": "pachhi"
+  },
+  "557": {
+    "id": "557",
+    "text": "antamaa"
+  },
+  "558": {
+    "id": "558",
+    "text": "aghillo haptaa"
+  },
+  "559": {
+    "id": "559",
+    "text": "yes haptaamaa haamii tiinoTaa lekhko pahilo bhaag hernechhaun."
+  },
+  "560": {
+    "id": "560",
+    "text": "yo haptaa haamii anuchchhed das dekhi aThaara samma vichaar garnechhaun."
+  },
+  "561": {
+    "id": "561",
+    "text": "yo haptaa bhaai XXX le paDhnuhunechha."
+  },
+  "562": {
+    "id": "562",
+    "text": "arko haptaa"
+  },
+  "563": {
+    "id": "563",
+    "text": "arko haptaa haamii ke chhalphal garnechhaun?"
+  },
+  "564": {
+    "id": "564",
+    "text": "aghillo palTa ; asti"
+  },
+  "565": {
+    "id": "565",
+    "text": "arko palTa"
+  },
+  "566": {
+    "id": "566",
+    "text": "pheri suru garaun."
+  },
+  "567": {
+    "id": "567",
+    "text": "samaye siddhina laageko jasto chha."
+  },
+  "568": {
+    "id": "568",
+    "text": "samayeko abhaav bhayekole haamii aghi sarnechhaun."
+  },
+  "569": {
+    "id": "569",
+    "text": "haamro samaye yetti nai chha."
+  },
+  "570": {
+    "id": "570",
+    "text": "haamiile yehin sakaaunu parne chha."
+  },
+  "572": {
+    "id": "572",
+    "text": "saakchhii dinu"
+  },
+  "573": {
+    "id": "573",
+    "text": "kchhettra sewaa"
+  },
+  "574": {
+    "id": "574",
+    "text": "kchhettra sewaa; kchhettra sewakaaii"
+  },
+  "575": {
+    "id": "575",
+    "text": "XXX sanga kchhettra sewaamaa jaanu"
+  },
+  "576": {
+    "id": "576",
+    "text": "haamii kahile sangai kchhettra sewaamaa jaana sakchhaun?"
+  },
+  "577": {
+    "id": "577",
+    "text": "prachaar"
+  },
+  "578": {
+    "id": "578",
+    "text": "prachaar kaarye"
+  },
+  "579": {
+    "id": "579",
+    "text": "prachaar garnu"
+  },
+  "580": {
+    "id": "580",
+    "text": "XXX laaii prachaar garnu"
+  },
+  "581": {
+    "id": "581",
+    "text": "XXX laaii saakchhii dinu"
+  },
+  "582": {
+    "id": "582",
+    "text": "XXX laaii saakchhii dinu"
+  },
+  "583": {
+    "id": "583",
+    "text": "saakchhii dinu"
+  },
+  "584": {
+    "id": "584",
+    "text": "ghar-gharko prachaar"
+  },
+  "585": {
+    "id": "585",
+    "text": "saDak saakchhii"
+  },
+  "586": {
+    "id": "586",
+    "text": "anaupachaarik saakchhii"
+  },
+  "587": {
+    "id": "587",
+    "text": "vyaavaasaaiik ilaakaamaa saakchhii dinu"
+  },
+  "588": {
+    "id": "588",
+    "text": "punah bheT"
+  },
+  "589": {
+    "id": "589",
+    "text": "ke bholi yeuTa punah bheTko laagi masanga jaanuhunchha?"
+  },
+  "590": {
+    "id": "590",
+    "text": "punah bheTmaa jaanu"
+  },
+  "591": {
+    "id": "591",
+    "text": "baaibal adhyayen"
+  },
+  "592": {
+    "id": "592",
+    "text": "baaibal adhyayen suruu garnu"
+  },
+  "593": {
+    "id": "593",
+    "text": "baaibal adhyayen sanchaalan garnu"
+  },
+  "594": {
+    "id": "594",
+    "text": "aruko haaptaa mero yeuTa baaibal adhyayen chha. Ke tapaain masanga jaana chaahanuhunchha?"
+  },
+  "595": {
+    "id": "595",
+    "text": "baaibal shikchhek"
+  },
+  "596": {
+    "id": "596",
+    "text": "baaibal viddyaarthii"
+  },
+  "597": {
+    "id": "597",
+    "text": "chaaso bhayeko vyakti"
+  },
+  "598": {
+    "id": "598",
+    "text": "chaaso selaauna nadinu",
+    "annotation": "(:chaaso dekhaayeko vyaktikahaan pheri jaanu)"
+  },
+  "599": {
+    "id": "599",
+    "text": "kchhettra sewaako samaye"
+  },
+  "600": {
+    "id": "600",
+    "text": "gata mahinaa uhaanle kchhettra sewaako laagi chaudha ghanTaa bujhaaunubhayeko thiyo."
+  },
+  "601": {
+    "id": "601",
+    "text": "gata mahinaa uhaanle kchhettra sewaako laagi chaudha ghanTaa ra yepTaa baaibal adhyayen bujhaaunubhayeko thiyo."
+  },
+  "602": {
+    "id": "602",
+    "text": "prastuti; parichaye"
+  },
+  "603": {
+    "id": "603",
+    "text": "ke tapaainlaaii kchhettra sewaamaa prayog hune kunai yeuTaa raamro prastuti thaahaa chha?"
+  },
+  "604": {
+    "id": "604",
+    "text": "anubhav",
+    "annotation": "(:udaaharanko laagi kchhettra sewaamaa praapta kunai anubhavbaare)"
+  },
+  "605": {
+    "id": "605",
+    "text": "ke tapaainsita gata mahinaamaa baTuleko kunai rochak anubhav chha ki?"
+  },
+  "606": {
+    "id": "606",
+    "text": "aba bhaai XXX le haamiilaaii yeuTaa rochak anubhav sunaaunuhunchha."
+  },
+  "607": {
+    "id": "607",
+    "text": "haamro raajye sewaa"
+  },
+  "608": {
+    "id": "608",
+    "text": "bhittrii paanaa"
+  },
+  "609": {
+    "id": "609",
+    "text": "kripayaa kchhettra sewaamaa jaadaa Disembar duii hajaar chha haamro raajye sewaako bhittrii paanaa aaphuusanga liyera jaanuholaa."
+  },
+  "610": {
+    "id": "610",
+    "text": "prastuti",
+    "annotation": "(: vishes abhiyaanmaa prastut gariraheko yeuTaa prakaashan)"
+  },
+  "611": {
+    "id": "611",
+    "text": "yes mahinaamaa haamii ke prastut garnechhaun?"
+  },
+  "612": {
+    "id": "612",
+    "text": "yes mahinaamaa haamii kun prakaashan prastut garnechhaun?"
+  },
+  "613": {
+    "id": "613",
+    "text": "vishes abhiyaan",
+    "annotation": "(: jun samaye avadhi yeuTaa vishes parchaa vitaran garinchha)"
+  },
+  "614": {
+    "id": "614",
+    "text": "abhiyāna kahilē suru hunēcha?"
+  },
+  "615": {
+    "id": "615",
+    "text": "sathii",
+    "annotation": "(: udaaharanko laagi sewakaaiimaa)"
+  },
+  "616": {
+    "id": "616",
+    "text": "sathii nabhayeko ko holaa?"
+  },
+  "617": {
+    "id": "617",
+    "text": "bhaai XXX, tapaain bhaai YYY sanga jaana saknuhunchha."
+  },
+  "618": {
+    "id": "618",
+    "text": "sawaariiko sahayog kasailaaii chaahinchha?",
+    "annotation": "(: ilaakaasamma pugna kaslaaii maddat chaahinchha?)"
+  },
+  "619": {
+    "id": "619",
+    "text": "ilaakaa (kchhettra sewaako laagi)"
+  },
+  "620": {
+    "id": "620",
+    "text": "ilaakaa kaslaaii chaahinchha?"
+  },
+  "621": {
+    "id": "621",
+    "text": "aruu kehii chha ki?"
+  },
+  "622": {
+    "id": "622",
+    "text": "aruu kehii prasna chha ki? / kehii sodhnu baankii chha ki? / nabujheko kehii chha ki?"
+  },
+  "623": {
+    "id": "623",
+    "text": "haamii jaaoun.",
+    "annotation": "(: sangai chhettr sewaamaa jaaoun.)"
+  },
+  "624": {
+    "id": "624",
+    "text": "parichaye"
+  },
+  "625": {
+    "id": "625",
+    "text": "namaskaar. Mero naam XXX ho."
+  },
+  "626": {
+    "id": "626",
+    "text": "yekchhin",
+    "annotation": "(: kunai vyaktiko dhyaan khichna bhanine sabhye abhivyekti)"
+  },
+  "627": {
+    "id": "627",
+    "text": "ma XXX bhaashaa sikdaichhu.",
+    "annotation": "(: XXX yeuTaa bhaashaa ho.)"
+  },
+  "628": {
+    "id": "628",
+    "text": "tapāī̃ XXX bōlnuhuncha?",
+    "annotation": "(: XXX ēuṭā bhāṣā hō)"
+  },
+  "629": {
+    "id": "629",
+    "text": "ma XXX bhaashaa bolne vyaktiharuulaaii khojdai thiyen.",
+    "annotation": "(: XXX yeuTaa bhaashaa ho.)"
+  },
+  "630": {
+    "id": "630",
+    "text": "tapaainsita gharmai bheTna paaundaa khushii laagyo."
+  },
+  "631": {
+    "id": "631",
+    "text": "tapaainsita pheri bheTna paaundaa khushii laagyo."
+  },
+  "632": {
+    "id": "632",
+    "text": "tapaainsanga pheri kuraa garna paaundaa khusii laagyo."
+  },
+  "633": {
+    "id": "633",
+    "text": "o ho! Haamii tapaainlaaii bheTna asahaj paristhitimaa aayaun, maaph garnus."
+  },
+  "634": {
+    "id": "634",
+    "text": "malaaii laagchha, tapaain dherai vyasta hunuhunchha."
+  },
+  "635": {
+    "id": "635",
+    "text": "ma chhoTokariimaa bataaunchhu./ ma duii shabda mattra vyakta garera siddhyaaunchhu."
+  },
+  "636": {
+    "id": "636",
+    "text": "haamii sabai chhimekiiharuulaaii bheTdaichhaun."
+  },
+  "637": {
+    "id": "637",
+    "text": "aaja haamii praaye sabai chhimekiisanga chhoTo kuraakaanii gardaichhaun."
+  },
+  "638": {
+    "id": "638",
+    "text": "aruusanga kuraa gardaa maile yeuTaa kuraa yaad gare ki"
+  },
+  "639": {
+    "id": "639",
+    "text": "maanisharuusanga kuraa gardaa haamii dekhna sakchhaun ki"
+  },
+  "640": {
+    "id": "640",
+    "text": "jiivankaa samasyaaharuusita laDna vyaavahaarik maddat kahaan paainchha bhannebaaremaa haami chhimekisanga kuraakaanii garirahekaa chhaun."
+  },
+  "641": {
+    "id": "641",
+    "text": "haamii sabai chhimekiisanga … baaremaa kuraa garirahekaa chhaun."
+  },
+  "642": {
+    "id": "642",
+    "text": "haami maanisharuusanga … baare kuraa gardaithiyaun."
+  },
+  "643": {
+    "id": "643",
+    "text": "haamii sabaisita … baare kuraa gardaithiyaun."
+  },
+  "644": {
+    "id": "644",
+    "text": "sabaile saamnaa garnu parne promukh samasyaabaare haamii sabai chhimekiisanga chhalphal garirahekaa chhaun."
+  },
+  "645": {
+    "id": "645",
+    "text": "tyesaile aaja haamii sabaisita yeuTaa prashnabaare chhalphal gardaichhaun."
+  },
+  "646": {
+    "id": "646",
+    "text": "aaja haamii haamraa chhimekiisanga yeuTaa prashna sodhdaichhaun."
+  },
+  "647": {
+    "id": "647",
+    "text": "ma tapaainsanga yepTaa prashna sodhna chaahanchhu."
+  },
+  "648": {
+    "id": "648",
+    "text": "ke tapaainle pahilaa kahilyai … holaa jasto mahasus garnubhayeko chha ki?"
+  },
+  "649": {
+    "id": "649",
+    "text": "ke tapaainlaaii kahilyai iishwaarle (/ bhagwaanle) aajasamma bhairahekaa anyaaye tathaa buhkhabaare saancho chaaso raakhnuhunchha jasto laagchha?"
+  },
+  "650": {
+    "id": "650",
+    "text": "samparka raakhnu"
+  },
+  "651": {
+    "id": "651",
+    "text": "ma tapaainlaaii kasarii samparka raakhna sakchhu holaa? / ma tapaainlaaii kasarii bheTna sakchhu?"
+  },
+  "652": {
+    "id": "652",
+    "text": "tapaainko nambar malaaii dinuhunchha ki?"
+  },
+  "653": {
+    "id": "653",
+    "text": "mero mobaailko nambar chaahin ..."
+  },
+  "654": {
+    "id": "654",
+    "text": "aaunuaghi ma tapaainlaaii phon garchhu. / yek kal garera ma aaunchhu."
+  },
+  "655": {
+    "id": "655",
+    "text": "ma tapaainlaaii yesyemyes paThaunchhu."
+  },
+  "656": {
+    "id": "656",
+    "text": "ke maile paThaayeko mesej paaunubhayo?"
+  },
+  "657": {
+    "id": "657",
+    "text": "haamii arko paTak bheTna sakchhaun."
+  },
+  "658": {
+    "id": "658",
+    "text": "tyaso bhaye, bheTne samaye milaaoun."
+  },
+  "659": {
+    "id": "659",
+    "text": "tapaainlaaii kahile phursat chha?"
+  },
+  "660": {
+    "id": "660",
+    "text": "tapaainlaaii bheTna kahile sajilo (/ upayukta) hunchha?"
+  },
+  "661": {
+    "id": "661",
+    "text": "maaph garnus, bholi mero samaye mildaina."
+  },
+  "662": {
+    "id": "662",
+    "text": "tapaainlaaii phon garne upayukta samaye kati khera ho?"
+  },
+  "663": {
+    "id": "663",
+    "text": "tapaainlaaii bheTna sabbhandaa kun belaa sajilo hunchha?"
+  },
+  "664": {
+    "id": "664",
+    "text": "aaundo haptaa kaso holaa?"
+  },
+  "665": {
+    "id": "665",
+    "text": "aaundo mangalbaar diuso tapaaiko phursat chha?"
+  },
+  "666": {
+    "id": "666",
+    "text": "ke tapaain pasalmaa basirarahanuhunchha?"
+  },
+  "667": {
+    "id": "667",
+    "text": "ke tapaain gharmaa basirahanuhunchha?"
+  },
+  "668": {
+    "id": "668",
+    "text": "haamii sangai chiyaa (/ kaphii) khaaounlaa."
+  },
+  "669": {
+    "id": "669",
+    "text": "haamii sangai gaph (/ kuraakaanii) garaunlaa."
+  },
+  "670": {
+    "id": "670",
+    "text": "ke arko haptaa tapaainsanga phursat chha?"
+  },
+  "671": {
+    "id": "671",
+    "text": "ke bholi tapaainsita yekchhin (/ das mineTjati) phursat chha?"
+  },
+  "672": {
+    "id": "672",
+    "text": "ke haamii ali chhiTo bheTna sakchhaun? / ke haamii turuntai bheTana sakchhaun?"
+  },
+  "673": {
+    "id": "673",
+    "text": "ke haamii ali pachhaDi bheTna sakchhaun?"
+  },
+  "674": {
+    "id": "674",
+    "text": "kaaranvash haamro bheTghaaT pariwartan bhayekole kchhemaa chaahanchhu."
+  },
+  "675": {
+    "id": "675",
+    "text": "ke haamii bheTne samayelaaii pheri milaauna sakchhaun?"
+  },
+  "676": {
+    "id": "676",
+    "text": "baaibalko parichaye"
+  },
+  "677": {
+    "id": "677",
+    "text": "haamii tapaainlaaii baaibalbaaTa yeuTaa mahattwapuurna sandesh baanDna aayekaa haun (/ chhaun)."
+  },
+  "678": {
+    "id": "678",
+    "text": "haamii tapaainlaaii baaibalko yeuTaa protsaahandaayii visayebaare bataauna chaahanchhaun."
+  },
+  "679": {
+    "id": "679",
+    "text": "haamii chhimekiilaaii baaibalko yeuTaa utsaahit vichaarbaare bataaundaithiyaun."
+  },
+  "680": {
+    "id": "680",
+    "text": "haamii sabailaaii baaibal paDhuun bhanne protsaahan diirahekaa chhaun."
+  },
+  "681": {
+    "id": "681",
+    "text": "baaiballe nai haamraa dherai mahattwapuurna prashnaharuuko jawaaph diyeko dekhdaa aksar maanishharuu danga parchhan. udaaharanko laagi..."
+  },
+  "682": {
+    "id": "682",
+    "text": "yahaan baaiballe ke bhanchha kripayaa dhyaan dinus."
+  },
+  "683": {
+    "id": "683",
+    "text": "ke tapaain masanga baaibalbaare bujhna chaahanuhunchha?"
+  },
+  "684": {
+    "id": "684",
+    "text": "haamii sabailaaii nishulka baaibal adhyayen prastaav raakhirahechhaun."
+  },
+  "685": {
+    "id": "685",
+    "text": "saahityako parichaye"
+  },
+  "686": {
+    "id": "686",
+    "text": "ma yo parchaa tapaainlaaii dina chaahanchhu."
+  },
+  "687": {
+    "id": "687",
+    "text": "yes parchaale … baare bataaunchha."
+  },
+  "688": {
+    "id": "688",
+    "text": "yo parchaa paDhna khaasai dherai samaye laagdaina."
+  },
+  "689": {
+    "id": "689",
+    "text": "ani yo yekdamai rochaklaagdo chha."
+  },
+  "690": {
+    "id": "690",
+    "text": "ke tapaain yo pustikaa paDhna chaahanuhunchha?"
+  },
+  "691": {
+    "id": "691",
+    "text": "ke ma yii pattrikaaharuu tapaaikaa laagi chhoDidiuun?"
+  },
+  "692": {
+    "id": "692",
+    "text": "yo chittra hernus."
+  },
+  "693": {
+    "id": "693",
+    "text": "ma tapaainlaaii yo kitaab dekhaauna chaahanthen."
+  },
+  "694": {
+    "id": "694",
+    "text": "yes kitaabmaa ke bataaundorahechha yekchoTi hernus ta."
+  },
+  "695": {
+    "id": "695",
+    "text": "yo nishulka ho."
+  },
+  "696": {
+    "id": "696",
+    "text": "yo kaarye swaichchhik anudaanbaaTa chaliraheko chha."
+  },
+  "697": {
+    "id": "697",
+    "text": "tapaain yo kitaab pachhi phirtaa pani garna saknuhunchha."
+  },
+  "698": {
+    "id": "698",
+    "text": "mero kitaab kehii samaye dina pani sakchhu."
+  },
+  "699": {
+    "id": "699",
+    "text": "ma tapaainkai maatribhaashaamaa kehii jaankaarii garaauna chaahanchhu."
+  },
+  "700": {
+    "id": "700",
+    "text": "sujhaavharuu maagdaa"
+  },
+  "701": {
+    "id": "701",
+    "text": "yesbaare tapaainlaaii kasto laagchha?",
+    "annotation": "(: kehii bhane waa dekhaayepachhi yesarii bhannuhos.)"
+  },
+  "702": {
+    "id": "702",
+    "text": "yo sandesh raamro laagyo?"
+  },
+  "703": {
+    "id": "703",
+    "text": "… baare tapaain pani sahamat hunuhunchha ki?"
+  },
+  "704": {
+    "id": "704",
+    "text": "…baare tapaainlaaii kasto laagchha?"
+  },
+  "705": {
+    "id": "705",
+    "text": "...baare tapaainko vichaar ke chha?"
+  },
+  "706": {
+    "id": "706",
+    "text": "punah bheT"
+  },
+  "707": {
+    "id": "707",
+    "text": "arko paTak ma …baare chhalphal garna chaahanchhu."
+  },
+  "708": {
+    "id": "708",
+    "text": "arko paTak ma … bhanne mahattwapuurna prasnako jawaaph dina chaahanchhu."
+  },
+  "709": {
+    "id": "709",
+    "text": "arko paTak aaundaa ma tapaainsanga yes prasnabaare chhalphal garna chaahanchhu."
+  },
+  "710": {
+    "id": "710",
+    "text": "pheri bheTdaa haamii yes kitaabko adhyaaye duii chhalphal garaunlaa."
+  },
+  "711": {
+    "id": "711",
+    "text": "tapaainlaaii yaad chha (ki)…"
+  },
+  "712": {
+    "id": "712",
+    "text": "asti maile tapaainlaaii yeuTaa prasna sodheko thiyen."
+  },
+  "713": {
+    "id": "713",
+    "text": "yes paalii tyasko jawaaph ma dina chaahanchhu."
+  },
+  "714": {
+    "id": "714",
+    "text": "kasailaaii khojdaa"
+  },
+  "715": {
+    "id": "715",
+    "text": "ke XXX gharmaa hunuhunchha?"
+  },
+  "716": {
+    "id": "716",
+    "text": "ke XXX yahaan hunuhunchha?"
+  },
+  "717": {
+    "id": "717",
+    "text": "uhaan ahile baahira hunuhunchha?"
+  },
+  "718": {
+    "id": "718",
+    "text": "uhaan kahile pharkanuhunchha?"
+  },
+  "719": {
+    "id": "719",
+    "text": "ma (uhaanlaaii) parkhanchhu."
+  },
+  "720": {
+    "id": "720",
+    "text": "ma bhili pheri aaunchhu."
+  },
+  "721": {
+    "id": "721",
+    "text": "Thik chha. chinta nagarnus."
+  },
+  "722": {
+    "id": "722",
+    "text": "kehii chhaina."
+  },
+  "724": {
+    "id": "724",
+    "text": "praarthanaa garnu"
+  },
+  "725": {
+    "id": "725",
+    "text": "namnaa praarthanaa (mattii chha)"
+  },
+  "726": {
+    "id": "726",
+    "text": "he swargamaa basnuhune haamraa bubaa tapaainko naam pavittra paariyos."
+  },
+  "727": {
+    "id": "727",
+    "text": "tapaainko raajye aaos."
+  },
+  "728": {
+    "id": "728",
+    "text": "tapaainko ichchhaa jasarii swargamaa puuraa bhairaheko chha tyasarii nai prithviimaa pani puuraa hos."
+  },
+  "729": {
+    "id": "729",
+    "text": "haamiilaaii aaja dinbhariko bhojan dinuhos."
+  },
+  "730": {
+    "id": "730",
+    "text": "ra haamro rin kchhemaa garnuhos jasarii haamile pani haamraa riniiharuulaaii kchhemaa garekaa chhaun."
+  },
+  "731": {
+    "id": "731",
+    "text": "ani haamiilaaii pralobhanmaa parna nadinuhos tara tyes dusTabaaTa chhuTaaunuhos."
+  },
+  "732": {
+    "id": "732",
+    "text": "yehovaalaaii sambodhan gardaa"
+  },
+  "733": {
+    "id": "733",
+    "text": "tapaain / hajur"
+  },
+  "734": {
+    "id": "734",
+    "text": "yehovaa"
+  },
+  "735": {
+    "id": "735",
+    "text": "parmeshwar"
+  },
+  "736": {
+    "id": "736",
+    "text": "haamraa parmeshwar"
+  },
+  "737": {
+    "id": "737",
+    "text": "yehovaa haamraa parmeshwar"
+  },
+  "738": {
+    "id": "738",
+    "text": "srisTikartaa"
+  },
+  "739": {
+    "id": "739",
+    "text": "haamraa srisTikartaa"
+  },
+  "740": {
+    "id": "740",
+    "text": "swarga ra prithviikaa srisTikartaa"
+  },
+  "741": {
+    "id": "741",
+    "text": "bubaa"
+  },
+  "742": {
+    "id": "742",
+    "text": "haamraa bubaa"
+  },
+  "743": {
+    "id": "743",
+    "text": "pyaaraa"
+  },
+  "744": {
+    "id": "744",
+    "text": "dayaalu"
+  },
+  "745": {
+    "id": "745",
+    "text": "kripaalu"
+  },
+  "746": {
+    "id": "746",
+    "text": "pyaaraa / priye"
+  },
+  "747": {
+    "id": "747",
+    "text": "maayaalu"
+  },
+  "748": {
+    "id": "748",
+    "text": "sastishaalii"
+  },
+  "749": {
+    "id": "749",
+    "text": "sarvasaktimaan"
+  },
+  "750": {
+    "id": "750",
+    "text": "swargamaa; swargiiye"
+  },
+  "751": {
+    "id": "751",
+    "text": "swargamaa basnuhune haamraa bubaa"
+  },
+  "752": {
+    "id": "752",
+    "text": "yeshuu khriisT"
+  },
+  "753": {
+    "id": "753",
+    "text": "yeshuu khriisT"
+  },
+  "754": {
+    "id": "754",
+    "text": "haamii yo praarthnaa chaDaaundachhaun yeshuu khriisTko naammaa ."
+  },
+  "755": {
+    "id": "755",
+    "text": "yeshuu khriisT dwaaraa haamii yo praarthanaa chaDaaundachhaun."
+  },
+  "756": {
+    "id": "756",
+    "text": "kripayaa yo paapharuuko swiikaarnuhos bhandai yeshuu khriisTko naamdwaaraa praarthanaa garchhaun."
+  },
+  "757": {
+    "id": "757",
+    "text": "haamraa uddhaarkartaa"
+  },
+  "758": {
+    "id": "758",
+    "text": "tapaainkaa chhoraa"
+  },
+  "759": {
+    "id": "759",
+    "text": "haamraa raajaa"
+  },
+  "760": {
+    "id": "760",
+    "text": "shaasan garirahanu bhayekaa haamraa raajaa"
+  },
+  "761": {
+    "id": "761",
+    "text": "aamin"
+  },
+  "762": {
+    "id": "762",
+    "text": "prashamsaa"
+  },
+  "763": {
+    "id": "763",
+    "text": "haamii tapaainlaaii maayaa garchhaun."
+  },
+  "764": {
+    "id": "764",
+    "text": "haamii tapaaiko prashamsaa garchhaun."
+  },
+  "765": {
+    "id": "765",
+    "text": "haamii tapaainko mahimaa garchhaun."
+  },
+  "766": {
+    "id": "766",
+    "text": "haamiile tapaainko raajyele lyaaune aashisharuumaa aashaa raakhekaa chhaun."
+  },
+  "767": {
+    "id": "767",
+    "text": "haamii tapaainko ichchha puuraa garna chaahanchhaun."
+  },
+  "768": {
+    "id": "768",
+    "text": "haamii tapaainko naamko jayejayekaar garna chaanchhaun."
+  },
+  "769": {
+    "id": "769",
+    "text": "kritagyataa"
+  },
+  "770": {
+    "id": "770",
+    "text": "haamii khusii chhaun ki…"
+  },
+  "771": {
+    "id": "771",
+    "text": "haamii sangai bhelaa huna paayekomaa khusii chhaun."
+  },
+  "772": {
+    "id": "772",
+    "text": "aaja yesarii sangai bhelaa huna paayekomaa haamii khusii chhaun."
+  },
+  "773": {
+    "id": "773",
+    "text": "… ko laagi haami kritagya chhaun."
+  },
+  "774": {
+    "id": "774",
+    "text": "haamro yesto sabhaaghar bhayekomaa haamii kritagya chhaun."
+  },
+  "775": {
+    "id": "775",
+    "text": "yo awasar dinubhayekomaa haamii dherai kritagya chhaun."
+  },
+  "776": {
+    "id": "776",
+    "text": "yii sabhaadwaarai tapaainle baanDnubhayeka gyaanko nimti haamii dherai aabhaarii chhaun."
+  },
+  "777": {
+    "id": "777",
+    "text": "… ko nimti dhanyavaad chha."
+  },
+  "778": {
+    "id": "778",
+    "text": "yes suawasarko laagi dhanyavaad chha."
+  },
+  "779": {
+    "id": "779",
+    "text": "haamiilaaii jiivan dinubhayekomaa dhanyavaad."
+  },
+  "780": {
+    "id": "780",
+    "text": "yes sansaarbaaTa haamiilaaii alaggai raakhidinubhayekomaa dhanyavaad chha."
+  },
+  "781": {
+    "id": "781",
+    "text": "tapaainko vachan baaibal haamiilaaii dinubhayekomaa dhanyavaad."
+  },
+  "782": {
+    "id": "782",
+    "text": "tapaainlaaii chinne maukaa dinubhayekomaa dhanyavaad chha."
+  },
+  "783": {
+    "id": "783",
+    "text": "yeshuu khriisTko chhuDautiko balidaanko laagi dhanyavaad chha."
+  },
+  "784": {
+    "id": "784",
+    "text": "haamraa bhaai bahiniiharuukaa laagi dhanyavaad."
+  },
+  "785": {
+    "id": "785",
+    "text": "yo sabhaako nimti dhanyavaad."
+  },
+  "786": {
+    "id": "786",
+    "text": "tapaainle dinubhayeko bhavisyeko aashaako laagi dhanyavaad."
+  },
+  "787": {
+    "id": "787",
+    "text": "tapaainle aaphnaa chhoraalaai prithviimaa paThaaunubhayekomaa dhanyavaad chha."
+  },
+  "788": {
+    "id": "788",
+    "text": "yes sabhaamaa dinubhayekaa sallaahasujhaavharuuko laagi dhanyavaad chha."
+  },
+  "789": {
+    "id": "789",
+    "text": "anurodhharuu"
+  },
+  "790": {
+    "id": "790",
+    "text": "XXX laaii Doryaaunu"
+  },
+  "791": {
+    "id": "791",
+    "text": "haalilaaii Doryaaunuhos."
+  },
+  "792": {
+    "id": "792",
+    "text": "tapaainko sangaThanlaaii Doryaaunuhos."
+  },
+  "793": {
+    "id": "793",
+    "text": "parichaalak nikaayelaaii Doryaaunuhos."
+  },
+  "794": {
+    "id": "794",
+    "text": "XXX laaii maddat garnu"
+  },
+  "795": {
+    "id": "795",
+    "text": "tapaainko sewaa garna haamiilaai maddat dinuhos."
+  },
+  "796": {
+    "id": "796",
+    "text": "sahii kaam garna haamiilaaii maddat dinuhos."
+  },
+  "797": {
+    "id": "797",
+    "text": "pariikchhaamaa parnadikhi haamiilaaii jogaaunuhos."
+  },
+  "798": {
+    "id": "798",
+    "text": "haamiilaaii sahana maddat dinuhos."
+  },
+  "799": {
+    "id": "799",
+    "text": "sabhaamaa nirantar upasthit bhairahanako laagi haamiilaaii maddat garnuhos."
+  },
+  "800": {
+    "id": "800",
+    "text": "kchhettra sewaamaa imaandaar hridaye bhayekaa maanisharuulaaii bheTTaaidhinuhos."
+  },
+  "801": {
+    "id": "801",
+    "text": "haamiile sikekaa kuraa aruulaaii bataauna haamiilaaii maddat dinuhos."
+  },
+  "802": {
+    "id": "802",
+    "text": "sabhaaharuu sanchaalan hundaa haamiile dhyaan kendrit garna maddat dinuhos."
+  },
+  "803": {
+    "id": "803",
+    "text": "tapaainko vachanmaa manan garna haamiilaaii maddat dinuhos."
+  },
+  "804": {
+    "id": "804",
+    "text": "sikekaa kuraalaaii laagu garna haamiilaaii maddat dinuhos."
+  },
+  "805": {
+    "id": "805",
+    "text": "gaarho paristhitiko saamanaa garirahekaa haamraa bhaai bahiniiharuukaa laagi maddat diirahanuhos."
+  },
+  "806": {
+    "id": "806",
+    "text": "haamraa bhaai bahiniiharuukaa laagi aawashyektaaharuu bujhna haamiilaaii maddat dinuhos."
+  },
+  "807": {
+    "id": "807",
+    "text": "XXX laaii tapaainko vachan nirantar sikirahana maddat dinuhos."
+  },
+  "808": {
+    "id": "808",
+    "text": "XXX laaii saahasii huna maddat dinuhos."
+  },
+  "809": {
+    "id": "809",
+    "text": "XXX laaii nirantar aadhyaatmik unnatiko laagi maddat diirahanuhos."
+  },
+  "810": {
+    "id": "810",
+    "text": "YYY laaii XXX dinu"
+  },
+  "811": {
+    "id": "811",
+    "text": "haamiilaaii … dinuhos."
+  },
+  "812": {
+    "id": "812",
+    "text": "haamiilaai tapaainko pavittra shakti dinuhos."
+  },
+  "813": {
+    "id": "813",
+    "text": "haamiilaaii buddhi dinuhos."
+  },
+  "814": {
+    "id": "814",
+    "text": "garnuparne sabai kaam garna haamiilaaii bal dinuhos."
+  },
+  "815": {
+    "id": "815",
+    "text": "XXX (ko laagi) maagnu"
+  },
+  "816": {
+    "id": "816",
+    "text": "… ko haamii maag garchhaun."
+  },
+  "817": {
+    "id": "817",
+    "text": "yes kaThiin awasthaamaa pani tapaainko Doryaai hos bhane haamii bintii gardachhaun."
+  },
+  "818": {
+    "id": "818",
+    "text": "XXX laaii aashis dinu"
+  },
+  "819": {
+    "id": "819",
+    "text": "…laaii aashis paarnu"
+  },
+  "820": {
+    "id": "820",
+    "text": "haamiilaai aashis dinuhos."
+  },
+  "821": {
+    "id": "821",
+    "text": "haamro sewaamaa aashis dinuhos."
+  },
+  "822": {
+    "id": "822",
+    "text": "yes sabhaamaa aashis dinuhos."
+  },
+  "823": {
+    "id": "823",
+    "text": "haamro manDaliimaa aashis dinuhos."
+  },
+  "824": {
+    "id": "824",
+    "text": "XXX laaii surakchhit raakhnu"
+  },
+  "825": {
+    "id": "825",
+    "text": "haamiilaaii surakchhaa dinuhos."
+  },
+  "826": {
+    "id": "826",
+    "text": "aaja belukaa yahaan upasthit huna nasakekaa sangiiharuulaaii surakchhit raakhidinuhos."
+  },
+  "827": {
+    "id": "827",
+    "text": "khedomaa parekaa vibhinna deshkaa sangiiharuulaaii surakchhaa pradaan garnuhos."
+  },
+  "828": {
+    "id": "828",
+    "text": "saanjha ghar pharkandaa haamiilaaii surakchhaa dinuhos."
+  },
+  "829": {
+    "id": "829",
+    "text": "kripayaa …",
+    "annotation": "(: praarthanaamaa aadarpurvak kehii anurodh garna chalaaine shabda)"
+  },
+  "830": {
+    "id": "830",
+    "text": "yasa sabhālāī āśiṣa dinuhōs."
+  },
+  "831": {
+    "id": "831",
+    "text": "kripayaa yes sabhaamaa aashis varshaaunuhos."
+  },
+  "832": {
+    "id": "832",
+    "text": "paap ra samasyaaharuu"
+  },
+  "833": {
+    "id": "833",
+    "text": "haamii asiddha chhaun."
+  },
+  "834": {
+    "id": "834",
+    "text": "paap garnu"
+  },
+  "835": {
+    "id": "835",
+    "text": "haamii dherai paTak paap garchhaun."
+  },
+  "836": {
+    "id": "836",
+    "text": "haamii maaphii chaahanchhaun."
+  },
+  "837": {
+    "id": "837",
+    "text": "haamiile gareko paapko laagi kchhemaa chaahanchhaun (/ dinuhos)."
+  },
+  "838": {
+    "id": "838",
+    "text": "haamii paapii bhayekole dayaa dekhaaunuhos."
+  },
+  "839": {
+    "id": "839",
+    "text": "kchhemaa"
+  },
+  "840": {
+    "id": "840",
+    "text": "haamii namrataapurvak tapaainko kchhemaa maagdachhaun."
+  },
+  "841": {
+    "id": "841",
+    "text": "XXX laaii maaph garnu",
+    "annotation": "(: XXX yekjanaa vyakti ho)"
+  },
+  "842": {
+    "id": "842",
+    "text": "kripayaa haamiilaaii maaph garnuhos."
+  },
+  "843": {
+    "id": "843",
+    "text": "tapaainkaa chhoraamaarphat chhuDautiko balidaanko aadhaarmaa haamilaaii maaph garnuhos."
+  },
+  "844": {
+    "id": "844",
+    "text": "XXX ko laagi kchhemaa garnu",
+    "annotation": "(: XXX yeuTaa paap ho)"
+  },
+  "845": {
+    "id": "845",
+    "text": "kripayaa haamraa paapharuuko kchhemaa garnuhos."
+  },
+  "846": {
+    "id": "846",
+    "text": "haamii dusTa sansaarmaa baanchirahekaa chhaun."
+  },
+  "847": {
+    "id": "847",
+    "text": "haamiile dherai samasyaaharuu bhogdachhaun."
+  }
+}

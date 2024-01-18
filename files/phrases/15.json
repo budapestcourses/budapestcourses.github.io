@@ -1,0 +1,3404 @@
+{
+  "5": {
+    "id": "5",
+    "text": "BAHAN PELAJARAN MULTIBAHASA"
+  },
+  "7": {
+    "id": "7",
+    "text": "Bahasa Indonesia"
+  },
+  "8": {
+    "id": "8",
+    "text": "Indonesian | .id"
+  },
+  "11": {
+    "id": "11",
+    "text": "Dokumen ini adalah kumpulan bahan untuk pelajaran bahasa yang dibuat khusus bagi Saksi-Saksi Yehuwa."
+  },
+  "12": {
+    "id": "12",
+    "text": "Semua entri, definisi, dan informasi lain yang terdapat dalam dokumen ini dapat diterjemahkan ke dalam hampir semua bahasa. Bahan ini dapat dibuat dalam edisi-edisi baru dengan menggabungkan dua terjemahan dalam bahasa apa pun. Rangka ini diharapkan dapat mengurangi beban instruktur bahasa dan meningkatkan keefektifan Saksi-Saksi yang melayani di ladang bahasa asing di seluruh dunia."
+  },
+  "13": {
+    "id": "13",
+    "text": "Bahan pelajaran bahasa ini dapat diberikan secara cuma-cuma kepada Saksi-Saksi yang aktif. Bahan ini tidak boleh diberikan atau dipinjamkan dalam bentuk apa pun kepada orang lain."
+  },
+  "14": {
+    "id": "14",
+    "text": null
+  },
+  "15": {
+    "id": "15",
+    "text": null
+  },
+  "16": {
+    "id": "16",
+    "text": null
+  },
+  "18": {
+    "id": "18",
+    "text": "Keterangan"
+  },
+  "19": {
+    "id": "19",
+    "text": "Simbol-simbol khusus digunakan untuk menunjukkan bahwa kata-kata tertentu yang berkaitan dapat disertakan pada kata atau frasa yang dijelaskan."
+  },
+  "20": {
+    "id": "20",
+    "text": "Kata-kata yang mungkin perlu ditambahkan dalam situasi tertentu sesuai ketentuan bahasa."
+  },
+  "21": {
+    "id": "21",
+    "text": "Kata lain yang mungkin perlu digunakan untuk menggantikan suatu kata dalam frasa tertentu sesuai ketentuan bahasa. "
+  },
+  "22": {
+    "id": "22",
+    "text": "Kata atau frasa yang biasanya ditambahkan ke dalam kalimat namun tidak mengubah makna."
+  },
+  "23": {
+    "id": "23",
+    "text": "Kata atau frasa lain yang biasa digunakan sebagai pengganti bagian suatu kalimat namun tidak mengubah makna."
+  },
+  "24": {
+    "id": "24",
+    "text": "Tanda titik koma memisahkan beberapa kalimat yang maknanya sama."
+  },
+  "25": {
+    "id": "25",
+    "text": "Kalimat yang lebih kompleks (misalnya menggunakan kata kerja atau kata lain) dapat digunakan di sini."
+  },
+  "26": {
+    "id": "26",
+    "text": "Keterangan atau contoh tambahan untuk membantu pembaca memahami makna kata yang dijelaskan. Informasi ini hanya muncul dalam definisi dan mungkin berbeda dalam setiap bahasa."
+  },
+  "27": {
+    "id": "27",
+    "text": "Kurung kurawal berisi informasi tambahan kebahasaan tentang kalimat tertentu. Bisa memuat informasi tata bahasa atau simbol di bawah ini."
+  },
+  "28": {
+    "id": "28",
+    "text": "Kata atau frasa ini hendaknya digunakan dengan hati-hati karena alasan budaya atau alasan lainnya."
+  },
+  "29": {
+    "id": "29",
+    "text": "Terjemahan ini tidak terlalu akurat."
+  },
+  "30": {
+    "id": "30",
+    "text": "Kata atau frasa ini jarang digunakan dalam bahasa target."
+  },
+  "31": {
+    "id": "31",
+    "text": "Tidak ada terjemahan yang diberikan oleh penerjemah kami untuk kata ini."
+  },
+  "32": {
+    "id": "32",
+    "text": "Ini adalah bentukan kata atau frasa yang umumnya digunakan di daerah lain (keterangan bergaya ”internet” digunakan di sini. Misal .hk = Hong Kong)"
+  },
+  "33": {
+    "id": "33",
+    "text": "Istilah teokratis ini tidak ada padanannya dalam publikasi Lembaga Menara Pengawal bahasa ini. (Simbol ini biasanya digunakan bersama simbol lain)"
+  },
+  "34": {
+    "id": "34",
+    "text": "Ini adalah terjemahan akurat menurut penerjemah kami. (Simbol ini biasanya hanya digunakan untuk istilah teokratis yang saat ini tidak memiliki padanan dalam bahasa target)"
+  },
+  "35": {
+    "id": "35",
+    "text": "Ini adalah istilah yang umumnya digunakan saudara-saudari di perhimpunan. (Simbol ini biasanya digunakan untuk istilah teokratis yang saat ini tidak memiliki padanan dalam bahasa target)"
+  },
+  "37": {
+    "id": "37",
+    "text": "Kosa Kata dan Frasa"
+  },
+  "38": {
+    "id": "38",
+    "text": "Struktur Organisasi"
+  },
+  "39": {
+    "id": "39",
+    "text": "Saksi-Saksi Yehuwa"
+  },
+  "40": {
+    "id": "40",
+    "text": "Saksi-Saksi Yehuwa"
+  },
+  "41": {
+    "id": "41",
+    "text": "seorang Saksi Yehuwa"
+  },
+  "42": {
+    "id": "42",
+    "text": "Siswa-Siswa Alkitab",
+    "annotation": "(: nama yang digunakan sebelum Saksi-Saksi Yehuwa)"
+  },
+  "43": {
+    "id": "43",
+    "text": "seorang saudara",
+    "annotation": "(: seorang pria rekan seiman)"
+  },
+  "44": {
+    "id": "44",
+    "text": "seorang saudara yang matang"
+  },
+  "45": {
+    "id": "45",
+    "text": "saudara-saudara kita",
+    "annotation": "(:seiman)"
+  },
+  "46": {
+    "id": "46",
+    "text": "di antara saudara-saudara rohani kita"
+  },
+  "47": {
+    "id": "47",
+    "text": "seorang saudari",
+    "annotation": "(: seorang wanita rekan seiman)"
+  },
+  "48": {
+    "id": "48",
+    "text": "saudari Kristen yang memenuhi syarat",
+    "annotation": "(: memenuhi syarat untuk menggantikan seorang saudara yang berhalangan hadir)"
+  },
+  "49": {
+    "id": "49",
+    "text": "saudari-saudari Kristen kita"
+  },
+  "50": {
+    "id": "50",
+    "text": "saudari-saudari kita"
+  },
+  "51": {
+    "id": "51",
+    "text": "saudara-saudari rohanimu"
+  },
+  "52": {
+    "id": "52",
+    "text": "Kaum Terurap"
+  },
+  "53": {
+    "id": "53",
+    "text": "orang-orang dengan harapan hidup di Bumi"
+  },
+  "54": {
+    "id": "54",
+    "text": "domba-domba lain"
+  },
+  "55": {
+    "id": "55",
+    "text": "orang-orang dengan harapan surgawi"
+  },
+  "56": {
+    "id": "56",
+    "text": "terurap",
+    "annotation": "(: kata sifat)"
+  },
+  "57": {
+    "id": "57",
+    "text": "orang-orang Kristen terurap"
+  },
+  "58": {
+    "id": "58",
+    "text": "Sidang terurap dari pengikutnya di Bumi"
+  },
+  "59": {
+    "id": "59",
+    "text": "Budak yang Setia dan Bijaksana"
+  },
+  "60": {
+    "id": "60",
+    "text": "Badan Pimpinan"
+  },
+  "61": {
+    "id": "61",
+    "text": "anggota Badan Pimpinan"
+  },
+  "62": {
+    "id": "62",
+    "text": "Baptisan"
+  },
+  "63": {
+    "id": "63",
+    "text": "dibaptis"
+  },
+  "64": {
+    "id": "64",
+    "text": "saya dibaptis pada tahun 2006."
+  },
+  "65": {
+    "id": "65",
+    "text": "membaptis XXX"
+  },
+  "66": {
+    "id": "66",
+    "text": "Yohanes membaptis Yesus."
+  },
+  "67": {
+    "id": "67",
+    "text": "pembaptisan",
+    "annotation": "(: peristiwa)"
+  },
+  "68": {
+    "id": "68",
+    "text": "Dia menghadiri pembaptisan studinya (/ PAR-nya)."
+  },
+  "69": {
+    "id": "69",
+    "text": "penyiar"
+  },
+  "70": {
+    "id": "70",
+    "text": "penyiar belum terbaptis"
+  },
+  "71": {
+    "id": "71",
+    "text": "Kapan dia menjadi penyiar belum terbaptis?"
+  },
+  "72": {
+    "id": "72",
+    "text": "penyiar terbaptis"
+  },
+  "73": {
+    "id": "73",
+    "text": "penyiar tidak tetap tentu"
+  },
+  "74": {
+    "id": "74",
+    "text": "penyiar tidak aktif"
+  },
+  "75": {
+    "id": "75",
+    "text": "Melayani Yehuwa"
+  },
+  "76": {
+    "id": "76",
+    "text": "pelayanan; dinas"
+  },
+  "77": {
+    "id": "77",
+    "text": "pelayanan (/dinas) kita kepada Yehuwa"
+  },
+  "78": {
+    "id": "78",
+    "text": "dinas sepenuh waktu"
+  },
+  "79": {
+    "id": "79",
+    "text": "melayani"
+  },
+  "80": {
+    "id": "80",
+    "text": "melayani sebagai XXX"
+  },
+  "81": {
+    "id": "81",
+    "text": "melayani sebagai penatua"
+  },
+  "82": {
+    "id": "82",
+    "text": "melayani sebagai perintis"
+  },
+  "83": {
+    "id": "83",
+    "text": "dia melayani sebagai penatua di sidang kami"
+  },
+  "84": {
+    "id": "84",
+    "text": "XXX tidak lagi melayani sebagai seorang penatua."
+  },
+  "85": {
+    "id": "85",
+    "text": "melayani Yehuwa"
+  },
+  "86": {
+    "id": "86",
+    "text": "pelayan; hamba"
+  },
+  "87": {
+    "id": "87",
+    "text": "hamba sepenuh waktu"
+  },
+  "88": {
+    "id": "88",
+    "text": "hamba-hamba Yehuwa"
+  },
+  "89": {
+    "id": "89",
+    "text": "sukarelawan",
+    "annotation": "(: seseorang yang melakukan pekerjaan sukarela)"
+  },
+  "90": {
+    "id": "90",
+    "text": "sukarelawan tidak dibayar"
+  },
+  "91": {
+    "id": "91",
+    "text": "pekerjaan pembangunan Balai Kerajaan"
+  },
+  "92": {
+    "id": "92",
+    "text": "pekerjaan bantuan kemanusiaan"
+  },
+  "93": {
+    "id": "93",
+    "text": "kebutuhan",
+    "annotation": "(: kata benda)"
+  },
+  "94": {
+    "id": "94",
+    "text": "melayani di tempat yang lebih membutuhkan"
+  },
+  "95": {
+    "id": "95",
+    "text": "pindah ke tempat yang lebih membutuhkan"
+  },
+  "96": {
+    "id": "96",
+    "text": "perintis"
+  },
+  "97": {
+    "id": "97",
+    "text": "menghadiri sekolah perintis"
+  },
+  "98": {
+    "id": "98",
+    "text": "perintis biasa"
+  },
+  "99": {
+    "id": "99",
+    "text": "perintis ekstra"
+  },
+  "100": {
+    "id": "100",
+    "text": "perintis ekstra tetap",
+    "annotation": "(: seseorang yang melayani sebagai perintis ekstra setiap bulan)"
+  },
+  "101": {
+    "id": "101",
+    "text": "perintis istimewa"
+  },
+  "102": {
+    "id": "102",
+    "text": "utusan injil"
+  },
+  "103": {
+    "id": "103",
+    "text": "Permohonan & Pelantikan"
+  },
+  "104": {
+    "id": "104",
+    "text": "mendaftar untuk XXX"
+  },
+  "105": {
+    "id": "105",
+    "text": "mendaftar untuk dinas istimewa"
+  },
+  "106": {
+    "id": "106",
+    "text": "mendaftar untuk sekolah Gilead"
+  },
+  "107": {
+    "id": "107",
+    "text": "formulir permohonan"
+  },
+  "108": {
+    "id": "108",
+    "text": "mengisi formulir permohonan"
+  },
+  "109": {
+    "id": "109",
+    "text": "mengisi formulir permohonan perintis biasa"
+  },
+  "110": {
+    "id": "110",
+    "text": "menyerahkan formulir permohonan"
+  },
+  "111": {
+    "id": "111",
+    "text": "pengusulan",
+    "annotation": "(: sewaktu seseorang diusulkan)"
+  },
+  "112": {
+    "id": "112",
+    "text": "diusulkan menjadi penatua"
+  },
+  "113": {
+    "id": "113",
+    "text": "mengusulkan XXX menjadi penatua"
+  },
+  "114": {
+    "id": "114",
+    "text": "pelantikan",
+    "annotation": "(: sewaktu seseorang dilantik)"
+  },
+  "115": {
+    "id": "115",
+    "text": "dilantik menjadi XXX"
+  },
+  "116": {
+    "id": "116",
+    "text": "XXX telah dilantik menjadi penatua"
+  },
+  "117": {
+    "id": "117",
+    "text": "melantik XXX menjadi hamba pelayanan"
+  },
+  "118": {
+    "id": "118",
+    "text": "kualifikasi; persyaratan"
+  },
+  "119": {
+    "id": "119",
+    "text": "membahas kualifikasinya untuk menjadi penyiar belum terbaptis"
+  },
+  "120": {
+    "id": "120",
+    "text": "memenuhi persyaratan untuk baptisan"
+  },
+  "121": {
+    "id": "121",
+    "text": "memenuhi syarat untuk menjadi penyiar belum terbaptis"
+  },
+  "122": {
+    "id": "122",
+    "text": "Pria-Pria Terlantik"
+  },
+  "123": {
+    "id": "123",
+    "text": "penatua"
+  },
+  "124": {
+    "id": "124",
+    "text": "pengawas"
+  },
+  "125": {
+    "id": "125",
+    "text": "\"pemberian berupa manusia\"",
+    "annotation": "(: Ef. 4:8)"
+  },
+  "126": {
+    "id": "126",
+    "text": "hamba pelayanan"
+  },
+  "127": {
+    "id": "127",
+    "text": "badan penatua"
+  },
+  "128": {
+    "id": "128",
+    "text": "mengadakan rapat badan penatua"
+  },
+  "129": {
+    "id": "129",
+    "text": "panitia dinas sidang"
+  },
+  "130": {
+    "id": "130",
+    "text": "Hal ini perlu disetujui oleh panitia dinas sidang."
+  },
+  "131": {
+    "id": "131",
+    "text": "koordinator badan penatua"
+  },
+  "132": {
+    "id": "132",
+    "text": "sekretaris sidang"
+  },
+  "133": {
+    "id": "133",
+    "text": "pengawas dinas"
+  },
+  "134": {
+    "id": "134",
+    "text": "pemandu pelajaran Menara Pengawal"
+  },
+  "135": {
+    "id": "135",
+    "text": "pengawas sekolah pelayanan teokratis"
+  },
+  "136": {
+    "id": "136",
+    "text": "penasihat ekstra"
+  },
+  "137": {
+    "id": "137",
+    "text": "pengawas kelompok"
+  },
+  "138": {
+    "id": "138",
+    "text": "panitia pengadilan"
+  },
+  "139": {
+    "id": "139",
+    "text": "membentuk panitia pengadilan"
+  },
+  "140": {
+    "id": "140",
+    "text": "gembala-gembala rohani"
+  },
+  "141": {
+    "id": "141",
+    "text": "domba rohani"
+  },
+  "142": {
+    "id": "142",
+    "text": "kunjungan penggembalaan"
+  },
+  "143": {
+    "id": "143",
+    "text": "mengadakan kunjungan penggembalaan kepada XXX"
+  },
+  "144": {
+    "id": "144",
+    "text": "Pengawas Keliling"
+  },
+  "145": {
+    "id": "145",
+    "text": "pengawas keliling"
+  },
+  "146": {
+    "id": "146",
+    "text": "pengawas wilayah"
+  },
+  "147": {
+    "id": "147",
+    "text": "wilayah"
+  },
+  "148": {
+    "id": "148",
+    "text": "pengawas wilayah pengganti"
+  },
+  "149": {
+    "id": "149",
+    "text": "mengunjungi sidang-sidang"
+  },
+  "150": {
+    "id": "150",
+    "text": "kunjungan pengawas wilayah"
+  },
+  "151": {
+    "id": "151",
+    "text": "pengawas distrik"
+  },
+  "152": {
+    "id": "152",
+    "text": "distrik"
+  },
+  "153": {
+    "id": "153",
+    "text": "pengawas zona"
+  },
+  "154": {
+    "id": "154",
+    "text": "Kelompok-Kelompok & Sidang-Sidang"
+  },
+  "155": {
+    "id": "155",
+    "text": "sidang",
+    "annotation": "(: sekelompok saksi di suatu daerah tertentu)"
+  },
+  "156": {
+    "id": "156",
+    "text": "memekarkan sidang"
+  },
+  "157": {
+    "id": "157",
+    "text": "membentuk sidang baru"
+  },
+  "158": {
+    "id": "158",
+    "text": "sidang Kristen",
+    "annotation": "(: satu sidang dalam arti yang menyeluruh yang mencakup semua Saksi)"
+  },
+  "159": {
+    "id": "159",
+    "text": "kelompok"
+  },
+  "160": {
+    "id": "160",
+    "text": "kelompok terpencil"
+  },
+  "161": {
+    "id": "161",
+    "text": "kelompok bahasa asing"
+  },
+  "162": {
+    "id": "162",
+    "text": "Kantor-Kantor Cabang"
+  },
+  "163": {
+    "id": "163",
+    "text": "cabang"
+  },
+  "164": {
+    "id": "164",
+    "text": "kantor cabang Saksi-Saksi Yehuwa"
+  },
+  "165": {
+    "id": "165",
+    "text": "koordinator cabang"
+  },
+  "166": {
+    "id": "166",
+    "text": "panitia cabang"
+  },
+  "167": {
+    "id": "167",
+    "text": "panitia negeri"
+  },
+  "168": {
+    "id": "168",
+    "text": "Betel"
+  },
+  "169": {
+    "id": "169",
+    "text": "pekerja Betel",
+    "annotation": "(: seseorang yang bekerja di Betel)"
+  },
+  "170": {
+    "id": "170",
+    "text": "Maukah anda mengunjungi Betel?"
+  },
+  "171": {
+    "id": "171",
+    "text": "tur",
+    "annotation": "(: kata benda)"
+  },
+  "172": {
+    "id": "172",
+    "text": "Sidang kita akan pergi tur ke Betel minggu depan."
+  },
+  "173": {
+    "id": "173",
+    "text": "Saya akan menjadi pemandu tur anda [sekalian]."
+  },
+  "174": {
+    "id": "174",
+    "text": "Saya akan memandu anda mengelilingi Cabang ini."
+  },
+  "175": {
+    "id": "175",
+    "text": "departemen dinas",
+    "annotation": "(: di Betel)"
+  },
+  "176": {
+    "id": "176",
+    "text": "Silakan menulis ke departemen dinas."
+  },
+  "177": {
+    "id": "177",
+    "text": "kantor pusat sedunia"
+  },
+  "178": {
+    "id": "178",
+    "text": "Tugas-Tugas Sidang"
+  },
+  "179": {
+    "id": "179",
+    "text": "petugas tata tertib"
+  },
+  "180": {
+    "id": "180",
+    "text": "hadirin",
+    "annotation": "(: orang-orang yang menghadiri perhimpunan)"
+  },
+  "181": {
+    "id": "181",
+    "text": "hadirin",
+    "annotation": "(: mereka yang mendengarkan di perhimpunan)"
+  },
+  "182": {
+    "id": "182",
+    "text": "menghitung jumlah orang yang hadir"
+  },
+  "183": {
+    "id": "183",
+    "text": "jumlah hadirin",
+    "annotation": "(: jumlah orang-orang yang menghadiri perhimpunan, dll)"
+  },
+  "184": {
+    "id": "184",
+    "text": "Tahun lalu rata-rata jumlah hadirin untuk perhimpunan dinas adalah 85."
+  },
+  "185": {
+    "id": "185",
+    "text": "pengedar mikrofon"
+  },
+  "186": {
+    "id": "186",
+    "text": "mikrofon"
+  },
+  "187": {
+    "id": "187",
+    "text": "mengedarkan mikrofon"
+  },
+  "188": {
+    "id": "188",
+    "text": "mengatur mikrofon"
+  },
+  "189": {
+    "id": "189",
+    "text": "menyalakan mikrofon"
+  },
+  "190": {
+    "id": "190",
+    "text": "mematikan mikrofon"
+  },
+  "191": {
+    "id": "191",
+    "text": "saudara yang bertugas untuk tata suara"
+  },
+  "192": {
+    "id": "192",
+    "text": "tata suara"
+  },
+  "193": {
+    "id": "193",
+    "text": "mengoperasikan tata suara"
+  },
+  "194": {
+    "id": "194",
+    "text": "menaikkan volume"
+  },
+  "195": {
+    "id": "195",
+    "text": "menurunkan volume"
+  },
+  "196": {
+    "id": "196",
+    "text": "saudara yang bertugas untuk panggung"
+  },
+  "197": {
+    "id": "197",
+    "text": "panggung"
+  },
+  "198": {
+    "id": "198",
+    "text": "mimbar"
+  },
+  "199": {
+    "id": "199",
+    "text": "mengatur mimbar"
+  },
+  "200": {
+    "id": "200",
+    "text": "saudara yang bertugas untuk lektur"
+  },
+  "201": {
+    "id": "201",
+    "text": "gerai lektur"
+  },
+  "202": {
+    "id": "202",
+    "text": "memesan lektur"
+  },
+  "203": {
+    "id": "203",
+    "text": "saudara yang bertugas untuk majalah"
+  },
+  "204": {
+    "id": "204",
+    "text": "gerai majalah"
+  },
+  "205": {
+    "id": "205",
+    "text": "mengambil majalah"
+  },
+  "206": {
+    "id": "206",
+    "text": "saudara yang bertugas untuk daerah"
+  },
+  "207": {
+    "id": "207",
+    "text": "daerah (untuk dinas lapangan)"
+  },
+  "208": {
+    "id": "208",
+    "text": "peta daerah dinas"
+  },
+  "209": {
+    "id": "209",
+    "text": "kartu daerah"
+  },
+  "210": {
+    "id": "210",
+    "text": "saudara yang bertugas untuk keuangan"
+  },
+  "211": {
+    "id": "211",
+    "text": "keuangan"
+  },
+  "212": {
+    "id": "212",
+    "text": "keuangan sidang"
+  },
+  "213": {
+    "id": "213",
+    "text": "menyiapkan keuangan sidang"
+  },
+  "214": {
+    "id": "214",
+    "text": "mengaudit keuangan sidang"
+  },
+  "215": {
+    "id": "215",
+    "text": "sumbangan"
+  },
+  "216": {
+    "id": "216",
+    "text": "sumbangan untuk pekerjaan sedunia",
+    "annotation": "(: Mat. 24:14)"
+  },
+  "217": {
+    "id": "217",
+    "text": "sumbangan untuk sidang"
+  },
+  "218": {
+    "id": "218",
+    "text": "menghitung jumlah sumbangan"
+  },
+  "219": {
+    "id": "219",
+    "text": "menyumbang"
+  },
+  "220": {
+    "id": "220",
+    "text": "menyumbang untuk pekerjaan sedunia"
+  },
+  "221": {
+    "id": "221",
+    "text": "kotak sumbangan"
+  },
+  "222": {
+    "id": "222",
+    "text": "memasukkan sumbangan ke kotak sumbangan"
+  },
+  "223": {
+    "id": "223",
+    "text": "Kotak-kotak sumbangan terletak di dekat pintu."
+  },
+  "225": {
+    "id": "225",
+    "text": "Perhimpunan"
+  },
+  "226": {
+    "id": "226",
+    "text": "Tempat Ibadat"
+  },
+  "227": {
+    "id": "227",
+    "text": "balai"
+  },
+  "228": {
+    "id": "228",
+    "text": "tempat ibadat kami"
+  },
+  "229": {
+    "id": "229",
+    "text": "dibangun secara sukarela"
+  },
+  "230": {
+    "id": "230",
+    "text": "Balai Kerajaan"
+  },
+  "231": {
+    "id": "231",
+    "text": "Balai Kerajaan yang dibangun dengan cepat"
+  },
+  "232": {
+    "id": "232",
+    "text": "memelihara Balai Kerajaan"
+  },
+  "233": {
+    "id": "233",
+    "text": "memperbaiki Balai Kerajaan"
+  },
+  "234": {
+    "id": "234",
+    "text": "membersihkan Balai Kerajaan"
+  },
+  "235": {
+    "id": "235",
+    "text": "Sekarang giliran kita untuk membersihkan Balai Kerajaan."
+  },
+  "236": {
+    "id": "236",
+    "text": "Balai Kebaktian"
+  },
+  "237": {
+    "id": "237",
+    "text": "Menghadiri Perhimpunan"
+  },
+  "238": {
+    "id": "238",
+    "text": "perhimpunan"
+  },
+  "239": {
+    "id": "239",
+    "text": "menghadiri perhimpunan"
+  },
+  "240": {
+    "id": "240",
+    "text": "mengadakan perhimpunan"
+  },
+  "241": {
+    "id": "241",
+    "text": "persiapan",
+    "annotation": "(: mempersiapkan diri)"
+  },
+  "242": {
+    "id": "242",
+    "text": "persiapan perhimpunan"
+  },
+  "243": {
+    "id": "243",
+    "text": "mempersiapkan XXX"
+  },
+  "244": {
+    "id": "244",
+    "text": "mempersiapkan komentar"
+  },
+  "245": {
+    "id": "245",
+    "text": "mempersiapkan khotbah"
+  },
+  "246": {
+    "id": "246",
+    "text": "bergaul dengan XXX"
+  },
+  "247": {
+    "id": "247",
+    "text": "Kita bisa bergaul dengan saudara-saudari setelah perhimpunan."
+  },
+  "248": {
+    "id": "248",
+    "text": "menganjurkan XXX"
+  },
+  "249": {
+    "id": "249",
+    "text": "Komentar Saudara sangat menganjurkan saya!"
+  },
+  "250": {
+    "id": "250",
+    "text": "komentar yang menganjurkan"
+  },
+  "251": {
+    "id": "251",
+    "text": "pelajaran Alkitab sidang"
+  },
+  "252": {
+    "id": "252",
+    "text": "sekolah pelayanan teokratis"
+  },
+  "253": {
+    "id": "253",
+    "text": "perhimpunan dinas"
+  },
+  "254": {
+    "id": "254",
+    "text": "pertemuan dinas lapangan"
+  },
+  "255": {
+    "id": "255",
+    "text": "kebaktian"
+  },
+  "256": {
+    "id": "256",
+    "text": "kebaktian tahunan"
+  },
+  "257": {
+    "id": "257",
+    "text": "kebaktian istimewa"
+  },
+  "258": {
+    "id": "258",
+    "text": "kebaktian wilayah"
+  },
+  "259": {
+    "id": "259",
+    "text": "kebaktian"
+  },
+  "260": {
+    "id": "260",
+    "text": "kebaktian distrik"
+  },
+  "261": {
+    "id": "261",
+    "text": "kebaktian distrik 3 hari"
+  },
+  "262": {
+    "id": "262",
+    "text": "Corak Perhimpunan"
+  },
+  "263": {
+    "id": "263",
+    "text": "bagian perhimpunan",
+    "annotation": "(: contoh: khotbah, pembahasan, dll.)"
+  },
+  "264": {
+    "id": "264",
+    "text": "Saya akan mendapat bagian di perhimpunan minggu depan"
+  },
+  "265": {
+    "id": "265",
+    "text": "Tugas",
+    "annotation": "(: contoh: pada Sekolah Pelayanan Teokratis)"
+  },
+  "266": {
+    "id": "266",
+    "text": "tugas nomor 1"
+  },
+  "267": {
+    "id": "267",
+    "text": "mendapat tugas"
+  },
+  "268": {
+    "id": "268",
+    "text": "membawakan tugas"
+  },
+  "269": {
+    "id": "269",
+    "text": "pokok nasihat",
+    "annotation": "(: dari buku Sekolah Pelayanan)"
+  },
+  "270": {
+    "id": "270",
+    "text": "pokok nasihat yang diupayakan oleh Saudari XXX adalah nomor 23."
+  },
+  "271": {
+    "id": "271",
+    "text": "khotbah",
+    "annotation": "(: sebuah “ceramah”)"
+  },
+  "272": {
+    "id": "272",
+    "text": "khotbah yang disampaikan dengan baik"
+  },
+  "273": {
+    "id": "273",
+    "text": "khotbah umum"
+  },
+  "274": {
+    "id": "274",
+    "text": "khotbah lima menit"
+  },
+  "275": {
+    "id": "275",
+    "text": "menyampaikan khotbah"
+  },
+  "276": {
+    "id": "276",
+    "text": "pembicara"
+  },
+  "277": {
+    "id": "277",
+    "text": "pertunjukan; presentasi"
+  },
+  "278": {
+    "id": "278",
+    "text": "Mari kita lihat pertunjukan berikut."
+  },
+  "279": {
+    "id": "279",
+    "text": "mempertunjukkan XXX",
+    "annotation": "(: menunjukkan cara atau peristiwa)"
+  },
+  "280": {
+    "id": "280",
+    "text": "Saudari XXX akan mempertunjukkan caranya menawarkan majalah bulan ini."
+  },
+  "281": {
+    "id": "281",
+    "text": "pokok-pokok penting Alkitab",
+    "annotation": "(: bagian 10 menit dalam sekolah pelayanan teokratis)"
+  },
+  "282": {
+    "id": "282",
+    "text": "pembacaan Alkitab"
+  },
+  "283": {
+    "id": "283",
+    "text": "Kebutuhan Setempat",
+    "annotation": "(: khotbah tentang kebutuhan setempat)"
+  },
+  "284": {
+    "id": "284",
+    "text": "Kotak Pertanyaan",
+    "annotation": "(: pada Pelayanan Kerajaan Kita)"
+  },
+  "285": {
+    "id": "285",
+    "text": "Doa & Nyanyian"
+  },
+  "286": {
+    "id": "286",
+    "text": "nyanyian"
+  },
+  "287": {
+    "id": "287",
+    "text": "nyanyian pembuka"
+  },
+  "288": {
+    "id": "288",
+    "text": "nyanyian penutup"
+  },
+  "289": {
+    "id": "289",
+    "text": "Nyanyian ini berjudul ..."
+  },
+  "290": {
+    "id": "290",
+    "text": "Nyanyian ini didasarkan pada ..."
+  },
+  "291": {
+    "id": "291",
+    "text": "Kita akan mengawali perhimpunan kita dengan memuji Yehuwa."
+  },
+  "292": {
+    "id": "292",
+    "text": "Kita akan mengawali perhimpunan kita dengan nyanyian dan doa."
+  },
+  "293": {
+    "id": "293",
+    "text": "Nyanyian ini telah dipilih oleh pembicara dan sesuai dengan tema khotbahnya."
+  },
+  "294": {
+    "id": "294",
+    "text": "Nyanyian ini sesuai dengan tema khotbah."
+  },
+  "295": {
+    "id": "295",
+    "text": "Kita akan menutup perhimpunan kita dengan nyanyian."
+  },
+  "296": {
+    "id": "296",
+    "text": "Nyanyian (/lagu) nomor 20"
+  },
+  "297": {
+    "id": "297",
+    "text": "Mari kita dengarkan iramanya, nyanyian nomor 20"
+  },
+  "298": {
+    "id": "298",
+    "text": "buku nyanyian"
+  },
+  "299": {
+    "id": "299",
+    "text": "Mari kita membuka buku nyanyian, lagu (/nyanyian) nomor 10."
+  },
+  "300": {
+    "id": "300",
+    "text": "bernyanyi"
+  },
+  "301": {
+    "id": "301",
+    "text": "Mari kita nyanyikan lagu (/nyanyian) nomor 30"
+  },
+  "302": {
+    "id": "302",
+    "text": "Sambil menyanyikannya, kita bisa merenungkan kata-katanya."
+  },
+  "303": {
+    "id": "303",
+    "text": "doa"
+  },
+  "304": {
+    "id": "304",
+    "text": "doa pembuka"
+  },
+  "305": {
+    "id": "305",
+    "text": "doa penutup"
+  },
+  "306": {
+    "id": "306",
+    "text": "menyampaikan doa"
+  },
+  "307": {
+    "id": "307",
+    "text": "Saudara XXX, bisa tolong berdoa bagi kita?"
+  },
+  "308": {
+    "id": "308",
+    "text": "berdoa"
+  },
+  "309": {
+    "id": "309",
+    "text": "berdoa kepada Yehuwa"
+  },
+  "310": {
+    "id": "310",
+    "text": "Setelah nyanyian, kita akan berdoa kepada Yehuwa."
+  },
+  "311": {
+    "id": "311",
+    "text": "Pengumuman"
+  },
+  "312": {
+    "id": "312",
+    "text": "pengumuman",
+    "annotation": "(: contoh: di perhimpunan dinas)"
+  },
+  "313": {
+    "id": "313",
+    "text": "Ada beberapa pengumuman yang akan kami sampaikan."
+  },
+  "314": {
+    "id": "314",
+    "text": "mengumumkan XXX"
+  },
+  "315": {
+    "id": "315",
+    "text": "mengumumkan pertemuan dinas lapangan"
+  },
+  "316": {
+    "id": "316",
+    "text": "Kami senang mengumumkan bahwa ..."
+  },
+  "317": {
+    "id": "317",
+    "text": "Dengan sedih, kami mengumumkan bahwa ..."
+  },
+  "318": {
+    "id": "318",
+    "text": "Surat",
+    "annotation": "(: contoh: dari kantor cabang)"
+  },
+  "319": {
+    "id": "319",
+    "text": "Kita menerima surat dari kantor cabang"
+  },
+  "320": {
+    "id": "320",
+    "text": "Kami mengundang Saudara XXX ke mimbar untuk membacakan surat dari Organisasi."
+  },
+  "321": {
+    "id": "321",
+    "text": "resolusi"
+  },
+  "322": {
+    "id": "322",
+    "text": "menyampaikan resolusi"
+  },
+  "323": {
+    "id": "323",
+    "text": "Kami ingin menyampaikan resolusi ini kepada sidang."
+  },
+  "324": {
+    "id": "324",
+    "text": "pemungutan suara"
+  },
+  "325": {
+    "id": "325",
+    "text": "angkat tangan [Saudara]",
+    "annotation": "(: sewaktu pemungutan suara)"
+  },
+  "326": {
+    "id": "326",
+    "text": "Angkat tangan Saudara kalau Saudara setuju dengan resolusi ini."
+  },
+  "327": {
+    "id": "327",
+    "text": "Angkat tangan Saudara kalau Saudara tidak setuju dengan resolusi ini."
+  },
+  "328": {
+    "id": "328",
+    "text": "Angkat tangan Saudara kalau Saudara abstain."
+  },
+  "329": {
+    "id": "329",
+    "text": "Silakan turunkan tangan Saudara."
+  },
+  "330": {
+    "id": "330",
+    "text": "Silakan Saudara-Saudari mencatat."
+  },
+  "331": {
+    "id": "331",
+    "text": "Tolong berikkan laporan dinas Saudara kepada Pengawas Kelompok."
+  },
+  "332": {
+    "id": "332",
+    "text": "Minggu ini Grup 2 akan membersihkan Balai Kerajaan."
+  },
+  "333": {
+    "id": "333",
+    "text": "Hari Sabtu ini kita akan mengadakan pertemuan dinas lapangan pada pukul 11 di rumah Saudari XXX."
+  },
+  "334": {
+    "id": "334",
+    "text": "Setelah perhimpunan hari ini, akan ada pertemuan dinas selama 5 menit."
+  },
+  "335": {
+    "id": "335",
+    "text": "Pertemuan dinas lapangan akan diadakan di ruang kedua."
+  },
+  "336": {
+    "id": "336",
+    "text": "Saudara XXX akan memandu pertemuan dinas lapangan."
+  },
+  "337": {
+    "id": "337",
+    "text": "Ada beberapa pengumuman yang akan kami sampaikan mengenai Kebaktian Distrik mendatang"
+  },
+  "338": {
+    "id": "338",
+    "text": "Kebaktian Distrik kita akan diadakan pada ..."
+  },
+  "339": {
+    "id": "339",
+    "text": "Tempat Kebaktian Distrik kita adalah di ..."
+  },
+  "340": {
+    "id": "340",
+    "text": "Kebaktian akan dimulai pada pukul 9.50 pagi."
+  },
+  "341": {
+    "id": "341",
+    "text": "Kebaktian akan selesai pada pukul 3.45 sore."
+  },
+  "342": {
+    "id": "342",
+    "text": "Jika Saudara-Saudari ingin ikut bus, silakan hubungi Saudara XXX."
+  },
+  "343": {
+    "id": "343",
+    "text": "Saudari XXX meninggal dunia pada tanggal 12 Maret."
+  },
+  "344": {
+    "id": "344",
+    "text": "Pemakamannya akan diadakan hari Selasa depan di Balai Kerajaan"
+  },
+  "345": {
+    "id": "345",
+    "text": "XXX telah mengundurkan diri dari Saksi-Saksi Yehuwa"
+  },
+  "346": {
+    "id": "346",
+    "text": "XXX bukan lagi seorang Saksi-Saksi Yehuwa"
+  },
+  "347": {
+    "id": "347",
+    "text": "Sambutan & Perkenalan"
+  },
+  "348": {
+    "id": "348",
+    "text": "Ketua",
+    "annotation": "(: seorang saudara yang memperkenalkan pembicara di perhimpunan atau kebaktian)"
+  },
+  "349": {
+    "id": "349",
+    "text": "mengantar khotbah berikutnya"
+  },
+  "350": {
+    "id": "350",
+    "text": "memberi sambutan",
+    "annotation": "(: bertepuk tangan tanda penghargaan atas sebuah khotbah, dll)"
+  },
+  "351": {
+    "id": "351",
+    "text": "sambutan"
+  },
+  "352": {
+    "id": "352",
+    "text": "Sambutannya memperlihatkan bahwa hadirin menikmati khotbahnya."
+  },
+  "353": {
+    "id": "353",
+    "text": "Perhimpunan kita akan segera dimulai."
+  },
+  "354": {
+    "id": "354",
+    "text": "Selamat datang!"
+  },
+  "355": {
+    "id": "355",
+    "text": "Kami menyambut Saudara-Saudari di perhimpunan kita sore ini."
+  },
+  "356": {
+    "id": "356",
+    "text": "Selamat datang, Saudara-Saudari."
+  },
+  "357": {
+    "id": "357",
+    "text": "Selamat datang di perhimpunan kita sore ini."
+  },
+  "358": {
+    "id": "358",
+    "text": "Silakan kembali ke tempat duduk Saudara-Saudari."
+  },
+  "359": {
+    "id": "359",
+    "text": "Silakan duduk."
+  },
+  "360": {
+    "id": "360",
+    "text": "Silakan duduk.",
+    "annotation": "{~}"
+  },
+  "361": {
+    "id": "361",
+    "text": "Bagi yang sanggup, silakan berdiri."
+  },
+  "362": {
+    "id": "362",
+    "text": "Kita akan beristirahat selama 10 menit. Acara akan dimulai kembali pukul 3.15."
+  },
+  "363": {
+    "id": "363",
+    "text": "Di perhimpunan kita sore ini, kita akan menikmati dua bagian."
+  },
+  "364": {
+    "id": "364",
+    "text": "Bagian pertama adalah Pelajaran Menara Pengawal."
+  },
+  "365": {
+    "id": "365",
+    "text": "Kami persilakan Saudara XXX naik ke panggung."
+  },
+  "366": {
+    "id": "366",
+    "text": "Mari kita perhatikan bagiannya."
+  },
+  "367": {
+    "id": "367",
+    "text": "Saudara XXX akan memandu pembahasan ini."
+  },
+  "368": {
+    "id": "368",
+    "text": "Sekarang, Saudara XXX akan memandu pelajaran Alkitab sidang."
+  },
+  "369": {
+    "id": "369",
+    "text": "Saudara XXX akan membaca dari pasal 5 ayat 12 sampai ayat 25."
+  },
+  "370": {
+    "id": "370",
+    "text": "Saudari XXX akan mempertunjukkan presentasi kedua di \"Pelayanan Kerajaan Kita\"."
+  },
+  "371": {
+    "id": "371",
+    "text": "Sekarang, mari kita dengarkan dua saudari yang akan membahas tema berikut: \"...\""
+  },
+  "372": {
+    "id": "372",
+    "text": "Saudari XXX akan menjelaskan bahan ini."
+  },
+  "373": {
+    "id": "373",
+    "text": "Asistennya adalah Saudari YYY."
+  },
+  "374": {
+    "id": "374",
+    "text": "Saudari YYY akan menjadi tuan rumah."
+  },
+  "375": {
+    "id": "375",
+    "text": "Adegannya adalah ..."
+  },
+  "376": {
+    "id": "376",
+    "text": "Hari ini kita senang karena kedatangan pembicara tamu."
+  },
+  "377": {
+    "id": "377",
+    "text": "Saudara XXX, dari sidang YYY akan menyampaikan sebuah khotbah."
+  },
+  "378": {
+    "id": "378",
+    "text": "Tema khotbahnya adalah ..."
+  },
+  "379": {
+    "id": "379",
+    "text": "Saudara XXX. Terima kasih telah membahas topik ini."
+  },
+  "380": {
+    "id": "380",
+    "text": "Ke-75 hadirin menikmati khotbah Saudara."
+  },
+  "381": {
+    "id": "381",
+    "text": "Kita senang menyambut Pengawas Wilayah kita dan istri minggu ini."
+  },
+  "382": {
+    "id": "382",
+    "text": "Tema dari khotbah dinas pertama Pengawas Wilayah adalah ..."
+  },
+  "383": {
+    "id": "383",
+    "text": "Keluarga Betel di XXX menitipkan salam untuk Saudara-Saudari."
+  },
+  "384": {
+    "id": "384",
+    "text": "Apakah Saudara-Saudari senang menitipkan salam kepada sidang XXX?"
+  },
+  "386": {
+    "id": "386",
+    "text": "Pengajaran & Pembahasan"
+  },
+  "387": {
+    "id": "387",
+    "text": "Buku-Buku Alkitab"
+  },
+  "388": {
+    "id": "388",
+    "text": "Kitab-Kitab Ibrani"
+  },
+  "389": {
+    "id": "389",
+    "text": "Kejadian"
+  },
+  "390": {
+    "id": "390",
+    "text": "Keluaran"
+  },
+  "391": {
+    "id": "391",
+    "text": "Imamat"
+  },
+  "392": {
+    "id": "392",
+    "text": "Bilangan"
+  },
+  "393": {
+    "id": "393",
+    "text": "Ulangan"
+  },
+  "394": {
+    "id": "394",
+    "text": "Yosua"
+  },
+  "395": {
+    "id": "395",
+    "text": "Hakim-Hakim"
+  },
+  "396": {
+    "id": "396",
+    "text": "Rut"
+  },
+  "397": {
+    "id": "397",
+    "text": "1 Samuel"
+  },
+  "398": {
+    "id": "398",
+    "text": "2 Samuel"
+  },
+  "399": {
+    "id": "399",
+    "text": "1 Raja-Raja"
+  },
+  "400": {
+    "id": "400",
+    "text": "2 Raja-Raja"
+  },
+  "401": {
+    "id": "401",
+    "text": "1 Tawarikh"
+  },
+  "402": {
+    "id": "402",
+    "text": "2 Tawarikh"
+  },
+  "403": {
+    "id": "403",
+    "text": "Ezra"
+  },
+  "404": {
+    "id": "404",
+    "text": "Nehemia"
+  },
+  "405": {
+    "id": "405",
+    "text": "Ester"
+  },
+  "406": {
+    "id": "406",
+    "text": "Ayub"
+  },
+  "407": {
+    "id": "407",
+    "text": "Mazmur"
+  },
+  "408": {
+    "id": "408",
+    "text": "Amsal"
+  },
+  "409": {
+    "id": "409",
+    "text": "Pengkhotbah"
+  },
+  "410": {
+    "id": "410",
+    "text": "Kidung Agung"
+  },
+  "411": {
+    "id": "411",
+    "text": "Yesaya"
+  },
+  "412": {
+    "id": "412",
+    "text": "Yeremia"
+  },
+  "413": {
+    "id": "413",
+    "text": "Ratapan"
+  },
+  "414": {
+    "id": "414",
+    "text": "Yehezkiel"
+  },
+  "415": {
+    "id": "415",
+    "text": "Daniel"
+  },
+  "416": {
+    "id": "416",
+    "text": "Hosea"
+  },
+  "417": {
+    "id": "417",
+    "text": "Yoel"
+  },
+  "418": {
+    "id": "418",
+    "text": "Amos"
+  },
+  "419": {
+    "id": "419",
+    "text": "Obaja"
+  },
+  "420": {
+    "id": "420",
+    "text": "Yunus"
+  },
+  "421": {
+    "id": "421",
+    "text": "Mikha"
+  },
+  "422": {
+    "id": "422",
+    "text": "Nahum"
+  },
+  "423": {
+    "id": "423",
+    "text": "Habakuk"
+  },
+  "424": {
+    "id": "424",
+    "text": "Zefanya"
+  },
+  "425": {
+    "id": "425",
+    "text": "Hagai"
+  },
+  "426": {
+    "id": "426",
+    "text": "Zakharia"
+  },
+  "427": {
+    "id": "427",
+    "text": "Maleakhi"
+  },
+  "428": {
+    "id": "428",
+    "text": "Kitab-Kitab Yunani Kristen"
+  },
+  "429": {
+    "id": "429",
+    "text": "Matius"
+  },
+  "430": {
+    "id": "430",
+    "text": "Markus"
+  },
+  "431": {
+    "id": "431",
+    "text": "Lukas"
+  },
+  "432": {
+    "id": "432",
+    "text": "Yohanes"
+  },
+  "433": {
+    "id": "433",
+    "text": "Kisah"
+  },
+  "434": {
+    "id": "434",
+    "text": "Roma"
+  },
+  "435": {
+    "id": "435",
+    "text": "1 Korintus"
+  },
+  "436": {
+    "id": "436",
+    "text": "2 Korintus"
+  },
+  "437": {
+    "id": "437",
+    "text": "Galatia"
+  },
+  "438": {
+    "id": "438",
+    "text": "Efesus"
+  },
+  "439": {
+    "id": "439",
+    "text": "Filipi"
+  },
+  "440": {
+    "id": "440",
+    "text": "Kolose"
+  },
+  "441": {
+    "id": "441",
+    "text": "1 Tesalonika"
+  },
+  "442": {
+    "id": "442",
+    "text": "2 Tesalonika"
+  },
+  "443": {
+    "id": "443",
+    "text": "1 Timotius"
+  },
+  "444": {
+    "id": "444",
+    "text": "2 Timotius"
+  },
+  "445": {
+    "id": "445",
+    "text": "Titus"
+  },
+  "446": {
+    "id": "446",
+    "text": "Filemon"
+  },
+  "447": {
+    "id": "447",
+    "text": "Ibrani"
+  },
+  "448": {
+    "id": "448",
+    "text": "Yakobus"
+  },
+  "449": {
+    "id": "449",
+    "text": "1 Petrus"
+  },
+  "450": {
+    "id": "450",
+    "text": "2 Petrus"
+  },
+  "451": {
+    "id": "451",
+    "text": "1 Yohanes"
+  },
+  "452": {
+    "id": "452",
+    "text": "2 Yohanes"
+  },
+  "453": {
+    "id": "453",
+    "text": "3 Yohanes"
+  },
+  "454": {
+    "id": "454",
+    "text": "Yudas"
+  },
+  "455": {
+    "id": "455",
+    "text": "Penyingkapan (Wahyu)"
+  },
+  "456": {
+    "id": "456",
+    "text": "Menggunakan Alkitab"
+  },
+  "457": {
+    "id": "457",
+    "text": "Alkitab"
+  },
+  "458": {
+    "id": "458",
+    "text": "Mari kita buka Alkitab (kita)."
+  },
+  "459": {
+    "id": "459",
+    "text": "Mari kita buka Alkitab (kita) di Yeremia 10:23."
+  },
+  "460": {
+    "id": "460",
+    "text": "catatan (/kisah)"
+  },
+  "461": {
+    "id": "461",
+    "text": "Mari membaca kisah Alkitab ini."
+  },
+  "462": {
+    "id": "462",
+    "text": "ayat"
+  },
+  "463": {
+    "id": "463",
+    "text": "Apa yang dikatakan ayat ini tentang ... ?"
+  },
+  "464": {
+    "id": "464",
+    "text": "Apa yang ditunjukkan ayat ini tentang ... ?"
+  },
+  "465": {
+    "id": "465",
+    "text": "Bagaimana ayat ini berkaitan dengan ... ?"
+  },
+  "466": {
+    "id": "466",
+    "text": "Apa maksud ayat ini?"
+  },
+  "467": {
+    "id": "467",
+    "text": "Silakan komentari ayat ini."
+  },
+  "468": {
+    "id": "468",
+    "text": "Silakan jelaskan ayat ini."
+  },
+  "469": {
+    "id": "469",
+    "text": "Pelajaran apa yang kita dapatkan dari ayat ini?"
+  },
+  "470": {
+    "id": "470",
+    "text": "Matius pasal tujuh, ayat dua belas"
+  },
+  "471": {
+    "id": "471",
+    "text": "Matius pasal lima, ayat dua-tiga dan dua-empat"
+  },
+  "472": {
+    "id": "472",
+    "text": "Satu Yohanes pasal dua, ayat lima belas sampai tujuh belas"
+  },
+  "473": {
+    "id": "473",
+    "text": "Mazmur ke tiga-tujuh ayat sebelas"
+  },
+  "474": {
+    "id": "474",
+    "text": "Bahan Pelajaran"
+  },
+  "475": {
+    "id": "475",
+    "text": "halaman"
+  },
+  "476": {
+    "id": "476",
+    "text": "Silakan buka majalah Saudara di artikel di halaman 20."
+  },
+  "477": {
+    "id": "477",
+    "text": "Silakan buka halaman 45 dari bahan pelajaran."
+  },
+  "478": {
+    "id": "478",
+    "text": "Mari buka halaman 10."
+  },
+  "479": {
+    "id": "479",
+    "text": "artikel"
+  },
+  "480": {
+    "id": "480",
+    "text": "seri artikel",
+    "annotation": "(: contoh: di majalah Menara Pengawal)"
+  },
+  "481": {
+    "id": "481",
+    "text": "Minggu ini kita akan membahas artikel pertama dari ketiga artikel dalam seri ini."
+  },
+  "482": {
+    "id": "482",
+    "text": "tema"
+  },
+  "483": {
+    "id": "483",
+    "text": "ayat tema"
+  },
+  "484": {
+    "id": "484",
+    "text": "judul"
+  },
+  "485": {
+    "id": "485",
+    "text": "subjudul"
+  },
+  "486": {
+    "id": "486",
+    "text": "paragraf"
+  },
+  "487": {
+    "id": "487",
+    "text": "paragraf sebelumnya"
+  },
+  "488": {
+    "id": "488",
+    "text": "paragraf berikutnya"
+  },
+  "489": {
+    "id": "489",
+    "text": "dua paragraf berikutnya"
+  },
+  "490": {
+    "id": "490",
+    "text": "Mari kita baca dua paragraf berikutnya."
+  },
+  "491": {
+    "id": "491",
+    "text": "kata"
+  },
+  "492": {
+    "id": "492",
+    "text": "kata yang dicetak tebal"
+  },
+  "493": {
+    "id": "493",
+    "text": "kata yang dicetak miring"
+  },
+  "494": {
+    "id": "494",
+    "text": "catatan kaki"
+  },
+  "495": {
+    "id": "495",
+    "text": "apendiks"
+  },
+  "496": {
+    "id": "496",
+    "text": "kotak"
+  },
+  "497": {
+    "id": "497",
+    "text": "gambar"
+  },
+  "498": {
+    "id": "498",
+    "text": "Adik-adik, siapa nama lelaki di gambar ini?"
+  },
+  "499": {
+    "id": "499",
+    "text": "keterangan",
+    "annotation": "(: gambar)"
+  },
+  "500": {
+    "id": "500",
+    "text": "Pembahasan"
+  },
+  "501": {
+    "id": "501",
+    "text": "jawaban"
+  },
+  "502": {
+    "id": "502",
+    "text": "memberi jawaban"
+  },
+  "503": {
+    "id": "503",
+    "text": "pertanyaan"
+  },
+  "504": {
+    "id": "504",
+    "text": "pertanyaan pengantar",
+    "annotation": "(: contoh: dalam buku \"Apa yang Sebenarnya Alkitab Ajarkan\")"
+  },
+  "505": {
+    "id": "505",
+    "text": "pertanyaan tinjauan",
+    "annotation": "(: contoh: dalam pelajaran Menara Pengawal)"
+  },
+  "506": {
+    "id": "506",
+    "text": "mengajukan pertanyaan"
+  },
+  "507": {
+    "id": "507",
+    "text": "menjawab pertanyaan"
+  },
+  "508": {
+    "id": "508",
+    "text": "komentar"
+  },
+  "509": {
+    "id": "509",
+    "text": "memberi komentar"
+  },
+  "510": {
+    "id": "510",
+    "text": "Tolong terjemahkan komentarnya."
+  },
+  "511": {
+    "id": "511",
+    "text": "Ada komentar lain?"
+  },
+  "512": {
+    "id": "512",
+    "text": "Harap batasi komentar Saudara selama 30 detik."
+  },
+  "513": {
+    "id": "513",
+    "text": "mengomentari"
+  },
+  "514": {
+    "id": "514",
+    "text": "Siapa yang ingin memberikan komentar untuk pembacaan Alkitab minggu ini?"
+  },
+  "515": {
+    "id": "515",
+    "text": "mengomentari gambar"
+  },
+  "516": {
+    "id": "516",
+    "text": "pembahasan"
+  },
+  "517": {
+    "id": "517",
+    "text": "pembahasan tanya jawab"
+  },
+  "518": {
+    "id": "518",
+    "text": "membahas"
+  },
+  "519": {
+    "id": "519",
+    "text": "membahas ayat harian"
+  },
+  "520": {
+    "id": "520",
+    "text": "Sekarang kita akan membahas artikel ini bersama-sama."
+  },
+  "521": {
+    "id": "521",
+    "text": "memandu (pembahasan)"
+  },
+  "522": {
+    "id": "522",
+    "text": "Terima kasih Saudara XXX yang telah memandu pembahasan tadi."
+  },
+  "523": {
+    "id": "523",
+    "text": "pemandu"
+  },
+  "524": {
+    "id": "524",
+    "text": "pemandu pelajaran Menara Pengawal"
+  },
+  "525": {
+    "id": "525",
+    "text": "menyoroti; membahas",
+    "annotation": "(: berfokus pada sesuatu dalam pembahasan)"
+  },
+  "526": {
+    "id": "526",
+    "text": "Sekarang kita akan membahas sebuah pertanyaan penting."
+  },
+  "527": {
+    "id": "527",
+    "text": "membaca",
+    "annotation": "(: dengan suara keras, misalnya di perhimpunan)"
+  },
+  "528": {
+    "id": "528",
+    "text": "Siapa bisa membacakan paragraf 2?"
+  },
+  "529": {
+    "id": "529",
+    "text": "Tolong bacakan paragraf 2."
+  },
+  "530": {
+    "id": "530",
+    "text": "Terima kasih Saudara XXX untuk pembacaannya."
+  },
+  "531": {
+    "id": "531",
+    "text": "meninjau"
+  },
+  "532": {
+    "id": "532",
+    "text": "Mari kita tinjau pokok-pokok utama artikel ini."
+  },
+  "533": {
+    "id": "533",
+    "text": "pokok utama"
+  },
+  "534": {
+    "id": "534",
+    "text": "Apa saja pokok utama yang kita pelajari dari bahan minggu ini?"
+  },
+  "535": {
+    "id": "535",
+    "text": "menerapkan XXX dalam YYY"
+  },
+  "536": {
+    "id": "536",
+    "text": "Bagaimana kita bisa menerapkan ini dalam ... ?"
+  },
+  "537": {
+    "id": "537",
+    "text": "Bagaimana kita bisa menerapkan ini dalam dinas?"
+  },
+  "538": {
+    "id": "538",
+    "text": "menyimpulkan XXX"
+  },
+  "539": {
+    "id": "539",
+    "text": "Bagaimana kita bisa menyimpulkan  paragraf ini?"
+  },
+  "540": {
+    "id": "540",
+    "text": "Saudara-Saudari",
+    "annotation": "(: sewaktu meminta perhatian, atau sewaktu mulai berbicara kepada hadirin)"
+  },
+  "541": {
+    "id": "541",
+    "text": "Saudara XXX",
+    "annotation": "(: sewaktu menunjuk seseorang untuk memberi komentar di perhimpunan)"
+  },
+  "542": {
+    "id": "542",
+    "text": "Saudari XXX",
+    "annotation": "(: sewaktu menunjuk seseorang untuk memberi komentar di perhimpunan)"
+  },
+  "543": {
+    "id": "543",
+    "text": "Silakan angkat tangan."
+  },
+  "544": {
+    "id": "544",
+    "text": "Mohon tunggu mikrofonnya."
+  },
+  "545": {
+    "id": "545",
+    "text": "Tolong nyalakan mikrofonnya."
+  },
+  "546": {
+    "id": "546",
+    "text": "Tolong pegang mikrofonnya dengan benar."
+  },
+  "547": {
+    "id": "547",
+    "text": "Bagus sekali!",
+    "annotation": "(: katakan ini setelah seseorang memberikan khotbah atu komentar yang bagus, dll.)"
+  },
+  "548": {
+    "id": "548",
+    "text": "Kata-Kata untuk Urutan"
+  },
+  "549": {
+    "id": "549",
+    "text": "Sekarang; Berikutnya ..."
+  },
+  "550": {
+    "id": "550",
+    "text": "Sekarang mari kita baca paragraf 3."
+  },
+  "551": {
+    "id": "551",
+    "text": "Sekarang kita akan membahas ..."
+  },
+  "552": {
+    "id": "552",
+    "text": "Sekarang kita akan membahas pertanyaan berikut."
+  },
+  "553": {
+    "id": "553",
+    "text": "Sekarang kita akan membahas problem berikut."
+  },
+  "554": {
+    "id": "554",
+    "text": "Sekarang kita akan membahas topik berikut."
+  },
+  "555": {
+    "id": "555",
+    "text": "Pertama ..."
+  },
+  "556": {
+    "id": "556",
+    "text": "Kemudian ..."
+  },
+  "557": {
+    "id": "557",
+    "text": "Terakhir ..."
+  },
+  "558": {
+    "id": "558",
+    "text": "minggu lalu"
+  },
+  "559": {
+    "id": "559",
+    "text": "minggu ini"
+  },
+  "560": {
+    "id": "560",
+    "text": "Minggu ini kita akan membahas paragraf 10 sampai 18."
+  },
+  "561": {
+    "id": "561",
+    "text": "Pembaca minggu ini adalah Saudara XXX."
+  },
+  "562": {
+    "id": "562",
+    "text": "minggu depan"
+  },
+  "563": {
+    "id": "563",
+    "text": "Apa yang akan kita bahas minggu depan?"
+  },
+  "564": {
+    "id": "564",
+    "text": "sebelumnya"
+  },
+  "565": {
+    "id": "565",
+    "text": "berikutnya"
+  },
+  "566": {
+    "id": "566",
+    "text": "Mari kita lanjutkan."
+  },
+  "567": {
+    "id": "567",
+    "text": "Sayangnya waktu kita sudah habis."
+  },
+  "568": {
+    "id": "568",
+    "text": "Mengingat waktu, kita lanjutkan."
+  },
+  "569": {
+    "id": "569",
+    "text": "Waktunya sudah habis."
+  },
+  "570": {
+    "id": "570",
+    "text": "Kita akhiri di sini."
+  },
+  "572": {
+    "id": "572",
+    "text": "Memberi Kesaksian"
+  },
+  "573": {
+    "id": "573",
+    "text": "Dinas Lapangan"
+  },
+  "574": {
+    "id": "574",
+    "text": "dinas lapangan"
+  },
+  "575": {
+    "id": "575",
+    "text": "berdinas dengan XXX"
+  },
+  "576": {
+    "id": "576",
+    "text": "kapan kita bisa berdinas bersama?"
+  },
+  "577": {
+    "id": "577",
+    "text": "mengabar"
+  },
+  "578": {
+    "id": "578",
+    "text": "pekerjaan pengabaran"
+  },
+  "579": {
+    "id": "579",
+    "text": "mengabar"
+  },
+  "580": {
+    "id": "580",
+    "text": "mengabar kepada XXX"
+  },
+  "581": {
+    "id": "581",
+    "text": "memberikan kesaksian kepada XXX"
+  },
+  "582": {
+    "id": "582",
+    "text": "memberikan kesaksian kepada XXX"
+  },
+  "583": {
+    "id": "583",
+    "text": "memberikan kesaksian"
+  },
+  "584": {
+    "id": "584",
+    "text": "memberikan kesaksian dari rumah ke rumah"
+  },
+  "585": {
+    "id": "585",
+    "text": "memberikan kesaksian di jalan"
+  },
+  "586": {
+    "id": "586",
+    "text": "memberikan kesaksian tidak resmi"
+  },
+  "587": {
+    "id": "587",
+    "text": "memberikan kesaksian di daerah bisnis"
+  },
+  "588": {
+    "id": "588",
+    "text": "kunjungan kembali"
+  },
+  "589": {
+    "id": "589",
+    "text": "Apa saudara mau ikut saya kunjungan kembali besok?"
+  },
+  "590": {
+    "id": "590",
+    "text": "pergi kunjungan kembali"
+  },
+  "591": {
+    "id": "591",
+    "text": "pelajaran Alkitab"
+  },
+  "592": {
+    "id": "592",
+    "text": "memulai pelajaran Alkitab"
+  },
+  "593": {
+    "id": "593",
+    "text": "memandu pelajaran Alkitab"
+  },
+  "594": {
+    "id": "594",
+    "text": "Minggu depan saya ada pelajaran Alkitab. Saudara mau menemani saya?"
+  },
+  "595": {
+    "id": "595",
+    "text": "guru pelajaran Alkitab"
+  },
+  "596": {
+    "id": "596",
+    "text": "studi; PAR"
+  },
+  "597": {
+    "id": "597",
+    "text": "peminat"
+  },
+  "598": {
+    "id": "598",
+    "text": "menindaklanjuti",
+    "annotation": "(: mengunjungi kembali orang-orang yg berminat)"
+  },
+  "599": {
+    "id": "599",
+    "text": "jam dinas lapangan"
+  },
+  "600": {
+    "id": "600",
+    "text": "Bulan lalu dia menghitung (/mendapat) 14 jam dalam dinas lapangan."
+  },
+  "601": {
+    "id": "601",
+    "text": "Bulan lalu dia melaporkan 14 jam dan 1 pelajaran Alkitab."
+  },
+  "602": {
+    "id": "602",
+    "text": "presentasi; kata pengantar"
+  },
+  "603": {
+    "id": "603",
+    "text": "Apa saudara tahu kata pengantar dinas yang bagus?"
+  },
+  "604": {
+    "id": "604",
+    "text": "pengalaman dinas",
+    "annotation": "(: contoh: sesuatu yang terjadi dalam dinas)"
+  },
+  "605": {
+    "id": "605",
+    "text": "Apa saudara punya pengalaman dinas yang menarik bulan lalu?"
+  },
+  "606": {
+    "id": "606",
+    "text": "Saudara XXX sekarang akan menceritakan sebuah pengalaman yang menarik."
+  },
+  "607": {
+    "id": "607",
+    "text": "Pelayanan Kerajaan Kita"
+  },
+  "608": {
+    "id": "608",
+    "text": "sisipan"
+  },
+  "609": {
+    "id": "609",
+    "text": "Silakan bawa sisipan Pelayanan Kerajaan Kita bulan Desember 2006 ke pertemuan dinas lapangan."
+  },
+  "610": {
+    "id": "610",
+    "text": "penawaran",
+    "annotation": "(: publikasi yang sedang ditawarkan di waktu tertentu)"
+  },
+  "611": {
+    "id": "611",
+    "text": "Apa penawaran bulan ini?"
+  },
+  "612": {
+    "id": "612",
+    "text": "Lektur apa yang kita tonjolkan bulan ini?"
+  },
+  "613": {
+    "id": "613",
+    "text": "kampanye",
+    "annotation": "(: periode aktivitas untuk menyebarluaskan risalah khusus)"
+  },
+  "614": {
+    "id": "614",
+    "text": "Kapan kampanye dimulai?"
+  },
+  "615": {
+    "id": "615",
+    "text": "partner",
+    "annotation": "(: dalam dinas)"
+  },
+  "616": {
+    "id": "616",
+    "text": "Siapa yang tidak memiliki partner?"
+  },
+  "617": {
+    "id": "617",
+    "text": "Saudara XXX, saudara bisa bekerja sama dengan saudara YYY."
+  },
+  "618": {
+    "id": "618",
+    "text": "Siapa yang membutuhkan transportasi?",
+    "annotation": "(: Siapa yang membutuhkan bantuan untuk pergi ke daerah dinas?)"
+  },
+  "619": {
+    "id": "619",
+    "text": "daerah dinas (untuk dinas lapangan)"
+  },
+  "620": {
+    "id": "620",
+    "text": "Siapa yang membutuhkan daerah?"
+  },
+  "621": {
+    "id": "621",
+    "text": "Ada masalah?"
+  },
+  "622": {
+    "id": "622",
+    "text": "Ada pertanyaan?"
+  },
+  "623": {
+    "id": "623",
+    "text": "Mari kita berangkat!",
+    "annotation": "(: Mari kita pergi berdinas bersama sekarang)"
+  },
+  "624": {
+    "id": "624",
+    "text": "Kata Pengantar"
+  },
+  "625": {
+    "id": "625",
+    "text": "Halo. Nama saya XXX"
+  },
+  "626": {
+    "id": "626",
+    "text": "Permisi.",
+    "annotation": "(: ungkapan yang digunakan untuk secara sopan meminta perhatian seseorang dalam dinas)"
+  },
+  "627": {
+    "id": "627",
+    "text": "Saya sedang belajar bahasa XXX.",
+    "annotation": "(: XXX adalah bahasa)"
+  },
+  "628": {
+    "id": "628",
+    "text": "Anda bisa bahasa XXX?",
+    "annotation": "(: XXX adalah bahasa)"
+  },
+  "629": {
+    "id": "629",
+    "text": "Saya sedang mencari orang-orang yang berbahasa XXX.",
+    "annotation": "(: XXX adalah bahasa)"
+  },
+  "630": {
+    "id": "630",
+    "text": "Saya senang melihat anda ada di rumah."
+  },
+  "631": {
+    "id": "631",
+    "text": "Senang bisa bertemu anda lagi."
+  },
+  "632": {
+    "id": "632",
+    "text": "Senang bisa bercakap-cakap lagi."
+  },
+  "633": {
+    "id": "633",
+    "text": "Maaf saya datang di saat yang kurang tepat."
+  },
+  "634": {
+    "id": "634",
+    "text": "Saya bisa lihat anda sedang sangat sibuk saat ini."
+  },
+  "635": {
+    "id": "635",
+    "text": "Saya akan bicara singkat saja."
+  },
+  "636": {
+    "id": "636",
+    "text": "Kami sedang mengunjungi keluarga-keluarga di daerah ini."
+  },
+  "637": {
+    "id": "637",
+    "text": "Kami sedang mengadakan kunjungan singkat kepada tetangga-tetangga kami hari ini."
+  },
+  "638": {
+    "id": "638",
+    "text": "Sewaktu berbicara dengan orang-orang, saya mengamati bahwa …"
+  },
+  "639": {
+    "id": "639",
+    "text": "Sewaktu berbicara dengan orang-orang, kami mengamati bahwa …"
+  },
+  "640": {
+    "id": "640",
+    "text": "Kami sedang berbicara kepada tetangga-tetangga kami tentang di mana kita bisa menemukan bantuan praktis untuk mengatasi problem-problem kehidupan."
+  },
+  "641": {
+    "id": "641",
+    "text": "Kami sedang berbicara kepada para tetangga tentang …"
+  },
+  "642": {
+    "id": "642",
+    "text": "Kami sedang berbicara kepada orang-orang tentang …"
+  },
+  "643": {
+    "id": "643",
+    "text": "Kami sedang berbicara kepada semua orang tentang …"
+  },
+  "644": {
+    "id": "644",
+    "text": "Saya sedang membahas suatu problem yang kita semua harus hadapi."
+  },
+  "645": {
+    "id": "645",
+    "text": "Hari ini kami sedang menanyakan sebuah pertanyaan kepada setiap orang."
+  },
+  "646": {
+    "id": "646",
+    "text": "Hari ini kami sedang bertanya kepada para tetangga kami …"
+  },
+  "647": {
+    "id": "647",
+    "text": "Saya mau bertanya pada anda."
+  },
+  "648": {
+    "id": "648",
+    "text": "Pernahkah anda berpikir: …?"
+  },
+  "649": {
+    "id": "649",
+    "text": "Pernahkah anda berpikir: Apakah Allah benar-benar peduli melihat ketidakadilan dan penderitaan yang dialami umat manusia?"
+  },
+  "650": {
+    "id": "650",
+    "text": "Memupuk Hubungan"
+  },
+  "651": {
+    "id": "651",
+    "text": "Bagaimana saya bisa menghubungi anda?"
+  },
+  "652": {
+    "id": "652",
+    "text": "Apakah anda bisa memberikan nomor telepon anda?"
+  },
+  "653": {
+    "id": "653",
+    "text": "Nomor handphone saya adalah …"
+  },
+  "654": {
+    "id": "654",
+    "text": "Saya akan menelepon anda sebelum saya datang."
+  },
+  "655": {
+    "id": "655",
+    "text": "Saya akan kirim SMS kepada anda."
+  },
+  "656": {
+    "id": "656",
+    "text": "Apakah anda menerima SMS saya?"
+  },
+  "657": {
+    "id": "657",
+    "text": "Kita bisa bertemu di waktu lain."
+  },
+  "658": {
+    "id": "658",
+    "text": "Mari kita membuat janji."
+  },
+  "659": {
+    "id": "659",
+    "text": "Kapan waktu yang cocok untuk anda?"
+  },
+  "660": {
+    "id": "660",
+    "text": "Kapan waktu yang cocok untuk bertemu?"
+  },
+  "661": {
+    "id": "661",
+    "text": "Maaf, besok saya tidak bisa."
+  },
+  "662": {
+    "id": "662",
+    "text": "Kapan waktu yang cocok bagi saya untuk menelepon anda?"
+  },
+  "663": {
+    "id": "663",
+    "text": "Kapan waktu yang cocok bagi saya untuk mengunjungi anda?"
+  },
+  "664": {
+    "id": "664",
+    "text": "Bagaimana kalau minggu depan?"
+  },
+  "665": {
+    "id": "665",
+    "text": "Apakah Selasa sore cocok untuk anda?"
+  },
+  "666": {
+    "id": "666",
+    "text": "Apakah anda akan ada di toko?"
+  },
+  "667": {
+    "id": "667",
+    "text": "Apakah anda akan ada di rumah?"
+  },
+  "668": {
+    "id": "668",
+    "text": "Kita bisa bertemu untuk minum teh (/kopi)"
+  },
+  "669": {
+    "id": "669",
+    "text": "Kita bisa bertemu untuk mengobrol."
+  },
+  "670": {
+    "id": "670",
+    "text": "Apa anda punya waktu luang minggu depan?"
+  },
+  "671": {
+    "id": "671",
+    "text": "Apa anda ada waktu 10 menit besok?"
+  },
+  "672": {
+    "id": "672",
+    "text": "Bisakah kita bertemu lebih awal?"
+  },
+  "673": {
+    "id": "673",
+    "text": "Bisakah kita bertemu lebih telat?",
+    "annotation": "{x}"
+  },
+  "674": {
+    "id": "674",
+    "text": "Maaf, saya harus membatalkan janji kita."
+  },
+  "675": {
+    "id": "675",
+    "text": "Bolehkah pertemuan kita diganti ke hari lain?"
+  },
+  "676": {
+    "id": "676",
+    "text": "Memperkenalkan Alkitab"
+  },
+  "677": {
+    "id": "677",
+    "text": "Saya datang untuk membagi satu hal yang penting dari Alkitab."
+  },
+  "678": {
+    "id": "678",
+    "text": "Saya senang membagi satu hal yang menggugah (/bagus) dari Alkitab."
+  },
+  "679": {
+    "id": "679",
+    "text": "Saya sedang membagikan hal yang menggugah (/bagus) dari Alkitab kepada para tetangga saya."
+  },
+  "680": {
+    "id": "680",
+    "text": "Kami sedang menganjurkan orang-orang untuk membaca Alkitab."
+  },
+  "681": {
+    "id": "681",
+    "text": "Jawaban Alkitab untuk pertanyaan-pertanyaan penting sering kali mengagetkan orang. Sebagai contoh: …"
+  },
+  "682": {
+    "id": "682",
+    "text": "Perhatikan apa yang dikatakan Alkitab."
+  },
+  "683": {
+    "id": "683",
+    "text": "Apakah anda mau belajar Alkitab dengan saya?"
+  },
+  "684": {
+    "id": "684",
+    "text": "Kami sedang menawarkan kursus Pelajaran Alkitab gratis di rumah."
+  },
+  "685": {
+    "id": "685",
+    "text": "Menawarkan Lektur"
+  },
+  "686": {
+    "id": "686",
+    "text": "Saya mau memberikan risalah ini."
+  },
+  "687": {
+    "id": "687",
+    "text": "Risalah ini membahas tentang…"
+  },
+  "688": {
+    "id": "688",
+    "text": "Membaca risalah ini hanya butuh waktu sebentar saja."
+  },
+  "689": {
+    "id": "689",
+    "text": "Ini sangat menarik."
+  },
+  "690": {
+    "id": "690",
+    "text": "Apakah anda mau membaca brosur ini?"
+  },
+  "691": {
+    "id": "691",
+    "text": "Apa saya bisa meninggalkan majalah-majalah ini?"
+  },
+  "692": {
+    "id": "692",
+    "text": "Lihatlah gambar ini."
+  },
+  "693": {
+    "id": "693",
+    "text": "Saya mau menunjukkan buku ini."
+  },
+  "694": {
+    "id": "694",
+    "text": "Silakan lihat apa yang dikatakan di buku ini."
+  },
+  "695": {
+    "id": "695",
+    "text": "Ini gratis."
+  },
+  "696": {
+    "id": "696",
+    "text": "Pekerjaan kami didukung oleh sumbangan sukarela."
+  },
+  "697": {
+    "id": "697",
+    "text": "Anda bisa meminjam buku ini."
+  },
+  "698": {
+    "id": "698",
+    "text": "Saya bisa meminjamkan buku saya kepada anda."
+  },
+  "699": {
+    "id": "699",
+    "text": "Saya mau memberi informasi kepada anda dalam bahasa anda sendiri."
+  },
+  "700": {
+    "id": "700",
+    "text": "Meminta Pendapat"
+  },
+  "701": {
+    "id": "701",
+    "text": "Bagaimana pendapat anda?",
+    "annotation": "(: Katakan ini setelah saudara mengatakan atau menunjukkan sesuatu.)"
+  },
+  "702": {
+    "id": "702",
+    "text": "Apakah anda setuju?",
+    "annotation": "{~}"
+  },
+  "703": {
+    "id": "703",
+    "text": "Apakah anda setuju dengan …?"
+  },
+  "704": {
+    "id": "704",
+    "text": "Bagaimana perasaan anda tentang …?",
+    "annotation": "{x}"
+  },
+  "705": {
+    "id": "705",
+    "text": "Apa pendapat anda tentang …?"
+  },
+  "706": {
+    "id": "706",
+    "text": "Kunjungan Kembali"
+  },
+  "707": {
+    "id": "707",
+    "text": "Kali berikut, saya mau membahas…"
+  },
+  "708": {
+    "id": "708",
+    "text": "Kali berikut, saya ingin menjawab sebuah pertanyaan penting …"
+  },
+  "709": {
+    "id": "709",
+    "text": "Kali berikut saya datang, saya mau membahas pertanyaan ini dengan anda."
+  },
+  "710": {
+    "id": "710",
+    "text": "Kali berikut, kita bisa membahas informasi di pasal 2 buku ini."
+  },
+  "711": {
+    "id": "711",
+    "text": "Apa anda ingat, …"
+  },
+  "712": {
+    "id": "712",
+    "text": "Terakhir kita bertemu, saya mengajukan pertanyaan kepada anda."
+  },
+  "713": {
+    "id": "713",
+    "text": "Kali ini saya mau menjawab pertanyaan tersebut."
+  },
+  "714": {
+    "id": "714",
+    "text": "Mencari seseorang"
+  },
+  "715": {
+    "id": "715",
+    "text": "Apakah XXX ada di rumah?"
+  },
+  "716": {
+    "id": "716",
+    "text": "Apakah XXX ada di sini?"
+  },
+  "717": {
+    "id": "717",
+    "text": "Dia sedang pergi keluar."
+  },
+  "718": {
+    "id": "718",
+    "text": "Kapan dia akan kembali?"
+  },
+  "719": {
+    "id": "719",
+    "text": "Saya akan menunggu dia kembali."
+  },
+  "720": {
+    "id": "720",
+    "text": "Saya akan kembali lagi besok."
+  },
+  "721": {
+    "id": "721",
+    "text": "Tidak apa-apa."
+  },
+  "722": {
+    "id": "722",
+    "text": "Tidak masalah."
+  },
+  "724": {
+    "id": "724",
+    "text": "Memanjatkan Doa"
+  },
+  "725": {
+    "id": "725",
+    "text": "Contoh Doa (Mat 6)"
+  },
+  "726": {
+    "id": "726",
+    "text": "﻿Bapak kami yang di surga, biarlah namamu disucikan."
+  },
+  "727": {
+    "id": "727",
+    "text": "Biarlah kerajaanmu datang."
+  },
+  "728": {
+    "id": "728",
+    "text": "Biarlah kehendakmu terjadi, seperti di surga, demikian pula di atas bumi."
+  },
+  "729": {
+    "id": "729",
+    "text": "Berikanlah kepada kami hari ini roti kami untuk hari ini;"
+  },
+  "730": {
+    "id": "730",
+    "text": "dan ampunilah dosa-dosa kami yang disamakan dengan utang, seperti kami juga telah mengampuni orang yang berdosa, yang disamakan dengan orang yang berutang kepada kami."
+  },
+  "731": {
+    "id": "731",
+    "text": "Dan janganlah membawa kami ke dalam godaan, tetapi lepaskanlah kami dari si fasik."
+  },
+  "732": {
+    "id": "732",
+    "text": "Sebutan untuk Yehuwa"
+  },
+  "733": {
+    "id": "733",
+    "text": "Engkau",
+    "annotation": "(: kata ganti yang umumnya digunakan sebagai sebutan untuk Yehuwa dalam bahasa target)"
+  },
+  "734": {
+    "id": "734",
+    "text": "Yehuwa"
+  },
+  "735": {
+    "id": "735",
+    "text": "Allah"
+  },
+  "736": {
+    "id": "736",
+    "text": "Allah kami"
+  },
+  "737": {
+    "id": "737",
+    "text": "Yehuwa Allah kami"
+  },
+  "738": {
+    "id": "738",
+    "text": "Pencipta"
+  },
+  "739": {
+    "id": "739",
+    "text": "Pencipta kami"
+  },
+  "740": {
+    "id": "740",
+    "text": "Pencipta langit dan bumi"
+  },
+  "741": {
+    "id": "741",
+    "text": "bapak"
+  },
+  "742": {
+    "id": "742",
+    "text": "Bapak kami"
+  },
+  "743": {
+    "id": "743",
+    "text": "… yang kami kasihi; yang terkasih",
+    "annotation": "{~}"
+  },
+  "744": {
+    "id": "744",
+    "text": "baik hati"
+  },
+  "745": {
+    "id": "745",
+    "text": "berbelaskasihan"
+  },
+  "746": {
+    "id": "746",
+    "text": "yang kami kasihi"
+  },
+  "747": {
+    "id": "747",
+    "text": "pengasih"
+  },
+  "748": {
+    "id": "748",
+    "text": "perkasa"
+  },
+  "749": {
+    "id": "749",
+    "text": "mahakuasa"
+  },
+  "750": {
+    "id": "750",
+    "text": "ada di surga; surgawi"
+  },
+  "751": {
+    "id": "751",
+    "text": "Bapak kami yang ada di surga"
+  },
+  "752": {
+    "id": "752",
+    "text": "Yesus Kristus"
+  },
+  "753": {
+    "id": "753",
+    "text": "Yesus Kristus"
+  },
+  "754": {
+    "id": "754",
+    "text": "Doa ini kami sampaikan dengan nama Yesus."
+  },
+  "755": {
+    "id": "755",
+    "text": "Doa ini kami sampaikan melalui Yesus."
+  },
+  "756": {
+    "id": "756",
+    "text": "Mohon terimalah doa kami yang kami ucapkan dengan nama Yesus Kristus."
+  },
+  "757": {
+    "id": "757",
+    "text": "juru selamat kami"
+  },
+  "758": {
+    "id": "758",
+    "text": "putra-Mu"
+  },
+  "759": {
+    "id": "759",
+    "text": "raja kami"
+  },
+  "760": {
+    "id": "760",
+    "text": "raja kami yang telah memerintah"
+  },
+  "761": {
+    "id": "761",
+    "text": "Amin."
+  },
+  "762": {
+    "id": "762",
+    "text": "Pujian"
+  },
+  "763": {
+    "id": "763",
+    "text": "Kami mengasihi-Mu."
+  },
+  "764": {
+    "id": "764",
+    "text": "Kami memuji-Mu."
+  },
+  "765": {
+    "id": "765",
+    "text": "Kami memuliakan-Mu."
+  },
+  "766": {
+    "id": "766",
+    "text": "Kami menantikan berkat-berkat dari Kerajaan-Mu."
+  },
+  "767": {
+    "id": "767",
+    "text": "Kami ingin melakukan kehendak-Mu."
+  },
+  "768": {
+    "id": "768",
+    "text": "Kami ingin memuji Nama-Mu."
+  },
+  "769": {
+    "id": "769",
+    "text": "Rasa Syukur"
+  },
+  "770": {
+    "id": "770",
+    "text": "Kami senang …"
+  },
+  "771": {
+    "id": "771",
+    "text": "Kami senang kami bisa berkumpul bersama."
+  },
+  "772": {
+    "id": "772",
+    "text": "Kami senang kami bisa berkumpul bersama hari ini."
+  },
+  "773": {
+    "id": "773",
+    "text": "Kami bersyukur …"
+  },
+  "774": {
+    "id": "774",
+    "text": "Kami bersyukur kami punya tempat beribadat."
+  },
+  "775": {
+    "id": "775",
+    "text": "Kami bersyukur pada-Mu untuk kesempatan ini."
+  },
+  "776": {
+    "id": "776",
+    "text": "Kami bersyukur untuk pengetahuan yang Engkau berikan melalui perhimpunan."
+  },
+  "777": {
+    "id": "777",
+    "text": "Terima kasih untuk …"
+  },
+  "778": {
+    "id": "778",
+    "text": "Terima kasih untuk hak istimewa yang menakjubkan ini."
+  },
+  "779": {
+    "id": "779",
+    "text": "Terima kasih untuk kehidupan."
+  },
+  "780": {
+    "id": "780",
+    "text": "Terima kasih untuk membimbing kami keluar dari dunia ini."
+  },
+  "781": {
+    "id": "781",
+    "text": "Terima kasih untuk firman-Mu, Alkitab."
+  },
+  "782": {
+    "id": "782",
+    "text": "Terima kasih untuk kesempatan untuk dapat mengenal-Mu."
+  },
+  "783": {
+    "id": "783",
+    "text": "Terima kasih untuk korban tebusan Yesus Kristus."
+  },
+  "784": {
+    "id": "784",
+    "text": "Terima kasih untuk saudara-saudari kami."
+  },
+  "785": {
+    "id": "785",
+    "text": "Terima kasih untuk perhimpunan ini."
+  },
+  "786": {
+    "id": "786",
+    "text": "Terima kasih untuk harapan masa depan yang Engkau berikan pada kami."
+  },
+  "787": {
+    "id": "787",
+    "text": "Terima kasih karena telah mengutus Putra-Mu ke bumi."
+  },
+  "788": {
+    "id": "788",
+    "text": "Terima kasih untuk pengingat-pengingat yang kami dengar di perhimpunan ini."
+  },
+  "789": {
+    "id": "789",
+    "text": "Permohonan"
+  },
+  "790": {
+    "id": "790",
+    "text": "bimbing XXX"
+  },
+  "791": {
+    "id": "791",
+    "text": "Bimbing kami."
+  },
+  "792": {
+    "id": "792",
+    "text": "Bimbing organisasi-Mu."
+  },
+  "793": {
+    "id": "793",
+    "text": "Bimbing Badan Pimpinan."
+  },
+  "794": {
+    "id": "794",
+    "text": "bantu XXX"
+  },
+  "795": {
+    "id": "795",
+    "text": "Bantu kami melayani-Mu."
+  },
+  "796": {
+    "id": "796",
+    "text": "Bantu kami agar dapat melakukan yang benar."
+  },
+  "797": {
+    "id": "797",
+    "text": "Bantu kami melawan godaan."
+  },
+  "798": {
+    "id": "798",
+    "text": "Bantu kami bertekun."
+  },
+  "799": {
+    "id": "799",
+    "text": "Bantu kami agar dapat terus hadir di perhimpunan."
+  },
+  "800": {
+    "id": "800",
+    "text": "Bantu kami menemukan orang-orang berhati jujur dalam pengabaran."
+  },
+  "801": {
+    "id": "801",
+    "text": "Bantu kami memberi tahu orang lain apa yang telah kami pelajari."
+  },
+  "802": {
+    "id": "802",
+    "text": "Bantu kami berkonsentrasi di perhimpunan ini."
+  },
+  "803": {
+    "id": "803",
+    "text": "Bantu kami merenungkan firman-Mu."
+  },
+  "804": {
+    "id": "804",
+    "text": "Bantu kami menerapkan apa yang telah kami pelajari."
+  },
+  "805": {
+    "id": "805",
+    "text": "Bantu saudara-saudara kami yang mengalami kesulitan sekarang ini."
+  },
+  "806": {
+    "id": "806",
+    "text": "Bantu kami agar peka terhadap kebutuhan saudara-saudara kami."
+  },
+  "807": {
+    "id": "807",
+    "text": "Bantu XXX agar bisa terus mempelajari firman-Mu."
+  },
+  "808": {
+    "id": "808",
+    "text": "Bantu XXX agar bisa berani."
+  },
+  "809": {
+    "id": "809",
+    "text": "Bantu XXX agar terus membuat kemajuan rohani yang baik."
+  },
+  "810": {
+    "id": "810",
+    "text": "berikan XXX kepada YYY"
+  },
+  "811": {
+    "id": "811",
+    "text": "Berikanlah kami …"
+  },
+  "812": {
+    "id": "812",
+    "text": "Berikanlah kami roh kudus-Mu."
+  },
+  "813": {
+    "id": "813",
+    "text": "Berikanlah kami hikmat."
+  },
+  "814": {
+    "id": "814",
+    "text": "Berikanlah kami kekuatan untuk melakukan segala hal yang Engkau minta kami lakukan."
+  },
+  "815": {
+    "id": "815",
+    "text": "mohon XXX"
+  },
+  "816": {
+    "id": "816",
+    "text": "Kami mohon …"
+  },
+  "817": {
+    "id": "817",
+    "text": "Kami mohon bimbingan-Mu di saat sulit ini."
+  },
+  "818": {
+    "id": "818",
+    "text": "berkati XXX"
+  },
+  "819": {
+    "id": "819",
+    "text": "Berkati …"
+  },
+  "820": {
+    "id": "820",
+    "text": "Berkati kami."
+  },
+  "821": {
+    "id": "821",
+    "text": "Berkati pelayanan kami."
+  },
+  "822": {
+    "id": "822",
+    "text": "Berkati perhimpunan kami."
+  },
+  "823": {
+    "id": "823",
+    "text": "Berkati sidang kami."
+  },
+  "824": {
+    "id": "824",
+    "text": "lindungi XXX"
+  },
+  "825": {
+    "id": "825",
+    "text": "Lindungi kami."
+  },
+  "826": {
+    "id": "826",
+    "text": "Lindungi saudara-saudara yang tidak dapat hadir sore ini."
+  },
+  "827": {
+    "id": "827",
+    "text": "Lindungi saudara-saudara kami yang sedang dianiaya di negeri-negeri lain."
+  },
+  "828": {
+    "id": "828",
+    "text": "Lindungi kami dalam perjalanan pulang ke rumah kami masing-masing sore ini."
+  },
+  "829": {
+    "id": "829",
+    "text": "Mohon …",
+    "annotation": "(: kata atau frasa yang dapat digunakan untuk meminta sesuatu dengan sopan atau sungguh-sungguh)"
+  },
+  "830": {
+    "id": "830",
+    "text": "Berkati perhimpunan ini."
+  },
+  "831": {
+    "id": "831",
+    "text": "Mohon berkati perhimpunan ini."
+  },
+  "832": {
+    "id": "832",
+    "text": "Dosa & Masalah"
+  },
+  "833": {
+    "id": "833",
+    "text": "Kami tidak sempurna."
+  },
+  "834": {
+    "id": "834",
+    "text": "berdosa"
+  },
+  "835": {
+    "id": "835",
+    "text": "Kami sering kali berdosa"
+  },
+  "836": {
+    "id": "836",
+    "text": "Kami menyesal.; Kami mohon ampun."
+  },
+  "837": {
+    "id": "837",
+    "text": "Kami sangat menyesal karena dosa-dosa kami."
+  },
+  "838": {
+    "id": "838",
+    "text": "Kami menyesal karena kami adalah para pedosa.",
+    "annotation": "{x}"
+  },
+  "839": {
+    "id": "839",
+    "text": "pengampunan"
+  },
+  "840": {
+    "id": "840",
+    "text": "Kami dengan rendah hati memohon pengampunan-Mu."
+  },
+  "841": {
+    "id": "841",
+    "text": "mengampuni XXX"
+  },
+  "842": {
+    "id": "842",
+    "text": "Mohon ampuni kami."
+  },
+  "843": {
+    "id": "843",
+    "text": "Mohon ampuni kami atas dasar korban tebusan Putra-Mu."
+  },
+  "844": {
+    "id": "844",
+    "text": "ampuni"
+  },
+  "845": {
+    "id": "845",
+    "text": "Ampunilah dosa-dosa kami."
+  },
+  "846": {
+    "id": "846",
+    "text": "Kami hidup di dunia yang fasik."
+  },
+  "847": {
+    "id": "847",
+    "text": "Kami mengalami banyak masalah (/kesulitan)."
+  }
+}
